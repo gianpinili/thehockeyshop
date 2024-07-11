@@ -1,0 +1,148 @@
+  <div>
+      <div class="brand-carousel-container">
+        <div class="brand-carousel">
+          {% assign brands = 
+            "https://www.thehockeyshop.com/cdn/shop/collections/Fanatics_23509b76-1578-4022-ad9f-70c5e62831fd_medium.png?v=1651254878,
+            https://www.thehockeyshop.com/cdn/shop/collections/mission_ce349ce8-a3b3-4bc2-b63a-9a985feebf53_medium.png?v=1651255052,
+            https://cdn.shopify.com/s/files/1/0020/1585/4658/collections/grit_2d4c6d3c-3be6-42cf-a6ee-cee97dc9d28e_medium.png?v=1710981056,
+            https://cdn.shopify.com/s/files/1/0020/1585/4658/collections/sher-wood_ebf1e973-010f-42e1-9f75-f7c1482e9723_medium.png?v=1651255149,
+             https://www.thehockeyshop.com/cdn/shop/collections/True_medium.png?v=1710960198,
+            https://www.thehockeyshop.com/cdn/shop/collections/bauerlogo_medium.png?v=1677281127,
+             https://www.thehockeyshop.com/cdn/shop/collections/warrior_69644205-e041-46bf-accd-ded89c5803f6_medium.png?v=1710959745,
+             https://www.thehockeyshop.com/cdn/shop/collections/ths_b639bb9b-746c-4eff-b88b-fdaee948219c_medium.png?v=1711147937,
+             https://www.thehockeyshop.com/cdn/shop/collections/ccm_0b0324ef-e930-44bf-9d7b-6272f227629d_medium.png?v=1710959658,
+            https://www.thehockeyshop.com/cdn/shop/collections/under-armour_a9682ff3-58cc-4347-a8cd-57a81dc92100_medium.png?v=1651255251,
+            https://www.thehockeyshop.com/cdn/shop/collections/Winnwell_d2287b37-c26b-4f63-b34d-3eeacc147824_medium.png?v=1715891497,
+            https://www.thehockeyshop.com/cdn/shop/collections/brians_d61945e5-476d-465e-9ba7-616edd9d64ea_medium.png?v=1651254729,
+            https://www.thehockeyshop.com/cdn/shop/collections/Vaughn_f80fc850-60d2-4d76-ac51-2fa212a2278c_medium.png?v=1651255257,
+            https://www.thehockeyshop.com/cdn/shop/collections/47-brand-capser_50b5a919-2cd7-43dc-8ee5-871950f39754_medium.png?v=1651254630,
+            https://www.thehockeyshop.com/cdn/shop/collections/adidas_d986d6f0-d8da-4235-9981-f37fbc42554e_medium.png?v=1651254641,
+            https://www.thehockeyshop.com/cdn/shop/collections/Yeti_LOGO_medium.png?v=1710961754,
+            https://www.thehockeyshop.com/cdn/shop/collections/biosteel_ff7aeec6-d3ae-4bd4-a5b8-f44698571dc4_medium.png?v=1651254717,
+            https://www.thehockeyshop.com/cdn/shop/collections/bladetape_d5335448-6d3e-4e4c-9994-fa261c1e1ad6_medium.png?v=1651254721,
+            https://www.thehockeyshop.com/cdn/shop/collections/buttendz_6b06cb61-9029-4cbf-8bea-83fad7be2f6d_medium.png?v=1651254735,
+            https://www.thehockeyshop.com/cdn/shop/collections/gatorade_841e251a-a7dd-4b25-9f46-f9ba32d79209_medium.png?v=1651254892,
+            https://www.thehockeyshop.com/cdn/shop/collections/Knapper_1_medium.png?v=1712858370,
+            https://www.thehockeyshop.com/cdn/shop/collections/nike_be21618f-5c2b-4cea-a57d-ffd861f96975_medium.png?v=1651255073,
+            https://www.thehockeyshop.com/cdn/shop/collections/oakley_d0507022-a50a-4413-bcbc-9dc58814a87a_medium.png?v=1651255074,
+            https://www.thehockeyshop.com/cdn/shop/collections/Sparx_medium.png?v=1712861784,
+             https://www.thehockeyshop.com/cdn/shop/collections/Marsblade_193f6756-7e3d-46f4-80ac-928249ba4ca9_medium.png?v=1651255045" | split: "," %}
+
+          {% assign links =
+            "https://www.thehockeyshop.com/collections/shop?q=fanatics,
+            https://www.thehockeyshop.com/collections/mission,
+            https://www.thehockeyshop.com/collections/grit,
+            https://www.thehockeyshop.com/collections/sherwood,
+            https://www.thehockeyshop.com/collections/true,
+            https://www.thehockeyshop.com/pages/bauer-hockey,
+            https://www.thehockeyshop.com/collections/warrior,
+            https://www.thehockeyshop.com/collections/ths,
+            https://www.thehockeyshop.com/pages/ccm-hockey,
+            https://www.thehockeyshop.com/collections/under-armour,
+            https://www.thehockeyshop.com/collections/winnwell,
+            https://www.thehockeyshop.com/collections/brians,
+            https://www.thehockeyshop.com/collections/vaughn,
+            https://www.thehockeyshop.com/collections/47-brand,
+            https://www.thehockeyshop.com/collections/adidas,
+            https://www.thehockeyshop.com/collections/yeti-1,
+            https://www.thehockeyshop.com/collections/biosteel,
+            https://www.thehockeyshop.com/collections/blade-tape, 
+            https://www.thehockeyshop.com/collections/buttendz,
+            https://www.thehockeyshop.com/collections/gatorade,
+            https://www.thehockeyshop.com/collections/knapper,
+            https://www.thehockeyshop.com/collections/nike,
+            https://www.thehockeyshop.com/collections/oakley,
+            https://www.thehockeyshop.com/collections/skate-sharpening,
+            https://www.thehockeyshop.com/collections/marsblade" | split: "," %}
+
+          {% for brand in brands %}
+          <a class="brand-carousel-link" href="{{ links[forloop.index0] | strip }}">
+            <img src="{{ brand | strip }}" alt="Brand Logo" />
+          </a>
+          {% endfor %}
+
+         <!-- Duplicated Set of Images for Continuous Scroll -->
+          {% for brand in brands %}
+          <a class="brand-carousel-link" href="">
+            <img src="{{ brand | strip }}" alt="Brand Logo" />
+          </a>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+
+    {% stylesheet %}
+      .brand-carousel-container {
+        overflow: hidden;
+        white-space: nowrap;
+      }
+
+      .brand-carousel {
+        display: inline-block;
+        animation: scroll 60s linear infinite;
+        margin-top: -1rem;
+        animation-play-state: running;
+      }
+
+      .brand-carousel:hover {
+        animation-play-state: paused;
+      }
+
+       .brand-carousel img {
+        width: 150px; /* Adjust this size as needed */
+        height: auto;
+        display: inline-block;
+        margin: 0 1.5rem;
+        opacity: .75;
+      }
+
+      .brand-carousel img:hover {
+      transform: scale(1.15);
+        opacity: 1;
+        transition: all 0.3s ease-in-out;
+      }
+
+      @keyframes scroll {
+        0% {
+          transform: translateX(0);
+        }
+        100% {
+          transform: translateX(-195%);
+        }
+      }
+
+      .brands {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      .brand-carousel-link {
+        text-decoration: none;
+      }
+      .brand-carousel-title {
+        font-size: 2.25rem !important;
+        padding-left: 2rem;
+        font-family: Roboto, sans-serif;
+        font-weight: 700;
+        margin: 0;
+      }
+
+      @media (max-width: 768px) {
+        .brand-carousel-title {
+          font-size: 1.6rem !important;
+          padding: 0;
+        }
+      }
+      {% endstylesheet %}
+
+{% schema %}
+  {
+    "name": "Brand Carousel",
+    "settings": [],
+     "presets": [
+    {
+      "name": "Brand Carousel"
+    }
+  ]
+  }
+{% endschema %}
