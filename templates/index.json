@@ -265,6 +265,24 @@
             "collection_link": ""
           }
         },
+        "collection_item_kE3rHy": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "hockey-helmets",
+            "image": "shopify:\/\/shop_images\/bauer-helmets-bauer-vapor-hyperlite2-hockey-helmet-30540008620098.jpg",
+            "title": "Helmets",
+            "collection_link": ""
+          }
+        },
+        "collection_item_499PNh": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "hockey-shoulder-pads",
+            "image": "shopify:\/\/shop_images\/ccm-shoulder-pads-ccm-jetspeed-ftw-junior-hockey-shoulder-pads-2024-31494476726338.jpg",
+            "title": "Shoulder Pads",
+            "collection_link": ""
+          }
+        },
         "64391ffc-c043-4f35-a51e-da90b7143a42": {
           "type": "collection_item",
           "settings": {
@@ -288,6 +306,8 @@
         "template--20958100226352__282a0160-505d-43ff-b601-043a5a327bc1-collection_item-1",
         "template--20958100226352__282a0160-505d-43ff-b601-043a5a327bc1-collection_item-2",
         "4fb04760-f15f-40fb-9566-65e01d74325b",
+        "collection_item_kE3rHy",
+        "collection_item_499PNh",
         "64391ffc-c043-4f35-a51e-da90b7143a42",
         "collection_item_nGjjRB"
       ],
