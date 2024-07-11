@@ -231,16 +231,16 @@
         "liquid_UzchPt": {
           "type": "liquid",
           "settings": {
-            "custom_liquid": "It's a great day for hockey",
+            "custom_liquid": "",
             "hide": true
           }
         },
         "text_9BtwF7": {
           "type": "text",
           "settings": {
-            "text1": "Summer Super Sale discount off 40%",
-            "text2": "Score free shipping on orders over $100",
-            "text3": "Buy now, pay later with Sezzle",
+            "text1": "It's a great day for hockey",
+            "text2": "",
+            "text3": "",
             "adding_border": false,
             "au_time": 3.5,
             "pause_when_hover": false,
@@ -251,7 +251,7 @@
           "type": "socials",
           "settings": {
             "socials_style": "default",
-            "hide": false
+            "hide": true
           }
         }
       },
