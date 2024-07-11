@@ -392,11 +392,6 @@
         "padding_rate": 75
       }
     },
-    "brand_carousel_j6Bm7L": {
-      "type": "brand-carousel",
-      "settings": {
-      }
-    },
     "hero_image_E4PYVD": {
       "type": "hero-image",
       "disabled": true,
@@ -467,6 +462,11 @@
         "padding_top": 0,
         "padding_bottom": 40,
         "padding_rate": 75
+      }
+    },
+    "brand_carousel_j6Bm7L": {
+      "type": "brand-carousel",
+      "settings": {
       }
     },
     "banner_masonry_XeC9dN": {
@@ -1470,9 +1470,9 @@
     "marquee_JjnJ7y",
     "282a0160-505d-43ff-b601-043a5a327bc2",
     "hero_image_krPDV6",
-    "brand_carousel_j6Bm7L",
     "hero_image_E4PYVD",
     "featured_collection_carousel_YDkkkx",
+    "brand_carousel_j6Bm7L",
     "banner_masonry_XeC9dN",
     "banner_qfQbew",
     "featured_collection_carousel_aFaMir",
