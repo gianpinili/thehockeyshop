@@ -365,7 +365,7 @@
       "type": "featured-collection-carousel",
       "settings": {
         "heading_align": "center",
-        "sec_heading": "Shop FT7 Pro",
+        "sec_heading": "CCM FT7 Pro",
         "heading_tag": "h3",
         "heading_size": "h4",
         "sec_subheading": "<p>Feel the puck, feel versatile, feel more.<\/p>",
@@ -524,7 +524,7 @@
       ],
       "settings": {
         "heading_align": "center",
-        "sec_heading": "Bauer favourites.",
+        "sec_heading": "Bauer Hyperlite 2",
         "heading_tag": "h2",
         "heading_size": "h3",
         "sec_subheading": "<p>Beautifully Functional. Purposefully Designed. Consciously Crafted.<\/p>",
@@ -639,62 +639,7 @@
         "color_scheme": "scheme-1",
         "padding_top": 20,
         "padding_bottom": 42,
-        "padding_rate": 75
-      }
-    },
-    "image_with_text_rhLwb7": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_96TGtn": {
-          "type": "heading",
-          "settings": {
-            "heading": "Warrior QR6 Pro.",
-            "heading_fs": "h4"
-          }
-        },
-        "sub_heading_ewxeRG": {
-          "type": "sub_heading",
-          "settings": {
-            "sub_heading": "Here is your chance to upgrade your wardrobe with a variation of styles",
-            "sub_fs": "lg"
-          }
-        },
-        "button_EiykUm": {
-          "type": "button",
-          "settings": {
-            "btn_label": "Read our stories",
-            "btn_link": "shopify:\/\/collections\/clothing-womens",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "semibold",
-            "btn_icon": "none"
-          }
-        }
-      },
-      "block_order": [
-        "heading_96TGtn",
-        "sub_heading_ewxeRG",
-        "button_EiykUm"
-      ],
-      "custom_css": [
-
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/warrior-hockey-sticks-warrior-covert-qr6-pro-youth-hockey-stick-31805992697922.jpg",
-        "style_image": "1",
-        "image_effect": "zoom-in",
-        "color_scheme": "scheme-1",
-        "image_last": true,
-        "content_position": "center-start",
-        "alignment": "left",
-        "content_pl": 29,
-        "image_last_mb": false,
-        "content_position_mb": "center",
-        "alignment_mb": "center",
-        "padding_top": 19,
-        "padding_bottom": 18,
-        "padding_rate": 40
+        "padding_rate": 0
       }
     },
     "featured_collection_carousel_WFdezT": {
@@ -740,69 +685,6 @@
         "padding_top": 69,
         "padding_bottom": 51,
         "padding_rate": 75
-      }
-    },
-    "testinonial_with_image_jarUfm": {
-      "type": "testinonial-with-image",
-      "blocks": {
-        "quote_qPxtaU": {
-          "type": "quote",
-          "settings": {
-            "heading": "PEOPLE ARE TALKING",
-            "content": "<p>\"I have been shopping with this web fashion site for over a year now and I can confidently say it is the best online fashion site out there.\"<\/p>",
-            "author": "Robert smith",
-            "product": "boxy-t-shirt",
-            "rating": 5,
-            "image_first": "shopify:\/\/shop_images\/wm_testi2.jpg",
-            "image_second": "shopify:\/\/shop_images\/wm_testi_1.jpg"
-          }
-        },
-        "quote_W4RDfh": {
-          "type": "quote",
-          "settings": {
-            "heading": "PEOPLE ARE TALKING",
-            "content": "<p>\"The shipping is always fast and the customer service team is friendly and helpful. I highly recommend this site to anyone looking for affordable clothing.\"<\/p>",
-            "author": "Robert smith",
-            "product": "boxy-t-shirt",
-            "rating": 5,
-            "image_first": "shopify:\/\/shop_images\/wm_testi_4.jpg",
-            "image_second": "shopify:\/\/shop_images\/wm_testi_3.jpg"
-          }
-        }
-      },
-      "block_order": [
-        "quote_qPxtaU",
-        "quote_W4RDfh"
-      ],
-      "settings": {
-        "dri_img_first": false,
-        "image_width": "two_img",
-        "font_size_content": "hdt-text-2xl",
-        "navUI": true,
-        "nav_pos": "middle_in",
-        "nav_des": "outline",
-        "dotUI": false,
-        "color_scheme": "scheme-1",
-        "pr_rating": "#ff7b54",
-        "section_fullwidth": false,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "padding_rate": 0
-      }
-    },
-    "custom_line_TU48An": {
-      "type": "custom-line",
-      "disabled": true,
-      "settings": {
-        "line_style": "solid",
-        "line_width": 100,
-        "line_height": 1,
-        "line_cl": "#ebebeb",
-        "line_pos": "center",
-        "section_fullwidth": true,
-        "padding_top": 83,
-        "padding_bottom": 81,
-        "padding_rate": 30
       }
     },
     "infinite_loop_slider_7e8f3X": {
@@ -884,6 +766,127 @@
         "color_scheme": "scheme-1",
         "padding_top": 0,
         "padding_bottom": 0,
+        "padding_rate": 30
+      }
+    },
+    "image_with_text_rhLwb7": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_96TGtn": {
+          "type": "heading",
+          "settings": {
+            "heading": "TendyFest Merch",
+            "heading_fs": "h4"
+          }
+        },
+        "sub_heading_ewxeRG": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "All proceeds from the sale of TendyFest merchandise are donated to the Canucks Autism Network, supporting programs and services for individuals and families living with autism.",
+            "sub_fs": "lg"
+          }
+        },
+        "button_EiykUm": {
+          "type": "button",
+          "settings": {
+            "btn_label": "Read our stories",
+            "btn_link": "shopify:\/\/collections\/clothing-womens",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "semibold",
+            "btn_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "heading_96TGtn",
+        "sub_heading_ewxeRG",
+        "button_EiykUm"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/tendyfest_92f0622f-fc29-4488-be4b-881108fd321f.png",
+        "first_image": "shopify:\/\/shop_images\/the-hockey-shop-source-for-sports-hats-tendyfest-hat-curved-brim-snapback-osfm-31815289897026.jpg",
+        "second_image": "shopify:\/\/shop_images\/thehockeyshop-com-team-shirts-tendyfest-gildan-t-shirt-black-youth-l-31802129776706.jpg",
+        "style_image": "1",
+        "image_effect": "zoom-in",
+        "color_scheme": "scheme-1",
+        "image_last": true,
+        "content_position": "center-start",
+        "alignment": "center",
+        "content_pl": 29,
+        "image_last_mb": false,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 19,
+        "padding_bottom": 18,
+        "padding_rate": 40
+      }
+    },
+    "testinonial_with_image_jarUfm": {
+      "type": "testinonial-with-image",
+      "blocks": {
+        "quote_qPxtaU": {
+          "type": "quote",
+          "settings": {
+            "heading": "PEOPLE ARE TALKING",
+            "content": "<p>\"I have been shopping with this web fashion site for over a year now and I can confidently say it is the best online fashion site out there.\"<\/p>",
+            "author": "Robert smith",
+            "product": "boxy-t-shirt",
+            "rating": 5,
+            "image_first": "shopify:\/\/shop_images\/wm_testi2.jpg",
+            "image_second": "shopify:\/\/shop_images\/wm_testi_1.jpg"
+          }
+        },
+        "quote_W4RDfh": {
+          "type": "quote",
+          "settings": {
+            "heading": "PEOPLE ARE TALKING",
+            "content": "<p>\"The shipping is always fast and the customer service team is friendly and helpful. I highly recommend this site to anyone looking for affordable clothing.\"<\/p>",
+            "author": "Robert smith",
+            "product": "boxy-t-shirt",
+            "rating": 5,
+            "image_first": "shopify:\/\/shop_images\/wm_testi_4.jpg",
+            "image_second": "shopify:\/\/shop_images\/wm_testi_3.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "quote_qPxtaU",
+        "quote_W4RDfh"
+      ],
+      "disabled": true,
+      "settings": {
+        "dri_img_first": false,
+        "image_width": "two_img",
+        "font_size_content": "hdt-text-2xl",
+        "navUI": true,
+        "nav_pos": "middle_in",
+        "nav_des": "outline",
+        "dotUI": false,
+        "color_scheme": "scheme-1",
+        "pr_rating": "#ff7b54",
+        "section_fullwidth": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 0
+      }
+    },
+    "custom_line_TU48An": {
+      "type": "custom-line",
+      "disabled": true,
+      "settings": {
+        "line_style": "solid",
+        "line_width": 100,
+        "line_height": 1,
+        "line_cl": "#ebebeb",
+        "line_pos": "center",
+        "section_fullwidth": true,
+        "padding_top": 83,
+        "padding_bottom": 81,
         "padding_rate": 30
       }
     },
@@ -1047,11 +1050,11 @@
     "banner_qfQbew",
     "featured_collection_carousel_aFaMir",
     "image_with_tabs_content_prrDBt",
-    "image_with_text_rhLwb7",
     "featured_collection_carousel_WFdezT",
+    "infinite_loop_slider_7e8f3X",
+    "image_with_text_rhLwb7",
     "testinonial_with_image_jarUfm",
     "custom_line_TU48An",
-    "infinite_loop_slider_7e8f3X",
     "image_with_text_VXFxkV",
     "icon_box_JfJQBV"
   ]
