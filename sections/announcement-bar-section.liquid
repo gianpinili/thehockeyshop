@@ -78,7 +78,7 @@
 {%- if section.settings.show_close_btn %}<script>window.announceSize = 'theme4:announce-{{ total_size }}-closed';try { if ( sessionStorage.getItem(window.announceSize) != 'true' ) document.getElementById('shopify-section-{{ section.id }}').classList.remove('hdt-announcement-hidden'); } catch (err) {}</script>{% endif -%}
 {% schema %}
 {
-  "name": "t:sections.announcement-bar.name",
+  "name": "Announcement bar",
   "class": "hdt-section-group hdt-announcement-hidden hdt-announcement-bar-section",
   "max_blocks": 12,
   "limit": 1,
