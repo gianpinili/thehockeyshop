@@ -1056,10 +1056,11 @@ select {
     padding-inline-end: 50px;
   }
   .lg\:hdt-ps-max {
-    padding-inline-start: max(
+    /* padding-inline-start: max(
       5rem,
       (100vw - var(--container-max-width) - var(--scrollbar-w)) / 2
-    );
+    ); */
+    padding: 0 2rem;
   }
   .lg\:hdt-pe-max {
     padding-inline-end: max(
