@@ -38,9 +38,9 @@
           "settings": {
             "border-column": false,
             "heading_menu": "Help",
-            "menu": "footer",
+            "menu": "footer-faqs-help",
             "padding_inner": "",
-            "custom_w_dk": "25"
+            "custom_w_dk": "20"
           }
         },
         "sections--20958099472688__8b1cf2b6-9e6b-4ace-85e5-e52ad96e7b43-menu-2": {
@@ -50,7 +50,7 @@
             "heading_menu": "About Us",
             "menu": "strong-about-us-strong",
             "padding_inner": "",
-            "custom_w_dk": "25"
+            "custom_w_dk": "23"
           }
         },
         "sections--20958099472688__8b1cf2b6-9e6b-4ace-85e5-e52ad96e7b43-newsletter-1": {
