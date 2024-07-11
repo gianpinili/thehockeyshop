@@ -231,7 +231,7 @@
         "liquid_UzchPt": {
           "type": "liquid",
           "settings": {
-            "custom_liquid": "<a href=\"https:\/\/www.thehockeyshop.com\/collections\/goalie-hockey-equipment\"> Goalie<\/a> <a target=\"_blank\" href=\"https:\/\/team.thehockeyshop.com\/\"> Team Sales <\/a> <a target=\"_blank\" href=\"https:\/\/www.thehockeyshop.com\/blogs\/the-hockey-blog\"> Blog <\/a>",
+            "custom_liquid": "<a href=\"https:\/\/www.thehockeyshop.com\/collections\/goalie-hockey-equipment\"> Goalie |<\/a> <a target=\"_blank\" href=\"https:\/\/team.thehockeyshop.com\/\"> Team Sales |<\/a> <a target=\"_blank\" href=\"https:\/\/www.thehockeyshop.com\/blogs\/the-hockey-blog\"> Blog <\/a>",
             "hide": true
           }
         },
