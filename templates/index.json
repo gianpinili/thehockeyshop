@@ -367,6 +367,7 @@
     },
     "hero_image_krPDV6": {
       "type": "hero-image",
+      "disabled": true,
       "settings": {
         "image_height": "adapt_image",
         "fixed_height": 860,
@@ -714,6 +715,7 @@
     },
     "hero_image_yULAWV": {
       "type": "hero-image",
+      "disabled": true,
       "settings": {
         "image_height": "adapt_image",
         "fixed_height": 860,
