@@ -415,7 +415,7 @@
         "fixed_height_mb": 300,
         "image": "shopify:\/\/shop_images\/banner_web_1.png",
         "image_mb": "shopify:\/\/shop_images\/banner_mobile.png",
-        "link_img": "",
+        "link_img": "https:\/\/www.thehockeyshop.com\/collections\/player-clearance#\/filter:vendor:Bauer",
         "target": false,
         "image_behavior": "none",
         "use_overlay": false,
@@ -428,7 +428,7 @@
         "boxed_fullwidth": true,
         "color_scheme": "",
         "padding_top": 16,
-        "padding_bottom": 21,
+        "padding_bottom": 16,
         "padding_rate": 75
       }
     },
