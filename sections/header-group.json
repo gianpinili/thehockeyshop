@@ -225,6 +225,47 @@
         "marquee_pause_when_hover": true
       }
     },
+    "top_bar_LyTwgP": {
+      "type": "top-bar",
+      "blocks": {
+        "liquid_UzchPt": {
+          "type": "liquid",
+          "settings": {
+            "custom_liquid": "It's a great day for hockey",
+            "hide": true
+          }
+        },
+        "text_9BtwF7": {
+          "type": "text",
+          "settings": {
+            "text1": "Summer Super Sale discount off 40%",
+            "text2": "Score free shipping on orders over $100",
+            "text3": "Buy now, pay later with Sezzle",
+            "adding_border": false,
+            "au_time": 3.5,
+            "pause_when_hover": false,
+            "hide": false
+          }
+        },
+        "socials_mcGck3": {
+          "type": "socials",
+          "settings": {
+            "socials_style": "default",
+            "hide": false
+          }
+        }
+      },
+      "block_order": [
+        "liquid_UzchPt",
+        "text_9BtwF7",
+        "socials_mcGck3"
+      ],
+      "settings": {
+        "color_scheme": "scheme-67a7ca9f-3333-4245-b79f-2e9849d7e615",
+        "show_line_separator": false,
+        "fullwidth": true
+      }
+    },
     "header_inline_A3qdT9": {
       "type": "header-inline",
       "blocks": {
@@ -288,6 +329,7 @@
   "order": [
     "header_e_commerce_JeQNpz",
     "announcement_bar_Bp4ab7",
+    "top_bar_LyTwgP",
     "header_inline_A3qdT9"
   ]
 }
