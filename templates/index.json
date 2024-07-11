@@ -693,7 +693,7 @@
         "image_bdy7ML": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/brand-6.png",
+            "image": "shopify:\/\/shop_images\/sherwood-logo-freelogovectors.net.png",
             "link_img": "",
             "target": false
           }
@@ -701,8 +701,7 @@
         "image_9BmhcV": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/brand-4.png",
-            "link_img": "",
+            "link_img": "https:\/\/www.thehockeyshop.com\/cdn\/shop\/collections\/mission_ce349ce8-a3b3-4bc2-b63a-9a985feebf53_medium.png?v=1651255052",
             "target": false
           }
         },
