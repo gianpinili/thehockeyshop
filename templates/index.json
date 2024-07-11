@@ -392,6 +392,11 @@
         "padding_rate": 75
       }
     },
+    "brand_carousel_j6Bm7L": {
+      "type": "brand-carousel",
+      "settings": {
+      }
+    },
     "hero_image_E4PYVD": {
       "type": "hero-image",
       "disabled": true,
@@ -976,11 +981,6 @@
         "padding_rate": 30
       }
     },
-    "brand_carousel_j6Bm7L": {
-      "type": "brand-carousel",
-      "settings": {
-      }
-    },
     "image_with_text_rhLwb7": {
       "type": "image-with-text",
       "blocks": {
@@ -1470,6 +1470,7 @@
     "marquee_JjnJ7y",
     "282a0160-505d-43ff-b601-043a5a327bc2",
     "hero_image_krPDV6",
+    "brand_carousel_j6Bm7L",
     "hero_image_E4PYVD",
     "featured_collection_carousel_YDkkkx",
     "banner_masonry_XeC9dN",
@@ -1480,7 +1481,6 @@
     "featured_collection_carousel_WFdezT",
     "banner_product_grid_HH3ay7",
     "infinite_loop_slider_7e8f3X",
-    "brand_carousel_j6Bm7L",
     "image_with_text_rhLwb7",
     "testinonial_with_image_jarUfm",
     "custom_section_VtTM4g",
