@@ -235,32 +235,6 @@
         "padding_rate": 75
       }
     },
-    "hero_image_E4PYVD": {
-      "type": "hero-image",
-      "settings": {
-        "image_height": "adapt_image",
-        "fixed_height": 860,
-        "image_height_mb": "adapt_image",
-        "fixed_height_mb": 300,
-        "image": "shopify:\/\/shop_images\/Bauer_Shadow_Skate_Banner_Desktop.jpg",
-        "image_mb": "shopify:\/\/shop_images\/Bauer_Shadow_Skate_Banner_mobile.jpg",
-        "link_img": "shopify:\/\/collections\/bauer-shadow-line-skates",
-        "target": false,
-        "image_behavior": "none",
-        "use_overlay": false,
-        "use_bg_content": false,
-        "content_position": "center",
-        "content_align": "center",
-        "content_position_mb": "center",
-        "content_align_mb": "center",
-        "full_width": true,
-        "boxed_fullwidth": true,
-        "color_scheme": "scheme-1",
-        "padding_top": 16,
-        "padding_bottom": 21,
-        "padding_rate": 75
-      }
-    },
     "282a0160-505d-43ff-b601-043a5a327bc2": {
       "type": "collections-list",
       "blocks": {
@@ -359,6 +333,32 @@
         "padding_top": 24,
         "padding_bottom": 18,
         "padding_rate": 40
+      }
+    },
+    "hero_image_E4PYVD": {
+      "type": "hero-image",
+      "settings": {
+        "image_height": "adapt_image",
+        "fixed_height": 860,
+        "image_height_mb": "adapt_image",
+        "fixed_height_mb": 300,
+        "image": "shopify:\/\/shop_images\/Bauer_Shadow_Skate_Banner_Desktop.jpg",
+        "image_mb": "shopify:\/\/shop_images\/Bauer_Shadow_Skate_Banner_mobile.jpg",
+        "link_img": "shopify:\/\/collections\/bauer-shadow-line-skates",
+        "target": false,
+        "image_behavior": "none",
+        "use_overlay": false,
+        "use_bg_content": false,
+        "content_position": "center",
+        "content_align": "center",
+        "content_position_mb": "center",
+        "content_align_mb": "center",
+        "full_width": true,
+        "boxed_fullwidth": true,
+        "color_scheme": "scheme-1",
+        "padding_top": 16,
+        "padding_bottom": 21,
+        "padding_rate": 75
       }
     },
     "featured_collection_carousel_YDkkkx": {
@@ -563,6 +563,32 @@
         "padding_top": 40,
         "padding_bottom": 0,
         "padding_rate": 40
+      }
+    },
+    "hero_image_yULAWV": {
+      "type": "hero-image",
+      "settings": {
+        "image_height": "adapt_image",
+        "fixed_height": 860,
+        "image_height_mb": "adapt_image",
+        "fixed_height_mb": 300,
+        "image": "shopify:\/\/shop_images\/warrior_stick_customizer_banner.jpg",
+        "image_mb": "shopify:\/\/shop_images\/Warrior_Stick_Banner_mobile.jpg",
+        "link_img": "",
+        "target": false,
+        "image_behavior": "none",
+        "use_overlay": false,
+        "use_bg_content": false,
+        "content_position": "center",
+        "content_align": "center",
+        "content_position_mb": "center",
+        "content_align_mb": "center",
+        "full_width": true,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_rate": 75
       }
     },
     "image_with_tabs_content_prrDBt": {
@@ -770,6 +796,11 @@
         "padding_rate": 30
       }
     },
+    "brand_carousel_j6Bm7L": {
+      "type": "brand-carousel",
+      "settings": {
+      }
+    },
     "image_with_text_rhLwb7": {
       "type": "image-with-text",
       "blocks": {
@@ -825,11 +856,6 @@
         "padding_top": 19,
         "padding_bottom": 18,
         "padding_rate": 40
-      }
-    },
-    "brand_carousel_j6Bm7L": {
-      "type": "brand-carousel",
-      "settings": {
       }
     },
     "testinonial_with_image_jarUfm": {
@@ -1245,17 +1271,18 @@
     "categories_section_m9EMCJ",
     "c28ddbdb-d0df-4b86-9b0a-674df42ecc5c",
     "marquee_JjnJ7y",
-    "hero_image_E4PYVD",
     "282a0160-505d-43ff-b601-043a5a327bc2",
+    "hero_image_E4PYVD",
     "featured_collection_carousel_YDkkkx",
     "hero_image_krPDV6",
     "banner_qfQbew",
     "featured_collection_carousel_aFaMir",
+    "hero_image_yULAWV",
     "image_with_tabs_content_prrDBt",
     "featured_collection_carousel_WFdezT",
     "infinite_loop_slider_7e8f3X",
-    "image_with_text_rhLwb7",
     "brand_carousel_j6Bm7L",
+    "image_with_text_rhLwb7",
     "testinonial_with_image_jarUfm",
     "custom_section_VtTM4g",
     "custom_line_TU48An",
