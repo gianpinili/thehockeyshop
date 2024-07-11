@@ -300,6 +300,15 @@
             "title": "Elbow Pads",
             "collection_link": ""
           }
+        },
+        "collection_item_MPE7GT": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "hockey-accessories",
+            "image": "shopify:\/\/shop_images\/rezztek-specialty-tape-rezztek-blade-tape-standard-2-pack-black-senior-30013539319874.jpg",
+            "title": "Accessories",
+            "collection_link": ""
+          }
         }
       },
       "block_order": [
@@ -309,7 +318,8 @@
         "collection_item_kE3rHy",
         "collection_item_499PNh",
         "64391ffc-c043-4f35-a51e-da90b7143a42",
-        "collection_item_nGjjRB"
+        "collection_item_nGjjRB",
+        "collection_item_MPE7GT"
       ],
       "custom_css": [
         ".hdt-slider-collections.hdt-slides-1 .hdt-collection-style1 .hdt-collection-title {padding: 0 var(--spacing-3);}"
