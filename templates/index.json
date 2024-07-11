@@ -235,6 +235,32 @@
         "padding_rate": 75
       }
     },
+    "hero_image_E4PYVD": {
+      "type": "hero-image",
+      "settings": {
+        "image_height": "adapt_image",
+        "fixed_height": 860,
+        "image_height_mb": "adapt_image",
+        "fixed_height_mb": 300,
+        "image": "shopify:\/\/shop_images\/Bauer_Shadow_Skate_Banner_Desktop.jpg",
+        "image_mb": "shopify:\/\/shop_images\/Bauer_Shadow_Skate_Banner_mobile.jpg",
+        "link_img": "shopify:\/\/collections\/bauer-shadow-line-skates",
+        "target": false,
+        "image_behavior": "none",
+        "use_overlay": false,
+        "use_bg_content": false,
+        "content_position": "center",
+        "content_align": "center",
+        "content_position_mb": "center",
+        "content_align_mb": "center",
+        "full_width": true,
+        "boxed_fullwidth": true,
+        "color_scheme": "scheme-1",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_rate": 75
+      }
+    },
     "282a0160-505d-43ff-b601-043a5a327bc2": {
       "type": "collections-list",
       "blocks": {
@@ -469,6 +495,32 @@
         "padding_rate": 40
       }
     },
+    "hero_image_krPDV6": {
+      "type": "hero-image",
+      "settings": {
+        "image_height": "adapt_image",
+        "fixed_height": 860,
+        "image_height_mb": "adapt_image",
+        "fixed_height_mb": 300,
+        "image": "shopify:\/\/shop_images\/banner_web_1.png",
+        "image_mb": "shopify:\/\/shop_images\/banner_mobile.png",
+        "link_img": "",
+        "target": false,
+        "image_behavior": "none",
+        "use_overlay": false,
+        "use_bg_content": false,
+        "content_position": "center",
+        "content_align": "center",
+        "content_position_mb": "center",
+        "content_align_mb": "center",
+        "full_width": true,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_rate": 75
+      }
+    },
     "image_with_text_rhLwb7": {
       "type": "image-with-text",
       "blocks": {
@@ -640,14 +692,14 @@
         "dotUI": true,
         "pagination_type": "none",
         "paginate_pos": "center",
-        "dis_pagination": 30,
+        "dis_pagination": 0,
         "btn_label": "View all",
         "btn_style": "solid",
         "btn_fw": "normal",
         "section_fullwidth": false,
         "color_scheme": "",
-        "padding_top": 50,
-        "padding_bottom": 40,
+        "padding_top": 69,
+        "padding_bottom": 51,
         "padding_rate": 75
       }
     },
@@ -816,9 +868,11 @@
     "categories_section_m9EMCJ",
     "c28ddbdb-d0df-4b86-9b0a-674df42ecc5c",
     "marquee_JjnJ7y",
+    "hero_image_E4PYVD",
     "282a0160-505d-43ff-b601-043a5a327bc2",
     "banner_qfQbew",
     "featured_collection_carousel_aFaMir",
+    "hero_image_krPDV6",
     "image_with_text_rhLwb7",
     "infinite_loop_slider_7e8f3X",
     "featured_collection_carousel_WFdezT",
