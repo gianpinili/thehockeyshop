@@ -1060,7 +1060,7 @@ select {
       5rem,
       (100vw - var(--container-max-width) - var(--scrollbar-w)) / 2
     ); */
-    padding: 0 2rem;
+    padding: 0 4rem;
   }
   .lg\:hdt-pe-max {
     padding-inline-end: max(
