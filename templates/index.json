@@ -1121,6 +1121,9 @@
         "spacer_B7iFGr",
         "button_aLgJtE"
       ],
+      "custom_css": [
+        "img {border-radius: 10px;}"
+      ],
       "settings": {
         "section_fullwidth": true,
         "color_scheme": "scheme-2",
