@@ -228,10 +228,10 @@
     "top_bar_LyTwgP": {
       "type": "top-bar",
       "blocks": {
-        "liquid_UzchPt": {
-          "type": "liquid",
+        "socials_mcGck3": {
+          "type": "socials",
           "settings": {
-            "custom_liquid": "<a href=\"https:\/\/www.thehockeyshop.com\/collections\/goalie-hockey-equipment\"> Goalie |<\/a> <a target=\"_blank\" href=\"https:\/\/team.thehockeyshop.com\/\"> Team Sales |<\/a> <a target=\"_blank\" href=\"https:\/\/www.thehockeyshop.com\/blogs\/the-hockey-blog\"> Blog <\/a>",
+            "socials_style": "default",
             "hide": true
           }
         },
@@ -247,18 +247,18 @@
             "hide": false
           }
         },
-        "socials_mcGck3": {
-          "type": "socials",
+        "liquid_UzchPt": {
+          "type": "liquid",
           "settings": {
-            "socials_style": "default",
+            "custom_liquid": "<a href=\"https:\/\/www.thehockeyshop.com\/collections\/goalie-hockey-equipment\"> Goalie |<\/a> <a target=\"_blank\" href=\"https:\/\/team.thehockeyshop.com\/\"> Team Sales |<\/a> <a target=\"_blank\" href=\"https:\/\/www.thehockeyshop.com\/blogs\/the-hockey-blog\"> Blog <\/a>",
             "hide": true
           }
         }
       },
       "block_order": [
-        "liquid_UzchPt",
+        "socials_mcGck3",
         "text_9BtwF7",
-        "socials_mcGck3"
+        "liquid_UzchPt"
       ],
       "settings": {
         "color_scheme": "scheme-67a7ca9f-3333-4245-b79f-2e9849d7e615",
