@@ -701,7 +701,8 @@
         "image_9BmhcV": {
           "type": "image",
           "settings": {
-            "link_img": "https:\/\/www.thehockeyshop.com\/cdn\/shop\/collections\/mission_ce349ce8-a3b3-4bc2-b63a-9a985feebf53_medium.png?v=1651255052",
+            "image": "shopify:\/\/shop_images\/Bauer-Logo.png",
+            "link_img": "",
             "target": false
           }
         },
