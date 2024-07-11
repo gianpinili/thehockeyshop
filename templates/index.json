@@ -629,7 +629,7 @@
           "settings": {
             "title": "SKATES",
             "heading": "Feel powerful.",
-            "content_text": "Get more explosiveness and a better extension in every stride with superior energy transfer.",
+            "content_text": "Get more explosiveness and a better extension in every stride with superior energy transfer. The latest CCM Tacks skates are designed to convert your effort into powerful forward momentum, enhancing both speed and agility on the ice.",
             "btn_label": "Shop now",
             "btn_link": "shopify:\/\/collections\/ccm-super-tacks-sale-skates",
             "target": false,
@@ -644,7 +644,7 @@
           "settings": {
             "title": "Protective",
             "heading": "Feel Comfortable.",
-            "content_text": "Built for comfort and feel, thanks to newly integrated AER-TEC and ADPTFIT and technologies.",
+            "content_text": "Built for comfort and feel, thanks to newly integrated AER-TEC and ADPTFIT technologies. These innovations ensure a customized fit and enhanced breathability, keeping your feet comfortable throughout the game.",
             "btn_label": "Shop now",
             "btn_link": "shopify:\/\/collections\/ccm-tacks-xf-protective",
             "target": false,
@@ -659,7 +659,7 @@
           "settings": {
             "title": "discover",
             "heading": "Feel more.",
-            "content_text": "Discover everything the newest additions to the Tacks family have to offer.",
+            "content_text": "Discover everything the newest additions to the Tacks family have to offer. Experience the perfect blend of innovation and performance with cutting-edge technology designed to elevate your game.",
             "btn_label": "Shop Now",
             "btn_link": "shopify:\/\/collections\/ccm-super-tacks",
             "target": false,
@@ -675,16 +675,19 @@
         "tab_item_dQkkp6",
         "tab_item_bR6WGj"
       ],
+      "custom_css": [
+
+      ],
       "settings": {
         "heading_align": "center",
-        "sec_heading": "CCM Tacks XF Pro",
+        "sec_heading": "CCM Tacks Line",
         "heading_tag": "h3",
-        "heading_size": "h4",
+        "heading_size": "h3",
         "sec_subheading": "<p>Engineered to be lighter, more responsive, and more durable.<\/p>",
         "subheading_size": "lg",
         "heading_reverse": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
+        "heading_gap": 14,
+        "sec_heading_spacing": 47,
         "main_img": "shopify:\/\/shop_images\/IMG_5074.png",
         "image_pos": "left",
         "image_ratio": "adapt_image",
@@ -693,7 +696,7 @@
         "custom_height_mb": 300,
         "section_fullwidth": false,
         "color_scheme": "scheme-1",
-        "padding_top": 20,
+        "padding_top": 35,
         "padding_bottom": 42,
         "padding_rate": 0
       }
