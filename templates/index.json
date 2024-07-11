@@ -256,8 +256,53 @@
         "full_width": true,
         "boxed_fullwidth": true,
         "color_scheme": "scheme-1",
-        "padding_top": 36,
-        "padding_bottom": 36,
+        "padding_top": 21,
+        "padding_bottom": 21,
+        "padding_rate": 75
+      }
+    },
+    "featured_collection_carousel_YDkkkx": {
+      "type": "featured-collection-carousel",
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Shop FT7 Pro",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "<p>Feel the puck, feel versatile, feel more.<\/p>",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "btn_heading": false,
+        "nav_heading": "disable",
+        "heading_gap": 23,
+        "sec_heading_spacing": 66,
+        "collection": "ccm-jetspeed-ft7-pro-sticks-feel-the-speed-control-the-game",
+        "product_list": [
+
+        ],
+        "product_des": "1",
+        "image_ratio": "adapt_image",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 12,
+        "col_dk": "4",
+        "col_tb": "3",
+        "col_mb": "2",
+        "half_item": false,
+        "navUI": true,
+        "nav_des": "default",
+        "nav_pos": "middle_in",
+        "dotUI": true,
+        "pagination_type": "none",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "View all",
+        "btn_style": "solid",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 40,
         "padding_rate": 75
       }
     },
@@ -360,6 +405,32 @@
         "padding_top": 74,
         "padding_bottom": 0,
         "padding_rate": 40
+      }
+    },
+    "hero_image_krPDV6": {
+      "type": "hero-image",
+      "settings": {
+        "image_height": "adapt_image",
+        "fixed_height": 860,
+        "image_height_mb": "adapt_image",
+        "fixed_height_mb": 300,
+        "image": "shopify:\/\/shop_images\/banner_web_1.png",
+        "image_mb": "shopify:\/\/shop_images\/banner_mobile.png",
+        "link_img": "",
+        "target": false,
+        "image_behavior": "none",
+        "use_overlay": false,
+        "use_bg_content": false,
+        "content_position": "center",
+        "content_align": "center",
+        "content_position_mb": "center",
+        "content_align_mb": "center",
+        "full_width": true,
+        "boxed_fullwidth": true,
+        "color_scheme": "",
+        "padding_top": 21,
+        "padding_bottom": 21,
+        "padding_rate": 75
       }
     },
     "banner_qfQbew": {
@@ -490,34 +561,85 @@
         "btn_fw": "normal",
         "section_fullwidth": false,
         "color_scheme": "scheme-1",
-        "padding_top": 77,
+        "padding_top": 40,
         "padding_bottom": 0,
         "padding_rate": 40
       }
     },
-    "hero_image_krPDV6": {
-      "type": "hero-image",
+    "image_with_tabs_content_prrDBt": {
+      "type": "image-with-tabs-content",
+      "blocks": {
+        "tab_item_3W3m6P": {
+          "type": "tab_item",
+          "settings": {
+            "title": "SKATES",
+            "heading": "Feel powerful.",
+            "content_text": "Get more explosiveness and a better extension in every stride with superior energy transfer.",
+            "btn_label": "Shop now",
+            "btn_link": "shopify:\/\/collections\/ccm-super-tacks-sale-skates",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "outline",
+            "btn_fw": "normal",
+            "btn_icon": "1"
+          }
+        },
+        "tab_item_dQkkp6": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Protective",
+            "heading": "Feel Comfortable.",
+            "content_text": "Built for comfort and feel, thanks to newly integrated AER-TEC and ADPTFIT and technologies.",
+            "btn_label": "Shop now",
+            "btn_link": "shopify:\/\/collections\/ccm-tacks-xf-protective",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "outline",
+            "btn_fw": "normal",
+            "btn_icon": "1"
+          }
+        },
+        "tab_item_bR6WGj": {
+          "type": "tab_item",
+          "settings": {
+            "title": "discover",
+            "heading": "Feel more.",
+            "content_text": "Discover everything the newest additions to the Tacks family have to offer.",
+            "btn_label": "Shop Now",
+            "btn_link": "shopify:\/\/collections\/ccm-super-tacks",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1"
+          }
+        }
+      },
+      "block_order": [
+        "tab_item_3W3m6P",
+        "tab_item_dQkkp6",
+        "tab_item_bR6WGj"
+      ],
       "settings": {
-        "image_height": "adapt_image",
-        "fixed_height": 860,
-        "image_height_mb": "adapt_image",
-        "fixed_height_mb": 300,
-        "image": "shopify:\/\/shop_images\/banner_web_1.png",
-        "image_mb": "shopify:\/\/shop_images\/banner_mobile.png",
-        "link_img": "",
-        "target": false,
-        "image_behavior": "none",
-        "use_overlay": false,
-        "use_bg_content": false,
-        "content_position": "center",
-        "content_align": "center",
-        "content_position_mb": "center",
-        "content_align_mb": "center",
-        "full_width": true,
-        "boxed_fullwidth": true,
-        "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36,
+        "heading_align": "center",
+        "sec_heading": "CCM Tacks XF Pro",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "<p>Engineered to be lighter, more responsive, and more durable.<\/p>",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "main_img": "shopify:\/\/shop_images\/IMG_5074.png",
+        "image_pos": "left",
+        "image_ratio": "adapt_image",
+        "custom_height": 490,
+        "custom_height_tb": 300,
+        "custom_height_mb": 300,
+        "section_fullwidth": false,
+        "color_scheme": "scheme-1",
+        "padding_top": 20,
+        "padding_bottom": 42,
         "padding_rate": 75
       }
     },
@@ -571,8 +693,8 @@
         "image_last_mb": false,
         "content_position_mb": "center",
         "alignment_mb": "center",
-        "padding_top": 48,
-        "padding_bottom": 49,
+        "padding_top": 19,
+        "padding_bottom": 18,
         "padding_rate": 40
       }
     },
@@ -671,7 +793,7 @@
         "btn_heading": false,
         "nav_heading": "disable",
         "heading_gap": 18,
-        "sec_heading_spacing": 30,
+        "sec_heading_spacing": 66,
         "collection": "ccm-jetspeed-ftw-womens-collection",
         "product_list": [
 
@@ -681,7 +803,7 @@
         "image_size": false,
         "show_vendor": false,
         "pr_border": "none",
-        "products_count": 8,
+        "products_count": 12,
         "col_dk": "4",
         "col_tb": "3",
         "col_mb": "2",
@@ -697,7 +819,7 @@
         "btn_style": "solid",
         "btn_fw": "normal",
         "section_fullwidth": false,
-        "color_scheme": "",
+        "color_scheme": "scheme-1",
         "padding_top": 69,
         "padding_bottom": 51,
         "padding_rate": 75
@@ -764,6 +886,57 @@
         "padding_top": 83,
         "padding_bottom": 81,
         "padding_rate": 30
+      }
+    },
+    "image_with_text_VXFxkV": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_KxfiJy": {
+          "type": "heading",
+          "settings": {
+            "heading": "It's a great day for hockey.",
+            "heading_fs": "h4"
+          }
+        },
+        "text_BhpGTy": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Over 30 years of pure hockey passion.<\/p><p>Fast shipping. Easy returns. Expert advice.<\/p><p>Hockey's best. Delivered to your door.<\/p>"
+          }
+        },
+        "button_6UwNkc": {
+          "type": "button",
+          "settings": {
+            "btn_label": "Shop now",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_KxfiJy",
+        "text_BhpGTy",
+        "button_6UwNkc"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/SFS_Logo_Horizontal_The_Hockey_Shop_Black_2_9769cd48-6b92-4e9c-972f-1a9871e25397.png",
+        "style_image": "1",
+        "image_effect": "zoom-in",
+        "color_scheme": "",
+        "image_last": false,
+        "content_position": "center",
+        "alignment": "center",
+        "content_pl": 0,
+        "image_last_mb": false,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
       }
     },
     "icon_box_JfJQBV": {
@@ -869,15 +1042,18 @@
     "c28ddbdb-d0df-4b86-9b0a-674df42ecc5c",
     "marquee_JjnJ7y",
     "hero_image_E4PYVD",
+    "featured_collection_carousel_YDkkkx",
     "282a0160-505d-43ff-b601-043a5a327bc2",
+    "hero_image_krPDV6",
     "banner_qfQbew",
     "featured_collection_carousel_aFaMir",
-    "hero_image_krPDV6",
+    "image_with_tabs_content_prrDBt",
     "image_with_text_rhLwb7",
     "infinite_loop_slider_7e8f3X",
     "featured_collection_carousel_WFdezT",
     "testinonial_with_image_jarUfm",
     "custom_line_TU48An",
+    "image_with_text_VXFxkV",
     "icon_box_JfJQBV"
   ]
 }
