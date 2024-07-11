@@ -837,8 +837,8 @@
         "heading_96TGtn": {
           "type": "heading",
           "settings": {
-            "heading": "TendyFest Merch",
-            "heading_fs": "h4"
+            "heading": "TENDYFEST MERCH",
+            "heading_fs": "h3"
           }
         },
         "sub_heading_ewxeRG": {
@@ -851,12 +851,24 @@
         "button_EiykUm": {
           "type": "button",
           "settings": {
-            "btn_label": "Read our stories",
-            "btn_link": "shopify:\/\/collections\/clothing-womens",
+            "btn_label": "Buy Now",
+            "btn_link": "shopify:\/\/collections\/the-hockey-shop-merch",
             "target": false,
             "btn_size": "base",
             "btn_style": "solid",
-            "btn_fw": "semibold",
+            "btn_fw": "medium",
+            "btn_icon": "1"
+          }
+        },
+        "button_LD6iC8": {
+          "type": "button",
+          "settings": {
+            "btn_label": "Donate to CAN",
+            "btn_link": "https:\/\/support.canucksautism.ca\/site\/TR\/CANPro-Am\/Pro-Am?team_id=3280&pg=team&fr_id=1280&ltclid=829cb569-24bb-4ca8-96ba-9bda7cf32a8f",
+            "target": true,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "medium",
             "btn_icon": "none"
           }
         }
@@ -864,10 +876,11 @@
       "block_order": [
         "heading_96TGtn",
         "sub_heading_ewxeRG",
-        "button_EiykUm"
+        "button_EiykUm",
+        "button_LD6iC8"
       ],
       "custom_css": [
-
+        "a:last-child {background-color: #003f7e; border: none;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/tendyfest_92f0622f-fc29-4488-be4b-881108fd321f.png",
@@ -878,7 +891,7 @@
         "color_scheme": "scheme-1",
         "image_last": true,
         "content_position": "center-start",
-        "alignment": "center",
+        "alignment": "left",
         "content_pl": 29,
         "image_last_mb": false,
         "content_position_mb": "center",
