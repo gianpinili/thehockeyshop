@@ -719,7 +719,7 @@
         "fixed_height": 860,
         "image_height_mb": "adapt_image",
         "fixed_height_mb": 300,
-        "image": "shopify:\/\/shop_images\/warrior_stick_customizer_banner.jpg",
+        "image": "shopify:\/\/shop_images\/ths-footer-banner.jpg",
         "image_mb": "shopify:\/\/shop_images\/Warrior_Stick_Banner_mobile.jpg",
         "link_img": "",
         "target": false,
@@ -1283,7 +1283,8 @@
         "button_aLgJtE"
       ],
       "custom_css": [
-        "img {border-radius: 10px;}"
+        "img {border-radius: 10px;}",
+        "div {padding: 0 2px;}"
       ],
       "settings": {
         "section_fullwidth": true,
