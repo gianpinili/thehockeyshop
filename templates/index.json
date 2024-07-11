@@ -24,61 +24,6 @@
         "padding_rate": 30
       }
     },
-    "marquee_JjnJ7y": {
-      "type": "marquee",
-      "blocks": {
-        "item_BCTycY": {
-          "type": "item",
-          "settings": {
-            "text": "<p>Free shipping on orders over $100.<\/p>",
-            "icon_svg": "dividing_icon",
-            "custom_svg": "",
-            "icon_width": 11,
-            "icon_width_mb": 10
-          }
-        },
-        "item_34d4Tn": {
-          "type": "item",
-          "settings": {
-            "text": "<p>Buy now, pay later with Sezzle.<\/p>",
-            "icon_svg": "none",
-            "custom_svg": "",
-            "icon_width": 20,
-            "icon_width_mb": 20
-          }
-        },
-        "item_KKgfzb": {
-          "type": "item",
-          "settings": {
-            "text": "<p>Summer Super Sale up to 40% off.<\/p>",
-            "icon_svg": "none",
-            "custom_svg": "",
-            "icon_width": 20,
-            "icon_width_mb": 20
-          }
-        }
-      },
-      "block_order": [
-        "item_BCTycY",
-        "item_34d4Tn",
-        "item_KKgfzb"
-      ],
-      "settings": {
-        "space_item": 50,
-        "speed": 0.3,
-        "direction": "rtl",
-        "marquee_pause_when_hover": true,
-        "text_fs": "base",
-        "text_fw": "bold",
-        "text_uppercase": false,
-        "adding_border": true,
-        "icon_position_between": true,
-        "color_scheme": "scheme-67a7ca9f-3333-4245-b79f-2e9849d7e615",
-        "padding_top": 10,
-        "padding_bottom": 10,
-        "padding_rate": 75
-      }
-    },
     "categories_section_m9EMCJ": {
       "type": "categories-section",
       "blocks": {
@@ -163,6 +108,7 @@
         "collection_item_bG9D7T",
         "view_all_MT3baW"
       ],
+      "disabled": true,
       "custom_css": [
         ".hdt-rounded-full {border-radius: 0px;}"
       ],
@@ -291,6 +237,61 @@
         "dot_space": 49,
         "padding_top": 0,
         "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "marquee_JjnJ7y": {
+      "type": "marquee",
+      "blocks": {
+        "item_BCTycY": {
+          "type": "item",
+          "settings": {
+            "text": "<p>Free shipping on orders over $100.<\/p>",
+            "icon_svg": "dividing_icon",
+            "custom_svg": "",
+            "icon_width": 11,
+            "icon_width_mb": 10
+          }
+        },
+        "item_34d4Tn": {
+          "type": "item",
+          "settings": {
+            "text": "<p>Buy now, pay later with Sezzle.<\/p>",
+            "icon_svg": "none",
+            "custom_svg": "",
+            "icon_width": 20,
+            "icon_width_mb": 20
+          }
+        },
+        "item_KKgfzb": {
+          "type": "item",
+          "settings": {
+            "text": "<p>Summer Super Sale up to 40% off.<\/p>",
+            "icon_svg": "none",
+            "custom_svg": "",
+            "icon_width": 20,
+            "icon_width_mb": 20
+          }
+        }
+      },
+      "block_order": [
+        "item_BCTycY",
+        "item_34d4Tn",
+        "item_KKgfzb"
+      ],
+      "settings": {
+        "space_item": 50,
+        "speed": 0.2,
+        "direction": "rtl",
+        "marquee_pause_when_hover": true,
+        "text_fs": "base",
+        "text_fw": "bold",
+        "text_uppercase": false,
+        "adding_border": true,
+        "icon_position_between": true,
+        "color_scheme": "scheme-67a7ca9f-3333-4245-b79f-2e9849d7e615",
+        "padding_top": 10,
+        "padding_bottom": 10,
         "padding_rate": 75
       }
     },
@@ -825,9 +826,9 @@
   },
   "order": [
     "custom_line_zFXegM",
-    "marquee_JjnJ7y",
     "categories_section_m9EMCJ",
     "c28ddbdb-d0df-4b86-9b0a-674df42ecc5c",
+    "marquee_JjnJ7y",
     "282a0160-505d-43ff-b601-043a5a327bc2",
     "banner_qfQbew",
     "featured_collection_carousel_aFaMir",
