@@ -581,7 +581,7 @@
                                 <ul class="hdt-filter-group__list type_boolean">
                                   {%- for filter_value in filter.values -%}
                                     <li class="hdt-filter-group__list-item">
-                                      <input class="" type="checkbox" name="{{ filter_value.param_name }}" value="{{ filter_value.value }}" id="Filter-sidebar-{{ filter.param_name }}-{{ forloop.index }}"{% if filter_value.active %} checked{% endif %}{% if filter_value.count == 0 and filter_value.active == false %} disabled{% endif %}>
+                                      <input class="" type="checkbox" checked name="{{ filter_value.param_name }}" value="{{ filter_value.value }}" id="Filter-sidebar-{{ filter.param_name }}-{{ forloop.index }}"{% if filter_value.active %} checked{% endif %}{% if filter_value.count == 0 and filter_value.active == false %} disabled{% endif %}>
                                       <label for="Filter-sidebar-{{ filter.param_name }}-{{ forloop.index }}">{{ filter_value.label }}</label>
                                     </li>
                                   {%- endfor -%}
