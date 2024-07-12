@@ -334,12 +334,58 @@
         "padding_bottom": 52,
         "padding_rate": 75
       }
+    },
+    "image_with_tabs_content_FaieMG": {
+      "type": "image-with-tabs-content",
+      "blocks": {
+        "tab_item_qDdYqe": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Konekt 2",
+            "heading": "Revolutionized tech for elite goalies.",
+            "content_text": "The KONEKT 2 is here. Lighter than it's predecessor, this skate features state-of-the-art technology for the games most elite goalies. Its innovative design ensures superior comfort and durability.",
+            "btn_label": "Shop Konekt 2",
+            "btn_link": "https:\/\/www.thehockeyshop.com\/collections\/shop?q=konekt+2",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1"
+          }
+        }
+      },
+      "block_order": [
+        "tab_item_qDdYqe"
+      ],
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "main_img": "shopify:\/\/shop_images\/bauer-goalie-skates-bauer-konekt2-intermediate-goalie-skates-31287323951170.jpg",
+        "image_pos": "right",
+        "image_ratio": "adapt_image",
+        "custom_height": 860,
+        "custom_height_tb": 300,
+        "custom_height_mb": 300,
+        "section_fullwidth": false,
+        "color_scheme": "scheme-1",
+        "padding_top": 10,
+        "padding_bottom": 52,
+        "padding_rate": 75
+      }
     }
   },
   "order": [
     "slideshow_q7pEg9",
     "marquee_cy3Qc8",
     "collections_list_QLied3",
-    "image_gallery_LUgwe8"
+    "image_gallery_LUgwe8",
+    "image_with_tabs_content_FaieMG"
   ]
 }
