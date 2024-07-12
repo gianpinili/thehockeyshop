@@ -458,7 +458,7 @@
         "btn_fw": "normal",
         "section_fullwidth": false,
         "color_scheme": "",
-        "padding_top": 20,
+        "padding_top": 30,
         "padding_bottom": 40,
         "padding_rate": 75
       }
@@ -1446,19 +1446,19 @@
             "product_item": ""
           }
         },
-        "gallery_item_hPLacT": {
-          "type": "gallery_item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/FTW.jpg",
-            "item_link": "https:\/\/www.thehockeyshop.com\/collections\/ccm-jetspeed-ftw-womens-collection",
-            "product_item": ""
-          }
-        },
         "gallery_item_7AdBm9": {
           "type": "gallery_item",
           "settings": {
             "image": "shopify:\/\/shop_images\/BEDSY.jpg",
             "item_link": "https:\/\/www.thehockeyshop.com\/collections\/sherwood",
+            "product_item": ""
+          }
+        },
+        "gallery_item_hPLacT": {
+          "type": "gallery_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FT7_-website_7bc959a9-a178-4af4-a533-a64414777e35.png",
+            "item_link": "shopify:\/\/collections\/ccm-jetspeed-ft7-pro-sticks-feel-the-speed-control-the-game",
             "product_item": ""
           }
         },
@@ -1481,8 +1481,8 @@
       },
       "block_order": [
         "gallery_item_V8hUgR",
-        "gallery_item_hPLacT",
         "gallery_item_7AdBm9",
+        "gallery_item_hPLacT",
         "gallery_item_cbJt3E",
         "gallery_item_UfiG3Y"
       ],
