@@ -367,7 +367,6 @@
     },
     "hero_image_krPDV6": {
       "type": "hero-image",
-      "disabled": true,
       "settings": {
         "image_height": "adapt_image",
         "fixed_height": 860,
