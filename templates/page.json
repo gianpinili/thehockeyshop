@@ -456,62 +456,45 @@
         "padding_rate": 75
       }
     },
-    "image_with_text_rdAQc9": {
+    "image_with_text_rUEA8j": {
       "type": "image-with-text",
       "blocks": {
-        "heading_Xqp3hL": {
+        "heading_jgrzRr": {
           "type": "heading",
           "settings": {
-            "heading": "TENDYFEST MERCH",
+            "heading": "Your next Bauer set starts here.",
             "heading_fs": "h3"
           }
         },
-        "sub_heading_WmLEym": {
-          "type": "sub_heading",
+        "text_b39mgX": {
+          "type": "text",
           "settings": {
-            "sub_heading": "All proceeds from the sale of TendyFest merchandise are donated to the Canucks Autism Network, supporting programs and services for individuals and families living with autism.",
-            "sub_fs": "lg"
+            "text": "<p>Oour expert team handpicked each piece to meet goalies' needs at all skill levels, so you can focus on stopping pucks.<\/p>"
           }
         },
-        "button_BYKQtC": {
+        "button_zLYfMm": {
           "type": "button",
           "settings": {
-            "btn_label": "Buy Now",
-            "btn_link": "shopify:\/\/collections\/the-hockey-shop-merch",
+            "btn_label": "Shop Bauer Goalie",
+            "btn_link": "shopify:\/\/collections\/bauer-goalie",
             "target": false,
             "btn_size": "base",
             "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1"
-          }
-        },
-        "button_CqUzR3": {
-          "type": "button",
-          "settings": {
-            "btn_label": "Donate to CAN",
-            "btn_link": "https:\/\/support.canucksautism.ca\/site\/TR\/CANPro-Am\/Pro-Am?team_id=3280&pg=team&fr_id=1280&ltclid=829cb569-24bb-4ca8-96ba-9bda7cf32a8f",
-            "target": true,
-            "btn_size": "base",
-            "btn_style": "solid",
             "btn_fw": "medium",
-            "btn_icon": "none"
+            "btn_icon": "1"
           }
         }
       },
       "block_order": [
-        "heading_Xqp3hL",
-        "sub_heading_WmLEym",
-        "button_BYKQtC",
-        "button_CqUzR3"
-      ],
-      "custom_css": [
-        "a:last-child {background-color: #003f7e; border: none;}"
+        "heading_jgrzRr",
+        "text_b39mgX",
+        "button_zLYfMm"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/tendyfest-shirts_hats.jpg",
+        "image": "shopify:\/\/shop_images\/hyperlite2-goalie-mobile-hero-banner_0009_DSCF4006.jpg",
         "style_image": "1",
         "image_effect": "zoom-in",
-        "color_scheme": "",
+        "color_scheme": "scheme-1",
         "image_last": false,
         "content_position": "center",
         "alignment": "center",
@@ -569,46 +552,63 @@
         "padding_rate": 75
       }
     },
-    "image_with_text_rUEA8j": {
+    "image_with_text_rdAQc9": {
       "type": "image-with-text",
       "blocks": {
-        "heading_jgrzRr": {
+        "heading_Xqp3hL": {
           "type": "heading",
           "settings": {
-            "heading": "Your next Bauer set starts here.",
+            "heading": "TENDYFEST MERCH",
             "heading_fs": "h3"
           }
         },
-        "text_b39mgX": {
-          "type": "text",
+        "sub_heading_WmLEym": {
+          "type": "sub_heading",
           "settings": {
-            "text": "<p>Oour expert team handpicked each piece to meet goalies' needs at all skill levels, so you can focus on stopping pucks.<\/p>"
+            "sub_heading": "All proceeds from the sale of TendyFest merchandise are donated to the Canucks Autism Network, supporting programs and services for individuals and families living with autism.",
+            "sub_fs": "lg"
           }
         },
-        "button_zLYfMm": {
+        "button_BYKQtC": {
           "type": "button",
           "settings": {
-            "btn_label": "Shop Bauer Goalie",
-            "btn_link": "shopify:\/\/collections\/bauer-goalie",
+            "btn_label": "Buy Now",
+            "btn_link": "shopify:\/\/collections\/the-hockey-shop-merch",
             "target": false,
             "btn_size": "base",
             "btn_style": "solid",
-            "btn_fw": "medium",
+            "btn_fw": "normal",
             "btn_icon": "1"
+          }
+        },
+        "button_CqUzR3": {
+          "type": "button",
+          "settings": {
+            "btn_label": "Donate to CAN",
+            "btn_link": "https:\/\/support.canucksautism.ca\/site\/TR\/CANPro-Am\/Pro-Am?team_id=3280&pg=team&fr_id=1280&ltclid=829cb569-24bb-4ca8-96ba-9bda7cf32a8f",
+            "target": true,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "medium",
+            "btn_icon": "none"
           }
         }
       },
       "block_order": [
-        "heading_jgrzRr",
-        "text_b39mgX",
-        "button_zLYfMm"
+        "heading_Xqp3hL",
+        "sub_heading_WmLEym",
+        "button_BYKQtC",
+        "button_CqUzR3"
+      ],
+      "custom_css": [
+        "a:last-child {background-color: #003f7e; border: none;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/hyperlite2-goalie-mobile-hero-banner_0009_DSCF4006.jpg",
+        "image": "shopify:\/\/shop_images\/tendyfest-shirts_hats.jpg",
         "style_image": "1",
         "image_effect": "zoom-in",
-        "color_scheme": "scheme-1",
-        "image_last": true,
+        "color_scheme": "",
+        "image_last": false,
         "content_position": "center",
         "alignment": "center",
         "content_pl": 0,
@@ -725,9 +725,9 @@
     "image_with_tabs_content_FaieMG",
     "collections_list_simple_D7GcpX",
     "featured_collection_carousel_iiL9bG",
-    "image_with_text_rdAQc9",
-    "featured_collection_carousel_Dp8fiz",
     "image_with_text_rUEA8j",
+    "featured_collection_carousel_Dp8fiz",
+    "image_with_text_rdAQc9",
     "featured_collection_carousel_gAEwif",
     "image_with_text_gcKQCJ"
   ]
