@@ -135,16 +135,17 @@
         "collection_item_wVfBGT": {
           "type": "collection_item",
           "settings": {
-            "collection": "",
-            "title": "Collection name",
+            "collection": "goalie-skates",
+            "image": "shopify:\/\/shop_images\/bauer-goalie-skates-bauer-pro-intermediate-goalie-skates-31250001756226.jpg",
+            "title": "Skates",
             "collection_link": ""
           }
         },
         "collection_item_FfCWQ6": {
           "type": "collection_item",
           "settings": {
-            "collection": "",
-            "title": "Collection name",
+            "collection": "goalie-sticks",
+            "title": "Sticks",
             "collection_link": ""
           }
         },
@@ -173,7 +174,7 @@
       ],
       "settings": {
         "heading_align": "center",
-        "sec_heading": "Shop by categories",
+        "sec_heading": "",
         "heading_tag": "h3",
         "heading_size": "h4",
         "sec_subheading": "",
