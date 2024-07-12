@@ -48,6 +48,8 @@
     "placeholder_img": "shopify:\/\/shop_images\/SFS_Logo_Horizontal_The_Hockey_Shop_Black_2_9769cd48-6b92-4e9c-972f-1a9871e25397.png",
     "show_secondary_image": false,
     "effect_secondary_image": "zoom",
+    "show_ultra_btn": true,
+    "show_quick_add": false,
     "pr_card_alignment": "left",
     "show_rating": true,
     "uppercase_title": true,
