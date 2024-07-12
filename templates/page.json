@@ -424,6 +424,74 @@
         "padding_bottom": 21,
         "padding_rate": 75
       }
+    },
+    "image_with_text_rdAQc9": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_Xqp3hL": {
+          "type": "heading",
+          "settings": {
+            "heading": "TENDYFEST MERCH",
+            "heading_fs": "h3"
+          }
+        },
+        "sub_heading_WmLEym": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "All proceeds from the sale of TendyFest merchandise are donated to the Canucks Autism Network, supporting programs and services for individuals and families living with autism.",
+            "sub_fs": "lg"
+          }
+        },
+        "button_BYKQtC": {
+          "type": "button",
+          "settings": {
+            "btn_label": "Buy Now",
+            "btn_link": "shopify:\/\/collections\/the-hockey-shop-merch",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1"
+          }
+        },
+        "button_CqUzR3": {
+          "type": "button",
+          "settings": {
+            "btn_label": "Donate to CAN",
+            "btn_link": "https:\/\/support.canucksautism.ca\/site\/TR\/CANPro-Am\/Pro-Am?team_id=3280&pg=team&fr_id=1280&ltclid=829cb569-24bb-4ca8-96ba-9bda7cf32a8f",
+            "target": true,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "medium",
+            "btn_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Xqp3hL",
+        "sub_heading_WmLEym",
+        "button_BYKQtC",
+        "button_CqUzR3"
+      ],
+      "custom_css": [
+        "a:last-child {background-color: #003f7e; border: none;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/tendyfest-shirts_hats.jpg",
+        "style_image": "1",
+        "image_effect": "lunc",
+        "color_scheme": "",
+        "image_last": false,
+        "content_position": "center",
+        "alignment": "center",
+        "content_pl": 0,
+        "image_last_mb": false,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
     }
   },
   "order": [
@@ -432,6 +500,7 @@
     "collections_list_QLied3",
     "image_gallery_LUgwe8",
     "image_with_tabs_content_FaieMG",
-    "featured_collection_carousel_iiL9bG"
+    "featured_collection_carousel_iiL9bG",
+    "image_with_text_rdAQc9"
   ]
 }
