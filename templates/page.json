@@ -153,15 +153,16 @@
         "collection_item_p6abbX": {
           "type": "collection_item",
           "settings": {
-            "collection": "",
-            "title": "Collection name",
+            "collection": "leg-pads",
+            "image": "shopify:\/\/shop_images\/warrior-rtl-g7-pro-leg-pads-sr-tan-bk-detail-10461.jpg",
+            "title": "Leg Pads",
             "collection_link": ""
           }
         },
         "collection_item_aJhRNQ": {
           "type": "collection_item",
           "settings": {
-            "collection": "",
+            "collection": "goalie-masks",
             "title": "Collection name",
             "collection_link": ""
           }
