@@ -941,7 +941,7 @@
         "nav_des": "default",
         "dotUI": false,
         "dots_pos": "outline",
-        "section_fullwidth": true,
+        "section_fullwidth": false,
         "boxed_fullwidth": true,
         "color_scheme": "",
         "padding_top": 0,
