@@ -861,6 +861,94 @@
         "padding_rate": 40
       }
     },
+    "image_gallery_kiUHL3": {
+      "type": "image-gallery",
+      "blocks": {
+        "gallery_item_nmBqpD": {
+          "type": "gallery_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ccm-shoulder-pads-ccm-jetspeed-ftw-junior-hockey-shoulder-pads-2024-31494476726338.jpg",
+            "item_link": "",
+            "product_item": "ccm-jetspeed-ftw-senior-hockey-shoulder-pads"
+          }
+        },
+        "gallery_item_UpMy9w": {
+          "type": "gallery_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ccm-gloves-ccm-jetspeed-ftw-senior-hockey-gloves-31494600163394.jpg",
+            "item_link": "",
+            "product_item": "ccm-jetspeed-ftw-senior-hockey-gloves"
+          }
+        },
+        "gallery_item_y9BEB9": {
+          "type": "gallery_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ccm-hockey-sticks-ccm-jetspeed-ftw-intermediate-hockey-stick-31443562561602.jpg",
+            "item_link": "",
+            "product_item": "ccm-jetspeed-ftw-senior-hockey-stick"
+          }
+        },
+        "gallery_item_NfyzQ8": {
+          "type": "gallery_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ccm-shin-guards-ccm-jetspeed-ftw-senior-hockey-shin-guards-senior-12-31494677758018.jpg",
+            "item_link": "",
+            "product_item": "ccm-jetspeed-ftw-senior-hockey-shin-guards"
+          }
+        },
+        "gallery_item_aAye8A": {
+          "type": "gallery_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sport-maska-inc-player-elbow-pads-senior-ccm-jetspeed-ftw-senior-hockey-elbow-pads-31138880553026.png",
+            "item_link": "",
+            "product_item": "ccm-jetspeed-ftw-senior-hockey-elbow-pads"
+          }
+        },
+        "gallery_item_QNDVPP": {
+          "type": "gallery_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sport-maska-inc-player-pants-junior-ccm-jetspeed-ftw-junior-hockey-pants-black-s-31138883829826.png",
+            "item_link": "",
+            "product_item": "ccm-jetspeed-ftw-senior-hockey-pants"
+          }
+        }
+      },
+      "block_order": [
+        "gallery_item_nmBqpD",
+        "gallery_item_UpMy9w",
+        "gallery_item_y9BEB9",
+        "gallery_item_NfyzQ8",
+        "gallery_item_aAye8A",
+        "gallery_item_QNDVPP"
+      ],
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Jetspeed FTW",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "<p>Discover the CCM Jetspeed FTW Women's Collection: engineered for performance, comfort, and style. <\/p><p>Explore top tier-hockey gear designed specifically for women, offering unmatched fit and dynamic speed on the ice.<\/p><p>Elevate your game today!<\/p>",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "image_ratio": "adapt_image",
+        "image_size": true,
+        "col_dk": "6",
+        "col_tb": "3",
+        "col_mb": "2",
+        "spacing_items": 10,
+        "navUI": false,
+        "nav_des": "default",
+        "dotUI": false,
+        "dots_pos": "outline",
+        "section_fullwidth": true,
+        "boxed_fullwidth": true,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 52,
+        "padding_rate": 75
+      }
+    },
     "image_with_tabs_content_prrDBt": {
       "type": "image-with-tabs-content",
       "blocks": {
@@ -943,6 +1031,7 @@
     },
     "banner_product_grid_HH3ay7": {
       "type": "banner-product-grid",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/COLLECTIONS-IMAGE-CCM-FTW-APRIL-2024.webp",
         "color_scheme": "",
@@ -1525,6 +1614,7 @@
     "hero_image_yULAWV",
     "featured_collection_carousel_WFdezT",
     "image_with_text_rhLwb7",
+    "image_gallery_kiUHL3",
     "image_with_tabs_content_prrDBt",
     "banner_product_grid_HH3ay7",
     "infinite_loop_slider_7e8f3X",
