@@ -616,7 +616,7 @@
                                         assign color_style_inline = color_obj.colorsCSS
                                       endif -%}
                                       <li class="hdt-filter-group__list-item hdt-relative hdt-align-center">
-                                        <input class="sr-only" type="checkbox" name="{{ filter_value.param_name }}" value="{{ filter_value.value }}" id="Filter-sidebar-{{ filter.param_name }}-{{ forloop.index }}"{% if filter_value.active %} checked{% endif %}{% if filter_value.count == 0 and filter_value.active == false %} disabled{% endif %}>
+                                        <input class="sr-only" type="checkbox" checked name="{{ filter_value.param_name }}" value="{{ filter_value.value }}" id="Filter-sidebar-{{ filter.param_name }}-{{ forloop.index }}"{% if filter_value.active %} checked{% endif %}{% if filter_value.count == 0 and filter_value.active == false %} disabled{% endif %}>
                                         <label for="Filter-sidebar-{{ filter.param_name }}-{{ forloop.index }}">
                                           <span class="hdt-relative">
                                             <span class="hdt-facets-checkbox-color hdt-filter-group__color{% if color_white == color_downcase %} hdt-bg-color-white{% endif %}"{% if color_image_style or color_style_inline.size > 0 %} style="{{ color_image_style }}{{ color_style_inline }}"{% endif %}>
