@@ -466,6 +466,7 @@
     },
     "brand_carousel_j6Bm7L": {
       "type": "brand-carousel",
+      "disabled": true,
       "settings": {
       }
     },
@@ -745,6 +746,122 @@
         "padding_rate": 75
       }
     },
+    "featured_collection_carousel_WFdezT": {
+      "type": "featured-collection-carousel",
+      "disabled": true,
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Her story stars here. FTW.",
+        "heading_tag": "h4",
+        "heading_size": "h4",
+        "sec_subheading": "<p>CCM Jetspeed FTW Women's Collection: engineered for performance, comfort, and style.<\/p>",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "btn_heading": false,
+        "nav_heading": "disable",
+        "heading_gap": 18,
+        "sec_heading_spacing": 66,
+        "collection": "ccm-jetspeed-ftw-womens-collection",
+        "product_list": [
+
+        ],
+        "product_des": "1",
+        "image_ratio": "landscape",
+        "image_size": false,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 12,
+        "col_dk": "5",
+        "col_tb": "3",
+        "col_mb": "2",
+        "half_item": false,
+        "navUI": true,
+        "nav_des": "default",
+        "nav_pos": "middle_in",
+        "dotUI": true,
+        "pagination_type": "none",
+        "paginate_pos": "center",
+        "dis_pagination": 0,
+        "btn_label": "View all",
+        "btn_style": "solid",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "color_scheme": "scheme-1",
+        "padding_top": 69,
+        "padding_bottom": 51,
+        "padding_rate": 75
+      }
+    },
+    "image_with_text_rhLwb7": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_96TGtn": {
+          "type": "heading",
+          "settings": {
+            "heading": "TENDYFEST MERCH",
+            "heading_fs": "h3"
+          }
+        },
+        "sub_heading_ewxeRG": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "All proceeds from the sale of TendyFest merchandise are donated to the Canucks Autism Network, supporting programs and services for individuals and families living with autism.",
+            "sub_fs": "lg"
+          }
+        },
+        "button_EiykUm": {
+          "type": "button",
+          "settings": {
+            "btn_label": "Buy Now",
+            "btn_link": "shopify:\/\/collections\/the-hockey-shop-merch",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "medium",
+            "btn_icon": "1"
+          }
+        },
+        "button_LD6iC8": {
+          "type": "button",
+          "settings": {
+            "btn_label": "Donate to CAN",
+            "btn_link": "https:\/\/support.canucksautism.ca\/site\/TR\/CANPro-Am\/Pro-Am?team_id=3280&pg=team&fr_id=1280&ltclid=829cb569-24bb-4ca8-96ba-9bda7cf32a8f",
+            "target": true,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "medium",
+            "btn_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "heading_96TGtn",
+        "sub_heading_ewxeRG",
+        "button_EiykUm",
+        "button_LD6iC8"
+      ],
+      "custom_css": [
+        "a:last-child {background-color: #003f7e; border: none;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/tendyfest-shirts_hats.jpg",
+        "first_image": "shopify:\/\/shop_images\/the-hockey-shop-source-for-sports-hats-tendyfest-hat-curved-brim-snapback-osfm-31815289897026.jpg",
+        "second_image": "shopify:\/\/shop_images\/thehockeyshop-com-team-shirts-tendyfest-gildan-t-shirt-black-youth-l-31802129776706.jpg",
+        "style_image": "1",
+        "image_effect": "zoom-in",
+        "color_scheme": "scheme-1",
+        "image_last": true,
+        "content_position": "center-start",
+        "alignment": "left",
+        "content_pl": 29,
+        "image_last_mb": false,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 19,
+        "padding_bottom": 18,
+        "padding_rate": 40
+      }
+    },
     "image_with_tabs_content_prrDBt": {
       "type": "image-with-tabs-content",
       "blocks": {
@@ -823,52 +940,6 @@
         "padding_top": 35,
         "padding_bottom": 42,
         "padding_rate": 0
-      }
-    },
-    "featured_collection_carousel_WFdezT": {
-      "type": "featured-collection-carousel",
-      "disabled": true,
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Her story stars here. FTW.",
-        "heading_tag": "h4",
-        "heading_size": "h4",
-        "sec_subheading": "<p>CCM Jetspeed FTW Women's Collection: engineered for performance, comfort, and style.<\/p>",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "btn_heading": false,
-        "nav_heading": "disable",
-        "heading_gap": 18,
-        "sec_heading_spacing": 66,
-        "collection": "ccm-jetspeed-ftw-womens-collection",
-        "product_list": [
-
-        ],
-        "product_des": "1",
-        "image_ratio": "landscape",
-        "image_size": false,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 12,
-        "col_dk": "5",
-        "col_tb": "3",
-        "col_mb": "2",
-        "half_item": false,
-        "navUI": true,
-        "nav_des": "default",
-        "nav_pos": "middle_in",
-        "dotUI": true,
-        "pagination_type": "none",
-        "paginate_pos": "center",
-        "dis_pagination": 0,
-        "btn_label": "View all",
-        "btn_style": "solid",
-        "btn_fw": "normal",
-        "section_fullwidth": false,
-        "color_scheme": "scheme-1",
-        "padding_top": 69,
-        "padding_bottom": 51,
-        "padding_rate": 75
       }
     },
     "banner_product_grid_HH3ay7": {
@@ -979,76 +1050,6 @@
         "padding_top": 0,
         "padding_bottom": 0,
         "padding_rate": 30
-      }
-    },
-    "image_with_text_rhLwb7": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_96TGtn": {
-          "type": "heading",
-          "settings": {
-            "heading": "TENDYFEST MERCH",
-            "heading_fs": "h3"
-          }
-        },
-        "sub_heading_ewxeRG": {
-          "type": "sub_heading",
-          "settings": {
-            "sub_heading": "All proceeds from the sale of TendyFest merchandise are donated to the Canucks Autism Network, supporting programs and services for individuals and families living with autism.",
-            "sub_fs": "lg"
-          }
-        },
-        "button_EiykUm": {
-          "type": "button",
-          "settings": {
-            "btn_label": "Buy Now",
-            "btn_link": "shopify:\/\/collections\/the-hockey-shop-merch",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "medium",
-            "btn_icon": "1"
-          }
-        },
-        "button_LD6iC8": {
-          "type": "button",
-          "settings": {
-            "btn_label": "Donate to CAN",
-            "btn_link": "https:\/\/support.canucksautism.ca\/site\/TR\/CANPro-Am\/Pro-Am?team_id=3280&pg=team&fr_id=1280&ltclid=829cb569-24bb-4ca8-96ba-9bda7cf32a8f",
-            "target": true,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "medium",
-            "btn_icon": "none"
-          }
-        }
-      },
-      "block_order": [
-        "heading_96TGtn",
-        "sub_heading_ewxeRG",
-        "button_EiykUm",
-        "button_LD6iC8"
-      ],
-      "custom_css": [
-        "a:last-child {background-color: #003f7e; border: none;}"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/tendyfest-shirts_hats.jpg",
-        "first_image": "shopify:\/\/shop_images\/the-hockey-shop-source-for-sports-hats-tendyfest-hat-curved-brim-snapback-osfm-31815289897026.jpg",
-        "second_image": "shopify:\/\/shop_images\/thehockeyshop-com-team-shirts-tendyfest-gildan-t-shirt-black-youth-l-31802129776706.jpg",
-        "style_image": "1",
-        "image_effect": "zoom-in",
-        "color_scheme": "scheme-1",
-        "image_last": true,
-        "content_position": "center-start",
-        "alignment": "left",
-        "content_pl": 29,
-        "image_last_mb": false,
-        "content_position_mb": "center",
-        "alignment_mb": "center",
-        "padding_top": 19,
-        "padding_bottom": 18,
-        "padding_rate": 40
       }
     },
     "testinonial_with_image_jarUfm": {
@@ -1510,11 +1511,11 @@
     "banner_qfQbew",
     "featured_collection_carousel_aFaMir",
     "hero_image_yULAWV",
-    "image_with_tabs_content_prrDBt",
     "featured_collection_carousel_WFdezT",
+    "image_with_text_rhLwb7",
+    "image_with_tabs_content_prrDBt",
     "banner_product_grid_HH3ay7",
     "infinite_loop_slider_7e8f3X",
-    "image_with_text_rhLwb7",
     "testinonial_with_image_jarUfm",
     "custom_section_VtTM4g",
     "custom_line_TU48An",
