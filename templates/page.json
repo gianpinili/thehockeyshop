@@ -163,7 +163,44 @@
           "type": "collection_item",
           "settings": {
             "collection": "goalie-masks",
-            "title": "Collection name",
+            "image": "shopify:\/\/shop_images\/warrior-goalie-masks-senior-warrior-ritual-f2-e-senior-goalie-mask-30797508935746.jpg",
+            "title": "Masks",
+            "collection_link": ""
+          }
+        },
+        "collection_item_7CdKzE": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "catchers",
+            "image": "shopify:\/\/shop_images\/bauer-catchers-bauer-learn-to-save-goalie-catcher-black-full-right-31840048447554.jpg",
+            "title": "Catchers",
+            "collection_link": ""
+          }
+        },
+        "collection_item_paaADt": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "goalie-blockers",
+            "image": "shopify:\/\/shop_images\/vaughn-blockers-vaughn-velocity-v10-pro-carbon-senior-goalie-blocker-swirl-graphic-31748135256130.jpg",
+            "title": "Blockers",
+            "collection_link": ""
+          }
+        },
+        "collection_item_r3x7M7": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "goalie-chest-protectors",
+            "image": "shopify:\/\/shop_images\/ccm-chest-protectors-ccm-pro-spec-senior-chest-arm-protector-31229408542786.jpg",
+            "title": "Chest Protectors",
+            "collection_link": ""
+          }
+        },
+        "collection_item_Jn43Pp": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "goalie-pants",
+            "image": "shopify:\/\/shop_images\/ccm-goalie-pants-ccm-axis-f5-junior-goalie-pants-31229451731010.jpg",
+            "title": "Pants",
             "collection_link": ""
           }
         }
@@ -172,7 +209,11 @@
         "collection_item_wVfBGT",
         "collection_item_FfCWQ6",
         "collection_item_p6abbX",
-        "collection_item_aJhRNQ"
+        "collection_item_aJhRNQ",
+        "collection_item_7CdKzE",
+        "collection_item_paaADt",
+        "collection_item_r3x7M7",
+        "collection_item_Jn43Pp"
       ],
       "settings": {
         "heading_align": "center",
@@ -210,8 +251,8 @@
         "boxed_fullwidth": false,
         "boxed_content": false,
         "color_scheme": "",
-        "padding_top": 24,
-        "padding_bottom": 52,
+        "padding_top": 30,
+        "padding_bottom": 40,
         "padding_rate": 75
       }
     },
