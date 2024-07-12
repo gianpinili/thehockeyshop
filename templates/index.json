@@ -942,7 +942,7 @@
         "dotUI": false,
         "dots_pos": "outline",
         "section_fullwidth": true,
-        "boxed_fullwidth": true,
+        "boxed_fullwidth": false,
         "color_scheme": "",
         "padding_top": 0,
         "padding_bottom": 52,
