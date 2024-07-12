@@ -1442,7 +1442,7 @@
           "type": "gallery_item",
           "settings": {
             "image": "shopify:\/\/shop_images\/PROTOR.jpg",
-            "item_link": "",
+            "item_link": "https:\/\/www.thehockeyshop.com\/collections\/bauer-proto-r",
             "product_item": ""
           }
         },
@@ -1450,7 +1450,7 @@
           "type": "gallery_item",
           "settings": {
             "image": "shopify:\/\/shop_images\/FTW.jpg",
-            "item_link": "",
+            "item_link": "https:\/\/www.thehockeyshop.com\/collections\/ccm-jetspeed-ftw-womens-collection",
             "product_item": ""
           }
         },
@@ -1458,7 +1458,7 @@
           "type": "gallery_item",
           "settings": {
             "image": "shopify:\/\/shop_images\/BEDSY.jpg",
-            "item_link": "",
+            "item_link": "https:\/\/www.thehockeyshop.com\/collections\/sherwood",
             "product_item": ""
           }
         },
@@ -1466,7 +1466,7 @@
           "type": "gallery_item",
           "settings": {
             "image": "shopify:\/\/shop_images\/NOVIUM.jpg",
-            "item_link": "",
+            "item_link": "https:\/\/www.thehockeyshop.com\/collections\/warrior-super-novium",
             "product_item": ""
           }
         },
@@ -1474,7 +1474,7 @@
           "type": "gallery_item",
           "settings": {
             "image": "shopify:\/\/shop_images\/SYNC.jpg",
-            "item_link": "",
+            "item_link": "https:\/\/www.thehockeyshop.com\/collections\/bauer-sync-sticks",
             "product_item": ""
           }
         }
