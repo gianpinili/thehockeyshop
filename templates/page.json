@@ -379,6 +379,51 @@
         "padding_bottom": 52,
         "padding_rate": 75
       }
+    },
+    "featured_collection_carousel_iiL9bG": {
+      "type": "featured-collection-carousel",
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Super Sale Sticks",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "btn_heading": false,
+        "nav_heading": "disable",
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection": "sale-goalie-sticks",
+        "product_list": [
+
+        ],
+        "product_des": "1",
+        "image_ratio": "adapt_image",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 12,
+        "col_dk": "5",
+        "col_tb": "4",
+        "col_mb": "2",
+        "half_item": false,
+        "navUI": true,
+        "nav_des": "outline",
+        "nav_pos": "middle_out",
+        "dotUI": false,
+        "pagination_type": "none",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "View all",
+        "btn_style": "solid",
+        "btn_fw": "normal",
+        "section_fullwidth": true,
+        "color_scheme": "",
+        "padding_top": 9,
+        "padding_bottom": 21,
+        "padding_rate": 75
+      }
     }
   },
   "order": [
@@ -386,6 +431,7 @@
     "marquee_cy3Qc8",
     "collections_list_QLied3",
     "image_gallery_LUgwe8",
-    "image_with_tabs_content_FaieMG"
+    "image_with_tabs_content_FaieMG",
+    "featured_collection_carousel_iiL9bG"
   ]
 }
