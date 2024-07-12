@@ -537,6 +537,57 @@
         "padding_bottom": 52,
         "padding_rate": 75
       }
+    },
+    "image_with_text_gcKQCJ": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_RqaUeb": {
+          "type": "heading",
+          "settings": {
+            "heading": "It's a great day for hockey",
+            "heading_fs": "h4"
+          }
+        },
+        "text_KezTrH": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Over 30 years of pure hockey passion.<\/p><p>Fast shipping. Easy returns. Expert advice.<\/p><p>Hockey's best. Delivered to your door.<\/p>"
+          }
+        },
+        "button_jNFUqd": {
+          "type": "button",
+          "settings": {
+            "btn_label": "About Us",
+            "btn_link": "shopify:\/\/pages\/about-the-hockey-shop-source-for-sports",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_RqaUeb",
+        "text_KezTrH",
+        "button_jNFUqd"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/SFS_Logo_Horizontal_The_Hockey_Shop_Black_2_9769cd48-6b92-4e9c-972f-1a9871e25397.png",
+        "style_image": "1",
+        "image_effect": "lunc",
+        "color_scheme": "",
+        "image_last": false,
+        "content_position": "center",
+        "alignment": "center",
+        "content_pl": 0,
+        "image_last_mb": false,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
     }
   },
   "order": [
@@ -547,6 +598,7 @@
     "image_with_tabs_content_FaieMG",
     "featured_collection_carousel_iiL9bG",
     "image_with_text_rdAQc9",
-    "featured_collection_carousel_Dp8fiz"
+    "featured_collection_carousel_Dp8fiz",
+    "image_with_text_gcKQCJ"
   ]
 }
