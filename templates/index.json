@@ -1390,21 +1390,6 @@
         "padding_rate": 75
       }
     },
-    "custom_line_TU48An": {
-      "type": "custom-line",
-      "disabled": true,
-      "settings": {
-        "line_style": "solid",
-        "line_width": 100,
-        "line_height": 1,
-        "line_cl": "#ebebeb",
-        "line_pos": "center",
-        "section_fullwidth": true,
-        "padding_top": 83,
-        "padding_bottom": 81,
-        "padding_rate": 30
-      }
-    },
     "featured_collection_carousel_GEc7W8": {
       "type": "featured-collection-carousel",
       "settings": {
@@ -1444,6 +1429,85 @@
         "btn_style": "solid",
         "btn_fw": "normal",
         "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 52,
+        "padding_rate": 75
+      }
+    },
+    "image_gallery_L6CNUr": {
+      "type": "image-gallery",
+      "blocks": {
+        "gallery_item_V8hUgR": {
+          "type": "gallery_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PROTOR.jpg",
+            "item_link": "",
+            "product_item": ""
+          }
+        },
+        "gallery_item_hPLacT": {
+          "type": "gallery_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FTW.jpg",
+            "item_link": "",
+            "product_item": ""
+          }
+        },
+        "gallery_item_7AdBm9": {
+          "type": "gallery_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BEDSY.jpg",
+            "item_link": "",
+            "product_item": ""
+          }
+        },
+        "gallery_item_cbJt3E": {
+          "type": "gallery_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/NOVIUM.jpg",
+            "item_link": "",
+            "product_item": ""
+          }
+        },
+        "gallery_item_UfiG3Y": {
+          "type": "gallery_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SYNC.jpg",
+            "item_link": "",
+            "product_item": ""
+          }
+        }
+      },
+      "block_order": [
+        "gallery_item_V8hUgR",
+        "gallery_item_hPLacT",
+        "gallery_item_7AdBm9",
+        "gallery_item_cbJt3E",
+        "gallery_item_UfiG3Y"
+      ],
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Shop Our Icons",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "image_ratio": "square",
+        "image_size": true,
+        "col_dk": "5",
+        "col_tb": "2",
+        "col_mb": "1",
+        "spacing_items": 10,
+        "navUI": false,
+        "nav_des": "default",
+        "dotUI": false,
+        "dots_pos": "outline",
+        "section_fullwidth": false,
+        "boxed_fullwidth": false,
         "color_scheme": "",
         "padding_top": 0,
         "padding_bottom": 52,
@@ -1620,8 +1684,8 @@
     "infinite_loop_slider_7e8f3X",
     "testinonial_with_image_jarUfm",
     "custom_section_VtTM4g",
-    "custom_line_TU48An",
     "featured_collection_carousel_GEc7W8",
+    "image_gallery_L6CNUr",
     "image_with_text_VXFxkV",
     "icon_box_JfJQBV"
   ]
