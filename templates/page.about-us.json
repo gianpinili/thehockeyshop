@@ -81,43 +81,44 @@
     "banner_dWNWMB": {
       "type": "banner",
       "blocks": {
-        "banner_3_YtzxGe": {
+        "banner_3_egTznK": {
           "type": "banner_3",
           "settings": {
             "image": "shopify:\/\/shop_images\/store-history.jpg",
-            "color_scheme": "scheme-1",
+            "color_scheme": "scheme-2",
             "banner_url": "",
             "banner_target": false,
-            "sub_heading": "UP TO 30% OFF",
+            "sub_heading": "",
             "sub_heading_fs": "base",
             "sub_heading_fw": "bold",
-            "sub_heading_space": 0,
-            "heading": "Store History",
-            "heading_fs": "h3",
+            "sub_heading_space": 12,
+            "heading": "STORE HISTORY",
+            "heading_fs": "h4",
             "heading_fw": "extrabold",
-            "heading_space": 18,
-            "desc": "Discover the season's hottest trends and elevate",
-            "des_space": 28,
-            "btn_label": "Shop now",
+            "heading_space": 0,
+            "desc": "It's been an eventful 30+ years. Friendly shop dogs warmed our hearts and made us smile. Hall of fame hockey players inspired our community. And a building fire brought the very best out of our team.",
+            "des_space": 9,
+            "btn_label": "Read More",
             "btn_link": "",
             "target": false,
             "btn_size": "base",
-            "btn_style": "solid",
+            "btn_style": "link",
             "btn_fw": "normal",
-            "btn_icon": "1",
-            "content_position": "end-start",
+            "btn_icon": "none",
+            "content_position": "end-center",
             "alignment": "center",
             "content_position_mb": "center",
             "alignment_mb": "center"
           }
         },
-        "banner_3_bg3cYr": {
+        "banner_3_KaMRUH": {
           "type": "banner_3",
           "settings": {
+            "image": "shopify:\/\/shop_images\/store-history.jpg",
             "color_scheme": "",
             "banner_url": "",
             "banner_target": false,
-            "sub_heading": "UP TO 30% OFF",
+            "sub_heading": "",
             "sub_heading_fs": "base",
             "sub_heading_fw": "bold",
             "sub_heading_space": 12,
@@ -140,7 +141,7 @@
             "alignment_mb": "center"
           }
         },
-        "banner_3_KaMRUH": {
+        "banner_3_HVXJTj": {
           "type": "banner_3",
           "settings": {
             "color_scheme": "",
@@ -171,14 +172,34 @@
         }
       },
       "block_order": [
-        "banner_3_YtzxGe",
-        "banner_3_bg3cYr",
-        "banner_3_KaMRUH"
+        "banner_3_egTznK",
+        "banner_3_KaMRUH",
+        "banner_3_HVXJTj"
       ],
       "custom_css": [
-        "img {opacity: 0.4;}",
-        "img:hover {opacity: 1;}"
+        "img {opacity: 0.5;}",
+        "div:hover img {opacity: 1;}"
       ],
+      "settings": {
+        "full_width": false,
+        "boxed_fullwidth": false,
+        "col_dk": "3",
+        "row_height": 670,
+        "content_pd_y": 15,
+        "content_pd_x": 20,
+        "space_item": 30,
+        "col_tb": "2",
+        "row_height_tb": 500,
+        "space_item_tb": 15,
+        "row_height_mb": 250,
+        "space_item_mb": 15,
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "banner_nwwdcR": {
+      "type": "banner",
       "settings": {
         "full_width": false,
         "boxed_fullwidth": false,
@@ -316,6 +337,7 @@
     "image_with_text_qpdgnn",
     "video_2_cb8CAT",
     "banner_dWNWMB",
+    "banner_nwwdcR",
     "banner_masonry_Pfpr6Q"
   ]
 }
