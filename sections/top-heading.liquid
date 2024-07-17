@@ -1,5 +1,50 @@
 <!-- sections/top-heading.liquid -->
-{%- style -%}#shopify-section-{{section.id}}{--section-pt:{{section.settings.padding_top}}px;--section-pb:{{section.settings.padding_bottom}}px;--spacing-y:{{section.settings.spacing_item | times:0.5}}px;--section-prate:{{section.settings.padding_rate}}}@media (min-width:768px){#shopify-section-{{section.id}}{--spacing-y:{{section.settings.spacing_item | times:0.75}}px}}@media (min-width:1150px){#shopify-section-{{section.id}}{--spacing-y:{{section.settings.spacing_item}}px}}@media (max-width:767px){#shopify-section-{{section.id}}:where(.hdt-text-lg,.hdt-text-xl){font-size:var(--text-base)}}{%- endstyle -%}
+{%- style -%}
+#shopify-section-{{section.id}} {
+  --section-pt: {{section.settings.padding_top}}px;
+  --section-pb: {{section.settings.padding_bottom}}px;
+  --spacing-y: {{section.settings.spacing_item | times: 0.5}}px;
+  --section-prate: {{section.settings.padding_rate}};
+  --button-bg-color: {{ section.settings.button_bg_color }};
+}
+
+@media (min-width: 768px) {
+  #shopify-section-{{section.id}} {
+    --spacing-y: {{section.settings.spacing_item | times: 0.75}}px;
+  }
+}
+
+@media (min-width: 1150px) {
+  #shopify-section-{{section.id}} {
+    --spacing-y: {{section.settings.spacing_item}}px;
+  }
+}
+
+@media (max-width: 767px) {
+  #shopify-section-{{section.id}} :where(.hdt-text-lg, .hdt-text-xl) {
+    font-size: var(--text-base);
+  }
+}
+
+.hdt-button {
+  background-color: var(--button-bg-color);
+  color: #fff; /* Adjust text color as needed */
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 10px 2px;
+  transition-duration: 0.4s;
+}
+
+.hdt-button:hover {
+  background-color: darken(var(--button-bg-color), 10%);
+}
+{%- endstyle -%}
+
 <div class="hdt-section-spacing hdt-s-gradient" color-scheme="{{ section.settings.color_scheme }}">
   <div class="hdt-container{% if section.settings.fullwidth %}-full{% endif %}">
     <div class="hdt-row-grid hdt-text-{{ section.settings.alignment_mb }} md:hdt-text-{{ section.settings.alignment }} hdt-grid-cols-1">
@@ -12,6 +57,10 @@
           {%- when 'sub_heading' -%}
             {%- if block.settings.sub_heading != blank -%}
               <p class="hdt-s-text2 hdt-text-{{ block.settings.sub_heading_fs }}">{{ block.settings.sub_heading }}</p>
+            {%- endif -%}
+          {%- when 'button' -%}
+            {%- if block.settings.button_text != blank and block.settings.button_link != blank -%}
+              <a href="{{ block.settings.button_link }}" class="hdt-button">{{ block.settings.button_text }}</a>
             {%- endif -%}
         {%- endcase -%}
       {%- endfor -%}
@@ -95,6 +144,12 @@
       "unit": "%",
       "label": "t:sections.all.padding.padding_rate",
       "default": 75
+    },
+    {
+      "type": "color",
+      "id": "button_bg_color",
+      "label": "Button Background Color",
+      "default": "#000000"
     }
   ],
   "blocks": [
@@ -177,6 +232,24 @@
           "default": "base"
         }
       ]
+    },
+    {
+      "type": "button",
+      "name": "Button",
+      "limit": 1,
+      "settings": [
+        {
+          "type": "text",
+          "id": "button_text",
+          "label": "Button Text",
+          "default": "Click Here"
+        },
+        {
+          "type": "url",
+          "id": "button_link",
+          "label": "Button Link"
+        }
+      ]
     }
   ],
   "presets": [
@@ -196,9 +269,17 @@
             "sub_heading": "Welcome to our classic women's clothing store, where we believe<br> that timeless style never goes out of fashion. Our collection features classic<br> pieces that are both stylish and versatile, perfect for building a<br> wardrobe that will last for years.",
             "sub_heading_fs": "base"
           }
+        },
+        {
+          "type": "button",
+          "settings": {
+                       "button_text": "Shop Now",
+            "button_link": "/collections/all"
+          }
         }
       ]
     }
   ]
 }
 {% endschema %}
+
