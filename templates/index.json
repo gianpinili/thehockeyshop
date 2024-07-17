@@ -235,6 +235,49 @@
         "padding_rate": 75
       }
     },
+    "top_heading_eLfALw": {
+      "type": "top-heading",
+      "blocks": {
+        "heading_cX8Fpq": {
+          "type": "heading",
+          "settings": {
+            "heading": "Prime Day Sale",
+            "heading_fs": "h2"
+          }
+        },
+        "sub_heading_V9aBD8": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Black Friday in July.<br>It's prime time to elevate your game. Score up to 50% off.",
+            "sub_heading_fs": "lg"
+          }
+        },
+        "button_KE7XmX": {
+          "type": "button",
+          "settings": {
+            "button_text": "Shop Now",
+            "button_link": "shopify:\/\/collections\/all-clearance",
+            "button-color": "#1a98ff"
+          }
+        }
+      },
+      "block_order": [
+        "heading_cX8Fpq",
+        "sub_heading_V9aBD8",
+        "button_KE7XmX"
+      ],
+      "settings": {
+        "spacing_item": 21,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 68,
+        "padding_rate": 75,
+        "button_bg_color": "#ffffff"
+      }
+    },
     "282a0160-505d-43ff-b601-043a5a327bc2": {
       "type": "collections-list",
       "blocks": {
@@ -363,49 +406,6 @@
         "padding_top": 24,
         "padding_bottom": 18,
         "padding_rate": 40
-      }
-    },
-    "top_heading_eLfALw": {
-      "type": "top-heading",
-      "blocks": {
-        "heading_cX8Fpq": {
-          "type": "heading",
-          "settings": {
-            "heading": "Prime Day Sale",
-            "heading_fs": "h2"
-          }
-        },
-        "sub_heading_V9aBD8": {
-          "type": "sub_heading",
-          "settings": {
-            "sub_heading": "Black Friday in July.<br>It's prime time to elevate your game. Score up to 50% off.",
-            "sub_heading_fs": "lg"
-          }
-        },
-        "button_KE7XmX": {
-          "type": "button",
-          "settings": {
-            "button_text": "Shop Now",
-            "button_link": "shopify:\/\/collections\/all-clearance",
-            "button-color": "#1a98ff"
-          }
-        }
-      },
-      "block_order": [
-        "heading_cX8Fpq",
-        "sub_heading_V9aBD8",
-        "button_KE7XmX"
-      ],
-      "settings": {
-        "spacing_item": 21,
-        "alignment": "center",
-        "alignment_mb": "center",
-        "fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 68,
-        "padding_rate": 75,
-        "button_bg_color": "#ffffff"
       }
     },
     "featured_collection_carousel_tparE8": {
@@ -1595,8 +1595,8 @@
     "categories_section_m9EMCJ",
     "c28ddbdb-d0df-4b86-9b0a-674df42ecc5c",
     "marquee_JjnJ7y",
-    "282a0160-505d-43ff-b601-043a5a327bc2",
     "top_heading_eLfALw",
+    "282a0160-505d-43ff-b601-043a5a327bc2",
     "featured_collection_carousel_tparE8",
     "hero_image_krPDV6",
     "hero_image_E4PYVD",
