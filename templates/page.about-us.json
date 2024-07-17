@@ -243,7 +243,7 @@
             "sub_heading_fw": "extrabold",
             "sub_heading_space": 12,
             "heading": "DEDICATED TEAM STORES",
-            "heading_fs": "h4",
+            "heading_fs": "h3",
             "heading_fw": "black",
             "heading_space": 16,
             "desc": "Create a custom team store for your entire hockey program. Shop custom apparel, jerseys, and gear with personalized logos and embroidery all in one spot. The easiest way to gear up players, parents, and coaches.",
@@ -478,12 +478,29 @@
         "padding_bottom": 40,
         "padding_rate": 75
       }
+    },
+    "map_pin_info_mhyYji": {
+      "type": "map-pin-info",
+      "settings": {
+        "full_width": true,
+        "color_scheme": "",
+        "use_map": true,
+        "map": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d5222.279215361431!2d-122.6675797877455!3d49.121983682000774!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5485d82ad463e66d%3A0x34d1a44f690a7f44!2sThe%20Hockey%20Shop%20Source%20For%20Sports!5e0!3m2!1sen!2sca!4v1721244034052!5m2!1sen!2sca\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>",
+        "filter_map": 0,
+        "custom_h_dk": 600,
+        "custom_h_tb": 450,
+        "custom_h_mb": 300,
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
     }
   },
   "order": [
     "main",
     "image_with_text_qpdgnn",
     "video_2_cb8CAT",
-    "banner_dWNWMB"
+    "banner_dWNWMB",
+    "map_pin_info_mhyYji"
   ]
 }
