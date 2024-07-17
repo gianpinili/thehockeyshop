@@ -120,7 +120,7 @@
             "banner_target": false,
             "sub_heading": "",
             "sub_heading_fs": "base",
-            "sub_heading_fw": "black",
+            "sub_heading_fw": "extrabold",
             "sub_heading_space": 7,
             "heading": "SOURCE EXCLUSIVE PRODUCTS",
             "heading_fs": "h5",
@@ -140,20 +140,50 @@
             "content_position_mb": "center",
             "alignment_mb": "center"
           }
+        },
+        "banner_3_EqCJWL": {
+          "type": "banner_3",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/square_goalie.jpg",
+            "color_scheme": "scheme-3",
+            "banner_url": "",
+            "banner_target": false,
+            "sub_heading": "",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "extrabold",
+            "sub_heading_space": 12,
+            "heading": "Goalie Department",
+            "heading_fs": "h5",
+            "heading_fw": "extrabold",
+            "heading_space": 16,
+            "desc": "Some call it goalie paradise. We have an entire section dedicated to  our favourite puck stoppers. Our goalie experts are goalies too - so they get it.",
+            "des_space": 10,
+            "btn_label": "Read More",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "link",
+            "btn_fw": "normal",
+            "btn_icon": "1",
+            "content_position": "end-start",
+            "alignment": "center",
+            "content_position_mb": "center",
+            "alignment_mb": "center"
+          }
         }
       },
       "block_order": [
         "banner_3_egTznK",
-        "banner_3_XDnzCb"
+        "banner_3_XDnzCb",
+        "banner_3_EqCJWL"
       ],
       "custom_css": [
-        "img {opacity: 0.4;}",
-        "div:hover img {opacity: 1;}"
+        "img {opacity: 0.25;}"
       ],
       "settings": {
-        "full_width": false,
-        "boxed_fullwidth": false,
-        "col_dk": "3",
+        "full_width": true,
+        "boxed_fullwidth": true,
+        "col_dk": "2",
         "row_height": 670,
         "content_pd_y": 15,
         "content_pd_x": 20,
