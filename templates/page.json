@@ -74,49 +74,6 @@
         "padding_rate": 75
       }
     },
-    "top_heading_4iawTD": {
-      "type": "top-heading",
-      "blocks": {
-        "heading_qUaTde": {
-          "type": "heading",
-          "settings": {
-            "heading": "Prime Day Sale",
-            "heading_fs": "h4"
-          }
-        },
-        "sub_heading_nkDnhG": {
-          "type": "sub_heading",
-          "settings": {
-            "sub_heading": "Black Friday in July.<br>It's prime time to elevate your game. Score up to 50% off.",
-            "sub_heading_fs": "base"
-          }
-        },
-        "button_GtddfV": {
-          "type": "button",
-          "settings": {
-            "button_text": "Shop Now",
-            "button_link": "\/collections\/all",
-            "button-color": "#1a98ff"
-          }
-        }
-      },
-      "block_order": [
-        "heading_qUaTde",
-        "sub_heading_nkDnhG",
-        "button_GtddfV"
-      ],
-      "settings": {
-        "spacing_item": 30,
-        "alignment": "center",
-        "alignment_mb": "center",
-        "fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "padding_rate": 75,
-        "button_bg_color": "#000000"
-      }
-    },
     "marquee_cy3Qc8": {
       "type": "marquee",
       "blocks": {
@@ -170,6 +127,49 @@
         "padding_top": 12,
         "padding_bottom": 12,
         "padding_rate": 75
+      }
+    },
+    "top_heading_4iawTD": {
+      "type": "top-heading",
+      "blocks": {
+        "heading_qUaTde": {
+          "type": "heading",
+          "settings": {
+            "heading": "Prime Day Sale",
+            "heading_fs": "h4"
+          }
+        },
+        "sub_heading_nkDnhG": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Black Friday in July.<br>It's prime time to elevate your game. Score up to 50% off.",
+            "sub_heading_fs": "base"
+          }
+        },
+        "button_GtddfV": {
+          "type": "button",
+          "settings": {
+            "button_text": "Shop Now",
+            "button_link": "\/collections\/all",
+            "button-color": "#1a98ff"
+          }
+        }
+      },
+      "block_order": [
+        "heading_qUaTde",
+        "sub_heading_nkDnhG",
+        "button_GtddfV"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75,
+        "button_bg_color": "#000000"
       }
     },
     "collections_list_QLied3": {
@@ -811,8 +811,8 @@
   },
   "order": [
     "slideshow_q7pEg9",
-    "top_heading_4iawTD",
     "marquee_cy3Qc8",
+    "top_heading_4iawTD",
     "collections_list_QLied3",
     "image_gallery_LUgwe8",
     "image_with_tabs_content_FaieMG",
