@@ -475,11 +475,11 @@
         "col_tb": "2",
         "row_height_tb": 500,
         "space_item_tb": 20,
-        "row_height_mb": 250,
+        "row_height_mb": 380,
         "space_item_mb": 15,
         "padding_top": 40,
         "padding_bottom": 40,
-        "padding_rate": 75
+        "padding_rate": 100
       }
     },
     "map_pin_info_mhyYji": {
