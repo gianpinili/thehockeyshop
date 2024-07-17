@@ -136,7 +136,7 @@
           "type": "heading",
           "settings": {
             "heading": "Prime Day Sale",
-            "heading_fs": "h4"
+            "heading_fs": "h3"
           }
         },
         "sub_heading_nkDnhG": {
@@ -150,7 +150,7 @@
           "type": "button",
           "settings": {
             "button_text": "Shop Now",
-            "button_link": "\/collections\/all",
+            "button_link": "shopify:\/\/collections\/all-clearance",
             "button-color": "#1a98ff"
           }
         }
