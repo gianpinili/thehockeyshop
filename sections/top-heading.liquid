@@ -60,13 +60,23 @@
             {%- endif -%}
           {%- when 'button' -%}
             {%- if block.settings.button_text != blank and block.settings.button_link != blank -%}
+              <div class="hdt-btn-container">
               <a href="{{ block.settings.button_link }}" class="hdt-button" style="background-color: {{ block.settings.button-color }}">{{ block.settings.button_text }}</a>
-            {%- endif -%}
+              </div>
+                {%- endif -%}
         {%- endcase -%}
       {%- endfor -%}
     </div>
   </div>
 </div>
+
+<style>
+  .hdt-btn-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+</style>
 
 {% schema %}
 {
