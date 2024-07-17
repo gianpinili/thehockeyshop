@@ -536,7 +536,7 @@
         "half_item": false,
         "navUI": true,
         "nav_des": "outline",
-        "nav_pos": "middle_in",
+        "nav_pos": "middle_out",
         "dotUI": true,
         "pagination_type": "none",
         "paginate_pos": "center",
