@@ -61,7 +61,7 @@
           {%- when 'button' -%}
             {%- if block.settings.button_text != blank and block.settings.button_link != blank -%}
               <div class="hdt-btn-container">
-              <a href="{{ block.settings.button_link }}" class="hdt-button" style="background-color: {{ block.settings.button-color }}">{{ block.settings.button_text }}</a>
+              <a href="{{ block.settings.button_link }}" class="hdt-button hdt-btn" style="background-color: {{ block.settings.button-color }}">{{ block.settings.button_text }}</a>
               </div>
                 {%- endif -%}
         {%- endcase -%}
