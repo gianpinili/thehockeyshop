@@ -161,7 +161,7 @@
         "button_GtddfV"
       ],
       "settings": {
-        "spacing_item": 30,
+        "spacing_item": 16,
         "alignment": "center",
         "alignment_mb": "center",
         "fullwidth": false,
