@@ -365,6 +365,48 @@
         "padding_rate": 40
       }
     },
+    "top_heading_eLfALw": {
+      "type": "top-heading",
+      "blocks": {
+        "heading_cX8Fpq": {
+          "type": "heading",
+          "settings": {
+            "heading": "Prime Day Sale",
+            "heading_fs": "h2"
+          }
+        },
+        "sub_heading_V9aBD8": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Black Friday in July.<br>It's prime time to elevate your game. Score up to 50% off.",
+            "sub_heading_fs": "lg"
+          }
+        },
+        "button_KE7XmX": {
+          "type": "button",
+          "settings": {
+            "button_text": "Shop Now",
+            "button_link": "shopify:\/\/collections\/all-clearance"
+          }
+        }
+      },
+      "block_order": [
+        "heading_cX8Fpq",
+        "sub_heading_V9aBD8",
+        "button_KE7XmX"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75,
+        "button_bg_color": "#000000"
+      }
+    },
     "hero_image_krPDV6": {
       "type": "hero-image",
       "settings": {
@@ -1508,6 +1550,7 @@
     "c28ddbdb-d0df-4b86-9b0a-674df42ecc5c",
     "marquee_JjnJ7y",
     "282a0160-505d-43ff-b601-043a5a327bc2",
+    "top_heading_eLfALw",
     "hero_image_krPDV6",
     "hero_image_E4PYVD",
     "featured_collection_carousel_YDkkkx",
