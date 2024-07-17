@@ -303,9 +303,9 @@
         "menu_size": "lg",
         "menu_weight": "medium",
         "text_transform": false,
-        "dropdown_arrow": true,
+        "dropdown_arrow": false,
         "active_link": true,
-        "spacing_nav": 32,
+        "spacing_nav": 30,
         "open_event": "hover",
         "header_menu_colors": "scheme-1",
         "enabled_user": true,
@@ -322,7 +322,7 @@
         "header_transparent": false,
         "header_transparent_colors": "",
         "sticky_type": "on_scroll_up",
-        "sticky_glass": false
+        "sticky_glass": true
       }
     }
   },
