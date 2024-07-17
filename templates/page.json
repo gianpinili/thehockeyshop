@@ -509,6 +509,7 @@
     },
     "featured_collection_carousel_Dp8fiz": {
       "type": "featured-collection-carousel",
+      "disabled": true,
       "settings": {
         "heading_align": "center",
         "sec_heading": "Supreme Mach Sale",
@@ -549,6 +550,54 @@
         "color_scheme": "",
         "padding_top": 0,
         "padding_bottom": 52,
+        "padding_rate": 75
+      }
+    },
+    "featured_collection_grid_KzNwxX": {
+      "type": "featured-collection-grid",
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Supreme Mach Sale",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection": "bauer-supreme-mach-goalie-equipment-collection",
+        "product_list": [
+          "bauer-supreme-m5-pro-senior-goalie-stick",
+          "bauer-supreme-mach-senior-goalie-stick",
+          "bauer-supreme-m5-pro-intermediate-goalie-blocker",
+          "bauer-supreme-m5-pro-intermediate-goalie-catcher",
+          "bauer-supreme-m5-pro-intermediate-goalie-leg-pads",
+          "bauer-supreme-m5-pro-senior-goalie-catcher",
+          "bauer-supreme-m5-pro-senior-goalie-blocker",
+          "bauer-supreme-m5-pro-senior-goalie-leg-pads",
+          "bauer-supreme-mach-senior-goalie-catcher",
+          "bauer-nme-one-senior-goalie-mask"
+        ],
+        "product_des": "1",
+        "image_ratio": "adapt_image",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 10,
+        "col_dk": "5",
+        "col_tb": "3",
+        "col_mb": "2",
+        "pagination_type": "none",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "View all",
+        "btn_style": "solid",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 50,
         "padding_rate": 75
       }
     },
@@ -727,6 +776,7 @@
     "featured_collection_carousel_iiL9bG",
     "image_with_text_rUEA8j",
     "featured_collection_carousel_Dp8fiz",
+    "featured_collection_grid_KzNwxX",
     "image_with_text_rdAQc9",
     "featured_collection_carousel_gAEwif",
     "image_with_text_gcKQCJ"
