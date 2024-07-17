@@ -5588,9 +5588,6 @@
         },
         "sub_heading": {
           "label": "Sub heading"
-        },
-        "button": {
-          "label": "Button"
         }
       }
     },
