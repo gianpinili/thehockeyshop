@@ -49,6 +49,9 @@
         "heading_nBnpLM",
         "text_4XQzk8"
       ],
+      "custom_css": [
+        "p {font-size: 1.5rem;}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/bauer-2014.jpg",
         "style_image": "1",
