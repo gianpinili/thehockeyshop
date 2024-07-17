@@ -386,7 +386,8 @@
           "type": "button",
           "settings": {
             "button_text": "Shop Now",
-            "button_link": "shopify:\/\/collections\/all-clearance"
+            "button_link": "shopify:\/\/collections\/all-clearance",
+            "button-color": "#1a98ff"
           }
         }
       },
