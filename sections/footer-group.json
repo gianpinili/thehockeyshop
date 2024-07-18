@@ -24,7 +24,7 @@
             "html_content": "<p>20202 66 Ave<\/p><p>Langley, BC<\/p><p>Email: <a href=\"mailto:sales@thehockeyshop.com\" title=\"mailto:sales@thehockeyshop.com\"><strong>sales@thehockeyshop.com<\/strong><\/a><\/p><p>Phone: <a href=\"tel:6045898299\" title=\"tel:6045898299\"><strong>(604) 589-8299<\/strong><\/a><\/p>",
             "adding_border": false,
             "btn_label": "Get directions",
-            "btn_link": "shopify:\/\/pages\/contact-1",
+            "btn_link": "https:\/\/maps.app.goo.gl\/r9HBQDhgxiE6XSndA",
             "btn_fw": "semibold",
             "enable_social": true,
             "socials_style": "outline",
