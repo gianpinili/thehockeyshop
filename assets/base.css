@@ -219,7 +219,7 @@ textarea {
   touch-action: manipulation;
 }
 :where(audio, canvas, embed, iframe, img, object, svg, video) {
-  display: block;
+  /* display: block; */
   vertical-align: middle;
 }
 img,
