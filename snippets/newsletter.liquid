@@ -15,7 +15,7 @@
            <input type="email" name="contact[email]" placeholder="{{ 'sections.newsletter_form.email_placeholder' | t }}"  value="{% if customer %}{{ customer.email }}{% endif %}" class="{{ class_ip }} hdt-newsletter__email hdt-flex hdt-align-center hdt-input" required="required">
          </div>
           <div class="{{ class_btn }} is--col-btn hdt-b hdt-flex ">
-            <button {{ aria_label_btn }} data-agreeMail-btn type="submit" class="hdt-w-100 hdt-newsletter__submit hdt-truncate hdt-btn-loading__svg hdt-flex hdt-align-center hdt-btn hdt-btn-solid hdt-button hdt-font-{{ btn_fw }} hdt-oh hdt-relative">
+            <button {{ aria_label_btn }} data-agreeMail-btn type="submit" style="background: black; color: white; margin: 0;" class="hdt-w-100 hdt-newsletter__submit hdt-truncate hdt-btn-loading__svg hdt-flex hdt-align-center hdt-btn hdt-btn-solid hdt-button hdt-font-{{ btn_fw }} hdt-oh hdt-relative">
               <span class="hdt-newsletter__text">{{ button_lb }}</span>
               {%- if show_icon == true -%}
                 <span class="hdt-loading__spinner hdt-dn">
