@@ -72,10 +72,10 @@
     "video_2_cb8CAT": {
       "type": "video-2",
       "settings": {
-        "external_video_url": "<iframe width=\"1266\" style=\"border-radius: 10px;\" height=\"712\" src=\"https:\/\/www.youtube.com\/embed\/0dNEJ6YoWWY\" title=\"The Hockey Shop Source for Sports Store Tour\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>",
+        "external_video_url": "<iframe width=\"1800\" style=\"border-radius: 10px; \" height=\"850\" src=\"https:\/\/www.youtube.com\/embed\/0dNEJ6YoWWY\" title=\"The Hockey Shop Source for Sports Store Tour\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>",
         "video_ratio": "adapt_video",
         "color_scheme": "",
-        "full_width": true,
+        "full_width": false,
         "padding_top": 0,
         "padding_bottom": 0,
         "padding_rate": 75
