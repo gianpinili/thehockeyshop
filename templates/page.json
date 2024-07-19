@@ -135,14 +135,14 @@
         "heading_qUaTde": {
           "type": "heading",
           "settings": {
-            "heading": "Prime Day Sale",
+            "heading": "Black Friday in July.",
             "heading_fs": "h3"
           }
         },
         "sub_heading_nkDnhG": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "Black Friday in July.<br>It's prime time to elevate your game. Score up to 50% off.",
+            "sub_heading": "Jump start the season with savings.<br>It's prime time to elevate your game. Score up to 50% off.",
             "sub_heading_fs": "base"
           }
         },
