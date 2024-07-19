@@ -462,24 +462,25 @@
       "custom_css": [
         "img {opacity: 0.5;}",
         "div:hover img {opacity: 0.7;}",
-        "p {background-color: rgba(255, 255, 255, 0.85); border-radius: 8px; padding: 2px 30px; margin: 0 60px;}"
+        "p {background-color: rgba(255, 255, 255, 0.85); border-radius: 8px; padding: 2px 30px; margin: 0 60px;}",
+        "@media (max-width: 1500px) {p {display: none; }}"
       ],
       "settings": {
         "full_width": true,
         "boxed_fullwidth": true,
         "col_dk": "3",
-        "row_height": 670,
+        "row_height": 600,
         "content_pd_y": 17,
         "content_pd_x": 29,
         "space_item": 30,
         "col_tb": "2",
         "row_height_tb": 500,
         "space_item_tb": 20,
-        "row_height_mb": 380,
+        "row_height_mb": 300,
         "space_item_mb": 15,
         "padding_top": 40,
         "padding_bottom": 40,
-        "padding_rate": 100
+        "padding_rate": 68
       }
     },
     "map_pin_info_mhyYji": {

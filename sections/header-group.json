@@ -305,7 +305,7 @@
         "text_transform": false,
         "dropdown_arrow": false,
         "active_link": true,
-        "spacing_nav": 30,
+        "spacing_nav": 25,
         "open_event": "hover",
         "header_menu_colors": "scheme-1",
         "enabled_user": true,
