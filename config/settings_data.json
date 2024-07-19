@@ -46,7 +46,7 @@
     "wis_atc_added": "2",
     "enable_compare_popup": true,
     "placeholder_img": "shopify:\/\/shop_images\/SFS_Logo_Horizontal_The_Hockey_Shop_Black_2_9769cd48-6b92-4e9c-972f-1a9871e25397.png",
-    "show_secondary_image": false,
+    "show_secondary_image": true,
     "effect_secondary_image": "zoom",
     "show_ultra_btn": true,
     "show_quick_add": false,
