@@ -1320,6 +1320,9 @@
     },
     "featured_collection_carousel_GEc7W8": {
       "type": "featured-collection-carousel",
+      "custom_css": [
+        ".hdt-btn.hdt-text-sm {display: none;}"
+      ],
       "settings": {
         "heading_align": "center",
         "sec_heading": "Skate more for less",
@@ -1349,8 +1352,8 @@
         "navUI": true,
         "nav_des": "outline",
         "nav_pos": "middle_in",
-        "dotUI": true,
-        "pagination_type": "none",
+        "dotUI": false,
+        "pagination_type": "view_all",
         "paginate_pos": "center",
         "dis_pagination": 30,
         "btn_label": "View all",
