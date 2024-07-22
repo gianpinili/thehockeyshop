@@ -111,7 +111,7 @@
         "heading_size": "h4",
         "accordion_icon": "1",
         "open_first": false,
-        "section_fullwidth": true,
+        "section_fullwidth": false,
         "color_scheme": "",
         "padding_top": 16,
         "padding_bottom": 19,
