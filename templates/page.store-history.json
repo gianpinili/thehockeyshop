@@ -9,159 +9,30 @@
 */
 {
   "sections": {
-    "slideshow_q7pEg9": {
-      "type": "slideshow",
-      "blocks": {
-        "slide_label_grG7Ta": {
-          "type": "slide_label",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/hero_1_1.jpg",
-            "url": "",
-            "banner_target": false,
-            "color_scheme": "",
-            "sub_heading": "",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "normal",
-            "sub_heading_bg": false,
-            "heading": "",
-            "heading_fs": "base",
-            "heading_fw": "normal",
-            "btn_label": "",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "none",
-            "btn2_label": "",
-            "btn2_link": "",
-            "target2": false,
-            "btn2_size": "base",
-            "btn2_style": "solid",
-            "btn2_fw": "normal",
-            "btn2_icon": "none",
-            "content_bg": false,
-            "content_position": "center",
-            "alignment": "center",
-            "hide_subtext_mb": false,
-            "content_position_mb": "center",
-            "alignment_mb": "center"
-          }
-        }
-      },
-      "block_order": [
-        "slide_label_grG7Ta"
-      ],
-      "settings": {
-        "full_width": true,
-        "item_round": "rounded",
-        "image_height": "fixed",
-        "fixed_height": 860,
-        "image_height_mb": "adapt_image",
-        "fixed_height_mb": 300,
-        "color_scheme": "",
-        "loop": true,
-        "auto_play": 0,
-        "pause_hover": false,
-        "navUI": false,
-        "dotUI": false,
-        "dot_style": "default",
-        "dot_direction": "horizontal",
-        "dot_align": "center",
-        "dot_space": 40,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "padding_rate": 75
-      }
-    },
-    "marquee_cy3Qc8": {
-      "type": "marquee",
-      "blocks": {
-        "item_MWbCUH": {
-          "type": "item",
-          "settings": {
-            "text": "<p>Summer Super Sale up to 40% off.<\/p>",
-            "icon_svg": "dividing_icon",
-            "custom_svg": "",
-            "icon_width": 12,
-            "icon_width_mb": 20
-          }
-        },
-        "item_VNznpL": {
-          "type": "item",
-          "settings": {
-            "text": "<p>Free shipping on orders over $100.<\/p>",
-            "icon_svg": "none",
-            "custom_svg": "",
-            "icon_width": 20,
-            "icon_width_mb": 20
-          }
-        },
-        "item_q76aYq": {
-          "type": "item",
-          "settings": {
-            "text": "<p>Buy now, pay later with Sezzle.<\/p>",
-            "icon_svg": "none",
-            "custom_svg": "",
-            "icon_width": 20,
-            "icon_width_mb": 20
-          }
-        }
-      },
-      "block_order": [
-        "item_MWbCUH",
-        "item_VNznpL",
-        "item_q76aYq"
-      ],
-      "settings": {
-        "space_item": 30,
-        "speed": 0.3,
-        "direction": "rtl",
-        "marquee_pause_when_hover": false,
-        "text_fs": "base",
-        "text_fw": "semibold",
-        "text_uppercase": false,
-        "adding_border": false,
-        "icon_position_between": true,
-        "color_scheme": "scheme-67a7ca9f-3333-4245-b79f-2e9849d7e615",
-        "padding_top": 12,
-        "padding_bottom": 12,
-        "padding_rate": 75
-      }
-    },
-    "top_heading_4iawTD": {
+    "top_heading_K7TDrA": {
       "type": "top-heading",
       "blocks": {
-        "heading_qUaTde": {
+        "heading_PYc8VN": {
           "type": "heading",
           "settings": {
-            "heading": "Black Friday in July.",
+            "heading": "Our Journey",
             "heading_fs": "h3"
           }
         },
-        "sub_heading_nkDnhG": {
+        "sub_heading_ghYm4A": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "Jump start the season with savings.<br>It's prime time to elevate your game. Score up to 50% off.",
+            "sub_heading": "It all started over 30 years ago... Come take a trip down memory lane with us.",
             "sub_heading_fs": "base"
-          }
-        },
-        "button_GtddfV": {
-          "type": "button",
-          "settings": {
-            "button_text": "Shop Now",
-            "button_link": "shopify:\/\/collections\/all-clearance",
-            "button-color": "#1a98ff"
           }
         }
       },
       "block_order": [
-        "heading_qUaTde",
-        "sub_heading_nkDnhG",
-        "button_GtddfV"
+        "heading_PYc8VN",
+        "sub_heading_ghYm4A"
       ],
       "settings": {
-        "spacing_item": 16,
+        "spacing_item": 30,
         "alignment": "center",
         "alignment_mb": "center",
         "fullwidth": false,
@@ -172,589 +43,323 @@
         "button_bg_color": "#000000"
       }
     },
-    "collections_list_QLied3": {
-      "type": "collections-list",
+    "timeline_rqXPiK": {
+      "type": "timeline",
       "blocks": {
-        "collection_item_wVfBGT": {
-          "type": "collection_item",
+        "timeline_item_eAWnKi": {
+          "type": "timeline_item",
           "settings": {
-            "collection": "goalie-skates",
-            "image": "shopify:\/\/shop_images\/bauer-goalie-skates-bauer-pro-intermediate-goalie-skates-31250001756226.jpg",
-            "title": "Skates",
-            "collection_link": ""
+            "time": "1988",
+            "label": "Grand Opening",
+            "title": "The Hockey Shop Opens for Business",
+            "content": "Not too many people remember our original location, but it’s where it all started—a tiny store with a lot of heart. Rod and Ursula Bolivar, along with their son, Chad, start out with a relentless focus on providing best-in-class customer service, which would supply a blueprint for decades to come.",
+            "image": "shopify:\/\/shop_images\/store-history.jpg",
+            "content_position": "end"
           }
         },
-        "collection_item_FfCWQ6": {
-          "type": "collection_item",
+        "timeline_item_CeW3Ry": {
+          "type": "timeline_item",
           "settings": {
-            "collection": "goalie-sticks",
-            "image": "shopify:\/\/shop_images\/ccm-goalie-sticks-ccm-axis-xf-pro-intermediate-goalie-stick-31285902573634.jpg",
-            "title": "Sticks",
-            "collection_link": ""
+            "time": "",
+            "label": "Memorable Moments",
+            "title": "A Yellow Lab Named Goldie",
+            "content": "The original store also features an important fixture: a yellow labrador named Goldie. Goldie, followed by three more: Winnie, Daisy, and Bodhi, would provide lots of love to all our customers and staff for many years into the future.",
+            "image": "shopify:\/\/shop_images\/dogs.jpg",
+            "content_position": "start"
           }
         },
-        "collection_item_p6abbX": {
-          "type": "collection_item",
+        "timeline_item_crBzH3": {
+          "type": "timeline_item",
           "settings": {
-            "collection": "leg-pads",
-            "image": "shopify:\/\/shop_images\/warrior-rtl-g7-pro-leg-pads-sr-tan-bk-detail-10461.jpg",
-            "title": "Leg Pads",
-            "collection_link": ""
+            "time": "1991",
+            "label": "Growth Phase",
+            "title": "Our First Move. The Store is Growing!",
+            "content": "The store is growing, and we need a bigger establishment. This new location was four times the size of the original, which was bursting at the seams. The Hockey Shop also decides to focus exclusively on hockey, allowing us to concentrate more on specialized areas of the shop, such as our goalie section.",
+            "image": "shopify:\/\/shop_images\/1991---Store.jpg",
+            "content_position": "end"
           }
         },
-        "collection_item_aJhRNQ": {
-          "type": "collection_item",
+        "timeline_item_j8Bw6U": {
+          "type": "timeline_item",
           "settings": {
-            "collection": "goalie-masks",
-            "image": "shopify:\/\/shop_images\/warrior-goalie-masks-senior-warrior-ritual-f2-e-senior-goalie-mask-30797508935746.jpg",
-            "title": "Masks",
-            "collection_link": ""
+            "time": "",
+            "label": "Partnership",
+            "title": "We Officially Join Source for Sports",
+            "content": "What Rod would later point to as the company’s most important decision to date, The Hockey Shop joins Source for Sports. By joining the largest buying group in Canada, we now have access to a national buying power and much greater marketing exposure. The store just keeps growing and building connections, and we are only just getting started.",
+            "image": "shopify:\/\/shop_images\/source-for-sports.jpg",
+            "content_position": "start"
           }
         },
-        "collection_item_7CdKzE": {
-          "type": "collection_item",
+        "timeline_item_zTnUDQ": {
+          "type": "timeline_item",
           "settings": {
-            "collection": "catchers",
-            "image": "shopify:\/\/shop_images\/bauer-catchers-bauer-learn-to-save-goalie-catcher-black-full-right-31840048447554.jpg",
-            "title": "Catchers",
-            "collection_link": ""
+            "time": "",
+            "label": "Special Event",
+            "title": "Canucks Legend, Captain Canuck, Trevor Linden",
+            "content": "The Hockey Shop hosts Trevor Linden, captain of the Vancouver Canucks at the time, for an exclusive signing and meet-and-greet.",
+            "image": "shopify:\/\/shop_images\/linden.jpg",
+            "content_position": "end"
           }
         },
-        "collection_item_paaADt": {
-          "type": "collection_item",
+        "timeline_item_QrCbg3": {
+          "type": "timeline_item",
           "settings": {
-            "collection": "goalie-blockers",
-            "image": "shopify:\/\/shop_images\/vaughn-blockers-vaughn-velocity-v10-pro-carbon-senior-goalie-blocker-swirl-graphic-31748135256130.jpg",
-            "title": "Blockers",
-            "collection_link": ""
+            "time": "1996",
+            "label": "Meet & Greet",
+            "title": "The Dominator. The Dominik Hasek",
+            "content": "The Hockey Shop hosts Dominik Hasek, goaltender for the Buffalo Sabres at the time, for a signing and meet-and-greet event. He’d won the Vezina Trophy in 1994 and 1995 and would go on to win it again from 1997-1999 and 2001.",
+            "image": "shopify:\/\/shop_images\/the-dominator.jpg",
+            "content_position": "start"
           }
         },
-        "collection_item_r3x7M7": {
-          "type": "collection_item",
+        "timeline_item_LgFFyM": {
+          "type": "timeline_item",
           "settings": {
-            "collection": "goalie-chest-protectors",
-            "image": "shopify:\/\/shop_images\/ccm-chest-protectors-ccm-pro-spec-senior-chest-arm-protector-31229408542786.jpg",
-            "title": "Chest Protectors",
-            "collection_link": ""
+            "time": "2000",
+            "label": "New Chapter",
+            "title": "A New Partnership is Formed",
+            "content": "Ken and Susan Whiddington buy 50% of The Hockey Shop. Alongwith their son, Brad, they join the ever-growing business. This new partnership would set the stage to take the shop to the next level.",
+            "image": "shopify:\/\/shop_images\/new-partnership.jpg",
+            "content_position": "end"
           }
         },
-        "collection_item_Jn43Pp": {
-          "type": "collection_item",
+        "timeline_item_M3H3mb": {
+          "type": "timeline_item",
           "settings": {
-            "collection": "goalie-pants",
-            "image": "shopify:\/\/shop_images\/ccm-goalie-pants-ccm-axis-f5-junior-goalie-pants-31229451731010.jpg",
-            "title": "Pants",
-            "collection_link": ""
+            "time": "2001",
+            "label": "Canucks Stars",
+            "title": "Daniel & Henrik Sedin",
+            "content": "The Hockey Shop hosts Daniel and Henrik Sedin, Swedish forwards just starting their second seasons with the Vancouver Canucks, for a signing event. They were the fourth set of twins to play in the NHL and will continue to build their legacy.",
+            "image": "shopify:\/\/shop_images\/sedins-2001.jpg",
+            "content_position": "start"
+          }
+        },
+        "timeline_item_f8YyM9": {
+          "type": "timeline_item",
+          "settings": {
+            "time": "2008",
+            "label": "The Return",
+            "title": "Henrik & Daniel Sedin Return to the Hockey Shop",
+            "content": "We have the honour of hosting Henrik and Daniel Sedin for a second time. The twins have been steadily reaching their peak over the last few years, and they will eventually lead the Vancouver Canucks as captain and alternate captain respectively in 2010. It was truly amazing to have them at our shop for a humble signing event twice during their careers.",
+            "image": "shopify:\/\/shop_images\/sedins-2008.jpg",
+            "content_position": "end"
+          }
+        },
+        "timeline_item_i4B6wp": {
+          "type": "timeline_item",
+          "settings": {
+            "time": "2010",
+            "label": "Enhanced Facility",
+            "title": "Move to Third Location",
+            "content": "Positioned just across the street in the former A&B Sound, our current building would be the Shop’s third location. It features 18k sq. ft. across three floors and allows us to expand the goalie department and add a shooting lane for demo sticks. Most importantly, it also gives us the much-needed added space to serve our customers better.",
+            "image": "shopify:\/\/shop_images\/third-location.jpg",
+            "content_position": "start"
+          }
+        },
+        "timeline_item_PN7tKd": {
+          "type": "timeline_item",
+          "settings": {
+            "time": "2011",
+            "label": "Star Appearance",
+            "title": "Roberto Luongo",
+            "content": "Roberto Luongo, goalie for the Vancouver Canucks at the time, visits the Shop for a signing and meet-and-greet event. Luongo came out strong that year, recording his best save percentage at .928 to that date (a number he would eventually beat in 2018 with the Florida Panthers at .929) and helping the Canucks reach the Stanley Cup Finals later that year.",
+            "image": "shopify:\/\/shop_images\/luongo.jpg",
+            "content_position": "end"
+          }
+        },
+        "timeline_item_MfwYt7": {
+          "type": "timeline_item",
+          "settings": {
+            "time": "2013",
+            "label": "Prestigious Award",
+            "title": "Bauer Canadian Retailer of the Year Award",
+            "content": "Every year, Bauer names a Best Retailer Award for Canada, the USA, and the rest of the World, announced at their annual BauerWorld event. In 2013, it was our turn to win the award for Canada. This award is the only one of its kind within the hockey industry and is truly an honour to receive.",
+            "image": "shopify:\/\/shop_images\/bauer-2013_e1cdb873-221a-4edf-80e2-39b1ffee71b5.jpg",
+            "content_position": "start"
+          }
+        },
+        "timeline_item_G3hzFG": {
+          "type": "timeline_item",
+          "settings": {
+            "time": "2014",
+            "label": "Special Appearance",
+            "title": "Kevin \"Juice\" Bieksa",
+            "content": "Easton Hockey sponsors a private event with 50 lucky ticket holders and Kevin Bieksa, assistant captain of the Vancouver Canucks at the time and currently an analyst on Hockey Night in Canada. Young players from Vos Hockey and Sully’s Hockey Instruction had the opportunity to meet and chat with him, along with ticket winners who had been following The Hockey Shop’s social media. It was truly an enjoyable and once-in-a-lifetime experience.",
+            "image": "shopify:\/\/shop_images\/bieksa_3205cbab-fe86-45aa-9f10-73fbe5c0344d.jpg",
+            "content_position": "end"
+          }
+        },
+        "timeline_item_fKqF3N": {
+          "type": "timeline_item",
+          "settings": {
+            "time": "",
+            "label": "Fan Interaction",
+            "title": "Eddie Lack",
+            "content": "The Hockey Shop hosts Eddie Lack, goaltender for the Vancouver Canucks at the time and former volunteer assistant coach for the Arizona State Sun Devils, for a signing and meet-and-greet event. Lack recorded a .912 save percentage in his first year in the NHL.",
+            "image": "shopify:\/\/shop_images\/eddie-lack_7adf3366-ad76-45ea-9b2e-c5440105d650.jpg",
+            "content_position": "start"
+          }
+        },
+        "timeline_item_XNCYHp": {
+          "type": "timeline_item",
+          "settings": {
+            "time": "",
+            "label": "Event Highlight",
+            "title": "Warrior Hockey Tour & Alex Burrows",
+            "content": "On September 13, The Hockey Shop hosts the Warrior Hockey Tour and #GetQuick Challenge. At the event, Alex Burrows, forward for the Vancouver Canucks at the time and former assistant coach for the Montreal Canadiens, made an appearance and invited many eventgoers to a shoot-off competition. The contestant with the fastest time won a Warrior QR1 hockey stick.",
+            "image": "shopify:\/\/shop_images\/BURROWS_ddac14c3-dff6-42e1-89ac-8afadbbfacaf.jpg",
+            "content_position": "end"
+          }
+        },
+        "timeline_item_WkmUxG": {
+          "type": "timeline_item",
+          "settings": {
+            "time": "",
+            "label": "Top Honour",
+            "title": "Back to Back Retailer of the Year Wins",
+            "content": "The Hockey Shop wins the Bauer Canadian Retailer of the Year Award for the second year in a row. It’s a pleasant albeit welcome surprise—Bauer employees themselves had to verify with us back home for us to believe it actually happened. We must have been doing something right.",
+            "image": "shopify:\/\/shop_images\/bauer-2014.jpg",
+            "content_position": "start"
+          }
+        },
+        "timeline_item_tQGUfJ": {
+          "type": "timeline_item",
+          "settings": {
+            "time": "2015",
+            "label": "Meet & Greet",
+            "title": "Tristan Jarry, Laurent Brossoit, & Martin Jones",
+            "content": "On this day, The Hockey Shop hosts a Vaughn meet-and-greet event featuring Martin Jones, Laurent Brossoit, and Tristan Jarry of the San Jose Sharks, Edmonton Oilers, and Pittsburgh Penguins, respectively. Eventgoers had a chance to participate in a quick Q&A with their favourite goalie at the event.",
+            "image": "shopify:\/\/shop_images\/jarry-brossoit-jones.jpg",
+            "content_position": "end"
+          }
+        },
+        "timeline_item_iiEWbF": {
+          "type": "timeline_item",
+          "settings": {
+            "time": "2017",
+            "label": "Turning Point",
+            "title": "The Fire.",
+            "content": "2017 is inarguably the toughest year for The Hockey Shop. On the morning of September 23rd, we arrive to find the store is on fire. The store suffers extensive damage, and all the equipment and gear inside are deemed unsalvageable due to water and smoke damage. The future of the business is uncertain.",
+            "image": "shopify:\/\/shop_images\/the-fire_4560faf8-8c32-42a1-ace8-4eba9c10822e.jpg",
+            "content_position": "start"
+          }
+        },
+        "timeline_item_LrKfDa": {
+          "type": "timeline_item",
+          "settings": {
+            "time": "",
+            "label": "Resiliency",
+            "title": "Move to Temporary Location & Host the \"Fire Sale\"",
+            "content": "But the hockey season has just started, and the Shop is determined to let the show go on. We move to a temporary location and buy back our stock. Meanwhile, we have the biggest single day of sales—in the history of all hockey shops, everywhere. Our Fire Sale was a liquidation event to help us start on the road back.",
+            "image": "shopify:\/\/shop_images\/fire-sale_00c417e7-7224-4875-8d62-f2fc1c4ff439.jpg",
+            "content_position": "end"
+          }
+        },
+        "timeline_item_VgMKTK": {
+          "type": "timeline_item",
+          "settings": {
+            "time": "2018",
+            "label": "Homecoming",
+            "title": "The Big Return",
+            "content": "After a full year of rebuilding, it was time to finally head home. It’s been a long haul and a ton of work, but it’s good to finally be home. In the face of adversity and an unclear future, we were able to rebuild and prevail, bigger and stronger than ever.",
+            "image": "shopify:\/\/shop_images\/big-return_49e20dbc-9d68-4b74-9171-6510a1124c79.jpg",
+            "content_position": "start"
+          }
+        },
+        "timeline_item_axKmx8": {
+          "type": "timeline_item",
+          "settings": {
+            "time": "2019",
+            "label": "Meet & Greet",
+            "title": "Canucks Cap, Bo Horvat",
+            "content": "The Hockey Shop hosts Bo Horvat for a signing and meet-and-greet event. Horvat had recently been named the 14th captain of the Vancouver Canucks a few months prior and was traded to the New York Islanders a few years later.",
+            "image": "shopify:\/\/shop_images\/bo-horvat_9d2fe19a-51c5-4ecc-bf9e-1e0b5ecb55c1.jpg",
+            "content_position": "end"
+          }
+        },
+        "timeline_item_66KK7U": {
+          "type": "timeline_item",
+          "settings": {
+            "time": "2020",
+            "label": "Triple Crown",
+            "title": "Bauer Retailer Award... Again",
+            "content": "We win Bauer’s Canadian Retailer of the Year Award for the third time. This one has all the feels—we had to work so hard to get back on our feet after the fire, and it feels really special to be recognized with this award after the fact.",
+            "image": "shopify:\/\/shop_images\/bauer-retailer-2020.jpg",
+            "content_position": "start"
           }
         }
       },
       "block_order": [
-        "collection_item_wVfBGT",
-        "collection_item_FfCWQ6",
-        "collection_item_p6abbX",
-        "collection_item_aJhRNQ",
-        "collection_item_7CdKzE",
-        "collection_item_paaADt",
-        "collection_item_r3x7M7",
-        "collection_item_Jn43Pp"
-      ],
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "btn_heading_collection": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "collection_list": [
-
-        ],
-        "collection_des": "1",
-        "content_size": "xl",
-        "content_weight": "medium",
-        "text_transform": false,
-        "content_position": "end-center",
-        "content_padding": 30,
-        "image_ratio": "adapt_image",
-        "image_size": true,
-        "col_dk": "4",
-        "col_tb": "3",
-        "col_mb": "2",
-        "space_items": "x",
-        "half_item": false,
-        "navUI": true,
-        "nav_des": "outline",
-        "nav_pos": "middle_out",
-        "dotUI": true,
-        "dots_pos": "default",
-        "section_fullwidth": true,
-        "boxed_fullwidth": true,
-        "boxed_content": false,
-        "color_scheme": "",
-        "padding_top": 30,
-        "padding_bottom": 40,
-        "padding_rate": 75
-      }
-    },
-    "image_gallery_LUgwe8": {
-      "type": "image-gallery",
-      "blocks": {
-        "gallery_item_hMLNMg": {
-          "type": "gallery_item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/shadow-leg-pad-square.jpg",
-            "item_link": "",
-            "product_item": "bauer-supreme-shadow-senior-goalie-leg-pads"
-          }
-        },
-        "gallery_item_mgEn9X": {
-          "type": "gallery_item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/shadow-blocker-square.jpg",
-            "item_link": "",
-            "product_item": "bauer-supreme-shadow-senior-goalie-blocker"
-          }
-        },
-        "gallery_item_iLmjxD": {
-          "type": "gallery_item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/shadow-full-square.jpg",
-            "item_link": "",
-            "product_item": "bauer-supreme-shadow-senior-goalie-leg-pads"
-          }
-        },
-        "gallery_item_GcQWgF": {
-          "type": "gallery_item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/shadow-catcher-square.jpg",
-            "item_link": "",
-            "product_item": "bauer-supreme-shadow-senior-goalie-catcher"
-          }
-        },
-        "gallery_item_VdkyKT": {
-          "type": "gallery_item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/shadow-stick-square.jpg",
-            "item_link": "",
-            "product_item": "bauer-supreme-shadow-senior-goalie-stick"
-          }
-        }
-      },
-      "block_order": [
-        "gallery_item_hMLNMg",
-        "gallery_item_mgEn9X",
-        "gallery_item_iLmjxD",
-        "gallery_item_GcQWgF",
-        "gallery_item_VdkyKT"
-      ],
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Bauer Supreme Shadow",
-        "heading_tag": "h2",
-        "heading_size": "h3",
-        "sec_subheading": "<p>Experience control like you've never seen before.<\/p>",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "heading_gap": 11,
-        "sec_heading_spacing": 46,
-        "image_ratio": "asos",
-        "image_size": true,
-        "col_dk": "5",
-        "col_tb": "3",
-        "col_mb": "2",
-        "spacing_items": 10,
-        "navUI": false,
-        "nav_des": "default",
-        "dotUI": false,
-        "dots_pos": "outline",
-        "section_fullwidth": true,
-        "boxed_fullwidth": true,
-        "color_scheme": "",
-        "padding_top": 32,
-        "padding_bottom": 52,
-        "padding_rate": 75
-      }
-    },
-    "image_with_tabs_content_FaieMG": {
-      "type": "image-with-tabs-content",
-      "blocks": {
-        "tab_item_qDdYqe": {
-          "type": "tab_item",
-          "settings": {
-            "title": "Konekt 2",
-            "heading": "Revolutionized tech for elite goalies.",
-            "content_text": "The KONEKT 2 is here. Lighter than it's predecessor, this skate features state-of-the-art technology for the games most elite goalies. Its innovative design ensures superior comfort and durability.",
-            "btn_label": "Shop Konekt 2",
-            "btn_link": "https:\/\/www.thehockeyshop.com\/collections\/shop?q=konekt+2",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1"
-          }
-        }
-      },
-      "block_order": [
-        "tab_item_qDdYqe"
-      ],
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "main_img": "shopify:\/\/shop_images\/bauer-goalie-skates-bauer-konekt2-intermediate-goalie-skates-31287323951170.jpg",
-        "image_pos": "right",
-        "image_ratio": "adapt_image",
-        "custom_height": 860,
-        "custom_height_tb": 300,
-        "custom_height_mb": 300,
-        "section_fullwidth": false,
-        "color_scheme": "scheme-1",
-        "padding_top": 10,
-        "padding_bottom": 52,
-        "padding_rate": 75
-      }
-    },
-    "collections_list_simple_D7GcpX": {
-      "type": "collections-list-simple",
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "btn_heading_collection": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "collection_list": [
-          "goalie-accessories",
-          "clearance-goalie",
-          "custom-gear",
-          "goalie-baselayer",
-          "goalie-bags",
-          "goalie-jocks"
-        ],
-        "text_transform": false,
-        "other_link_label": "View all categories",
-        "other_link": "",
-        "section_fullwidth": false,
-        "color_scheme": "scheme-3",
-        "padding_top": 16,
-        "padding_bottom": 20,
-        "padding_rate": 75
-      }
-    },
-    "featured_collection_carousel_iiL9bG": {
-      "type": "featured-collection-carousel",
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Super Sale Sticks",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "btn_heading": false,
-        "nav_heading": "disable",
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "collection": "sale-goalie-sticks",
-        "product_list": [
-
-        ],
-        "product_des": "1",
-        "image_ratio": "adapt_image",
-        "image_size": true,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 10,
-        "col_dk": "5",
-        "col_tb": "4",
-        "col_mb": "2",
-        "half_item": false,
-        "navUI": true,
-        "nav_des": "outline",
-        "nav_pos": "middle_out",
-        "dotUI": false,
-        "pagination_type": "none",
-        "paginate_pos": "center",
-        "dis_pagination": 30,
-        "btn_label": "View all",
-        "btn_style": "solid",
-        "btn_fw": "normal",
-        "section_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 24,
-        "padding_bottom": 21,
-        "padding_rate": 75
-      }
-    },
-    "image_with_text_rUEA8j": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_jgrzRr": {
-          "type": "heading",
-          "settings": {
-            "heading": "Your next Bauer set starts here.",
-            "heading_fs": "h3"
-          }
-        },
-        "text_b39mgX": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Oour expert team handpicked each piece to meet goalies' needs at all skill levels, so you can focus on stopping pucks.<\/p>"
-          }
-        },
-        "button_zLYfMm": {
-          "type": "button",
-          "settings": {
-            "btn_label": "Shop Bauer Goalie",
-            "btn_link": "shopify:\/\/collections\/bauer-goalie",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "medium",
-            "btn_icon": "1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_jgrzRr",
-        "text_b39mgX",
-        "button_zLYfMm"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/hyperlite2-goalie-mobile-hero-banner_0009_DSCF4006.jpg",
-        "style_image": "1",
-        "image_effect": "zoom-in",
-        "color_scheme": "scheme-1",
-        "image_last": false,
-        "content_position": "center",
-        "alignment": "center",
-        "content_pl": 0,
-        "image_last_mb": false,
-        "content_position_mb": "center",
-        "alignment_mb": "center",
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "padding_rate": 75
-      }
-    },
-    "featured_collection_carousel_Dp8fiz": {
-      "type": "featured-collection-carousel",
-      "disabled": true,
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Supreme Mach Sale",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "btn_heading": false,
-        "nav_heading": "disable",
-        "heading_gap": 18,
-        "sec_heading_spacing": 54,
-        "collection": "bauer-supreme-mach-goalie-equipment-collection",
-        "product_list": [
-
-        ],
-        "product_des": "1",
-        "image_ratio": "adapt_image",
-        "image_size": true,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 10,
-        "col_dk": "5",
-        "col_tb": "3",
-        "col_mb": "2",
-        "half_item": false,
-        "navUI": true,
-        "nav_des": "outline",
-        "nav_pos": "middle_out",
-        "dotUI": false,
-        "pagination_type": "none",
-        "paginate_pos": "center",
-        "dis_pagination": 30,
-        "btn_label": "View all",
-        "btn_style": "solid",
-        "btn_fw": "normal",
-        "section_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 52,
-        "padding_rate": 75
-      }
-    },
-    "featured_collection_grid_KzNwxX": {
-      "type": "featured-collection-grid",
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Supreme Mach Sale",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "collection": "bauer-supreme-mach-goalie-equipment-collection",
-        "product_list": [
-          "bauer-supreme-m5-pro-senior-goalie-stick",
-          "bauer-supreme-mach-senior-goalie-stick",
-          "bauer-supreme-m5-pro-intermediate-goalie-blocker",
-          "bauer-supreme-m5-pro-intermediate-goalie-catcher",
-          "bauer-supreme-m5-pro-intermediate-goalie-leg-pads",
-          "bauer-supreme-m5-pro-senior-goalie-catcher",
-          "bauer-supreme-m5-pro-senior-goalie-blocker",
-          "bauer-supreme-m5-pro-senior-goalie-leg-pads",
-          "bauer-supreme-mach-senior-goalie-catcher",
-          "bauer-nme-one-senior-goalie-mask"
-        ],
-        "product_des": "1",
-        "image_ratio": "adapt_image",
-        "image_size": true,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 10,
-        "col_dk": "5",
-        "col_tb": "3",
-        "col_mb": "2",
-        "pagination_type": "none",
-        "paginate_pos": "center",
-        "dis_pagination": 30,
-        "btn_label": "View all",
-        "btn_style": "solid",
-        "btn_fw": "normal",
-        "section_fullwidth": false,
-        "boxed_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 50,
-        "padding_rate": 75
-      }
-    },
-    "image_with_text_rdAQc9": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_Xqp3hL": {
-          "type": "heading",
-          "settings": {
-            "heading": "TENDYFEST MERCH",
-            "heading_fs": "h3"
-          }
-        },
-        "sub_heading_WmLEym": {
-          "type": "sub_heading",
-          "settings": {
-            "sub_heading": "All proceeds from the sale of TendyFest merchandise are donated to the Canucks Autism Network, supporting programs and services for individuals and families living with autism.",
-            "sub_fs": "lg"
-          }
-        },
-        "button_BYKQtC": {
-          "type": "button",
-          "settings": {
-            "btn_label": "Buy Now",
-            "btn_link": "shopify:\/\/collections\/the-hockey-shop-merch",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1"
-          }
-        },
-        "button_CqUzR3": {
-          "type": "button",
-          "settings": {
-            "btn_label": "Donate to CAN",
-            "btn_link": "https:\/\/support.canucksautism.ca\/site\/TR\/CANPro-Am\/Pro-Am?team_id=3280&pg=team&fr_id=1280&ltclid=829cb569-24bb-4ca8-96ba-9bda7cf32a8f",
-            "target": true,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "medium",
-            "btn_icon": "none"
-          }
-        }
-      },
-      "block_order": [
-        "heading_Xqp3hL",
-        "sub_heading_WmLEym",
-        "button_BYKQtC",
-        "button_CqUzR3"
+        "timeline_item_eAWnKi",
+        "timeline_item_CeW3Ry",
+        "timeline_item_crBzH3",
+        "timeline_item_j8Bw6U",
+        "timeline_item_zTnUDQ",
+        "timeline_item_QrCbg3",
+        "timeline_item_LgFFyM",
+        "timeline_item_M3H3mb",
+        "timeline_item_f8YyM9",
+        "timeline_item_i4B6wp",
+        "timeline_item_PN7tKd",
+        "timeline_item_MfwYt7",
+        "timeline_item_G3hzFG",
+        "timeline_item_fKqF3N",
+        "timeline_item_XNCYHp",
+        "timeline_item_WkmUxG",
+        "timeline_item_tQGUfJ",
+        "timeline_item_iiEWbF",
+        "timeline_item_LrKfDa",
+        "timeline_item_VgMKTK",
+        "timeline_item_axKmx8",
+        "timeline_item_66KK7U"
       ],
       "custom_css": [
-        "a:last-child {background-color: #003f7e; border: none;}"
+        "img {border-radius: 25px;}",
+        "div {padding: 2rem 0;}",
+        "span {margin-top: -4rem;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/tendyfest-shirts_hats.jpg",
-        "style_image": "1",
-        "image_effect": "zoom-in",
-        "color_scheme": "",
-        "image_last": true,
-        "content_position": "center",
-        "alignment": "center",
-        "content_pl": 0,
-        "image_last_mb": false,
-        "content_position_mb": "center",
-        "alignment_mb": "center",
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "padding_rate": 75
-      }
-    },
-    "featured_collection_carousel_gAEwif": {
-      "type": "featured-collection-carousel",
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Super Skate Sale",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "btn_heading": false,
-        "nav_heading": "disable",
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "collection": "clearance-goalie-hockey-skates",
-        "product_list": [
-
-        ],
-        "product_des": "1",
-        "image_ratio": "adapt_image",
-        "image_size": true,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 10,
-        "col_dk": "5",
-        "col_tb": "3",
-        "col_mb": "2",
-        "half_item": false,
-        "navUI": true,
-        "nav_des": "outline",
-        "nav_pos": "middle_out",
-        "dotUI": false,
-        "pagination_type": "none",
-        "paginate_pos": "center",
-        "dis_pagination": 30,
-        "btn_label": "View all",
-        "btn_style": "solid",
-        "btn_fw": "normal",
+        "content_width": 1170,
+        "line_style": "dotted",
         "section_fullwidth": false,
         "color_scheme": "",
         "padding_top": 0,
-        "padding_bottom": 52,
+        "padding_bottom": 70,
         "padding_rate": 75
+      }
+    },
+    "top_heading_pXpxgg": {
+      "type": "top-heading",
+      "blocks": {
+        "heading_nkxGLH": {
+          "type": "heading",
+          "settings": {
+            "heading": "Stay Tuned...",
+            "heading_fs": "h4"
+          }
+        },
+        "sub_heading_kMxxez": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "We'll have more exciting news to share very shortly!",
+            "sub_heading_fs": "lg"
+          }
+        }
+      },
+      "block_order": [
+        "heading_nkxGLH",
+        "sub_heading_kMxxez"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75,
+        "button_bg_color": "#000000"
       }
     },
     "image_with_text_gcKQCJ": {
@@ -810,19 +415,9 @@
     }
   },
   "order": [
-    "slideshow_q7pEg9",
-    "marquee_cy3Qc8",
-    "top_heading_4iawTD",
-    "collections_list_QLied3",
-    "image_gallery_LUgwe8",
-    "image_with_tabs_content_FaieMG",
-    "collections_list_simple_D7GcpX",
-    "featured_collection_carousel_iiL9bG",
-    "image_with_text_rUEA8j",
-    "featured_collection_carousel_Dp8fiz",
-    "featured_collection_grid_KzNwxX",
-    "image_with_text_rdAQc9",
-    "featured_collection_carousel_gAEwif",
+    "top_heading_K7TDrA",
+    "timeline_rqXPiK",
+    "top_heading_pXpxgg",
     "image_with_text_gcKQCJ"
   ]
 }
