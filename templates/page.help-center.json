@@ -24,116 +24,175 @@
         "5ecb9555-19e4-433b-8817-1ccaa3a41384"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/z4683181570507_46fb10fa21da971ae2af71e75431028c.png",
         "color_scheme": "",
         "spacing_hd": 0,
         "padding_top": 80,
-        "padding_bottom": 86
+        "padding_bottom": 86,
+        "padding_rate": 75
+      }
+    },
+    "accordion_inline_kQAXLA": {
+      "type": "accordion_inline",
+      "blocks": {
+        "accordion_item_iRnnpT": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "How do I find my Order Number?",
+            "content": "There are two ways to check your Order Number for your online transaction on our website.\n\nYou can check your Order Confirmation email, which was sent to you after you completed your order. The Order Confirmation number can be found in the Subject line and body of the email.<br><br>\n\n\nSign in to your account on www.thehockeyshop.com. Once you have successfully logged in, select \"Orders\" to view a breakdown of your online transactions and a list of your order history on our website."
+          }
+        },
+        "accordion_item_HLQCBR": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "How do I edit or cancel my order?",
+            "content": "To modify or cancel your order, you can login to your account on our website and you can proceed to the Orders page to make changes to your transactions.<br><br>\n\nYou can also reach out and call us toll free at 1-800-567-7790 or send an email to sales@thehockeyshop.com. Kindly include your order number and the reason for cancellation in your message.<br><br>\n\nKindly note that orders can only be canceled before they have been dispatched. If your order has already been shipped, please refer to our Returns in our Help Center."
+          }
+        },
+        "accordion_item_Lc4iUk": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "How do I track my order?",
+            "content": "Once your order has been placed and processed, you will receive a confirmation email instantly with your order details. You can track your order by logging in to your account or from your order confirmation email. <br><br>\n\nTracking and delivery information may not be immediately available after your order is placed. Just a heads up that it can take up to 24 hours before you receive an email notification that your order has been shipped with tracking details. No need to worry though, we'll keep you updated every step of the way!"
+          }
+        },
+        "accordion_item_4mPMDA": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "How does Sezzle work?",
+            "content": "Buy now, pay later. Split your entire online purchase into 4 interest-free payments, over 6 weeks with no impact to your credit. For more information, visit our How Sezzle Works page."
+          }
+        },
+        "accordion_item_rtPjRm": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "What payment options are available?",
+            "content": "We accept VISA, Mastercard, AMEX, PayPal, and Sezzle. Looking to pay in installments? Check out how sezzle works here. If you need to use multiple cards for a purchase we recommend purchasing an e-gift card and then applying that credit toward the purchase."
+          }
+        },
+        "accordion_item_tHkn3a": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "How do I pick up my order?",
+            "content": "For Order pickups for website or online purchases made through: www.thehockeyshop.com, you can select the Pickup in store option during the checkout process.<br><br>\nOnce your order has been placed and processed for pickup,  you will receive a confirmation email plus another email that Your Order is Ready for Pickup. Kindly keep your confirmation email and Order number ready upon your arrival to our store.<br><br>\nPickup location:<br>\n\nThe Hockey Shop | 20202 66 Ave Langley, BC V2Y 1P3<br>\n\n\n(Look for our Order Pickup Counter beside checkout)"
+          }
+        },
+        "accordion_item_Qy4Erg": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Some items are missing from my order",
+            "content": "We're sorry to hear this. If there are missing items items from your order, kindly reach out to us through this link: Report Issue or call us through 604 589 8299."
+          }
+        },
+        "accordion_item_6HydPc": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "The items are different\/wrong from what I ordered",
+            "content": "We're sorry to hear this. Please let us know exactly what iterm\/color\/size you actually received, and reach out to us through this link: Report Issue or call us through 604 589 8299."
+          }
+        }
+      },
+      "block_order": [
+        "accordion_item_iRnnpT",
+        "accordion_item_HLQCBR",
+        "accordion_item_Lc4iUk",
+        "accordion_item_4mPMDA",
+        "accordion_item_rtPjRm",
+        "accordion_item_tHkn3a",
+        "accordion_item_Qy4Erg",
+        "accordion_item_6HydPc"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "top_heading": "Orders",
+        "heading_tag": "h4",
+        "heading_size": "h4",
+        "accordion_icon": "1",
+        "open_first": false,
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 16,
+        "padding_bottom": 19,
+        "padding_rate": 75
       }
     },
     "08421e50-b348-46a3-bbb7-5b26be196b6c": {
       "type": "accordion",
       "blocks": {
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-title-1": {
-          "type": "title",
-          "settings": {
-            "title": "Shopping Information"
-          }
-        },
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-1": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "Pellentesque habitant morbi tristique senectus et netus?",
-            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-          }
-        },
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-2": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "How much is shipping and how long will it take?",
-            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-          }
-        },
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-3": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "How long will it take to get my package?",
-            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-          }
-        },
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-4": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "Branding is simply a more efficient way to sell things?",
-            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-          }
-        },
         "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-title-2": {
           "type": "title",
           "settings": {
-            "title": "Payment Information"
+            "title": "Shipping"
           }
         },
         "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-5": {
           "type": "accordion_item",
           "settings": {
-            "title": "Pellentesque habitant morbi tristique senectus et netus?",
-            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            "title": "How can I get free shipping?",
+            "content": "We are pleased to offer free delivery for orders over $100 shipped to most locations within Canada and the United States. However, please note that there are a few postal codes which may not be eligible for free shipping. In cases of oversized packages, a flat rate fee of $9.99 will be applied. You will be automatically eligible for free shipping once your subtotal reaches $100 and this option will be shown at checkout. Kindly note that all orders eligible for free shipping will be shipped via ground service.<br><br>\n\n**Please note that the free shipping offer does not apply to Hockey, goalie, and backpack wheel bags. These items are considered oversized by the couriers and therefore have a heavy surcharge on freight. However, we are offering a discounted flat rate of $9.99 for any order that includes a wheeled bag."
           }
         },
         "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-6": {
           "type": "accordion_item",
           "settings": {
-            "title": "How much is shipping and how long will it take?",
-            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            "title": "Can I pick up my order in-store?",
+            "content": "Absolutely! We offer free in-store pickup at checkout, and you will receive instructions via email. Orders are typically available within a few hours during store business hours.  <br><br>\n\n\nMonday to Wednesday |\t10am - 6pm<br>\nThursday to Friday |\t10am - 8pm<br>\nSaturday\t  9am - 6pm\nSunday\t10am - 5pm"
           }
         },
         "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-7": {
           "type": "accordion_item",
           "settings": {
-            "title": "How long will it take to get my package?",
-            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            "title": "How long will shipping take?",
+            "content": "Our goal is to ensure that all orders are shipped out the same day or the following day, wherever possible. The estimated transit times for ground shipping are as follows:<br><br>\n\nWestern Canada: 1-4 business days<br>\nEastern Canada: 4-6 business days<br>\nUSA: 3-8 business days<br>\nInternational: 5-10 business days<br><br>\nPlease note that these are just estimates and not guarantees. The actual transit times may vary depending on the package dimensions and the final destination. If you have selected express shipping, the transit time will be shown at checkout and typically takes 1-3 days to deliver.<br><br>\n\nHowever, please note that sticks require additional handling and may arrive a day later than another package if the order is a multi-piece shipment.<br><br>\n\nFor additional questions about our shipping policy, please contact us at sales@thehockeyshop.com or call us via 1-800-567-7790."
           }
         },
         "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-8": {
           "type": "accordion_item",
           "settings": {
-            "title": "Branding is simply a more efficient way to sell things?",
-            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            "title": "Can I order from outside of Canada?",
+            "content": "Certainly! We offer a variety of products that can be shipped to the US and other countries. To view our international selection, please click on <b>International Store.<\/b> However, some of our products are only available for shipping to Canadian addresses. To identify these items, please look for the <b><i>\"Ships Canada Only\"<\/i><\/b> icon on the product page. This icon indicates that the manufacturer has imposed shipping limitations on the product.<br><br>\n\nFor instance, Bauer products cannot be shipped outside of Canada, and CCM, True, and Warrior products also have their own shipping restrictions in place."
+          }
+        },
+        "accordion_item_fniLkX": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "How can I ensure my that my package is protected?",
+            "content": "Safeguard your package for just $1.99 with premium shipping protection during checkout. <br><br>\nWe will quickly replace and resend your order if it gets lost or damaged. <br><br>\n\nIf your order is marked as delivered but there's no sign of the package, wait at least 1 business day before hitting the panic button. Unfortunately, it is common for couriers to mark an item as delivered well before the delivery attempt is made. After waiting a day, reach out to our team at sales@thehockeyshop.com to resolve the issue. <br><br>\n\nPackages that are unprotected will follow the standard claims policy of the shipping courier which can take additional time and the final decision is up to the discretion of the courier."
+          }
+        },
+        "accordion_item_eH9W9P": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "How do you ship hockey sticks?",
+            "content": "Great question! We have custom boxes designed for that! The box works as a large envelope or sleeve and will secure the stick and protect it in transit. We can ship up to 4 sticks per box."
           }
         },
         "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-title-3": {
           "type": "title",
           "settings": {
-            "title": "Order Returns"
+            "title": "Returns"
           }
         },
         "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-9": {
           "type": "accordion_item",
           "settings": {
-            "title": "Pellentesque habitant morbi tristique senectus et netus?",
-            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            "title": "How do I return\/exchange an item?",
+            "content": "Eligible items can be returned or exchanged using the returns portal here: <b>Returns Portal<\/b>.<br><br>\nWe have tried to make our in-store and website return policy as easy as possible. If you are unsatisfied with your purchase in any way, you can return unused items in new condition within 90 days for a full refund, no questions asked. The refund will be processed using the same method that the original purchase was made.<br><br>\n\n<b>Return Online<\/b><br><br>\nYou can proceed to our <b>Returns Portal<\/b>. For further assistance you can also reach out to our customer support team at sales@thehockeyshop.com or call us at <u>1-800-567-7790<\/u> to start the return process with your order number and details about the item you wish to return. <br><br>\n\n<b>Return In-Store<\/b><br><br>\nYou can visit our retail location in Langley, BC and present your order confirmation or packing slip as proof of purchase. <br><br>\n\n<b>Unretrunable Items<\/b><br><br>\nThe following items are not eligible for returns or exchanges:<br><br>\n\nJocks & Jills <br>\nBaselayer Bottoms<br>\nBoxers & Briefs<br>\nMouth Guards<br>\nUsed Products<br>\nPPE\/Fabric Face Masks"
           }
         },
         "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-a": {
           "type": "accordion_item",
           "settings": {
-            "title": "How much is shipping and how long will it take?",
-            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            "title": "How long do I have to return an item?",
+            "content": "You have up to 90 days to return an item after the date of purchase. We have tried to make our in-store and website return policy as easy as possible. If you are unsatisfied with your purchase in any way, you can return unused items in new condition within 90 days for a full refund, no questions asked. The refund will be processed using the same method that the original purchase was made.<br><br>\n\n<b>Return Online<\/b><br><br>\nYou can proceed to our <b>Returns Portal<\/b>. For further assistance you can also reach out to our customer support team at sales@thehockeyshop.com or call us at <u>1-800-567-7790<\/u> to start the return process with your order number and details about the item you wish to return. <br><br>\n\n<b>Return In-Store<\/b><br><br>\nYou can visit our retail location in Langley, BC and present your order confirmation or packing slip as proof of purchase. <br><br>\n\n<b>Unretrunable Items<\/b><br><br>\nThe following items are not eligible for returns or exchanges:<br><br>\n\nJocks & Jills <br>\nBaselayer Bottoms<br>\nBoxers & Briefs<br>\nMouth Guards<br>\nUsed Products<br>\nPPE\/Fabric Face Masks"
           }
         },
         "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-b": {
           "type": "accordion_item",
           "settings": {
-            "title": "How long will it take to get my package?",
-            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-          }
-        },
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-c": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "Branding is simply a more efficient way to sell things?",
-            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            "title": "Which items are eligible for return?",
+            "content": "<b>Unretrunable Items<\/b><br><br>\nThe following items are not eligible for returns or exchanges:<br><br>\n\nJocks & Jills <br>\nBaselayer Bottoms<br>\nBoxers & Briefs<br>\nMouth Guards<br>\nUsed Products<br>\nPPE\/Fabric Face Masks"
           }
         },
         "f7bc3c6c-8508-4a46-9b3e-d0fb46b8ed01": {
@@ -149,37 +208,35 @@
         }
       },
       "block_order": [
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-title-1",
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-1",
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-2",
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-3",
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-4",
         "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-title-2",
         "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-5",
         "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-6",
         "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-7",
         "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-8",
+        "accordion_item_fniLkX",
+        "accordion_item_eH9W9P",
         "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-title-3",
         "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-9",
         "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-a",
         "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-b",
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-c",
         "f7bc3c6c-8508-4a46-9b3e-d0fb46b8ed01"
       ],
       "settings": {
         "accordion_position": "start",
         "accordion_icon": "1",
-        "open_first": true,
+        "open_first": false,
         "enable_link_list": false,
         "section_fullwidth": false,
         "color_scheme": "scheme-1",
         "padding_top": 85,
-        "padding_bottom": 65
+        "padding_bottom": 65,
+        "padding_rate": 75
       }
     }
   },
   "order": [
     "heading",
+    "accordion_inline_kQAXLA",
     "08421e50-b348-46a3-bbb7-5b26be196b6c"
   ]
 }
