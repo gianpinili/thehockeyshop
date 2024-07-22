@@ -102,7 +102,7 @@
         "accordion_item_6HydPc"
       ],
       "custom_css": [
-        "h4 {margin-left: 5rem;}",
+        "h4 {text-align: center;}",
         "div {padding: 1rem 2rem;}"
       ],
       "settings": {
@@ -149,7 +149,7 @@
         "accordion_item_ddVeFN"
       ],
       "custom_css": [
-        "h4 {margin-left: 5rem;}",
+        "h4 {text-align: center;}",
         "div {padding: 1rem 2rem;}"
       ],
       "settings": {
@@ -220,7 +220,7 @@
         "accordion_item_VnUDx7"
       ],
       "custom_css": [
-        "h4 {margin-left: 5rem;}",
+        "h4 {text-align: center;}",
         "div {padding: 1rem 2rem;}"
       ],
       "settings": {
@@ -275,7 +275,7 @@
         "accordion_item_rYiWBi"
       ],
       "custom_css": [
-        "h4 {margin-left: 5rem;}",
+        "h4 {text-align: center;}",
         "div {padding: 1rem 2rem;}"
       ],
       "settings": {
@@ -330,7 +330,7 @@
         "accordion_item_GKgyPj"
       ],
       "custom_css": [
-        "h4 {margin-left: 5rem;}",
+        "h4 {text-align: center;}",
         "div {padding: 1rem 2rem;}"
       ],
       "settings": {
@@ -393,7 +393,7 @@
         "accordion_item_tD9Mpc"
       ],
       "custom_css": [
-        "h4 {margin-left: 5rem;}",
+        "h4 {text-align: center;}",
         "div {padding: 1rem 2rem;}"
       ],
       "settings": {
