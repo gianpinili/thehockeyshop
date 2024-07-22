@@ -102,7 +102,8 @@
         "accordion_item_6HydPc"
       ],
       "custom_css": [
-
+        "h4 {margin-left: 10rem;}",
+        "div {padding: 1rem 2rem;}"
       ],
       "settings": {
         "top_heading": "Orders",
@@ -110,10 +111,112 @@
         "heading_size": "h4",
         "accordion_icon": "1",
         "open_first": false,
-        "section_fullwidth": false,
+        "section_fullwidth": true,
         "color_scheme": "",
         "padding_top": 16,
         "padding_bottom": 19,
+        "padding_rate": 75
+      }
+    },
+    "accordion_inline_ykVmyj": {
+      "type": "accordion_inline",
+      "blocks": {
+        "accordion_item_hYYCay": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "How do I return\/exchange an item?",
+            "content": "Eligible items can be returned or exchanged using the returns portal here: <b>Returns Portal<\/b>.<br><br>\nWe have tried to make our in-store and website return policy as easy as possible. If you are unsatisfied with your purchase in any way, you can return unused items in new condition within 90 days for a full refund, no questions asked. The refund will be processed using the same method that the original purchase was made.<br><br>\n\n<b>Return Online<\/b><br><br>\nYou can proceed to our <b>Returns Portal<\/b>. For further assistance you can also reach out to our customer support team at sales@thehockeyshop.com or call us at <u>1-800-567-7790<\/u> to start the return process with your order number and details about the item you wish to return. <br><br>\n\n<b>Return In-Store<\/b><br><br>\nYou can visit our retail location in Langley, BC and present your order confirmation or packing slip as proof of purchase. <br><br>\n\n<b>Unretrunable Items<\/b><br><br>\nThe following items are not eligible for returns or exchanges:<br><br>\n\nJocks & Jills <br>\nBaselayer Bottoms<br>\nBoxers & Briefs<br>\nMouth Guards<br>\nUsed Products<br>\nPPE\/Fabric Face Masks"
+          }
+        },
+        "accordion_item_AjYU9Q": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "How long do I have to return an item?",
+            "content": "You have up to 90 days to return an item after the date of purchase. We have tried to make our in-store and website return policy as easy as possible. If you are unsatisfied with your purchase in any way, you can return unused items in new condition within 90 days for a full refund, no questions asked. The refund will be processed using the same method that the original purchase was made.<br><br>\n\n<b>Return Online<\/b><br><br>\nYou can proceed to our <b>Returns Portal<\/b>. For further assistance you can also reach out to our customer support team at sales@thehockeyshop.com or call us at <u>1-800-567-7790<\/u> to start the return process with your order number and details about the item you wish to return. <br><br>\n\n<b>Return In-Store<\/b><br><br>\nYou can visit our retail location in Langley, BC and present your order confirmation or packing slip as proof of purchase. <br><br>\n\n<b>Unretrunable Items<\/b><br><br>\nThe following items are not eligible for returns or exchanges:<br><br>\n\nJocks & Jills <br>\nBaselayer Bottoms<br>\nBoxers & Briefs<br>\nMouth Guards<br>\nUsed Products<br>\nPPE\/Fabric Face Masks"
+          }
+        },
+        "accordion_item_ddVeFN": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Which items are eligible for return?",
+            "content": "<b>Unretrunable Items<\/b><br><br>\nThe following items are not eligible for returns or exchanges:<br><br>\n\nJocks & Jills <br>\nBaselayer Bottoms<br>\nBoxers & Briefs<br>\nMouth Guards<br>\nUsed Products<br>\nPPE\/Fabric Face Masks"
+          }
+        }
+      },
+      "block_order": [
+        "accordion_item_hYYCay",
+        "accordion_item_AjYU9Q",
+        "accordion_item_ddVeFN"
+      ],
+      "custom_css": [
+        "h4 {margin-left: 10rem;}",
+        "div {padding: 1rem 2rem;}"
+      ],
+      "settings": {
+        "top_heading": "Returns",
+        "heading_tag": "h4",
+        "heading_size": "h4",
+        "accordion_icon": "1",
+        "open_first": false,
+        "section_fullwidth": false,
+        "color_scheme": "scheme-4",
+        "padding_top": 25,
+        "padding_bottom": 25,
+        "padding_rate": 75
+      }
+    },
+    "accordion_inline_ijmy7e": {
+      "type": "accordion_inline",
+      "blocks": {
+        "accordion_item_jKtQnJ": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Pellentesque habitant morbi tristique senectus et netus?",
+            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+          }
+        },
+        "accordion_item_nWPkrx": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Pellentesque habitant morbi tristique senectus et netus?",
+            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+          }
+        },
+        "accordion_item_c4CmUc": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Pellentesque habitant morbi tristique senectus et netus?",
+            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+          }
+        },
+        "accordion_item_tcEFQY": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Pellentesque habitant morbi tristique senectus et netus?",
+            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+          }
+        }
+      },
+      "block_order": [
+        "accordion_item_jKtQnJ",
+        "accordion_item_nWPkrx",
+        "accordion_item_c4CmUc",
+        "accordion_item_tcEFQY"
+      ],
+      "custom_css": [
+        "h4 {margin-left: 10rem;}",
+        "div {padding: 1rem 2rem;}"
+      ],
+      "settings": {
+        "top_heading": "Shipping",
+        "heading_tag": "h4",
+        "heading_size": "h4",
+        "accordion_icon": "1",
+        "open_first": false,
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 85,
+        "padding_bottom": 70,
         "padding_rate": 75
       }
     },
@@ -168,33 +271,6 @@
             "content": "Great question! We have custom boxes designed for that! The box works as a large envelope or sleeve and will secure the stick and protect it in transit. We can ship up to 4 sticks per box."
           }
         },
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-title-3": {
-          "type": "title",
-          "settings": {
-            "title": "Returns"
-          }
-        },
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-9": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "How do I return\/exchange an item?",
-            "content": "Eligible items can be returned or exchanged using the returns portal here: <b>Returns Portal<\/b>.<br><br>\nWe have tried to make our in-store and website return policy as easy as possible. If you are unsatisfied with your purchase in any way, you can return unused items in new condition within 90 days for a full refund, no questions asked. The refund will be processed using the same method that the original purchase was made.<br><br>\n\n<b>Return Online<\/b><br><br>\nYou can proceed to our <b>Returns Portal<\/b>. For further assistance you can also reach out to our customer support team at sales@thehockeyshop.com or call us at <u>1-800-567-7790<\/u> to start the return process with your order number and details about the item you wish to return. <br><br>\n\n<b>Return In-Store<\/b><br><br>\nYou can visit our retail location in Langley, BC and present your order confirmation or packing slip as proof of purchase. <br><br>\n\n<b>Unretrunable Items<\/b><br><br>\nThe following items are not eligible for returns or exchanges:<br><br>\n\nJocks & Jills <br>\nBaselayer Bottoms<br>\nBoxers & Briefs<br>\nMouth Guards<br>\nUsed Products<br>\nPPE\/Fabric Face Masks"
-          }
-        },
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-a": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "How long do I have to return an item?",
-            "content": "You have up to 90 days to return an item after the date of purchase. We have tried to make our in-store and website return policy as easy as possible. If you are unsatisfied with your purchase in any way, you can return unused items in new condition within 90 days for a full refund, no questions asked. The refund will be processed using the same method that the original purchase was made.<br><br>\n\n<b>Return Online<\/b><br><br>\nYou can proceed to our <b>Returns Portal<\/b>. For further assistance you can also reach out to our customer support team at sales@thehockeyshop.com or call us at <u>1-800-567-7790<\/u> to start the return process with your order number and details about the item you wish to return. <br><br>\n\n<b>Return In-Store<\/b><br><br>\nYou can visit our retail location in Langley, BC and present your order confirmation or packing slip as proof of purchase. <br><br>\n\n<b>Unretrunable Items<\/b><br><br>\nThe following items are not eligible for returns or exchanges:<br><br>\n\nJocks & Jills <br>\nBaselayer Bottoms<br>\nBoxers & Briefs<br>\nMouth Guards<br>\nUsed Products<br>\nPPE\/Fabric Face Masks"
-          }
-        },
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-b": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "Which items are eligible for return?",
-            "content": "<b>Unretrunable Items<\/b><br><br>\nThe following items are not eligible for returns or exchanges:<br><br>\n\nJocks & Jills <br>\nBaselayer Bottoms<br>\nBoxers & Briefs<br>\nMouth Guards<br>\nUsed Products<br>\nPPE\/Fabric Face Masks"
-          }
-        },
         "f7bc3c6c-8508-4a46-9b3e-d0fb46b8ed01": {
           "type": "other_content",
           "settings": {
@@ -215,10 +291,6 @@
         "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-8",
         "accordion_item_fniLkX",
         "accordion_item_eH9W9P",
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-title-3",
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-9",
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-a",
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-b",
         "f7bc3c6c-8508-4a46-9b3e-d0fb46b8ed01"
       ],
       "settings": {
@@ -237,6 +309,8 @@
   "order": [
     "heading",
     "accordion_inline_kQAXLA",
+    "accordion_inline_ykVmyj",
+    "accordion_inline_ijmy7e",
     "08421e50-b348-46a3-bbb7-5b26be196b6c"
   ]
 }
