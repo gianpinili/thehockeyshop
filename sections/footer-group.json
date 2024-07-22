@@ -37,7 +37,7 @@
           "type": "menu",
           "settings": {
             "border-column": false,
-            "heading_menu": "Help",
+            "heading_menu": "",
             "menu": "footer-faqs-help",
             "padding_inner": "",
             "custom_w_dk": "20"
@@ -47,7 +47,7 @@
           "type": "menu",
           "settings": {
             "border-column": false,
-            "heading_menu": "About Us",
+            "heading_menu": "",
             "menu": "strong-about-us-strong",
             "padding_inner": "",
             "custom_w_dk": "23"
