@@ -45,7 +45,7 @@
           "type": "accordion_item",
           "settings": {
             "title": "How do I edit or cancel my order?",
-            "content": "To modify or cancel your order, you can login to your account on our website and you can proceed to the Orders page to make changes to your transactions.<br><br>\n\nYou can also reach out and call us toll free at 1-800-567-7790 or send an email to sales@thehockeyshop.com. Kindly include your order number and the reason for cancellation in your message.<br><br>\n\nKindly note that orders can only be canceled before they have been dispatched. If your order has already been shipped, please refer to our Returns in our Help Center."
+            "content": "To modify or cancel your order, you can login to your account on our website and you can proceed to the Orders page to make changes to your transactions.<br><br>\n\nYou can also reach out to <b><a href=\"mailto:sales@thehockeyshop.com\">sales@thehockeyshop.com<\/a><\/b> or call us via <b><a href=\"tel:1-800-567-7790\">1-800-567-7790.<\/a><\/b>Kindly include your order number and the reason for cancellation in your message.<br><br>\n\nKindly note that orders can only be canceled before they have been dispatched. If your order has already been shipped, please refer to our Returns in our Help Center."
           }
         },
         "accordion_item_Lc4iUk": {
@@ -80,14 +80,14 @@
           "type": "accordion_item",
           "settings": {
             "title": "Some items are missing from my order",
-            "content": "We're sorry to hear this. If there are missing items items from your order, kindly reach out to us through this link: Report Issue or call us through 604 589 8299."
+            "content": "We're sorry to hear this. If there are missing items items from your order, kindly reach out to us through this link: Report Issue or call us through <a href=\"tel:604-589-8299\">604-589-8299<\/a>."
           }
         },
         "accordion_item_6HydPc": {
           "type": "accordion_item",
           "settings": {
             "title": "The items are different\/wrong from what I ordered",
-            "content": "We're sorry to hear this. Please let us know exactly what iterm\/color\/size you actually received, and reach out to us through this link: Report Issue or call us through 604 589 8299."
+            "content": "We're sorry to hear this. Please let us know exactly what iterm\/color\/size you actually received, and reach out to us through this link: Report Issue or call us through <a href=\"tel:604-589-8299\">604-589-8299<\/a>."
           }
         }
       },
@@ -102,7 +102,7 @@
         "accordion_item_6HydPc"
       ],
       "custom_css": [
-        "h4 {margin-left: 10rem;}",
+        "h4 {margin-left: 5rem;}",
         "div {padding: 1rem 2rem;}"
       ],
       "settings": {
@@ -125,14 +125,14 @@
           "type": "accordion_item",
           "settings": {
             "title": "How do I return\/exchange an item?",
-            "content": "Eligible items can be returned or exchanged using the returns portal here: <b>Returns Portal<\/b>.<br><br>\nWe have tried to make our in-store and website return policy as easy as possible. If you are unsatisfied with your purchase in any way, you can return unused items in new condition within 90 days for a full refund, no questions asked. The refund will be processed using the same method that the original purchase was made.<br><br>\n\n<b>Return Online<\/b><br><br>\nYou can proceed to our <b>Returns Portal<\/b>. For further assistance you can also reach out to our customer support team at sales@thehockeyshop.com or call us at <u>1-800-567-7790<\/u> to start the return process with your order number and details about the item you wish to return. <br><br>\n\n<b>Return In-Store<\/b><br><br>\nYou can visit our retail location in Langley, BC and present your order confirmation or packing slip as proof of purchase. <br><br>\n\n<b>Unretrunable Items<\/b><br><br>\nThe following items are not eligible for returns or exchanges:<br><br>\n\nJocks & Jills <br>\nBaselayer Bottoms<br>\nBoxers & Briefs<br>\nMouth Guards<br>\nUsed Products<br>\nPPE\/Fabric Face Masks"
+            "content": "Eligible items can be returned or exchanged using the returns portal here: <b>Returns Portal<\/b>.<br><br>\nWe have tried to make our in-store and website return policy as easy as possible. If you are unsatisfied with your purchase in any way, you can return unused items in new condition within 90 days for a full refund, no questions asked. The refund will be processed using the same method that the original purchase was made.<br><br>\n\n<b>Return Online<\/b><br><br>\nYou can proceed to our <b>Returns Portal<\/b>. For further assistance you can also reach out to our customer support team at <b><a href=\"mailto:sales@thehockeyshop.com\">sales@thehockeyshop.com<\/a><\/b> or call us via <b><a href=\"tel:1-800-567-7790\">1-800-567-7790.<\/a><\/b> to start the return process with your order number and details about the item you wish to return. <br><br>\n\n<b>Return In-Store<\/b><br><br>\nYou can visit our retail location in Langley, BC and present your order confirmation or packing slip as proof of purchase. <br><br>\n\n<b>Unretrunable Items<\/b><br><br>\nThe following items are not eligible for returns or exchanges:<br><br>\n\nJocks & Jills <br>\nBaselayer Bottoms<br>\nBoxers & Briefs<br>\nMouth Guards<br>\nUsed Products<br>\nPPE\/Fabric Face Masks"
           }
         },
         "accordion_item_AjYU9Q": {
           "type": "accordion_item",
           "settings": {
             "title": "How long do I have to return an item?",
-            "content": "You have up to 90 days to return an item after the date of purchase. We have tried to make our in-store and website return policy as easy as possible. If you are unsatisfied with your purchase in any way, you can return unused items in new condition within 90 days for a full refund, no questions asked. The refund will be processed using the same method that the original purchase was made.<br><br>\n\n<b>Return Online<\/b><br><br>\nYou can proceed to our <b>Returns Portal<\/b>. For further assistance you can also reach out to our customer support team at sales@thehockeyshop.com or call us at <u>1-800-567-7790<\/u> to start the return process with your order number and details about the item you wish to return. <br><br>\n\n<b>Return In-Store<\/b><br><br>\nYou can visit our retail location in Langley, BC and present your order confirmation or packing slip as proof of purchase. <br><br>\n\n<b>Unretrunable Items<\/b><br><br>\nThe following items are not eligible for returns or exchanges:<br><br>\n\nJocks & Jills <br>\nBaselayer Bottoms<br>\nBoxers & Briefs<br>\nMouth Guards<br>\nUsed Products<br>\nPPE\/Fabric Face Masks"
+            "content": "You have up to 90 days to return an item after the date of purchase. We have tried to make our in-store and website return policy as easy as possible. If you are unsatisfied with your purchase in any way, you can return unused items in new condition within 90 days for a full refund, no questions asked. The refund will be processed using the same method that the original purchase was made.<br><br>\n\n<b>Return Online<\/b><br><br>\nYou can proceed to our <b>Returns Portal<\/b>. For further assistance you can also reach out to our customer support team at <b><a href=\"mailto:sales@thehockeyshop.com\">sales@thehockeyshop.com<\/a><\/b> or call us via <b><a href=\"tel:1-800-567-7790\">1-800-567-7790.<\/a><\/b> to start the return process with your order number and details about the item you wish to return. <br><br>\n\n<b>Return In-Store<\/b><br><br>\nYou can visit our retail location in Langley, BC and present your order confirmation or packing slip as proof of purchase. <br><br>\n\n<b>Unretrunable Items<\/b><br><br>\nThe following items are not eligible for returns or exchanges:<br><br>\n\nJocks & Jills <br>\nBaselayer Bottoms<br>\nBoxers & Briefs<br>\nMouth Guards<br>\nUsed Products<br>\nPPE\/Fabric Face Masks"
           }
         },
         "accordion_item_ddVeFN": {
@@ -149,7 +149,7 @@
         "accordion_item_ddVeFN"
       ],
       "custom_css": [
-        "h4 {margin-left: 10rem;}",
+        "h4 {margin-left: 5rem;}",
         "div {padding: 1rem 2rem;}"
       ],
       "settings": {
@@ -159,7 +159,7 @@
         "accordion_icon": "1",
         "open_first": false,
         "section_fullwidth": false,
-        "color_scheme": "scheme-4",
+        "color_scheme": "scheme-1",
         "padding_top": 25,
         "padding_bottom": 25,
         "padding_rate": 75
@@ -171,29 +171,43 @@
         "accordion_item_jKtQnJ": {
           "type": "accordion_item",
           "settings": {
-            "title": "Pellentesque habitant morbi tristique senectus et netus?",
-            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            "title": "How can I get free shipping?",
+            "content": "We are pleased to offer free delivery for orders over $100 shipped to most locations within Canada and the United States. However, please note that there are a few postal codes which may not be eligible for free shipping. In cases of oversized packages, a flat rate fee of $9.99 will be applied. You will be automatically eligible for free shipping once your subtotal reaches $100 and this option will be shown at checkout. Kindly note that all orders eligible for free shipping will be shipped via ground service.<br><br>"
           }
         },
         "accordion_item_nWPkrx": {
           "type": "accordion_item",
           "settings": {
-            "title": "Pellentesque habitant morbi tristique senectus et netus?",
-            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            "title": "Can I pick up my order in-store?",
+            "content": "Absolutely! We offer free in-store pickup at checkout, and you will receive instructions via email. Orders are typically available within a few hours during store business hours.  <br><br>\n\n\nMonday to Wednesday |\t10am - 6pm<br>\nThursday to Friday |\t10am - 8pm<br>\nSaturday\t  9am - 6pm\nSunday\t10am - 5pm"
           }
         },
         "accordion_item_c4CmUc": {
           "type": "accordion_item",
           "settings": {
-            "title": "Pellentesque habitant morbi tristique senectus et netus?",
-            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            "title": "How long will shipping take?",
+            "content": "Our goal is to ensure that all orders are shipped out the same day or the following day, wherever possible. The estimated transit times for ground shipping are as follows:<br><br>\n\nWestern Canada: 1-4 business days<br>\nEastern Canada: 4-6 business days<br>\nUSA: 3-8 business days<br>\nInternational: 5-10 business days<br><br>\nPlease note that these are just estimates and not guarantees. The actual transit times may vary depending on the package dimensions and the final destination. If you have selected express shipping, the transit time will be shown at checkout and typically takes 1-3 days to deliver.<br><br>\n\nHowever, please note that sticks require additional handling and may arrive a day later than another package if the order is a multi-piece shipment.<br><br>\n\nFor additional questions about our shipping policy, please contact us at <b><a href=\"mailto:sales@thehockeyshop.com\">sales@thehockeyshop.com<\/a><\/b> or call us via <b><a href=\"tel:1-800-567-7790\">1-800-567-7790.<\/a><\/b>"
           }
         },
         "accordion_item_tcEFQY": {
           "type": "accordion_item",
           "settings": {
-            "title": "Pellentesque habitant morbi tristique senectus et netus?",
-            "content": "The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            "title": "Can I order from outside of Canada?",
+            "content": "Certainly! We offer a variety of products that can be shipped to the US and other countries. To view our international selection, please click on <b>International Store.<\/b> However, some of our products are only available for shipping to Canadian addresses. To identify these items, please look for the <b><i>\"Ships Canada Only\"<\/i><\/b> icon on the product page. This icon indicates that the manufacturer has imposed shipping limitations on the product.<br><br>\n\nFor instance, Bauer products cannot be shipped outside of Canada, and CCM, True, and Warrior products also have their own shipping restrictions in place."
+          }
+        },
+        "accordion_item_pRgLPn": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "How can I ensure my that my package is protected?",
+            "content": "Safeguard your package for just $1.99 with premium shipping protection during checkout. <br><br>\nWe will quickly replace and resend your order if it gets lost or damaged. <br><br>\n\nIf your order is marked as delivered but there's no sign of the package, wait at least 1 business day before hitting the panic button. Unfortunately, it is common for couriers to mark an item as delivered well before the delivery attempt is made. After waiting a day, reach out to our team at sales@thehockeyshop.com to resolve the issue. <br><br>\n\nPackages that are unprotected will follow the standard claims policy of the shipping courier which can take additional time and the final decision is up to the discretion of the courier."
+          }
+        },
+        "accordion_item_VnUDx7": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "How do you ship hockey sticks?",
+            "content": "Great question! We have custom boxes designed for that! The box works as a large envelope or sleeve and will secure the stick and protect it in transit. We can ship up to 4 sticks per box."
           }
         }
       },
@@ -201,10 +215,12 @@
         "accordion_item_jKtQnJ",
         "accordion_item_nWPkrx",
         "accordion_item_c4CmUc",
-        "accordion_item_tcEFQY"
+        "accordion_item_tcEFQY",
+        "accordion_item_pRgLPn",
+        "accordion_item_VnUDx7"
       ],
       "custom_css": [
-        "h4 {margin-left: 10rem;}",
+        "h4 {margin-left: 5rem;}",
         "div {padding: 1rem 2rem;}"
       ],
       "settings": {
@@ -220,88 +236,176 @@
         "padding_rate": 75
       }
     },
-    "08421e50-b348-46a3-bbb7-5b26be196b6c": {
-      "type": "accordion",
+    "accordion_inline_QHXtfF": {
+      "type": "accordion_inline",
       "blocks": {
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-title-2": {
-          "type": "title",
-          "settings": {
-            "title": "Shipping"
-          }
-        },
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-5": {
+        "accordion_item_LMyYJC": {
           "type": "accordion_item",
           "settings": {
-            "title": "How can I get free shipping?",
-            "content": "We are pleased to offer free delivery for orders over $100 shipped to most locations within Canada and the United States. However, please note that there are a few postal codes which may not be eligible for free shipping. In cases of oversized packages, a flat rate fee of $9.99 will be applied. You will be automatically eligible for free shipping once your subtotal reaches $100 and this option will be shown at checkout. Kindly note that all orders eligible for free shipping will be shipped via ground service.<br><br>\n\n**Please note that the free shipping offer does not apply to Hockey, goalie, and backpack wheel bags. These items are considered oversized by the couriers and therefore have a heavy surcharge on freight. However, we are offering a discounted flat rate of $9.99 for any order that includes a wheeled bag."
+            "title": "What happens if the price drops?",
+            "content": "If you find the item you purchased advertised at a lower price within 30 days of purchase, we will refund you the difference. \n<br><br>\nSimilarly, if we adjust the selling price below the original invoiced price within 30 days of purchase, we will refund you the difference.  \n<br><br>\nPlease be aware that refunds will be processed using the same method as the original purchase. Unfortunately, we cannot accept credit card information over the phone or email for refunds. In such cases, we would be happy to provide a store credit refund instead."
           }
         },
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-6": {
+        "accordion_item_LPKNpp": {
           "type": "accordion_item",
           "settings": {
-            "title": "Can I pick up my order in-store?",
-            "content": "Absolutely! We offer free in-store pickup at checkout, and you will receive instructions via email. Orders are typically available within a few hours during store business hours.  <br><br>\n\n\nMonday to Wednesday |\t10am - 6pm<br>\nThursday to Friday |\t10am - 8pm<br>\nSaturday\t  9am - 6pm\nSunday\t10am - 5pm"
+            "title": "Do discounts apply to all items?",
+            "content": "Discount codes can be used on all regular priced non-MAP items. It cannot be combined with other promotions or applied to sale priced items."
           }
         },
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-7": {
+        "accordion_item_yAbtLj": {
           "type": "accordion_item",
           "settings": {
-            "title": "How long will shipping take?",
-            "content": "Our goal is to ensure that all orders are shipped out the same day or the following day, wherever possible. The estimated transit times for ground shipping are as follows:<br><br>\n\nWestern Canada: 1-4 business days<br>\nEastern Canada: 4-6 business days<br>\nUSA: 3-8 business days<br>\nInternational: 5-10 business days<br><br>\nPlease note that these are just estimates and not guarantees. The actual transit times may vary depending on the package dimensions and the final destination. If you have selected express shipping, the transit time will be shown at checkout and typically takes 1-3 days to deliver.<br><br>\n\nHowever, please note that sticks require additional handling and may arrive a day later than another package if the order is a multi-piece shipment.<br><br>\n\nFor additional questions about our shipping policy, please contact us at sales@thehockeyshop.com or call us via 1-800-567-7790."
+            "title": "How does price matching work?",
+            "content": "We strive to offer competitive prices, but in case you come across a lower advertised price for an identical and in-stock item from any of our competitors, we would be happy to match that price. If you are unsure about the price comparison, please reach out to our customer service team, and we will look into it for you.  <br><br>\n\nPlease note that if you find the item available at a lower price on an international website, the price will need to be converted into CAD before the price adjustment is calculated. <br><br>\n\nFurthermore, if you find the item you purchased advertised at a lower price within 30 days of purchase, we will refund you the difference. <br><br>\n\nSimilarly, if we adjust the selling price below the original invoiced price within 30 days of purchase, we will refund you the difference.  \n<br><br>\nPlease be aware that refunds will be processed using the same method as the original purchase. Unfortunately, we cannot accept credit card information over the phone or email for refunds. In such cases, we would be happy to provide a store credit refund instead."
           }
         },
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-8": {
+        "accordion_item_rYiWBi": {
           "type": "accordion_item",
           "settings": {
-            "title": "Can I order from outside of Canada?",
-            "content": "Certainly! We offer a variety of products that can be shipped to the US and other countries. To view our international selection, please click on <b>International Store.<\/b> However, some of our products are only available for shipping to Canadian addresses. To identify these items, please look for the <b><i>\"Ships Canada Only\"<\/i><\/b> icon on the product page. This icon indicates that the manufacturer has imposed shipping limitations on the product.<br><br>\n\nFor instance, Bauer products cannot be shipped outside of Canada, and CCM, True, and Warrior products also have their own shipping restrictions in place."
-          }
-        },
-        "accordion_item_fniLkX": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "How can I ensure my that my package is protected?",
-            "content": "Safeguard your package for just $1.99 with premium shipping protection during checkout. <br><br>\nWe will quickly replace and resend your order if it gets lost or damaged. <br><br>\n\nIf your order is marked as delivered but there's no sign of the package, wait at least 1 business day before hitting the panic button. Unfortunately, it is common for couriers to mark an item as delivered well before the delivery attempt is made. After waiting a day, reach out to our team at sales@thehockeyshop.com to resolve the issue. <br><br>\n\nPackages that are unprotected will follow the standard claims policy of the shipping courier which can take additional time and the final decision is up to the discretion of the courier."
-          }
-        },
-        "accordion_item_eH9W9P": {
-          "type": "accordion_item",
-          "settings": {
-            "title": "How do you ship hockey sticks?",
-            "content": "Great question! We have custom boxes designed for that! The box works as a large envelope or sleeve and will secure the stick and protect it in transit. We can ship up to 4 sticks per box."
-          }
-        },
-        "f7bc3c6c-8508-4a46-9b3e-d0fb46b8ed01": {
-          "type": "other_content",
-          "settings": {
-            "heading": "Have a question",
-            "content": "<p>If you have an issue or question that requires immediate assistance, you can click the button below to chat live with a Customer Service representative.<br\/><br\/>Please allow 06 - 12 business days from the time your package arrives back to us for a refund to be issued.<\/p>",
-            "solid_btn_label": "Contact us",
-            "solid_btn_link": "shopify:\/\/pages\/contact-1",
-            "underline_btn_label": "Live chat",
-            "underline_btn_link": "shopify:\/\/pages\/contact-2"
+            "title": "What does MAP mean?",
+            "content": "MAP stands for Minimum Advertised Price. Items tagged as MAP are excluded from any online discounts, coupons and promotions. These MAP policies are put in place by brands and typically apply to elite level products at the start of the product cycle."
           }
         }
       },
       "block_order": [
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-title-2",
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-5",
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-6",
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-7",
-        "template--20718015545618__08421e50-b348-46a3-bbb7-5b26be196b6c-accordion_item-8",
-        "accordion_item_fniLkX",
-        "accordion_item_eH9W9P",
-        "f7bc3c6c-8508-4a46-9b3e-d0fb46b8ed01"
+        "accordion_item_LMyYJC",
+        "accordion_item_LPKNpp",
+        "accordion_item_yAbtLj",
+        "accordion_item_rYiWBi"
+      ],
+      "custom_css": [
+        "h4 {margin-left: 5rem;}",
+        "div {padding: 1rem 2rem;}"
       ],
       "settings": {
-        "accordion_position": "start",
+        "top_heading": "Price Policy",
+        "heading_tag": "h4",
+        "heading_size": "h4",
         "accordion_icon": "1",
         "open_first": false,
-        "enable_link_list": false,
         "section_fullwidth": false,
-        "color_scheme": "scheme-1",
+        "color_scheme": "",
         "padding_top": 85,
-        "padding_bottom": 65,
+        "padding_bottom": 70,
+        "padding_rate": 75
+      }
+    },
+    "accordion_inline_YtbiaV": {
+      "type": "accordion_inline",
+      "blocks": {
+        "accordion_item_3cPfTU": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "How do I process a warranty claim?",
+            "content": "If you're here because an item is faulty or defective...sorry to hear! We'll work to get that item replaced for you. Our store carries many brands that offer extensive warranties for premature breakage, which means you could receive a replacement product. If you're located in Surrey, BC, our retail location is ready to assist you. However, if you're shopping from out of town, you can submit a warranty claim digitally using photos of the item. You can find information for each brand on our website under Warranty Information. This page outlines all warranty timelines, policies, and procedures."
+          }
+        },
+        "accordion_item_VyQCQz": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Which items have a warranty?",
+            "content": "Nearly all the hockey and goalie products we sell are covered by a manufacturer's warranty. For a full list of products covered by warranty, visit our Warranty Information page. Pro stock equipment is not covered under warranty as these items have been built specifically for professional players."
+          }
+        },
+        "accordion_item_aK9bhU": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "When does the warranty period begin?",
+            "content": "All warranties begin from the original purchase date, not the date of arrival. You can find information for each brand on our website under Warranty Information. This page outlines all warranty timelines, policies and procedures."
+          }
+        },
+        "accordion_item_GKgyPj": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "How long is the warranty period?",
+            "content": "In general, hockey and goalie sticks are covered by a 30 day warranty. Protective goods typically have a 90 day warranty. Helmets and masks are often covered up to 1 year. For full details offered by each brand, kindly visit our Warranty Information page."
+          }
+        }
+      },
+      "block_order": [
+        "accordion_item_3cPfTU",
+        "accordion_item_VyQCQz",
+        "accordion_item_aK9bhU",
+        "accordion_item_GKgyPj"
+      ],
+      "custom_css": [
+        "h4 {margin-left: 5rem;}",
+        "div {padding: 1rem 2rem;}"
+      ],
+      "settings": {
+        "top_heading": "Warranty",
+        "heading_tag": "h4",
+        "heading_size": "h4",
+        "accordion_icon": "1",
+        "open_first": false,
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 85,
+        "padding_bottom": 70,
+        "padding_rate": 75
+      }
+    },
+    "accordion_inline_zKGeqc": {
+      "type": "accordion_inline",
+      "blocks": {
+        "accordion_item_JRziEF": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Can you fix my hockey gear and skates?",
+            "content": "We have an expert on-site who can help you with fixing your equipment. We won’t be happy until you are with your gear, and we will make sure to work on your gear efficiently and with great detail.<br><br>\nRepairs Available at the Hockey Shop include:<br><br>\n\nPlayer Glove Sewing<br>\nLeg Pad Binding Repairs<br>\nRe-lacing Catcher Pockets<br>\nMounting\/Riveting Holders<br><br>\n\nIn case you do not find the repair service you need on our list, please feel free to reach out to us via phone or email. Our team will do their best to identify and solve your problem, and work on your gear accordingly.<br><br>\n\nIf, for any reason, your hockey equipment cannot be repaired, our team of experts can assist you in finding new gear. We have extensive knowledge in this field and can help you choose the perfect gear that matches your preferences and style."
+          }
+        },
+        "accordion_item_Cc6HrL": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Can you sharpen my hockey skates?",
+            "content": "We also cater to Skate Sharpening needs.<br><br>\n\n\n\nPlease see the following sharpening options we offer:<br><br>\n\nBlademaster – Traditional Hollow, or ROH<br>\nBlademaster – Flat Bottom Hollow (Blade Form Dressing, or BFD)<br>\nBlackstone – Flat Bottom V (FBV)<br>\nPro-Sharp – Z-Channel<br>\nSparx – Traditional Hollow, or ROH<br><br>\nFor a more in-depth explanation about different sharpening styles, or if you need help figuring out which one is best for you, feel free to come in or contact The Hockey Shop for further assistance."
+          }
+        },
+        "accordion_item_pqgjDK": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "What is Skate Profiling?",
+            "content": "It's possible to skate and play well with the manufacturer's profile. However, the issue is that those profiles are not customized to fit you. Profiling considers various aspects of your play and you, including your height and weight, sharpening style (hollow), player position and skill level, ice hardness, previous profile, skate brand\/family\/holder size, foot position, leg shape, arm length, goals for improving your skating, and current balance and base position, maneuverability, speed, and style (goalies). <br><br>\n\nThe Hockey shop offer different options of Skate Profiling:<br><br>\n\nSingle Radius<br>\nDouble Radius<br>\nTriple Radius<br>\nQuad Radius<br>\nEllipse <br><br>\nWe understand that profiling can be complex, so we have expert staff on-site to help answer any questions and assess your playing style."
+          }
+        },
+        "accordion_item_MCJEKP": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "I want to know more about Custom Skate Fitting",
+            "content": "The Hockey Shop is one of a few stores in North America that offers a Custom Skates Fitting from leading brands:<br><br>\n\nMyBauer Fit Station and Program<br>\nCCM Total Custom and Total Custom Plus <br>\nTRUE Fit Centre<br><br>\n If you are looking to get custom skates that are designed to fit you perfectly, we can assist you. However, understanding all the technical details and getting the measurements right can be quite challenging. To make things easier, you can contact The Hockey Shop by sending an email to sales@thehockeyshop.com or by calling <a href=\"tel:604-589-8299\">604-589-8299 <\/a>to book a skate fitting appointment."
+          }
+        },
+        "accordion_item_tD9Mpc": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "Do you customize jerseys?",
+            "content": "The Hockey Shop provides custom NHL jerseys for those who want to add a little more flair to their cheering.<br> Our professional Team Sales department is dedicated to creating custom gear for teams, and we assure you that the same level of quality and attention to detail will be applied to your custom NHL jersey.<br><br> Our team takes care of customization options such as names and numbers. If you want a custom jersey made, contact our Team Sales via call <a href=\"tel:1-800-567-7790\">1-800-567-7790<\/a> or email <a href=\"mailto:teamsales@thehockeyshop.com\">teamsales@thehockeyshop.com<\/a> to start your custom order."
+          }
+        }
+      },
+      "block_order": [
+        "accordion_item_JRziEF",
+        "accordion_item_Cc6HrL",
+        "accordion_item_pqgjDK",
+        "accordion_item_MCJEKP",
+        "accordion_item_tD9Mpc"
+      ],
+      "custom_css": [
+        "h4 {margin-left: 5rem;}",
+        "div {padding: 1rem 2rem;}"
+      ],
+      "settings": {
+        "top_heading": "Store Services",
+        "heading_tag": "h4",
+        "heading_size": "h4",
+        "accordion_icon": "1",
+        "open_first": false,
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 85,
+        "padding_bottom": 70,
         "padding_rate": 75
       }
     }
@@ -311,6 +415,8 @@
     "accordion_inline_kQAXLA",
     "accordion_inline_ykVmyj",
     "accordion_inline_ijmy7e",
-    "08421e50-b348-46a3-bbb7-5b26be196b6c"
+    "accordion_inline_QHXtfF",
+    "accordion_inline_YtbiaV",
+    "accordion_inline_zKGeqc"
   ]
 }
