@@ -523,6 +523,13 @@
             "title": "The right fit for Goalie Catch Gloves",
             "content": "Trappers are often overlooked when it comes to gear fitting. This is perhaps because of the limited sizes available for youth, junior, intermediate, and senior players. To find the correct size, follow the estimated age range and measure from the heel of your palm to the tip of your middle finger.<br><br>\n\n\n\n<b>Here are the recommended measurements:<\/b><br><br>\n\nDivision  | Age | Inches | Millimitre<br><hr>\nYouth | 5 to 8 | 4.5-5.75 | 119-143<br>\nJunior | 8 to 11 | 5.75-6.35 | 144-160<br>\nIntermediate | 11 to 13 | 6.35-7 | 161-178<br>\nSenior | 14 and up | 7-8.5 | 179-216<br><br>\n\n\n\n\n\n\nAfter estimating the size, ensure that the palm lines up properly within the catching glove so that it can be closed without excessive force. New gloves will be difficult to close initially but by using it repeatedly or baking it with in-house convection skate ovens, they will soften up and allow the goaltender to easily close. Avoid using any conventional in-home ovens as past results have been unpredictable.<br><br>\n\n\n\nThe wrist strap should go directly across your wrist bone and have little to no interference with the chest\/arm. The catch glove should be able to twist and maneuver in a multitude of save selections and enable you to grip the stick when puck handling while keeping the hand in the correct position within the trapper.\n\n <br><br>\n\nFor growing goaltenders, it is advisable to stick within these guidelines rather than moving up to the next size to accommodate growth. Large gloves will inhibit the goalie’s control and development. It should be noted that as a result of the limited size selection, goalies wouldn’t jump sizes as quickly as other pieces of gear.\n<br><br>\n<b>Which Hand Do I Need?<\/b> <br>Figuring out which hand you need for your Catcher can be slightly confusing. Goalies generally refer to themselves as \"REGULAR\" or \"FULL RIGHT\". Below is the easiest way to simplify which hand you need. \n\n\n\n<br><br>\n\n<b>Goalie Catcher Hands Simplified <\/b><br>\n\n• Regular - Catcher worn on your Left Hand <br>\n\n• Full Right - Catcher worn on your Right Hand"
           }
+        },
+        "accordion_item_bKFjVb": {
+          "type": "accordion_item",
+          "settings": {
+            "title": "The right fit for a Goalie Blocker",
+            "content": "Blockers are often overlooked compared to other pieces of gear where fit is concerned. Perhaps this is a result of the limited sizes available compared to other pieces of equipment: youth, junior, intermediate, and senior. \n<br><br>\n\n\n\n\nThe first step to finding the correct blocker is to approximate your size by following the estimated age range and “heel-of-palm-to-tip-of-middle-finger” measurement:<br><br>\nDivision  | Age | Inches | Millimitre<br><hr>\nYouth | 5 to 8 | 4.5-5.75 | 119-143<br>\nJunior | 8 to 11 | 5.75-6.35 | 144-160<br>\nIntermediate | 11 to 13 | 6.35-7 | 161-178<br>\nSenior | 14 and up | 7-8.5 | 179-216<br><br>\n\n\n\n\n\n\n\n\n\nOnce a size has been approximated it is important to ensure that the fingertips lie close to the seam at the fingertips or within 0.5” if the goaltender is growing. This is important to ensure that the goalie can maintain control of the stick while making saves in addition to being able to maneuver the blocker when playing the puck.<br><br>\n\n\n\n\n\n\n\n\n\n\nAnother thing to look for is that the wrist strap goes directly across the wrist bone and has little to no interference with the chest\/arm. The wearer should be able to swivel their wrist to accommodate a range of save selections without any restrictions from the chest protector.\n\n<br><br>\n\n\n\n\n\n\n\n<b>Which Hand Do I Need?<\/b><br>\nFiguring out which hand you need for your Blocker can be slightly confusing. Goalies generally refer to themselves as \"REGULAR\" or \"FULL RIGHT\". Below is the easiest way to simplify which hand you need.<br><br>\n\n\n\n<b>Blocker Hands Simplified<\/b><br>\n\n- Regular - Blocker worn on your Right Hand<br>\n- Full Right - Blocker worn on your Left Hand"
+          }
         }
       },
       "block_order": [
@@ -541,7 +548,8 @@
         "accordion_item_a4kjkV",
         "accordion_item_nViKgg",
         "accordion_item_YzHyqq",
-        "accordion_item_zTzxLc"
+        "accordion_item_zTzxLc",
+        "accordion_item_bKFjVb"
       ],
       "custom_css": [
         "h4 {text-align: center;}",
