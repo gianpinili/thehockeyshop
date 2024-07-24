@@ -24,7 +24,6 @@
         "5ecb9555-19e4-433b-8817-1ccaa3a41384"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/z4683181570507_46fb10fa21da971ae2af71e75431028c.png",
         "color_scheme": "",
         "spacing_hd": 0,
         "padding_top": 80,
@@ -45,10 +44,13 @@
     },
     "25dc1801-3eb3-4e03-8592-6d9f8d9f6dda": {
       "type": "map-with-text",
+      "custom_css": [
+        "iframe {border-radius: 10px;}"
+      ],
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "color_scheme": "",
-        "map": "<div class=\"mapouter\"><div class=\"gmap_canvas\"><iframe class=\"gmap_iframe\" width=\"100%\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https:\/\/maps.google.com\/maps?width=1920&amp;height=646&amp;hl=en&amp;q=tower of london&amp;t=p&amp;z=10&amp;ie=UTF8&amp;iwloc=B&amp;output=embed\"><\/iframe><a href=\"https:\/\/gachanymph.com\/\">Gacha Nymph Download<\/a><\/div><style>.mapouter{position:relative;text-align:right;width:100%;height:646px;}.gmap_canvas {overflow:hidden;background:none!important;width:100%;height:646px;}.gmap_iframe {height:646px!important;}<\/style><\/div>",
+        "map": "<div class=\"mapouter\"><div class=\"gmap_canvas\"><iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d5222.279215348874!2d-122.66757442323203!3d49.121983682120025!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5485d82ad463e66d%3A0x34d1a44f690a7f44!2sThe%20Hockey%20Shop%20Source%20For%20Sports!5e0!3m2!1sen!2sca!4v1721861434746!5m2!1sen!2sca\" width=\"600\" height=\"550\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe><a href=\"https:\/\/gachanymph.com\/\">Gacha Nymph Download<\/a><\/div><style>.mapouter{position:relative;text-align:right;width:100%;height:646px;}.gmap_canvas {overflow:hidden;background:none!important;width:100%;height:750px;}.gmap_iframe {height:750px!important;}<\/style><\/div>",
         "padding_top": 0,
         "padding_bottom": 0,
         "padding_rate": 75
