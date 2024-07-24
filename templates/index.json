@@ -241,14 +241,14 @@
         "heading_cX8Fpq": {
           "type": "heading",
           "settings": {
-            "heading": "Black Friday in July",
+            "heading": "Rinkside Rush Sale!",
             "heading_fs": "h3"
           }
         },
         "sub_heading_V9aBD8": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "Jump start the season with savings.<br>It's prime time to elevate your game. Score up to 50% off.",
+            "sub_heading": "Beat the rush and hit the ice early.<br> Score up to 40% off. Countdown to hockey starts now.",
             "sub_heading_fs": "lg"
           }
         },
@@ -408,6 +408,102 @@
         "padding_rate": 40
       }
     },
+    "hero_image_krPDV6": {
+      "type": "hero-image",
+      "settings": {
+        "image_height": "adapt_image",
+        "fixed_height": 860,
+        "image_height_mb": "adapt_image",
+        "fixed_height_mb": 300,
+        "image": "shopify:\/\/shop_images\/Rinkside_Rush_Sale_Email_Main_V2_2000_x_800_px.jpg",
+        "image_mb": "shopify:\/\/shop_images\/Rinkside_Rush_Sale_Email_Main_V2.jpg",
+        "link_img": "https:\/\/www.thehockeyshop.com\/collections\/player-clearance#\/filter:vendor:Bauer",
+        "target": false,
+        "image_behavior": "none",
+        "use_overlay": false,
+        "use_bg_content": false,
+        "content_position": "center",
+        "content_align": "center",
+        "content_position_mb": "center",
+        "content_align_mb": "center",
+        "full_width": true,
+        "boxed_fullwidth": true,
+        "color_scheme": "",
+        "padding_top": 16,
+        "padding_bottom": 16,
+        "padding_rate": 75
+      }
+    },
+    "featured_collection_carousel_YDkkkx": {
+      "type": "featured-collection-carousel",
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Sync Power. 25% Off.",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "<p>Feel the puck, feel versatile, feel more.<\/p>",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "btn_heading": false,
+        "nav_heading": "disable",
+        "heading_gap": 23,
+        "sec_heading_spacing": 66,
+        "collection": "bauer-sync-sticks",
+        "product_list": [
+
+        ],
+        "product_des": "1",
+        "image_ratio": "adapt_image",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 12,
+        "col_dk": "5",
+        "col_tb": "3",
+        "col_mb": "2",
+        "half_item": false,
+        "navUI": true,
+        "nav_des": "outline",
+        "nav_pos": "middle_out",
+        "dotUI": false,
+        "pagination_type": "view_all",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "View all",
+        "btn_style": "link",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 30,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "hero_image_3VNqLJ": {
+      "type": "hero-image",
+      "settings": {
+        "image_height": "adapt_image",
+        "fixed_height": 860,
+        "image_height_mb": "adapt_image",
+        "fixed_height_mb": 300,
+        "image": "shopify:\/\/shop_images\/2_53ad86d0-7619-459e-a44f-3ada264e53b9.jpg",
+        "link_img": "",
+        "target": false,
+        "image_behavior": "none",
+        "use_overlay": false,
+        "use_bg_content": false,
+        "content_position": "center",
+        "content_align": "center",
+        "content_position_mb": "center",
+        "content_align_mb": "center",
+        "full_width": true,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_rate": 75
+      }
+    },
     "featured_collection_carousel_tparE8": {
       "type": "featured-collection-carousel",
       "settings": {
@@ -453,32 +549,6 @@
         "padding_rate": 75
       }
     },
-    "hero_image_krPDV6": {
-      "type": "hero-image",
-      "settings": {
-        "image_height": "adapt_image",
-        "fixed_height": 860,
-        "image_height_mb": "adapt_image",
-        "fixed_height_mb": 300,
-        "image": "shopify:\/\/shop_images\/banner_web_1.png",
-        "image_mb": "shopify:\/\/shop_images\/banner_mobile.png",
-        "link_img": "https:\/\/www.thehockeyshop.com\/collections\/player-clearance#\/filter:vendor:Bauer",
-        "target": false,
-        "image_behavior": "none",
-        "use_overlay": false,
-        "use_bg_content": false,
-        "content_position": "center",
-        "content_align": "center",
-        "content_position_mb": "center",
-        "content_align_mb": "center",
-        "full_width": true,
-        "boxed_fullwidth": true,
-        "color_scheme": "",
-        "padding_top": 16,
-        "padding_bottom": 16,
-        "padding_rate": 75
-      }
-    },
     "hero_image_E4PYVD": {
       "type": "hero-image",
       "disabled": true,
@@ -503,51 +573,6 @@
         "color_scheme": "scheme-1",
         "padding_top": 16,
         "padding_bottom": 21,
-        "padding_rate": 75
-      }
-    },
-    "featured_collection_carousel_YDkkkx": {
-      "type": "featured-collection-carousel",
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "CCM FT7 Pro",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "<p>Feel the puck, feel versatile, feel more.<\/p>",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "btn_heading": false,
-        "nav_heading": "disable",
-        "heading_gap": 23,
-        "sec_heading_spacing": 66,
-        "collection": "ccm-jetspeed-ft7-pro-sticks-feel-the-speed-control-the-game",
-        "product_list": [
-
-        ],
-        "product_des": "1",
-        "image_ratio": "adapt_image",
-        "image_size": true,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 12,
-        "col_dk": "5",
-        "col_tb": "3",
-        "col_mb": "2",
-        "half_item": false,
-        "navUI": true,
-        "nav_des": "outline",
-        "nav_pos": "middle_out",
-        "dotUI": false,
-        "pagination_type": "view_all",
-        "paginate_pos": "center",
-        "dis_pagination": 30,
-        "btn_label": "View all",
-        "btn_style": "link",
-        "btn_fw": "normal",
-        "section_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 30,
-        "padding_bottom": 40,
         "padding_rate": 75
       }
     },
@@ -1600,10 +1625,11 @@
     "marquee_JjnJ7y",
     "top_heading_eLfALw",
     "282a0160-505d-43ff-b601-043a5a327bc2",
-    "featured_collection_carousel_tparE8",
     "hero_image_krPDV6",
-    "hero_image_E4PYVD",
     "featured_collection_carousel_YDkkkx",
+    "hero_image_3VNqLJ",
+    "featured_collection_carousel_tparE8",
+    "hero_image_E4PYVD",
     "brand_carousel_j6Bm7L",
     "banner_masonry_XeC9dN",
     "banner_qfQbew",

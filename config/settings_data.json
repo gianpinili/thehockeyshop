@@ -40,6 +40,7 @@
     "collection_card_radius": 10,
     "blog_card_radius": 10,
     "badge_shape": "rectangle",
+    "use_onsale_badge": false,
     "label_onsale_style": "percentage",
     "use_new_badge": true,
     "wishlist_mode": "0",
