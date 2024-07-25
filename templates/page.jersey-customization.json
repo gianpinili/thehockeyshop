@@ -109,6 +109,51 @@
         "padding_rate": 75
       }
     },
+    "featured_collection_carousel_XDYELU": {
+      "type": "featured-collection-carousel",
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Best Seller",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "btn_heading": false,
+        "nav_heading": "disable",
+        "heading_gap": 31,
+        "sec_heading_spacing": 30,
+        "collection": "hockey-practice-jerseys",
+        "product_list": [
+
+        ],
+        "product_des": "1",
+        "image_ratio": "adapt_image",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 15,
+        "col_dk": "5",
+        "col_tb": "3",
+        "col_mb": "2",
+        "half_item": false,
+        "navUI": true,
+        "nav_des": "outline",
+        "nav_pos": "middle_out",
+        "dotUI": false,
+        "pagination_type": "view_all",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "View all",
+        "btn_style": "link",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 52,
+        "padding_rate": 75
+      }
+    },
     "image_with_text_gcKQCJ": {
       "type": "image-with-text",
       "blocks": {
@@ -260,6 +305,7 @@
   "order": [
     "image_with_text_aYHbEk",
     "featured_collection_carousel_MjU3nj",
+    "featured_collection_carousel_XDYELU",
     "image_with_text_gcKQCJ",
     "icon_box_Hm4Wye"
   ]
