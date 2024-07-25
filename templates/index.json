@@ -964,7 +964,7 @@
         "content_position": "center-start",
         "alignment": "left",
         "content_pl": 29,
-        "image_last_mb": false,
+        "image_last_mb": true,
         "content_position_mb": "center",
         "alignment_mb": "center",
         "padding_top": 14,
