@@ -9,694 +9,43 @@
 */
 {
   "sections": {
-    "slideshow_q7pEg9": {
-      "type": "slideshow",
-      "blocks": {
-        "slide_label_grG7Ta": {
-          "type": "slide_label",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/hero_1_1.jpg",
-            "url": "",
-            "banner_target": false,
-            "color_scheme": "",
-            "sub_heading": "",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "normal",
-            "sub_heading_bg": false,
-            "heading": "",
-            "heading_fs": "base",
-            "heading_fw": "normal",
-            "btn_label": "",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "none",
-            "btn2_label": "",
-            "btn2_link": "",
-            "target2": false,
-            "btn2_size": "base",
-            "btn2_style": "solid",
-            "btn2_fw": "normal",
-            "btn2_icon": "none",
-            "content_bg": false,
-            "content_position": "center",
-            "alignment": "center",
-            "hide_subtext_mb": false,
-            "content_position_mb": "center",
-            "alignment_mb": "center"
-          }
-        }
-      },
-      "block_order": [
-        "slide_label_grG7Ta"
-      ],
-      "settings": {
-        "full_width": true,
-        "item_round": "rounded",
-        "image_height": "fixed",
-        "fixed_height": 860,
-        "image_height_mb": "adapt_image",
-        "fixed_height_mb": 300,
-        "color_scheme": "",
-        "loop": true,
-        "auto_play": 0,
-        "pause_hover": false,
-        "navUI": false,
-        "dotUI": false,
-        "dot_style": "default",
-        "dot_direction": "horizontal",
-        "dot_align": "center",
-        "dot_space": 40,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "padding_rate": 75
-      }
-    },
-    "marquee_cy3Qc8": {
-      "type": "marquee",
-      "blocks": {
-        "item_MWbCUH": {
-          "type": "item",
-          "settings": {
-            "text": "<p>Summer Super Sale up to 40% off.<\/p>",
-            "icon_svg": "dividing_icon",
-            "custom_svg": "",
-            "icon_width": 12,
-            "icon_width_mb": 20
-          }
-        },
-        "item_VNznpL": {
-          "type": "item",
-          "settings": {
-            "text": "<p>Free shipping on orders over $100.<\/p>",
-            "icon_svg": "none",
-            "custom_svg": "",
-            "icon_width": 20,
-            "icon_width_mb": 20
-          }
-        },
-        "item_q76aYq": {
-          "type": "item",
-          "settings": {
-            "text": "<p>Buy now, pay later with Sezzle.<\/p>",
-            "icon_svg": "none",
-            "custom_svg": "",
-            "icon_width": 20,
-            "icon_width_mb": 20
-          }
-        }
-      },
-      "block_order": [
-        "item_MWbCUH",
-        "item_VNznpL",
-        "item_q76aYq"
-      ],
-      "settings": {
-        "space_item": 30,
-        "speed": 0.3,
-        "direction": "rtl",
-        "marquee_pause_when_hover": false,
-        "text_fs": "base",
-        "text_fw": "semibold",
-        "text_uppercase": false,
-        "adding_border": false,
-        "icon_position_between": true,
-        "color_scheme": "scheme-67a7ca9f-3333-4245-b79f-2e9849d7e615",
-        "padding_top": 12,
-        "padding_bottom": 12,
-        "padding_rate": 75
-      }
-    },
-    "top_heading_4iawTD": {
-      "type": "top-heading",
-      "blocks": {
-        "heading_qUaTde": {
-          "type": "heading",
-          "settings": {
-            "heading": "Black Friday in July.",
-            "heading_fs": "h3"
-          }
-        },
-        "sub_heading_nkDnhG": {
-          "type": "sub_heading",
-          "settings": {
-            "sub_heading": "Jump start the season with savings.<br>It's prime time to elevate your game. Score up to 50% off.",
-            "sub_heading_fs": "base"
-          }
-        },
-        "button_GtddfV": {
-          "type": "button",
-          "settings": {
-            "button_text": "Shop Now",
-            "button_link": "shopify:\/\/collections\/all-clearance",
-            "button-color": "#1a98ff"
-          }
-        }
-      },
-      "block_order": [
-        "heading_qUaTde",
-        "sub_heading_nkDnhG",
-        "button_GtddfV"
-      ],
-      "settings": {
-        "spacing_item": 16,
-        "alignment": "center",
-        "alignment_mb": "center",
-        "fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "padding_rate": 75,
-        "button_bg_color": "#000000"
-      }
-    },
-    "collections_list_QLied3": {
-      "type": "collections-list",
-      "blocks": {
-        "collection_item_wVfBGT": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "goalie-skates",
-            "image": "shopify:\/\/shop_images\/bauer-goalie-skates-bauer-pro-intermediate-goalie-skates-31250001756226.jpg",
-            "title": "Skates",
-            "collection_link": ""
-          }
-        },
-        "collection_item_FfCWQ6": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "goalie-sticks",
-            "image": "shopify:\/\/shop_images\/ccm-goalie-sticks-ccm-axis-xf-pro-intermediate-goalie-stick-31285902573634.jpg",
-            "title": "Sticks",
-            "collection_link": ""
-          }
-        },
-        "collection_item_p6abbX": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "leg-pads",
-            "image": "shopify:\/\/shop_images\/warrior-rtl-g7-pro-leg-pads-sr-tan-bk-detail-10461.jpg",
-            "title": "Leg Pads",
-            "collection_link": ""
-          }
-        },
-        "collection_item_aJhRNQ": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "goalie-masks",
-            "image": "shopify:\/\/shop_images\/warrior-goalie-masks-senior-warrior-ritual-f2-e-senior-goalie-mask-30797508935746.jpg",
-            "title": "Masks",
-            "collection_link": ""
-          }
-        },
-        "collection_item_7CdKzE": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "catchers",
-            "image": "shopify:\/\/shop_images\/bauer-catchers-bauer-learn-to-save-goalie-catcher-black-full-right-31840048447554.jpg",
-            "title": "Catchers",
-            "collection_link": ""
-          }
-        },
-        "collection_item_paaADt": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "goalie-blockers",
-            "image": "shopify:\/\/shop_images\/vaughn-blockers-vaughn-velocity-v10-pro-carbon-senior-goalie-blocker-swirl-graphic-31748135256130.jpg",
-            "title": "Blockers",
-            "collection_link": ""
-          }
-        },
-        "collection_item_r3x7M7": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "goalie-chest-protectors",
-            "image": "shopify:\/\/shop_images\/ccm-chest-protectors-ccm-pro-spec-senior-chest-arm-protector-31229408542786.jpg",
-            "title": "Chest Protectors",
-            "collection_link": ""
-          }
-        },
-        "collection_item_Jn43Pp": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "goalie-pants",
-            "image": "shopify:\/\/shop_images\/ccm-goalie-pants-ccm-axis-f5-junior-goalie-pants-31229451731010.jpg",
-            "title": "Pants",
-            "collection_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "collection_item_wVfBGT",
-        "collection_item_FfCWQ6",
-        "collection_item_p6abbX",
-        "collection_item_aJhRNQ",
-        "collection_item_7CdKzE",
-        "collection_item_paaADt",
-        "collection_item_r3x7M7",
-        "collection_item_Jn43Pp"
-      ],
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "btn_heading_collection": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "collection_list": [
-
-        ],
-        "collection_des": "1",
-        "content_size": "xl",
-        "content_weight": "medium",
-        "text_transform": false,
-        "content_position": "end-center",
-        "content_padding": 30,
-        "image_ratio": "adapt_image",
-        "image_size": true,
-        "col_dk": "4",
-        "col_tb": "3",
-        "col_mb": "2",
-        "space_items": "x",
-        "half_item": false,
-        "navUI": true,
-        "nav_des": "outline",
-        "nav_pos": "middle_out",
-        "dotUI": true,
-        "dots_pos": "default",
-        "section_fullwidth": true,
-        "boxed_fullwidth": true,
-        "boxed_content": false,
-        "color_scheme": "",
-        "padding_top": 30,
-        "padding_bottom": 40,
-        "padding_rate": 75
-      }
-    },
-    "image_gallery_LUgwe8": {
-      "type": "image-gallery",
-      "blocks": {
-        "gallery_item_hMLNMg": {
-          "type": "gallery_item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/shadow-leg-pad-square.jpg",
-            "item_link": "",
-            "product_item": "bauer-supreme-shadow-senior-goalie-leg-pads"
-          }
-        },
-        "gallery_item_mgEn9X": {
-          "type": "gallery_item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/shadow-blocker-square.jpg",
-            "item_link": "",
-            "product_item": "bauer-supreme-shadow-senior-goalie-blocker"
-          }
-        },
-        "gallery_item_iLmjxD": {
-          "type": "gallery_item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/shadow-full-square.jpg",
-            "item_link": "",
-            "product_item": "bauer-supreme-shadow-senior-goalie-leg-pads"
-          }
-        },
-        "gallery_item_GcQWgF": {
-          "type": "gallery_item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/shadow-catcher-square.jpg",
-            "item_link": "",
-            "product_item": "bauer-supreme-shadow-senior-goalie-catcher"
-          }
-        },
-        "gallery_item_VdkyKT": {
-          "type": "gallery_item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/shadow-stick-square.jpg",
-            "item_link": "",
-            "product_item": "bauer-supreme-shadow-senior-goalie-stick"
-          }
-        }
-      },
-      "block_order": [
-        "gallery_item_hMLNMg",
-        "gallery_item_mgEn9X",
-        "gallery_item_iLmjxD",
-        "gallery_item_GcQWgF",
-        "gallery_item_VdkyKT"
-      ],
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Bauer Supreme Shadow",
-        "heading_tag": "h2",
-        "heading_size": "h3",
-        "sec_subheading": "<p>Experience control like you've never seen before.<\/p>",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "heading_gap": 11,
-        "sec_heading_spacing": 46,
-        "image_ratio": "asos",
-        "image_size": true,
-        "col_dk": "5",
-        "col_tb": "3",
-        "col_mb": "2",
-        "spacing_items": 10,
-        "navUI": false,
-        "nav_des": "default",
-        "dotUI": false,
-        "dots_pos": "outline",
-        "section_fullwidth": true,
-        "boxed_fullwidth": true,
-        "color_scheme": "",
-        "padding_top": 32,
-        "padding_bottom": 52,
-        "padding_rate": 75
-      }
-    },
-    "image_with_tabs_content_FaieMG": {
-      "type": "image-with-tabs-content",
-      "blocks": {
-        "tab_item_qDdYqe": {
-          "type": "tab_item",
-          "settings": {
-            "title": "Konekt 2",
-            "heading": "Revolutionized tech for elite goalies.",
-            "content_text": "The KONEKT 2 is here. Lighter than it's predecessor, this skate features state-of-the-art technology for the games most elite goalies. Its innovative design ensures superior comfort and durability.",
-            "btn_label": "Shop Konekt 2",
-            "btn_link": "https:\/\/www.thehockeyshop.com\/collections\/shop?q=konekt+2",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1"
-          }
-        }
-      },
-      "block_order": [
-        "tab_item_qDdYqe"
-      ],
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "main_img": "shopify:\/\/shop_images\/bauer-goalie-skates-bauer-konekt2-intermediate-goalie-skates-31287323951170.jpg",
-        "image_pos": "right",
-        "image_ratio": "adapt_image",
-        "custom_height": 860,
-        "custom_height_tb": 300,
-        "custom_height_mb": 300,
-        "section_fullwidth": false,
-        "color_scheme": "scheme-1",
-        "padding_top": 10,
-        "padding_bottom": 52,
-        "padding_rate": 75
-      }
-    },
-    "collections_list_simple_D7GcpX": {
-      "type": "collections-list-simple",
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "btn_heading_collection": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "collection_list": [
-          "goalie-accessories",
-          "clearance-goalie",
-          "custom-gear",
-          "goalie-baselayer",
-          "goalie-bags",
-          "goalie-jocks"
-        ],
-        "text_transform": false,
-        "other_link_label": "View all categories",
-        "other_link": "",
-        "section_fullwidth": false,
-        "color_scheme": "scheme-3",
-        "padding_top": 16,
-        "padding_bottom": 20,
-        "padding_rate": 75
-      }
-    },
-    "featured_collection_carousel_iiL9bG": {
-      "type": "featured-collection-carousel",
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Super Sale Sticks",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "btn_heading": false,
-        "nav_heading": "disable",
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "collection": "sale-goalie-sticks",
-        "product_list": [
-
-        ],
-        "product_des": "1",
-        "image_ratio": "adapt_image",
-        "image_size": true,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 10,
-        "col_dk": "5",
-        "col_tb": "4",
-        "col_mb": "2",
-        "half_item": false,
-        "navUI": true,
-        "nav_des": "outline",
-        "nav_pos": "middle_out",
-        "dotUI": false,
-        "pagination_type": "none",
-        "paginate_pos": "center",
-        "dis_pagination": 30,
-        "btn_label": "View all",
-        "btn_style": "solid",
-        "btn_fw": "normal",
-        "section_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 24,
-        "padding_bottom": 21,
-        "padding_rate": 75
-      }
-    },
-    "image_with_text_rUEA8j": {
+    "image_with_text_jNcqPY": {
       "type": "image-with-text",
       "blocks": {
-        "heading_jgrzRr": {
+        "heading_EMYbbR": {
           "type": "heading",
           "settings": {
-            "heading": "Your next Bauer set starts here.",
+            "heading": "Custom Profiling Basics",
             "heading_fs": "h3"
           }
         },
-        "text_b39mgX": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Oour expert team handpicked each piece to meet goalies' needs at all skill levels, so you can focus on stopping pucks.<\/p>"
-          }
-        },
-        "button_zLYfMm": {
-          "type": "button",
-          "settings": {
-            "btn_label": "Shop Bauer Goalie",
-            "btn_link": "shopify:\/\/collections\/bauer-goalie",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "medium",
-            "btn_icon": "1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_jgrzRr",
-        "text_b39mgX",
-        "button_zLYfMm"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/hyperlite2-goalie-mobile-hero-banner_0009_DSCF4006.jpg",
-        "style_image": "1",
-        "image_effect": "zoom-in",
-        "color_scheme": "scheme-1",
-        "image_last": false,
-        "content_position": "center",
-        "alignment": "center",
-        "content_pl": 0,
-        "image_last_mb": false,
-        "content_position_mb": "center",
-        "alignment_mb": "center",
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "padding_rate": 75
-      }
-    },
-    "featured_collection_carousel_Dp8fiz": {
-      "type": "featured-collection-carousel",
-      "disabled": true,
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Supreme Mach Sale",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "btn_heading": false,
-        "nav_heading": "disable",
-        "heading_gap": 18,
-        "sec_heading_spacing": 54,
-        "collection": "bauer-supreme-mach-goalie-equipment-collection",
-        "product_list": [
-
-        ],
-        "product_des": "1",
-        "image_ratio": "adapt_image",
-        "image_size": true,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 10,
-        "col_dk": "5",
-        "col_tb": "3",
-        "col_mb": "2",
-        "half_item": false,
-        "navUI": true,
-        "nav_des": "outline",
-        "nav_pos": "middle_out",
-        "dotUI": false,
-        "pagination_type": "none",
-        "paginate_pos": "center",
-        "dis_pagination": 30,
-        "btn_label": "View all",
-        "btn_style": "solid",
-        "btn_fw": "normal",
-        "section_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 52,
-        "padding_rate": 75
-      }
-    },
-    "featured_collection_grid_KzNwxX": {
-      "type": "featured-collection-grid",
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Supreme Mach Sale",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "collection": "bauer-supreme-mach-goalie-equipment-collection",
-        "product_list": [
-          "bauer-supreme-m5-pro-senior-goalie-stick",
-          "bauer-supreme-mach-senior-goalie-stick",
-          "bauer-supreme-m5-pro-intermediate-goalie-blocker",
-          "bauer-supreme-m5-pro-intermediate-goalie-catcher",
-          "bauer-supreme-m5-pro-intermediate-goalie-leg-pads",
-          "bauer-supreme-m5-pro-senior-goalie-catcher",
-          "bauer-supreme-m5-pro-senior-goalie-blocker",
-          "bauer-supreme-m5-pro-senior-goalie-leg-pads",
-          "bauer-supreme-mach-senior-goalie-catcher",
-          "bauer-nme-one-senior-goalie-mask"
-        ],
-        "product_des": "1",
-        "image_ratio": "adapt_image",
-        "image_size": true,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 10,
-        "col_dk": "5",
-        "col_tb": "3",
-        "col_mb": "2",
-        "pagination_type": "none",
-        "paginate_pos": "center",
-        "dis_pagination": 30,
-        "btn_label": "View all",
-        "btn_style": "solid",
-        "btn_fw": "normal",
-        "section_fullwidth": false,
-        "boxed_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 50,
-        "padding_rate": 75
-      }
-    },
-    "image_with_text_rdAQc9": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_Xqp3hL": {
-          "type": "heading",
-          "settings": {
-            "heading": "TENDYFEST MERCH",
-            "heading_fs": "h3"
-          }
-        },
-        "sub_heading_WmLEym": {
+        "sub_heading_ViHg4k": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "All proceeds from the sale of TendyFest merchandise are donated to the Canucks Autism Network, supporting programs and services for individuals and families living with autism.",
+            "sub_heading": "By far, one of the most intimidating parts about skate fitting and sharpening is profiling. It can get a bit complicated, making it perhaps a bit worrisome to subject your skates to such a specialized change. In fact, if you’ve never gotten it done before, you may believe you don’t even need it.<br><br>\nThe thing is, profiling should not be intimidating at all. Even professional players are constantly changing and testing new profiles, and most don’t even play on their best profile. Here’s a video of Elias Pettersson testing new profiles and reassessing his own:",
             "sub_fs": "lg"
           }
         },
-        "button_BYKQtC": {
+        "button_fjmFww": {
           "type": "button",
           "settings": {
-            "btn_label": "Buy Now",
-            "btn_link": "shopify:\/\/collections\/the-hockey-shop-merch",
+            "btn_label": "Pettersson ProSharp",
+            "btn_link": "https:\/\/www.youtube.com\/watch?v=0botW_HXOdY&ab_channel=Prosharp",
             "target": false,
             "btn_size": "base",
-            "btn_style": "solid",
+            "btn_style": "link",
             "btn_fw": "normal",
-            "btn_icon": "1"
-          }
-        },
-        "button_CqUzR3": {
-          "type": "button",
-          "settings": {
-            "btn_label": "Donate to CAN",
-            "btn_link": "https:\/\/support.canucksautism.ca\/site\/TR\/CANPro-Am\/Pro-Am?team_id=3280&pg=team&fr_id=1280&ltclid=829cb569-24bb-4ca8-96ba-9bda7cf32a8f",
-            "target": true,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "medium",
-            "btn_icon": "none"
+            "btn_icon": "2"
           }
         }
       },
       "block_order": [
-        "heading_Xqp3hL",
-        "sub_heading_WmLEym",
-        "button_BYKQtC",
-        "button_CqUzR3"
-      ],
-      "custom_css": [
-        "a:last-child {background-color: #003f7e; border: none;}"
+        "heading_EMYbbR",
+        "sub_heading_ViHg4k",
+        "button_fjmFww"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/tendyfest-shirts_hats.jpg",
+        "image": "shopify:\/\/shop_images\/DSCF0337.jpg",
         "style_image": "1",
         "image_effect": "zoom-in",
         "color_scheme": "",
@@ -712,48 +61,331 @@
         "padding_rate": 75
       }
     },
-    "featured_collection_carousel_gAEwif": {
-      "type": "featured-collection-carousel",
+    "image_with_text_AdJYim": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_Wj6eew": {
+          "type": "heading",
+          "settings": {
+            "heading": "Fit for you.",
+            "heading_fs": "h3"
+          }
+        },
+        "sub_heading_w8QBky": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "You could play and skate perfectly fine on the manufacturer’s profile. However, the problem is that those profiles are stock; they aren’t quite personalized to fit you.<br><br>\n\nProfiling considers several aspects of you and your play, including your:<br><br>\n\n- Height and Weight<br>\n- Hollow (sharpening style)<br>\n- Player position and skill level<br>\n- Environment (hardness of the ice)<br>\n- Previous profile (what you’re used to)<br>\n- Skate brand\/family\/holder size\n- Foot position (how you walk, skate, etc.), leg shape<br>\n- Arm length (shoulder to floor distance)<br>\n- Goals for improving your skating<br>\n- Current balance and base position, maneuverability, speed, style (*goalies)",
+            "sub_fs": "lg"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Wj6eew",
+        "sub_heading_w8QBky"
+      ],
       "settings": {
-        "heading_align": "center",
-        "sec_heading": "Super Skate Sale",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "btn_heading": false,
-        "nav_heading": "disable",
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "collection": "clearance-goalie-hockey-skates",
-        "product_list": [
-
-        ],
-        "product_des": "1",
-        "image_ratio": "adapt_image",
-        "image_size": true,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 10,
-        "col_dk": "5",
-        "col_tb": "3",
-        "col_mb": "2",
-        "half_item": false,
-        "navUI": true,
-        "nav_des": "outline",
-        "nav_pos": "middle_out",
-        "dotUI": false,
-        "pagination_type": "none",
-        "paginate_pos": "center",
-        "dis_pagination": 30,
-        "btn_label": "View all",
-        "btn_style": "solid",
-        "btn_fw": "normal",
-        "section_fullwidth": false,
+        "image": "shopify:\/\/shop_images\/DSCF2122-2.jpg",
+        "style_image": "1",
+        "image_effect": "zoom-in",
         "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 52,
+        "image_last": false,
+        "content_position": "center",
+        "alignment": "center",
+        "content_pl": 0,
+        "image_last_mb": false,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "image_with_text_gp6PXW": {
+      "type": "image-with-text",
+      "blocks": {
+        "sub_heading_tq9pYM": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "With a list like that, yeah—we get why it may seem a bit overwhelming. There’s a lot to deliberate over, but that’s also why the manufacturer very likely won’t provide the best profile for you right off the bat. On the flip side, The Hockey Shop always has your back—if you’re unsure, feel free to stop by our shop or contact us, and we can get one of our sharpening experts to help assess your specs and style of play.<br><br>\n\nIn addition, the next sections will go over the general idea of profiling, so when you come in, you can have a good idea about the process.",
+            "sub_fs": "lg"
+          }
+        },
+        "sub_heading_WVGBEK": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Shop our luxury silk button-up blouses made with ultra-soft, washable silk.",
+            "sub_fs": "base"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_tq9pYM",
+        "sub_heading_WVGBEK"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/9th.jpg",
+        "style_image": "1",
+        "image_effect": "zoom-in",
+        "color_scheme": "",
+        "image_last": true,
+        "content_position": "center",
+        "alignment": "center",
+        "content_pl": 0,
+        "image_last_mb": false,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "image_with_text_TYkLLm": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_6KTTah": {
+          "type": "heading",
+          "settings": {
+            "heading": "Radius of Profile",
+            "heading_fs": "h3"
+          }
+        },
+        "sub_heading_mPmkMe": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "If you look at your skates from a side view (profile), you’ll notice that the runners are not straight, but rounded. Since the blade is rounded, you could line up skates with the same curve and build a circle with them. The radius of that circle is the Radius of Profile, or ROP. This is obviously a very simplified version—profiling is not applied to about 40% of the blade (20% in the front and 20% in the back), and some people use multi-radius profiles. Although this means the narrative wouldn’t technically apply to the entire blade, the general idea is still present. Profiles are measured in ROP(s).",
+            "sub_fs": "lg"
+          }
+        }
+      },
+      "block_order": [
+        "heading_6KTTah",
+        "sub_heading_mPmkMe"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/3rd_1aa597fc-43ea-461d-884e-f8b3b4ed92c5.jpg",
+        "style_image": "1",
+        "image_effect": "zoom-in",
+        "color_scheme": "",
+        "image_last": false,
+        "content_position": "center",
+        "alignment": "center",
+        "content_pl": 0,
+        "image_last_mb": false,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "image_with_text_HiUTqE": {
+      "type": "image-with-text",
+      "blocks": {
+        "sub_heading_Fnk7H9": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "A good rule of thumb is that shorter radii (7’-10’) will be better for agility; less of the blade touches the ice at one time, calling for quick transitions and movement. Longer radii (11’-17’) on the other hand, will help with glide and speed; more of the blade touches the ice as you skate, adding more force and power to each stride and keeping your glide more consistent.<br><br>\n\nThe general rules stretch across single and multi-radius profiles. Remember also that height and foot size will contribute to the profile’s feel; shorter players may need to use a shorter radius, for example, even if they want more glide.",
+            "sub_fs": "lg"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_Fnk7H9"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/4th_b8fed753-acee-476a-b941-ef601ec8589a.jpg",
+        "style_image": "1",
+        "image_effect": "zoom-in",
+        "color_scheme": "",
+        "image_last": true,
+        "content_position": "center",
+        "alignment": "center",
+        "content_pl": 0,
+        "image_last_mb": false,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "image_with_text_eCJ6B6": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_NAqtce": {
+          "type": "heading",
+          "settings": {
+            "heading": "Single Radius and Multi-Radius Profiles",
+            "heading_fs": "h4"
+          }
+        },
+        "sub_heading_GQPyzk": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "When getting your skates profiled with a <b>single radius<\/b>, you are augmenting one aspect of your game: either mobility, acceleration, speed, or stability. Most players skate on 11’ or 13’, as these profiles are good all-around templates. 11’ is a good start for younger and beginner skaters just getting a handle on their technique. Goalies with a stand-up style can also perform well with a single radius (goalie radii will be much larger: 25’ – 30’). Single radius is a perfect place to begin and will be most in line with what manufacturers have out of the box if that’s what you’re used to; however, they are singular-focused, meaning they tend to lack outside of their designated profile.",
+            "sub_fs": "lg"
+          }
+        }
+      },
+      "block_order": [
+        "heading_NAqtce",
+        "sub_heading_GQPyzk"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/5th_18026a53-f2b2-4674-8f8d-8b6e4c2d730e.jpg",
+        "style_image": "1",
+        "image_effect": "zoom-in",
+        "color_scheme": "",
+        "image_last": false,
+        "content_position": "center",
+        "alignment": "center",
+        "content_pl": 0,
+        "image_last_mb": false,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "image_with_text_ggUkDd": {
+      "type": "image-with-text",
+      "blocks": {
+        "sub_heading_WMFYmz": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "To counteract this, once you’ve gotten a good handle of your skate and play style, and you’ve become more confident on your feet, you can look at trialling <b>multi-radius profiles<\/b>. These profiles come in double, triple, and quad templates. Triple and quad are typical for high-level players who have become very familiar with their skating; with the pivot point moved back in the skate, these profiles can generate more power, but they could take some time getting used to and are a little more advanced. With quad, be prepared to have to change your radius of hollow (ROH, or sharpening style) for a more natural transition.\n\nWhat’s so special about multi-radius profiles? Well, as it implies—the runner is divided into two (double), three (triple), or four (quad) sections, each with different radii. This helps eliminate weaknesses that single and stock profiles may suffer from.",
+            "sub_fs": "lg"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_WMFYmz"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/7th_7afc24dc-a51f-4eb9-b53b-bc42e93db6d2.jpg",
+        "style_image": "1",
+        "image_effect": "zoom-in",
+        "color_scheme": "",
+        "image_last": true,
+        "content_position": "center",
+        "alignment": "center",
+        "content_pl": 0,
+        "image_last_mb": false,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "image_with_text_GXQmFT": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_ixWYkW": {
+          "type": "heading",
+          "settings": {
+            "heading": "Double Radius Profile",
+            "heading_fs": "h4"
+          }
+        },
+        "sub_heading_WqnCD3": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "This profile combines two radii to combine good stability with good speed. Double is a good option for players who are confident in their skating and want some more versatility in their skates. It also excels in backwards skating. There are various template options available, though in general, they are best for defensive players (defensemen and forwards) and butterfly-style and agile goalies. Common options include Combo 10’-13’ and the Detroit series; Detroit 2 and Win 2 are common goalie profiles.",
+            "sub_fs": "lg"
+          }
+        },
+        "heading_wmwHJL": {
+          "type": "heading",
+          "settings": {
+            "heading": "Triple Radius Profile",
+            "heading_fs": "h4"
+          }
+        },
+        "sub_heading_f9MmYb": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "This profile is best for shifty, aggressive, and mobile players. The triple radius profile maximizes ice contact while giving you superior edge control and agility. They are best suited for defensive defensemen, power forwards, and wingers, specifically those who’ll need tight edges in close spaces and near the boards. Triple radius is also a good option for hybrid-style goalies who want good versatility in a range of positions. The Zuperior series is the common style for this profile. For goalies, Zuperior V and Goalie Sam are good options.",
+            "sub_fs": "lg"
+          }
+        }
+      },
+      "block_order": [
+        "heading_ixWYkW",
+        "sub_heading_WqnCD3",
+        "heading_wmwHJL",
+        "sub_heading_f9MmYb"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/6th_76715138-7b1a-4f29-b1cd-990ebc48e0f4.jpg",
+        "style_image": "1",
+        "image_effect": "zoom-in",
+        "color_scheme": "",
+        "image_last": false,
+        "content_position": "center",
+        "alignment": "center",
+        "content_pl": 0,
+        "image_last_mb": false,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "image_with_text_iM6pjK": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_gKAgfV": {
+          "type": "heading",
+          "settings": {
+            "heading": "Quad Radius Profile",
+            "heading_fs": "h4"
+          }
+        },
+        "sub_heading_aDqFhX": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Prosharp suggests the quad radius profile for players who will be covering a lot of ice, like centremen and offensive defensemen. It is a “power profile,” meaning it maximizes stride length, or time your skates are on the ice. It also improves glide, speed, and control. It emphasizes skating on all angles, leaving very few, if any, weaknesses. This profile will require full-body control to use, meaning it will be best for more advanced skaters. Goalies can use quad radius for added mobility, but it is generally not ideal.",
+            "sub_fs": "lg"
+          }
+        },
+        "heading_kqNxyH": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ellipse Profile",
+            "heading_fs": "h4"
+          }
+        },
+        "sub_heading_jbGL8X": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "The Hockey Shop also offers the ellipse profile, which is a relatively new innovation from Prosharp. Its main focus is its seamless transitions and dynamic albeit different feel while skating. If you’re looking for a change in your skates and their feel, don’t be afraid to try this profile out!<br><br>\n\nWe at The Hockey Shop get that profiling can be complicated. We always have experts on-site who can answer any questions you may have, or if you need someone to help you assess your playstyle.",
+            "sub_fs": "lg"
+          }
+        }
+      },
+      "block_order": [
+        "heading_gKAgfV",
+        "sub_heading_aDqFhX",
+        "heading_kqNxyH",
+        "sub_heading_jbGL8X"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/8th.jpg",
+        "style_image": "1",
+        "image_effect": "zoom-in",
+        "color_scheme": "",
+        "image_last": true,
+        "content_position": "center",
+        "alignment": "center",
+        "content_pl": 0,
+        "image_last_mb": false,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
         "padding_rate": 75
       }
     },
@@ -906,19 +538,15 @@
     }
   },
   "order": [
-    "slideshow_q7pEg9",
-    "marquee_cy3Qc8",
-    "top_heading_4iawTD",
-    "collections_list_QLied3",
-    "image_gallery_LUgwe8",
-    "image_with_tabs_content_FaieMG",
-    "collections_list_simple_D7GcpX",
-    "featured_collection_carousel_iiL9bG",
-    "image_with_text_rUEA8j",
-    "featured_collection_carousel_Dp8fiz",
-    "featured_collection_grid_KzNwxX",
-    "image_with_text_rdAQc9",
-    "featured_collection_carousel_gAEwif",
+    "image_with_text_jNcqPY",
+    "image_with_text_AdJYim",
+    "image_with_text_gp6PXW",
+    "image_with_text_TYkLLm",
+    "image_with_text_HiUTqE",
+    "image_with_text_eCJ6B6",
+    "image_with_text_ggUkDd",
+    "image_with_text_GXQmFT",
+    "image_with_text_iM6pjK",
     "image_with_text_gcKQCJ",
     "icon_box_Hm4Wye"
   ]
