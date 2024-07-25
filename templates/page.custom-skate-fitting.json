@@ -9,694 +9,68 @@
 */
 {
   "sections": {
-    "slideshow_q7pEg9": {
-      "type": "slideshow",
+    "main_heading_atDpkH": {
+      "type": "main-heading",
       "blocks": {
-        "slide_label_grG7Ta": {
-          "type": "slide_label",
+        "1_rgGNww": {
+          "type": "1",
           "settings": {
-            "image": "shopify:\/\/shop_images\/hero_1_1.jpg",
-            "url": "",
-            "banner_target": false,
-            "color_scheme": "",
-            "sub_heading": "",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "normal",
-            "sub_heading_bg": false,
-            "heading": "",
-            "heading_fs": "base",
-            "heading_fw": "normal",
-            "btn_label": "",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "none",
-            "btn2_label": "",
-            "btn2_link": "",
-            "target2": false,
-            "btn2_size": "base",
-            "btn2_style": "solid",
-            "btn2_fw": "normal",
-            "btn2_icon": "none",
-            "content_bg": false,
-            "content_position": "center",
-            "alignment": "center",
-            "hide_subtext_mb": false,
-            "content_position_mb": "center",
-            "alignment_mb": "center"
+            "heading": "Custom Skate Fitting",
+            "heading_size": "h3"
           }
         }
       },
       "block_order": [
-        "slide_label_grG7Ta"
+        "1_rgGNww"
       ],
       "settings": {
-        "full_width": true,
-        "item_round": "rounded",
-        "image_height": "fixed",
-        "fixed_height": 860,
-        "image_height_mb": "adapt_image",
-        "fixed_height_mb": 300,
         "color_scheme": "",
-        "loop": true,
-        "auto_play": 0,
-        "pause_hover": false,
-        "navUI": false,
-        "dotUI": false,
-        "dot_style": "default",
-        "dot_direction": "horizontal",
-        "dot_align": "center",
-        "dot_space": 40,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "padding_rate": 75
-      }
-    },
-    "marquee_cy3Qc8": {
-      "type": "marquee",
-      "blocks": {
-        "item_MWbCUH": {
-          "type": "item",
-          "settings": {
-            "text": "<p>Summer Super Sale up to 40% off.<\/p>",
-            "icon_svg": "dividing_icon",
-            "custom_svg": "",
-            "icon_width": 12,
-            "icon_width_mb": 20
-          }
-        },
-        "item_VNznpL": {
-          "type": "item",
-          "settings": {
-            "text": "<p>Free shipping on orders over $100.<\/p>",
-            "icon_svg": "none",
-            "custom_svg": "",
-            "icon_width": 20,
-            "icon_width_mb": 20
-          }
-        },
-        "item_q76aYq": {
-          "type": "item",
-          "settings": {
-            "text": "<p>Buy now, pay later with Sezzle.<\/p>",
-            "icon_svg": "none",
-            "custom_svg": "",
-            "icon_width": 20,
-            "icon_width_mb": 20
-          }
-        }
-      },
-      "block_order": [
-        "item_MWbCUH",
-        "item_VNznpL",
-        "item_q76aYq"
-      ],
-      "settings": {
-        "space_item": 30,
-        "speed": 0.3,
-        "direction": "rtl",
-        "marquee_pause_when_hover": false,
-        "text_fs": "base",
-        "text_fw": "semibold",
-        "text_uppercase": false,
-        "adding_border": false,
-        "icon_position_between": true,
-        "color_scheme": "scheme-67a7ca9f-3333-4245-b79f-2e9849d7e615",
-        "padding_top": 12,
-        "padding_bottom": 12,
-        "padding_rate": 75
-      }
-    },
-    "top_heading_4iawTD": {
-      "type": "top-heading",
-      "blocks": {
-        "heading_qUaTde": {
-          "type": "heading",
-          "settings": {
-            "heading": "Black Friday in July.",
-            "heading_fs": "h3"
-          }
-        },
-        "sub_heading_nkDnhG": {
-          "type": "sub_heading",
-          "settings": {
-            "sub_heading": "Jump start the season with savings.<br>It's prime time to elevate your game. Score up to 50% off.",
-            "sub_heading_fs": "base"
-          }
-        },
-        "button_GtddfV": {
-          "type": "button",
-          "settings": {
-            "button_text": "Shop Now",
-            "button_link": "shopify:\/\/collections\/all-clearance",
-            "button-color": "#1a98ff"
-          }
-        }
-      },
-      "block_order": [
-        "heading_qUaTde",
-        "sub_heading_nkDnhG",
-        "button_GtddfV"
-      ],
-      "settings": {
-        "spacing_item": 16,
-        "alignment": "center",
-        "alignment_mb": "center",
-        "fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "padding_rate": 75,
-        "button_bg_color": "#000000"
-      }
-    },
-    "collections_list_QLied3": {
-      "type": "collections-list",
-      "blocks": {
-        "collection_item_wVfBGT": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "goalie-skates",
-            "image": "shopify:\/\/shop_images\/bauer-goalie-skates-bauer-pro-intermediate-goalie-skates-31250001756226.jpg",
-            "title": "Skates",
-            "collection_link": ""
-          }
-        },
-        "collection_item_FfCWQ6": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "goalie-sticks",
-            "image": "shopify:\/\/shop_images\/ccm-goalie-sticks-ccm-axis-xf-pro-intermediate-goalie-stick-31285902573634.jpg",
-            "title": "Sticks",
-            "collection_link": ""
-          }
-        },
-        "collection_item_p6abbX": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "leg-pads",
-            "image": "shopify:\/\/shop_images\/warrior-rtl-g7-pro-leg-pads-sr-tan-bk-detail-10461.jpg",
-            "title": "Leg Pads",
-            "collection_link": ""
-          }
-        },
-        "collection_item_aJhRNQ": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "goalie-masks",
-            "image": "shopify:\/\/shop_images\/warrior-goalie-masks-senior-warrior-ritual-f2-e-senior-goalie-mask-30797508935746.jpg",
-            "title": "Masks",
-            "collection_link": ""
-          }
-        },
-        "collection_item_7CdKzE": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "catchers",
-            "image": "shopify:\/\/shop_images\/bauer-catchers-bauer-learn-to-save-goalie-catcher-black-full-right-31840048447554.jpg",
-            "title": "Catchers",
-            "collection_link": ""
-          }
-        },
-        "collection_item_paaADt": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "goalie-blockers",
-            "image": "shopify:\/\/shop_images\/vaughn-blockers-vaughn-velocity-v10-pro-carbon-senior-goalie-blocker-swirl-graphic-31748135256130.jpg",
-            "title": "Blockers",
-            "collection_link": ""
-          }
-        },
-        "collection_item_r3x7M7": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "goalie-chest-protectors",
-            "image": "shopify:\/\/shop_images\/ccm-chest-protectors-ccm-pro-spec-senior-chest-arm-protector-31229408542786.jpg",
-            "title": "Chest Protectors",
-            "collection_link": ""
-          }
-        },
-        "collection_item_Jn43Pp": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "goalie-pants",
-            "image": "shopify:\/\/shop_images\/ccm-goalie-pants-ccm-axis-f5-junior-goalie-pants-31229451731010.jpg",
-            "title": "Pants",
-            "collection_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "collection_item_wVfBGT",
-        "collection_item_FfCWQ6",
-        "collection_item_p6abbX",
-        "collection_item_aJhRNQ",
-        "collection_item_7CdKzE",
-        "collection_item_paaADt",
-        "collection_item_r3x7M7",
-        "collection_item_Jn43Pp"
-      ],
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "btn_heading_collection": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "collection_list": [
-
-        ],
-        "collection_des": "1",
-        "content_size": "xl",
-        "content_weight": "medium",
-        "text_transform": false,
-        "content_position": "end-center",
-        "content_padding": 30,
-        "image_ratio": "adapt_image",
-        "image_size": true,
-        "col_dk": "4",
-        "col_tb": "3",
-        "col_mb": "2",
-        "space_items": "x",
-        "half_item": false,
-        "navUI": true,
-        "nav_des": "outline",
-        "nav_pos": "middle_out",
-        "dotUI": true,
-        "dots_pos": "default",
-        "section_fullwidth": true,
-        "boxed_fullwidth": true,
-        "boxed_content": false,
-        "color_scheme": "",
+        "spacing_hd": 5,
         "padding_top": 30,
-        "padding_bottom": 40,
+        "padding_bottom": 30,
         "padding_rate": 75
       }
     },
-    "image_gallery_LUgwe8": {
-      "type": "image-gallery",
-      "blocks": {
-        "gallery_item_hMLNMg": {
-          "type": "gallery_item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/shadow-leg-pad-square.jpg",
-            "item_link": "",
-            "product_item": "bauer-supreme-shadow-senior-goalie-leg-pads"
-          }
-        },
-        "gallery_item_mgEn9X": {
-          "type": "gallery_item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/shadow-blocker-square.jpg",
-            "item_link": "",
-            "product_item": "bauer-supreme-shadow-senior-goalie-blocker"
-          }
-        },
-        "gallery_item_iLmjxD": {
-          "type": "gallery_item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/shadow-full-square.jpg",
-            "item_link": "",
-            "product_item": "bauer-supreme-shadow-senior-goalie-leg-pads"
-          }
-        },
-        "gallery_item_GcQWgF": {
-          "type": "gallery_item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/shadow-catcher-square.jpg",
-            "item_link": "",
-            "product_item": "bauer-supreme-shadow-senior-goalie-catcher"
-          }
-        },
-        "gallery_item_VdkyKT": {
-          "type": "gallery_item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/shadow-stick-square.jpg",
-            "item_link": "",
-            "product_item": "bauer-supreme-shadow-senior-goalie-stick"
-          }
-        }
-      },
-      "block_order": [
-        "gallery_item_hMLNMg",
-        "gallery_item_mgEn9X",
-        "gallery_item_iLmjxD",
-        "gallery_item_GcQWgF",
-        "gallery_item_VdkyKT"
-      ],
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Bauer Supreme Shadow",
-        "heading_tag": "h2",
-        "heading_size": "h3",
-        "sec_subheading": "<p>Experience control like you've never seen before.<\/p>",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "heading_gap": 11,
-        "sec_heading_spacing": 46,
-        "image_ratio": "asos",
-        "image_size": true,
-        "col_dk": "5",
-        "col_tb": "3",
-        "col_mb": "2",
-        "spacing_items": 10,
-        "navUI": false,
-        "nav_des": "default",
-        "dotUI": false,
-        "dots_pos": "outline",
-        "section_fullwidth": true,
-        "boxed_fullwidth": true,
-        "color_scheme": "",
-        "padding_top": 32,
-        "padding_bottom": 52,
-        "padding_rate": 75
-      }
-    },
-    "image_with_tabs_content_FaieMG": {
-      "type": "image-with-tabs-content",
-      "blocks": {
-        "tab_item_qDdYqe": {
-          "type": "tab_item",
-          "settings": {
-            "title": "Konekt 2",
-            "heading": "Revolutionized tech for elite goalies.",
-            "content_text": "The KONEKT 2 is here. Lighter than it's predecessor, this skate features state-of-the-art technology for the games most elite goalies. Its innovative design ensures superior comfort and durability.",
-            "btn_label": "Shop Konekt 2",
-            "btn_link": "https:\/\/www.thehockeyshop.com\/collections\/shop?q=konekt+2",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1"
-          }
-        }
-      },
-      "block_order": [
-        "tab_item_qDdYqe"
-      ],
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "main_img": "shopify:\/\/shop_images\/bauer-goalie-skates-bauer-konekt2-intermediate-goalie-skates-31287323951170.jpg",
-        "image_pos": "right",
-        "image_ratio": "adapt_image",
-        "custom_height": 860,
-        "custom_height_tb": 300,
-        "custom_height_mb": 300,
-        "section_fullwidth": false,
-        "color_scheme": "scheme-1",
-        "padding_top": 10,
-        "padding_bottom": 52,
-        "padding_rate": 75
-      }
-    },
-    "collections_list_simple_D7GcpX": {
-      "type": "collections-list-simple",
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "btn_heading_collection": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "collection_list": [
-          "goalie-accessories",
-          "clearance-goalie",
-          "custom-gear",
-          "goalie-baselayer",
-          "goalie-bags",
-          "goalie-jocks"
-        ],
-        "text_transform": false,
-        "other_link_label": "View all categories",
-        "other_link": "",
-        "section_fullwidth": false,
-        "color_scheme": "scheme-3",
-        "padding_top": 16,
-        "padding_bottom": 20,
-        "padding_rate": 75
-      }
-    },
-    "featured_collection_carousel_iiL9bG": {
-      "type": "featured-collection-carousel",
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Super Sale Sticks",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "btn_heading": false,
-        "nav_heading": "disable",
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "collection": "sale-goalie-sticks",
-        "product_list": [
-
-        ],
-        "product_des": "1",
-        "image_ratio": "adapt_image",
-        "image_size": true,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 10,
-        "col_dk": "5",
-        "col_tb": "4",
-        "col_mb": "2",
-        "half_item": false,
-        "navUI": true,
-        "nav_des": "outline",
-        "nav_pos": "middle_out",
-        "dotUI": false,
-        "pagination_type": "none",
-        "paginate_pos": "center",
-        "dis_pagination": 30,
-        "btn_label": "View all",
-        "btn_style": "solid",
-        "btn_fw": "normal",
-        "section_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 24,
-        "padding_bottom": 21,
-        "padding_rate": 75
-      }
-    },
-    "image_with_text_rUEA8j": {
+    "image_with_text_WRMCpG": {
       "type": "image-with-text",
       "blocks": {
-        "heading_jgrzRr": {
+        "heading_GRjf6T": {
           "type": "heading",
           "settings": {
-            "heading": "Your next Bauer set starts here.",
+            "heading": "MyBauer Custom Skates",
             "heading_fs": "h3"
           }
         },
-        "text_b39mgX": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Oour expert team handpicked each piece to meet goalies' needs at all skill levels, so you can focus on stopping pucks.<\/p>"
-          }
-        },
-        "button_zLYfMm": {
-          "type": "button",
-          "settings": {
-            "btn_label": "Shop Bauer Goalie",
-            "btn_link": "shopify:\/\/collections\/bauer-goalie",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "medium",
-            "btn_icon": "1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_jgrzRr",
-        "text_b39mgX",
-        "button_zLYfMm"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/hyperlite2-goalie-mobile-hero-banner_0009_DSCF4006.jpg",
-        "style_image": "1",
-        "image_effect": "zoom-in",
-        "color_scheme": "scheme-1",
-        "image_last": false,
-        "content_position": "center",
-        "alignment": "center",
-        "content_pl": 0,
-        "image_last_mb": false,
-        "content_position_mb": "center",
-        "alignment_mb": "center",
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "padding_rate": 75
-      }
-    },
-    "featured_collection_carousel_Dp8fiz": {
-      "type": "featured-collection-carousel",
-      "disabled": true,
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Supreme Mach Sale",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "btn_heading": false,
-        "nav_heading": "disable",
-        "heading_gap": 18,
-        "sec_heading_spacing": 54,
-        "collection": "bauer-supreme-mach-goalie-equipment-collection",
-        "product_list": [
-
-        ],
-        "product_des": "1",
-        "image_ratio": "adapt_image",
-        "image_size": true,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 10,
-        "col_dk": "5",
-        "col_tb": "3",
-        "col_mb": "2",
-        "half_item": false,
-        "navUI": true,
-        "nav_des": "outline",
-        "nav_pos": "middle_out",
-        "dotUI": false,
-        "pagination_type": "none",
-        "paginate_pos": "center",
-        "dis_pagination": 30,
-        "btn_label": "View all",
-        "btn_style": "solid",
-        "btn_fw": "normal",
-        "section_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 52,
-        "padding_rate": 75
-      }
-    },
-    "featured_collection_grid_KzNwxX": {
-      "type": "featured-collection-grid",
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Supreme Mach Sale",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "collection": "bauer-supreme-mach-goalie-equipment-collection",
-        "product_list": [
-          "bauer-supreme-m5-pro-senior-goalie-stick",
-          "bauer-supreme-mach-senior-goalie-stick",
-          "bauer-supreme-m5-pro-intermediate-goalie-blocker",
-          "bauer-supreme-m5-pro-intermediate-goalie-catcher",
-          "bauer-supreme-m5-pro-intermediate-goalie-leg-pads",
-          "bauer-supreme-m5-pro-senior-goalie-catcher",
-          "bauer-supreme-m5-pro-senior-goalie-blocker",
-          "bauer-supreme-m5-pro-senior-goalie-leg-pads",
-          "bauer-supreme-mach-senior-goalie-catcher",
-          "bauer-nme-one-senior-goalie-mask"
-        ],
-        "product_des": "1",
-        "image_ratio": "adapt_image",
-        "image_size": true,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 10,
-        "col_dk": "5",
-        "col_tb": "3",
-        "col_mb": "2",
-        "pagination_type": "none",
-        "paginate_pos": "center",
-        "dis_pagination": 30,
-        "btn_label": "View all",
-        "btn_style": "solid",
-        "btn_fw": "normal",
-        "section_fullwidth": false,
-        "boxed_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 50,
-        "padding_rate": 75
-      }
-    },
-    "image_with_text_rdAQc9": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_Xqp3hL": {
-          "type": "heading",
-          "settings": {
-            "heading": "TENDYFEST MERCH",
-            "heading_fs": "h3"
-          }
-        },
-        "sub_heading_WmLEym": {
+        "sub_heading_bCw9Qx": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "All proceeds from the sale of TendyFest merchandise are donated to the Canucks Autism Network, supporting programs and services for individuals and families living with autism.",
+            "sub_heading": "The Hockey Shop is one of a few stores in North America that offers a custom MyBauer Fit Station and program. If you’re looking for a pair of skates built specifically to fit your feet, custom skate fitting is a perfect option. This is also a good alternative for those with more unique foot shapes and who consistently have a hard time finding the right skates.",
             "sub_fs": "lg"
           }
         },
-        "button_BYKQtC": {
-          "type": "button",
+        "heading_J9GLzj": {
+          "type": "heading",
           "settings": {
-            "btn_label": "Buy Now",
-            "btn_link": "shopify:\/\/collections\/the-hockey-shop-merch",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1"
+            "heading": "How It Works",
+            "heading_fs": "h4"
           }
         },
-        "button_CqUzR3": {
-          "type": "button",
+        "sub_heading_zkRhDU": {
+          "type": "sub_heading",
           "settings": {
-            "btn_label": "Donate to CAN",
-            "btn_link": "https:\/\/support.canucksautism.ca\/site\/TR\/CANPro-Am\/Pro-Am?team_id=3280&pg=team&fr_id=1280&ltclid=829cb569-24bb-4ca8-96ba-9bda7cf32a8f",
-            "target": true,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "medium",
-            "btn_icon": "none"
+            "sub_heading": "For the best experience, please contact us through email <b><a href=\"mailto:sales@thehockeyshop.com\">sales@thehockeyshop.com<\/a><\/b> or phone <b><a href=\"tel:604-589-8299\">604-589-8299<\/a><\/b> to make an appointment with one of our Skate Fitting Specialists. This part of the process lets us know you’re coming, and our Specialist can give you their full attention. They will begin by asking you a series of questions, so they can figure out what you are looking for in your hockey skates.",
+            "sub_fs": "lg"
           }
         }
       },
       "block_order": [
-        "heading_Xqp3hL",
-        "sub_heading_WmLEym",
-        "button_BYKQtC",
-        "button_CqUzR3"
-      ],
-      "custom_css": [
-        "a:last-child {background-color: #003f7e; border: none;}"
+        "heading_GRjf6T",
+        "sub_heading_bCw9Qx",
+        "heading_J9GLzj",
+        "sub_heading_zkRhDU"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/tendyfest-shirts_hats.jpg",
+        "image": "shopify:\/\/shop_images\/DSCF0146.jpg",
         "style_image": "1",
         "image_effect": "zoom-in",
         "color_scheme": "",
@@ -712,48 +86,283 @@
         "padding_rate": 75
       }
     },
-    "featured_collection_carousel_gAEwif": {
-      "type": "featured-collection-carousel",
+    "image_with_text_BCTkRj": {
+      "type": "image-with-text",
+      "blocks": {
+        "sub_heading_g8nrep": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Please let us know about the kind of skates you’re already using and any issues you’ve had in the past with fitting. This information will help our Specialist better understand what you want in your skates.\n<br><br>\nThe next part is the actual scan, which typically takes around 10-15 seconds. During this time, the MyBauer Scanner will measure and collect data from your foot stance and shape. Bauer partnered with Volumental, a company that specializes in footwear, to design their scanner. It is a high-tech piece of equipment that uses algorithms to recognize not just your foot shape and stance, but also any unique features, space, and support that your foot needs to play at your best.",
+            "sub_fs": "lg"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_g8nrep"
+      ],
       "settings": {
-        "heading_align": "center",
-        "sec_heading": "Super Skate Sale",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "btn_heading": false,
-        "nav_heading": "disable",
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "collection": "clearance-goalie-hockey-skates",
-        "product_list": [
-
-        ],
-        "product_des": "1",
-        "image_ratio": "adapt_image",
-        "image_size": true,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 10,
-        "col_dk": "5",
-        "col_tb": "3",
-        "col_mb": "2",
-        "half_item": false,
-        "navUI": true,
-        "nav_des": "outline",
-        "nav_pos": "middle_out",
-        "dotUI": false,
-        "pagination_type": "none",
-        "paginate_pos": "center",
-        "dis_pagination": 30,
-        "btn_label": "View all",
-        "btn_style": "solid",
-        "btn_fw": "normal",
-        "section_fullwidth": false,
+        "image": "shopify:\/\/shop_images\/DSCF0153.jpg",
+        "style_image": "1",
+        "image_effect": "zoom-in",
         "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 52,
+        "image_last": false,
+        "content_position": "center",
+        "alignment": "center",
+        "content_pl": 0,
+        "image_last_mb": false,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "image_with_text_8t8pE9": {
+      "type": "image-with-text",
+      "blocks": {
+        "sub_heading_8fVMRV": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Once it has completed the scan, it will give you a Best Recommended Fit profile and a 3D model of your feet. This profile will include a Bauer skate model (Vapor, Supreme), your fit type, size, and width. In some cases, these values may differ between your left and right skate. The scanner can also send your specs to the Bauer Player database, so they can be saved on the cloud and you can refer to them later again as needed. Please note that our Specialist may recommend a different model if another type of skate may fit your goals better (for example, the Scanner may suggest Vapor, but our Specialist may recognize that your goals align best with Supreme). The choice in the end is always 100% up to you, however.<br><br>\n\nOnce the scan is complete, you will have specifications that will fit you and your needs perfectly. Beyond that, Bauer also offers countless materials and tech that you can add and edit to fit your needs. Our Skate Specialist can also help based on the information you gave about your performance goals.",
+            "sub_fs": "lg"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_8fVMRV"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/custom-skate-4.jpg",
+        "style_image": "1",
+        "image_effect": "zoom-in",
+        "color_scheme": "",
+        "image_last": true,
+        "content_position": "center",
+        "alignment": "center",
+        "content_pl": 0,
+        "image_last_mb": false,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "image_with_text_hCRcij": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_Ue7eR7": {
+          "type": "heading",
+          "settings": {
+            "heading": "CCM Total Custom Skates",
+            "heading_fs": "h3"
+          }
+        },
+        "sub_heading_nC3fPX": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "CCM has upped their skate-making game by creating custom options for all three of their skate families: Tacks, Jetspeed, and Ribcor. Are you an agile player or a power skater? With custom skate fitting, you can get the perfect dimensions for your skates and choose the exact model and specs you want, all to enhance your performance the way you want it! CCM custom skates come in two package options: Total Custom and Total Custom Plus. Both come with amazing features and are built exactly to your foot shape; Total Custom Plus just adds a few more custom choices.",
+            "sub_fs": "lg"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Ue7eR7",
+        "sub_heading_nC3fPX"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/DSCF0148.jpg",
+        "style_image": "1",
+        "image_effect": "zoom-in",
+        "color_scheme": "",
+        "image_last": false,
+        "content_position": "center",
+        "alignment": "center",
+        "content_pl": 0,
+        "image_last_mb": false,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "image_with_text_DJePie": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_GVy8VL": {
+          "type": "heading",
+          "settings": {
+            "heading": "How It Works",
+            "heading_fs": "h3"
+          }
+        },
+        "sub_heading_4kcYwz": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Custom skates are designed to fit you, but it can be tough to understand all the tech and get the measurements right. We can help. First, contact The Hockey Shop through email (sales@thehockeyshop.com) or phone (604-589-8299) to book a skate fitting appointment. Doing so ensures we can get one of our Skate Specialists to work on your fitting and give you their full attention while walking you through the process and giving suggestions.To start, they will ask you various questions about your performance goals, the kind of skates you’ve been using (brand, model, etc.), difficulties you encountered when picking out skates in the past, and any unique foot features you may have.",
+            "sub_fs": "lg"
+          }
+        }
+      },
+      "block_order": [
+        "heading_GVy8VL",
+        "sub_heading_4kcYwz"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/DSCF0149.jpg",
+        "style_image": "1",
+        "image_effect": "zoom-in",
+        "color_scheme": "",
+        "image_last": true,
+        "content_position": "center",
+        "alignment": "center",
+        "content_pl": 0,
+        "image_last_mb": false,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "image_with_text_i3Haag": {
+      "type": "image-with-text",
+      "blocks": {
+        "sub_heading_QtKcbq": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Once we have all your information, we will start performing the scan. CCM’s 3D Fit Scan process uses a transparent footstool and their CCM 3D Fit Scanner 4+ app to take the measurements. Your Skate Specialist will instruct you to take your shoes and socks off, then place your feet barefoot on the stool. Keep your knees at a 90° angle between the stool and your seat during the process. The Specialist will then circle you and take the scan of your feet at all angles. The scan itself will take about 10-15 seconds.<br><br>\n\nWhen complete, the app will display a 3D model of your foot and suggest a CCM Best Recommended Fit, which will include skate model, size, and width for each foot. Our Specialist may suggest a different model based on your performance goals.",
+            "sub_fs": "lg"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_QtKcbq"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/DSCF0150.jpg",
+        "style_image": "1",
+        "image_effect": "zoom-in",
+        "color_scheme": "",
+        "image_last": false,
+        "content_position": "center",
+        "alignment": "center",
+        "content_pl": 0,
+        "image_last_mb": false,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "image_with_text_48injr": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_JEdmLA": {
+          "type": "heading",
+          "settings": {
+            "heading": "True Hockey Custom Skates",
+            "heading_fs": "h3"
+          }
+        },
+        "sub_heading_VLjrbh": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "TRUE Temper Hockey got its origins from crafting custom hockey skates, and The Hockey Shop is proud to be a verified TRUE Fit Centre. TRUE outfitted us with the technology to scan and analyze your feet for the perfect fit and your ideal performance. Developed with innovative tech from ex-speed skater Scott Van Horne, who holds a bachelor’s in science and a master’s in biomechanics, you can be assured of quality and performance in your custom skates.",
+            "sub_fs": "lg"
+          }
+        }
+      },
+      "block_order": [
+        "heading_JEdmLA",
+        "sub_heading_VLjrbh"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/DSCF0147.jpg",
+        "style_image": "1",
+        "image_effect": "zoom-in",
+        "color_scheme": "",
+        "image_last": true,
+        "content_position": "center",
+        "alignment": "center",
+        "content_pl": 0,
+        "image_last_mb": false,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "image_with_text_XQ4yx6": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_wdU79e": {
+          "type": "heading",
+          "settings": {
+            "heading": "How It Works",
+            "heading_fs": "h3"
+          }
+        },
+        "sub_heading_PaWm9k": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "For the best experience, please make an appointment with us by emailing <b><a href=\"mailto:sales@thehockeyshop.com\">sales@thehockeyshop.com<\/a><\/b> or calling the store at <b><a href=\"tel:604-589-8299\">604-589-8299<\/a><\/b>, so we know you’re coming and our Specialist can provide you with their full attention.\n<br><br>\nThe skate fitting will start with the Specialist asking multiple questions about your skating goals, level of play, and what you’re looking for. Please let us know the type of skates you’re already using (brand, model, etc.) and any problems you have had in the past with fitting skates. Our Specialist can take what you say into consideration when reviewing recommended fitting and suggesting custom skate features.",
+            "sub_fs": "lg"
+          }
+        }
+      },
+      "block_order": [
+        "heading_wdU79e",
+        "sub_heading_PaWm9k"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/DSCF0151.jpg",
+        "style_image": "1",
+        "image_effect": "zoom-in",
+        "color_scheme": "",
+        "image_last": false,
+        "content_position": "center",
+        "alignment": "center",
+        "content_pl": 0,
+        "image_last_mb": false,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "image_with_text_3NQ3Bq": {
+      "type": "image-with-text",
+      "blocks": {
+        "sub_heading_MPgCdQ": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "When we do the foot scan, the TRUE Scanner will make a digital image of your foot, ensuring the ideal skate shape for you once created. In addition to the foot scan, we may also take some additional photos of your foot to give the skate maker a better idea of your foot shape while they craft your skates. The scan will take approximately 10-15 seconds.<br><br>\n\nOnce we’ve completed the scan and taken any supplementary photos, we will send the scan to TRUE so they can get right to making your skates. Feel free to take a look at the following table and browse the custom tech you can add or change in the tongue, liner, etc. too. Our Skate Specialist can also help based on the information you gave about your performance goals.",
+            "sub_fs": "lg"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_MPgCdQ"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/true-custom2.jpg",
+        "style_image": "1",
+        "image_effect": "zoom-in",
+        "color_scheme": "",
+        "image_last": true,
+        "content_position": "center",
+        "alignment": "center",
+        "content_pl": 0,
+        "image_last_mb": false,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
         "padding_rate": 75
       }
     },
@@ -906,19 +515,16 @@
     }
   },
   "order": [
-    "slideshow_q7pEg9",
-    "marquee_cy3Qc8",
-    "top_heading_4iawTD",
-    "collections_list_QLied3",
-    "image_gallery_LUgwe8",
-    "image_with_tabs_content_FaieMG",
-    "collections_list_simple_D7GcpX",
-    "featured_collection_carousel_iiL9bG",
-    "image_with_text_rUEA8j",
-    "featured_collection_carousel_Dp8fiz",
-    "featured_collection_grid_KzNwxX",
-    "image_with_text_rdAQc9",
-    "featured_collection_carousel_gAEwif",
+    "main_heading_atDpkH",
+    "image_with_text_WRMCpG",
+    "image_with_text_BCTkRj",
+    "image_with_text_8t8pE9",
+    "image_with_text_hCRcij",
+    "image_with_text_DJePie",
+    "image_with_text_i3Haag",
+    "image_with_text_48injr",
+    "image_with_text_XQ4yx6",
+    "image_with_text_3NQ3Bq",
     "image_with_text_gcKQCJ",
     "icon_box_Hm4Wye"
   ]
