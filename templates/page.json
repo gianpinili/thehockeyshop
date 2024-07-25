@@ -400,6 +400,9 @@
       "block_order": [
         "tab_item_qDdYqe"
       ],
+      "custom_css": [
+        ".hdt-tab {display: flex; justify-content: center;}"
+      ],
       "settings": {
         "heading_align": "center",
         "sec_heading": "",

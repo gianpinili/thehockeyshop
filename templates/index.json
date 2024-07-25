@@ -1115,7 +1115,7 @@
         "tab_item_bR6WGj"
       ],
       "custom_css": [
-
+        ".hdt-tab {display: flex; justify-content: center;}"
       ],
       "settings": {
         "heading_align": "center",
