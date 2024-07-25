@@ -858,52 +858,6 @@
         "padding_rate": 75
       }
     },
-    "featured_collection_carousel_WFdezT": {
-      "type": "featured-collection-carousel",
-      "disabled": true,
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Her story stars here. FTW.",
-        "heading_tag": "h4",
-        "heading_size": "h4",
-        "sec_subheading": "<p>CCM Jetspeed FTW Women's Collection: engineered for performance, comfort, and style.<\/p>",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "btn_heading": false,
-        "nav_heading": "disable",
-        "heading_gap": 18,
-        "sec_heading_spacing": 66,
-        "collection": "ccm-jetspeed-ftw-womens-collection",
-        "product_list": [
-
-        ],
-        "product_des": "1",
-        "image_ratio": "landscape",
-        "image_size": false,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 12,
-        "col_dk": "5",
-        "col_tb": "3",
-        "col_mb": "2",
-        "half_item": false,
-        "navUI": true,
-        "nav_des": "default",
-        "nav_pos": "middle_in",
-        "dotUI": true,
-        "pagination_type": "none",
-        "paginate_pos": "center",
-        "dis_pagination": 0,
-        "btn_label": "View all",
-        "btn_style": "solid",
-        "btn_fw": "normal",
-        "section_fullwidth": false,
-        "color_scheme": "scheme-1",
-        "padding_top": 69,
-        "padding_bottom": 51,
-        "padding_rate": 75
-      }
-    },
     "image_with_text_rhLwb7": {
       "type": "image-with-text",
       "blocks": {
@@ -1142,207 +1096,6 @@
         "padding_rate": 0
       }
     },
-    "custom_section_VtTM4g": {
-      "type": "custom-section",
-      "blocks": {
-        "parent_K6UwpB": {
-          "type": "parent",
-          "settings": {
-            "column_lg": "hdt-col-lg-6",
-            "column_md": "hdt-col-md-6",
-            "column": "hdt-col-12",
-            "color_scheme": "scheme-1",
-            "padding_top": 24,
-            "padding_right": 20,
-            "padding_bottom": 24,
-            "padding_left": 60,
-            "padding_rate": 0,
-            "class": ""
-          }
-        },
-        "image_9gfrgE": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Hyperlite_2_Helmet_0002_Bauer_Hyperlite_2_Q_Hughes_Hero_4_1080x1350_900x_f756c841-3ed5-4d94-a9d9-00620b52940a.webp",
-            "link": "",
-            "image_width": "full-width",
-            "width": 500,
-            "width_mb": 360,
-            "alignment": "start"
-          }
-        },
-        "spacer_KiwEez": {
-          "type": "spacer",
-          "settings": {
-            "space_lg": 10,
-            "space_md": 10,
-            "space": 10
-          }
-        },
-        "heading_9r7T83": {
-          "type": "heading",
-          "settings": {
-            "heading": "Hyperlite 2 Helmet",
-            "tag": "h3",
-            "heading_size": "h3",
-            "alignment": "start"
-          }
-        },
-        "spacer_R9nzzD": {
-          "type": "spacer",
-          "settings": {
-            "space_lg": 10,
-            "space_md": 10,
-            "space": 10
-          }
-        },
-        "text_DzMiJg": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Skate circles around the competition. Bauer has gone above and beyond with the newest vapor helmet.<\/p>",
-            "text_size": "lg",
-            "alignment": "start",
-            "alignment_mb": "start"
-          }
-        },
-        "spacer_gwm7mn": {
-          "type": "spacer",
-          "settings": {
-            "space_lg": 16,
-            "space_md": 10,
-            "space": 10
-          }
-        },
-        "button_4ie4ha": {
-          "type": "button",
-          "settings": {
-            "btn_label": "Shop now",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "lg",
-            "btn_style": "link",
-            "btn_fw": "semibold",
-            "btn_icon": "2",
-            "alignment": "start"
-          }
-        },
-        "parent_y4377L": {
-          "type": "parent",
-          "settings": {
-            "column_lg": "hdt-col-lg-6",
-            "column_md": "hdt-col-md-6",
-            "column": "hdt-col-12",
-            "color_scheme": "scheme-1",
-            "padding_top": 24,
-            "padding_right": 60,
-            "padding_bottom": 24,
-            "padding_left": 20,
-            "padding_rate": 0,
-            "class": ""
-          }
-        },
-        "image_xW7xtB": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Mach-Glove-Desktop-Promo_900x_16991bb3-04f6-470e-b6dc-1ffe983f2329.webp",
-            "link": "",
-            "image_width": "full-width",
-            "width": 500,
-            "width_mb": 360,
-            "alignment": "start"
-          }
-        },
-        "spacer_dPjUwG": {
-          "type": "spacer",
-          "settings": {
-            "space_lg": 10,
-            "space_md": 10,
-            "space": 10
-          }
-        },
-        "heading_9Rd6Fk": {
-          "type": "heading",
-          "settings": {
-            "heading": "Supreme Mach Gloves",
-            "tag": "h3",
-            "heading_size": "h3",
-            "alignment": "start"
-          }
-        },
-        "spacer_674fr6": {
-          "type": "spacer",
-          "settings": {
-            "space_lg": 10,
-            "space_md": 10,
-            "space": 10
-          }
-        },
-        "text_YACNKk": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Rock solid with butter feel. Make magic happen all over the ice with the Mach Supreme gloves.<\/p>",
-            "text_size": "lg",
-            "alignment": "start",
-            "alignment_mb": "start"
-          }
-        },
-        "spacer_B7iFGr": {
-          "type": "spacer",
-          "settings": {
-            "space_lg": 16,
-            "space_md": 10,
-            "space": 10
-          }
-        },
-        "button_aLgJtE": {
-          "type": "button",
-          "settings": {
-            "btn_label": "Shop now",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "lg",
-            "btn_style": "link",
-            "btn_fw": "semibold",
-            "btn_icon": "2",
-            "alignment": "start"
-          }
-        }
-      },
-      "block_order": [
-        "parent_K6UwpB",
-        "image_9gfrgE",
-        "spacer_KiwEez",
-        "heading_9r7T83",
-        "spacer_R9nzzD",
-        "text_DzMiJg",
-        "spacer_gwm7mn",
-        "button_4ie4ha",
-        "parent_y4377L",
-        "image_xW7xtB",
-        "spacer_dPjUwG",
-        "heading_9Rd6Fk",
-        "spacer_674fr6",
-        "text_YACNKk",
-        "spacer_B7iFGr",
-        "button_aLgJtE"
-      ],
-      "disabled": true,
-      "custom_css": [
-        "img {border-radius: 10px;}",
-        "div {padding: 0 2px;}"
-      ],
-      "settings": {
-        "section_fullwidth": true,
-        "color_scheme": "scheme-2",
-        "direction": "",
-        "justify": "",
-        "gap": false,
-        "space": 0,
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "padding_rate": 75
-      }
-    },
     "featured_collection_carousel_GEc7W8": {
       "type": "featured-collection-carousel",
       "custom_css": [
@@ -1388,6 +1141,31 @@
         "color_scheme": "",
         "padding_top": 0,
         "padding_bottom": 52,
+        "padding_rate": 75
+      }
+    },
+    "hero_image_BqjREc": {
+      "type": "hero-image",
+      "settings": {
+        "image_height": "adapt_image",
+        "fixed_height": 860,
+        "image_height_mb": "adapt_image",
+        "fixed_height_mb": 300,
+        "image": "shopify:\/\/shop_images\/3_b0f40112-5075-4c2f-b055-bdb75fe3aa3a.jpg",
+        "link_img": "",
+        "target": false,
+        "image_behavior": "none",
+        "use_overlay": false,
+        "use_bg_content": false,
+        "content_position": "center",
+        "content_align": "center",
+        "content_position_mb": "center",
+        "content_align_mb": "center",
+        "full_width": true,
+        "boxed_fullwidth": true,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
         "padding_rate": 75
       }
     },
@@ -1635,12 +1413,11 @@
     "banner_qfQbew",
     "featured_collection_carousel_aFaMir",
     "hero_image_yULAWV",
-    "featured_collection_carousel_WFdezT",
     "image_with_text_rhLwb7",
     "image_gallery_kiUHL3",
     "image_with_tabs_content_prrDBt",
-    "custom_section_VtTM4g",
     "featured_collection_carousel_GEc7W8",
+    "hero_image_BqjREc",
     "image_gallery_L6CNUr",
     "image_with_text_VXFxkV",
     "icon_box_JfJQBV"
