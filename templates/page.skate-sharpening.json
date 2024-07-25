@@ -9,696 +9,32 @@
 */
 {
   "sections": {
-    "slideshow_q7pEg9": {
-      "type": "slideshow",
-      "blocks": {
-        "slide_label_grG7Ta": {
-          "type": "slide_label",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/hero_1_1.jpg",
-            "url": "",
-            "banner_target": false,
-            "color_scheme": "",
-            "sub_heading": "",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "normal",
-            "sub_heading_bg": false,
-            "heading": "",
-            "heading_fs": "base",
-            "heading_fw": "normal",
-            "btn_label": "",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "none",
-            "btn2_label": "",
-            "btn2_link": "",
-            "target2": false,
-            "btn2_size": "base",
-            "btn2_style": "solid",
-            "btn2_fw": "normal",
-            "btn2_icon": "none",
-            "content_bg": false,
-            "content_position": "center",
-            "alignment": "center",
-            "hide_subtext_mb": false,
-            "content_position_mb": "center",
-            "alignment_mb": "center"
-          }
-        }
-      },
-      "block_order": [
-        "slide_label_grG7Ta"
-      ],
-      "settings": {
-        "full_width": true,
-        "item_round": "rounded",
-        "image_height": "fixed",
-        "fixed_height": 860,
-        "image_height_mb": "adapt_image",
-        "fixed_height_mb": 300,
-        "color_scheme": "",
-        "loop": true,
-        "auto_play": 0,
-        "pause_hover": false,
-        "navUI": false,
-        "dotUI": false,
-        "dot_style": "default",
-        "dot_direction": "horizontal",
-        "dot_align": "center",
-        "dot_space": 40,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "padding_rate": 75
-      }
-    },
-    "marquee_cy3Qc8": {
-      "type": "marquee",
-      "blocks": {
-        "item_MWbCUH": {
-          "type": "item",
-          "settings": {
-            "text": "<p>Summer Super Sale up to 40% off.<\/p>",
-            "icon_svg": "dividing_icon",
-            "custom_svg": "",
-            "icon_width": 12,
-            "icon_width_mb": 20
-          }
-        },
-        "item_VNznpL": {
-          "type": "item",
-          "settings": {
-            "text": "<p>Free shipping on orders over $100.<\/p>",
-            "icon_svg": "none",
-            "custom_svg": "",
-            "icon_width": 20,
-            "icon_width_mb": 20
-          }
-        },
-        "item_q76aYq": {
-          "type": "item",
-          "settings": {
-            "text": "<p>Buy now, pay later with Sezzle.<\/p>",
-            "icon_svg": "none",
-            "custom_svg": "",
-            "icon_width": 20,
-            "icon_width_mb": 20
-          }
-        }
-      },
-      "block_order": [
-        "item_MWbCUH",
-        "item_VNznpL",
-        "item_q76aYq"
-      ],
-      "settings": {
-        "space_item": 30,
-        "speed": 0.3,
-        "direction": "rtl",
-        "marquee_pause_when_hover": false,
-        "text_fs": "base",
-        "text_fw": "semibold",
-        "text_uppercase": false,
-        "adding_border": false,
-        "icon_position_between": true,
-        "color_scheme": "scheme-67a7ca9f-3333-4245-b79f-2e9849d7e615",
-        "padding_top": 12,
-        "padding_bottom": 12,
-        "padding_rate": 75
-      }
-    },
-    "top_heading_4iawTD": {
-      "type": "top-heading",
-      "blocks": {
-        "heading_qUaTde": {
-          "type": "heading",
-          "settings": {
-            "heading": "Black Friday in July.",
-            "heading_fs": "h3"
-          }
-        },
-        "sub_heading_nkDnhG": {
-          "type": "sub_heading",
-          "settings": {
-            "sub_heading": "Jump start the season with savings.<br>It's prime time to elevate your game. Score up to 50% off.",
-            "sub_heading_fs": "base"
-          }
-        },
-        "button_GtddfV": {
-          "type": "button",
-          "settings": {
-            "button_text": "Shop Now",
-            "button_link": "shopify:\/\/collections\/all-clearance",
-            "button-color": "#1a98ff"
-          }
-        }
-      },
-      "block_order": [
-        "heading_qUaTde",
-        "sub_heading_nkDnhG",
-        "button_GtddfV"
-      ],
-      "settings": {
-        "spacing_item": 16,
-        "alignment": "center",
-        "alignment_mb": "center",
-        "fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "padding_rate": 75,
-        "button_bg_color": "#000000"
-      }
-    },
-    "collections_list_QLied3": {
-      "type": "collections-list",
-      "blocks": {
-        "collection_item_wVfBGT": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "goalie-skates",
-            "image": "shopify:\/\/shop_images\/bauer-goalie-skates-bauer-pro-intermediate-goalie-skates-31250001756226.jpg",
-            "title": "Skates",
-            "collection_link": ""
-          }
-        },
-        "collection_item_FfCWQ6": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "goalie-sticks",
-            "image": "shopify:\/\/shop_images\/ccm-goalie-sticks-ccm-axis-xf-pro-intermediate-goalie-stick-31285902573634.jpg",
-            "title": "Sticks",
-            "collection_link": ""
-          }
-        },
-        "collection_item_p6abbX": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "leg-pads",
-            "image": "shopify:\/\/shop_images\/warrior-rtl-g7-pro-leg-pads-sr-tan-bk-detail-10461.jpg",
-            "title": "Leg Pads",
-            "collection_link": ""
-          }
-        },
-        "collection_item_aJhRNQ": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "goalie-masks",
-            "image": "shopify:\/\/shop_images\/warrior-goalie-masks-senior-warrior-ritual-f2-e-senior-goalie-mask-30797508935746.jpg",
-            "title": "Masks",
-            "collection_link": ""
-          }
-        },
-        "collection_item_7CdKzE": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "catchers",
-            "image": "shopify:\/\/shop_images\/bauer-catchers-bauer-learn-to-save-goalie-catcher-black-full-right-31840048447554.jpg",
-            "title": "Catchers",
-            "collection_link": ""
-          }
-        },
-        "collection_item_paaADt": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "goalie-blockers",
-            "image": "shopify:\/\/shop_images\/vaughn-blockers-vaughn-velocity-v10-pro-carbon-senior-goalie-blocker-swirl-graphic-31748135256130.jpg",
-            "title": "Blockers",
-            "collection_link": ""
-          }
-        },
-        "collection_item_r3x7M7": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "goalie-chest-protectors",
-            "image": "shopify:\/\/shop_images\/ccm-chest-protectors-ccm-pro-spec-senior-chest-arm-protector-31229408542786.jpg",
-            "title": "Chest Protectors",
-            "collection_link": ""
-          }
-        },
-        "collection_item_Jn43Pp": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "goalie-pants",
-            "image": "shopify:\/\/shop_images\/ccm-goalie-pants-ccm-axis-f5-junior-goalie-pants-31229451731010.jpg",
-            "title": "Pants",
-            "collection_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "collection_item_wVfBGT",
-        "collection_item_FfCWQ6",
-        "collection_item_p6abbX",
-        "collection_item_aJhRNQ",
-        "collection_item_7CdKzE",
-        "collection_item_paaADt",
-        "collection_item_r3x7M7",
-        "collection_item_Jn43Pp"
-      ],
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "btn_heading_collection": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "collection_list": [
-
-        ],
-        "collection_des": "1",
-        "content_size": "xl",
-        "content_weight": "medium",
-        "text_transform": false,
-        "content_position": "end-center",
-        "content_padding": 30,
-        "image_ratio": "adapt_image",
-        "image_size": true,
-        "col_dk": "4",
-        "col_tb": "3",
-        "col_mb": "2",
-        "space_items": "x",
-        "half_item": false,
-        "navUI": true,
-        "nav_des": "outline",
-        "nav_pos": "middle_out",
-        "dotUI": true,
-        "dots_pos": "default",
-        "section_fullwidth": true,
-        "boxed_fullwidth": true,
-        "boxed_content": false,
-        "color_scheme": "",
-        "padding_top": 30,
-        "padding_bottom": 40,
-        "padding_rate": 75
-      }
-    },
-    "image_gallery_LUgwe8": {
-      "type": "image-gallery",
-      "blocks": {
-        "gallery_item_hMLNMg": {
-          "type": "gallery_item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/shadow-leg-pad-square.jpg",
-            "item_link": "",
-            "product_item": "bauer-supreme-shadow-senior-goalie-leg-pads"
-          }
-        },
-        "gallery_item_mgEn9X": {
-          "type": "gallery_item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/shadow-blocker-square.jpg",
-            "item_link": "",
-            "product_item": "bauer-supreme-shadow-senior-goalie-blocker"
-          }
-        },
-        "gallery_item_iLmjxD": {
-          "type": "gallery_item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/shadow-full-square.jpg",
-            "item_link": "",
-            "product_item": "bauer-supreme-shadow-senior-goalie-leg-pads"
-          }
-        },
-        "gallery_item_GcQWgF": {
-          "type": "gallery_item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/shadow-catcher-square.jpg",
-            "item_link": "",
-            "product_item": "bauer-supreme-shadow-senior-goalie-catcher"
-          }
-        },
-        "gallery_item_VdkyKT": {
-          "type": "gallery_item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/shadow-stick-square.jpg",
-            "item_link": "",
-            "product_item": "bauer-supreme-shadow-senior-goalie-stick"
-          }
-        }
-      },
-      "block_order": [
-        "gallery_item_hMLNMg",
-        "gallery_item_mgEn9X",
-        "gallery_item_iLmjxD",
-        "gallery_item_GcQWgF",
-        "gallery_item_VdkyKT"
-      ],
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Bauer Supreme Shadow",
-        "heading_tag": "h2",
-        "heading_size": "h3",
-        "sec_subheading": "<p>Experience control like you've never seen before.<\/p>",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "heading_gap": 11,
-        "sec_heading_spacing": 46,
-        "image_ratio": "asos",
-        "image_size": true,
-        "col_dk": "5",
-        "col_tb": "3",
-        "col_mb": "2",
-        "spacing_items": 10,
-        "navUI": false,
-        "nav_des": "default",
-        "dotUI": false,
-        "dots_pos": "outline",
-        "section_fullwidth": true,
-        "boxed_fullwidth": true,
-        "color_scheme": "",
-        "padding_top": 32,
-        "padding_bottom": 52,
-        "padding_rate": 75
-      }
-    },
-    "image_with_tabs_content_FaieMG": {
-      "type": "image-with-tabs-content",
-      "blocks": {
-        "tab_item_qDdYqe": {
-          "type": "tab_item",
-          "settings": {
-            "title": "Konekt 2",
-            "heading": "Revolutionized tech for elite goalies.",
-            "content_text": "The KONEKT 2 is here. Lighter than it's predecessor, this skate features state-of-the-art technology for the games most elite goalies. Its innovative design ensures superior comfort and durability.",
-            "btn_label": "Shop Konekt 2",
-            "btn_link": "https:\/\/www.thehockeyshop.com\/collections\/shop?q=konekt+2",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1"
-          }
-        }
-      },
-      "block_order": [
-        "tab_item_qDdYqe"
-      ],
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "main_img": "shopify:\/\/shop_images\/bauer-goalie-skates-bauer-konekt2-intermediate-goalie-skates-31287323951170.jpg",
-        "image_pos": "right",
-        "image_ratio": "adapt_image",
-        "custom_height": 860,
-        "custom_height_tb": 300,
-        "custom_height_mb": 300,
-        "section_fullwidth": false,
-        "color_scheme": "scheme-1",
-        "padding_top": 10,
-        "padding_bottom": 52,
-        "padding_rate": 75
-      }
-    },
-    "collections_list_simple_D7GcpX": {
-      "type": "collections-list-simple",
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "btn_heading_collection": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "collection_list": [
-          "goalie-accessories",
-          "clearance-goalie",
-          "custom-gear",
-          "goalie-baselayer",
-          "goalie-bags",
-          "goalie-jocks"
-        ],
-        "text_transform": false,
-        "other_link_label": "View all categories",
-        "other_link": "",
-        "section_fullwidth": false,
-        "color_scheme": "scheme-3",
-        "padding_top": 16,
-        "padding_bottom": 20,
-        "padding_rate": 75
-      }
-    },
-    "featured_collection_carousel_iiL9bG": {
-      "type": "featured-collection-carousel",
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Super Sale Sticks",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "btn_heading": false,
-        "nav_heading": "disable",
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "collection": "sale-goalie-sticks",
-        "product_list": [
-
-        ],
-        "product_des": "1",
-        "image_ratio": "adapt_image",
-        "image_size": true,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 10,
-        "col_dk": "5",
-        "col_tb": "4",
-        "col_mb": "2",
-        "half_item": false,
-        "navUI": true,
-        "nav_des": "outline",
-        "nav_pos": "middle_out",
-        "dotUI": false,
-        "pagination_type": "none",
-        "paginate_pos": "center",
-        "dis_pagination": 30,
-        "btn_label": "View all",
-        "btn_style": "solid",
-        "btn_fw": "normal",
-        "section_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 24,
-        "padding_bottom": 21,
-        "padding_rate": 75
-      }
-    },
-    "image_with_text_rUEA8j": {
+    "image_with_text_8Hg4h8": {
       "type": "image-with-text",
       "blocks": {
-        "heading_jgrzRr": {
+        "heading_pF93Tj": {
           "type": "heading",
           "settings": {
-            "heading": "Your next Bauer set starts here.",
+            "heading": "Skate Sharpening",
             "heading_fs": "h3"
           }
         },
-        "text_b39mgX": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Oour expert team handpicked each piece to meet goalies' needs at all skill levels, so you can focus on stopping pucks.<\/p>"
-          }
-        },
-        "button_zLYfMm": {
-          "type": "button",
-          "settings": {
-            "btn_label": "Shop Bauer Goalie",
-            "btn_link": "shopify:\/\/collections\/bauer-goalie",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "medium",
-            "btn_icon": "1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_jgrzRr",
-        "text_b39mgX",
-        "button_zLYfMm"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/hyperlite2-goalie-mobile-hero-banner_0009_DSCF4006.jpg",
-        "style_image": "1",
-        "image_effect": "zoom-in",
-        "color_scheme": "scheme-1",
-        "image_last": false,
-        "content_position": "center",
-        "alignment": "center",
-        "content_pl": 0,
-        "image_last_mb": false,
-        "content_position_mb": "center",
-        "alignment_mb": "center",
-        "padding_top": 40,
-        "padding_bottom": 40,
-        "padding_rate": 75
-      }
-    },
-    "featured_collection_carousel_Dp8fiz": {
-      "type": "featured-collection-carousel",
-      "disabled": true,
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Supreme Mach Sale",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "btn_heading": false,
-        "nav_heading": "disable",
-        "heading_gap": 18,
-        "sec_heading_spacing": 54,
-        "collection": "bauer-supreme-mach-goalie-equipment-collection",
-        "product_list": [
-
-        ],
-        "product_des": "1",
-        "image_ratio": "adapt_image",
-        "image_size": true,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 10,
-        "col_dk": "5",
-        "col_tb": "3",
-        "col_mb": "2",
-        "half_item": false,
-        "navUI": true,
-        "nav_des": "outline",
-        "nav_pos": "middle_out",
-        "dotUI": false,
-        "pagination_type": "none",
-        "paginate_pos": "center",
-        "dis_pagination": 30,
-        "btn_label": "View all",
-        "btn_style": "solid",
-        "btn_fw": "normal",
-        "section_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 52,
-        "padding_rate": 75
-      }
-    },
-    "featured_collection_grid_KzNwxX": {
-      "type": "featured-collection-grid",
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Supreme Mach Sale",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "collection": "bauer-supreme-mach-goalie-equipment-collection",
-        "product_list": [
-          "bauer-supreme-m5-pro-senior-goalie-stick",
-          "bauer-supreme-mach-senior-goalie-stick",
-          "bauer-supreme-m5-pro-intermediate-goalie-blocker",
-          "bauer-supreme-m5-pro-intermediate-goalie-catcher",
-          "bauer-supreme-m5-pro-intermediate-goalie-leg-pads",
-          "bauer-supreme-m5-pro-senior-goalie-catcher",
-          "bauer-supreme-m5-pro-senior-goalie-blocker",
-          "bauer-supreme-m5-pro-senior-goalie-leg-pads",
-          "bauer-supreme-mach-senior-goalie-catcher",
-          "bauer-nme-one-senior-goalie-mask"
-        ],
-        "product_des": "1",
-        "image_ratio": "adapt_image",
-        "image_size": true,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 10,
-        "col_dk": "5",
-        "col_tb": "3",
-        "col_mb": "2",
-        "pagination_type": "none",
-        "paginate_pos": "center",
-        "dis_pagination": 30,
-        "btn_label": "View all",
-        "btn_style": "solid",
-        "btn_fw": "normal",
-        "section_fullwidth": false,
-        "boxed_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 50,
-        "padding_rate": 75
-      }
-    },
-    "image_with_text_rdAQc9": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_Xqp3hL": {
-          "type": "heading",
-          "settings": {
-            "heading": "TENDYFEST MERCH",
-            "heading_fs": "h3"
-          }
-        },
-        "sub_heading_WmLEym": {
+        "sub_heading_eb6JQ8": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "All proceeds from the sale of TendyFest merchandise are donated to the Canucks Autism Network, supporting programs and services for individuals and families living with autism.",
+            "sub_heading": "We take pride in every skate we sharpen. This is something that is rooted deep in our DNA. Rod Bolivar, the original owner of The Hockey Shop, knew this was the most important thing we could do to help our customers perform at their best. And it’s been this way since 1988.<br><br>\n\nWhether you’re a pro or just beginning, better sharpening equals better performance.<br><br>\n\n<b>Precision<\/b>. Every time you hit the ice, your edges need to be perfect. Every one of our sharpeners knows the importance of consistent, high-quality sharpening because they play too. They understand that you’re putting your trust in them and their guarantee that when you step on the ice, your sharpening will be exactly what you asked for.",
             "sub_fs": "lg"
           }
-        },
-        "button_BYKQtC": {
-          "type": "button",
-          "settings": {
-            "btn_label": "Buy Now",
-            "btn_link": "shopify:\/\/collections\/the-hockey-shop-merch",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
-            "btn_icon": "1"
-          }
-        },
-        "button_CqUzR3": {
-          "type": "button",
-          "settings": {
-            "btn_label": "Donate to CAN",
-            "btn_link": "https:\/\/support.canucksautism.ca\/site\/TR\/CANPro-Am\/Pro-Am?team_id=3280&pg=team&fr_id=1280&ltclid=829cb569-24bb-4ca8-96ba-9bda7cf32a8f",
-            "target": true,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "medium",
-            "btn_icon": "none"
-          }
         }
       },
       "block_order": [
-        "heading_Xqp3hL",
-        "sub_heading_WmLEym",
-        "button_BYKQtC",
-        "button_CqUzR3"
-      ],
-      "custom_css": [
-        "a:last-child {background-color: #003f7e; border: none;}"
+        "heading_pF93Tj",
+        "sub_heading_eb6JQ8"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/tendyfest-shirts_hats.jpg",
+        "image": "shopify:\/\/shop_images\/DSCF7740.jpg",
         "style_image": "1",
-        "image_effect": "zoom-in",
+        "image_effect": "lunc",
         "color_scheme": "",
         "image_last": true,
         "content_position": "center",
@@ -712,48 +48,291 @@
         "padding_rate": 75
       }
     },
-    "featured_collection_carousel_gAEwif": {
-      "type": "featured-collection-carousel",
+    "image_with_text_eYxT7A": {
+      "type": "image-with-text",
+      "blocks": {
+        "sub_heading_pkk49Q": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "<b>Protocol.<\/b> All of our sharpening staff has completed our extensive Precision Balance training system. Nobody touches customer skates until they have a deep skillset and expert knowledge on everything sharpening. <br><br>\n\n<b>Quality control.<\/b> Each time you sharpen your skates with us, we record who sharpened them and the hollow they were sharpened at. Because our sharpening experts have all of your past sharpening history on file, they can provide expertise on what sharpening will be best for your game. <br><br>\n\n<b>More choice is better.<\/b> We’ve invested in all the best sharpening machines and the latest technologies. With Blademaster, Blackstone, Pro-Sharp, and Sparx sharpening machines in-store, we have every sharpening option covered.",
+            "sub_fs": "lg"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_pkk49Q"
+      ],
       "settings": {
-        "heading_align": "center",
-        "sec_heading": "Super Skate Sale",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "btn_heading": false,
-        "nav_heading": "disable",
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "collection": "clearance-goalie-hockey-skates",
-        "product_list": [
-
-        ],
-        "product_des": "1",
-        "image_ratio": "adapt_image",
-        "image_size": true,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 10,
-        "col_dk": "5",
-        "col_tb": "3",
-        "col_mb": "2",
-        "half_item": false,
-        "navUI": true,
-        "nav_des": "outline",
-        "nav_pos": "middle_out",
-        "dotUI": false,
-        "pagination_type": "none",
-        "paginate_pos": "center",
-        "dis_pagination": 30,
-        "btn_label": "View all",
-        "btn_style": "solid",
-        "btn_fw": "normal",
-        "section_fullwidth": false,
+        "image": "shopify:\/\/shop_images\/sharpen3_1.png",
+        "style_image": "1",
+        "image_effect": "lunc",
         "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 52,
+        "image_last": false,
+        "content_position": "center",
+        "alignment": "center",
+        "content_pl": 0,
+        "image_last_mb": false,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "image_with_text_qqXhnt": {
+      "type": "image-with-text",
+      "blocks": {
+        "sub_heading_kwQWJw": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Our sharpening team is here to guide you to the perfect sharpening for your playstyle. Looking to try something new? Maybe you’d like to try a hollow that doesn’t have quite as much bite? Interested in trying flat bottom sharpening for the first time? <br><br>\n\nOf course, all the choices available can make the process confusing. Feel free to come to the shop and catch up with one of our experts to get you dialled in. <br><br>\n\nIf you would like to learn more about the sharpening process so you can know more about the topic before you come in, feel free to keep on reading. The following sections will outline the different cuts and vocabulary, which can help you decide what’s best for your style, or if you want to try something new.",
+            "sub_fs": "lg"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_kwQWJw"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/DSCF0042_small_533f81ff-de14-4803-9e81-db588e8d2111.jpg",
+        "style_image": "1",
+        "image_effect": "lunc",
+        "color_scheme": "",
+        "image_last": true,
+        "content_position": "center",
+        "alignment": "center",
+        "content_pl": 0,
+        "image_last_mb": false,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "image_with_text_aG87DC": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_6XRWbk": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sharpening Basics",
+            "heading_fs": "h3"
+          }
+        },
+        "sub_heading_wxmcGg": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "The game is constantly evolving. High-level players in the NHL and other leagues are always changing up their game and gear just to find that little extra edge they can have on their opponents. One of the easiest ways to have that edge is by having a blade cut and profile that fits you, your environment, and your playstyle.<br><br>\n\nSkate sharpening may seem like just simple maintenance, but there is actually quite a bit more going into it than fixing edges.. Sure, you can play in any cut or profile as long as the edges are sharp and even and the finish is smooth. However, if the specs don’t agree with you, it’ll be difficult to reach your highest potential.<br><br> \n\nSharpening is measured on a scale. Deeper hollows will offer better traction on the ice and enhanced agility, whereas shallower hollows will offer better glide and more speed.",
+            "sub_fs": "lg"
+          }
+        }
+      },
+      "block_order": [
+        "heading_6XRWbk",
+        "sub_heading_wxmcGg"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/4th.jpg",
+        "style_image": "1",
+        "image_effect": "lunc",
+        "color_scheme": "",
+        "image_last": false,
+        "content_position": "center",
+        "alignment": "center",
+        "content_pl": 0,
+        "image_last_mb": false,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "image_with_text_8BYNEy": {
+      "type": "image-with-text",
+      "blocks": {
+        "sub_heading_GRTFdX": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "A common misconception is that blades may seem “sharper” or “duller” after sharpening; in actuality, a “sharper” blade just means the cut was <b>deep<\/b>, and likewise, a “duller” blade means the cut was <b>shallow<\/b>. If you switch from 1\/2” to 5\/8” for example, you may initially think the blades weren’t sharpened well enough, but you’ve really just switched to a shallower cut.<br><br>\n\nThe Hockey Shop can help. Here's a full menu of sharpening options we offer:<br><br>\n\nBlademaster – Traditional Hollow, or ROH<br>\nBlademaster – Flat Bottom Hollow (Blade Form Dressing, or BFD)<br>\nBlackstone – Flat Bottom V (FBV)\nPro-Sharp – Z-Channel<br>\nSparx – Traditional Hollow, or RO",
+            "sub_fs": "lg"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_GRTFdX"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/DSCF0168.jpg",
+        "style_image": "1",
+        "image_effect": "lunc",
+        "color_scheme": "",
+        "image_last": true,
+        "content_position": "center",
+        "alignment": "center",
+        "content_pl": 0,
+        "image_last_mb": false,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "image_with_text_PJhJWD": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_kkggPH": {
+          "type": "heading",
+          "settings": {
+            "heading": "Traditional Hollow\/ROH",
+            "heading_fs": "h3"
+          }
+        },
+        "sub_heading_NNazzn": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "The traditional hollow is what most players use, particularly when starting. It uses the standard Radius of Hollow (ROH), and it is also what standard radii cuts are measured with.<br><br>\n\nIf you look at the bottom of your skate blades, you’ll notice it’s curved with edges on either side and that it could round off a circle. The radius of that circle is the radius of hollow.<br><br>\n\nA “standard” cut is 1\/2”, which is a good starting cut for beginners. Many adults also stick to this cut, since it has decent bite (traction). If you need more bite, you will want a deeper hollow, such as 7\/16” or 3\/8”. If you want better glide and speed, a shallower hollow will work, such as 5\/8” or 3\/4”.",
+            "sub_fs": "lg"
+          }
+        }
+      },
+      "block_order": [
+        "heading_kkggPH",
+        "sub_heading_NNazzn"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/6th.jpg",
+        "style_image": "1",
+        "image_effect": "lunc",
+        "color_scheme": "",
+        "image_last": false,
+        "content_position": "center",
+        "alignment": "center",
+        "content_pl": 0,
+        "image_last_mb": false,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "image_with_text_nj66Nd": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_t9B4wN": {
+          "type": "heading",
+          "settings": {
+            "heading": "FBV & BFD",
+            "heading_fs": "h3"
+          }
+        },
+        "sub_heading_BD3VaD": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Flat Bottom V (FBV) and Flat Bottom Hollow (Blade Form Dressing\/BFD) sharpening require very minor adjustments to the bottom ofo the blade and look and feel a little different compared to standard ROH.<br><br>\nMade popular by the St. Louis Blues and quickly gaining traction in the midwest, the FBV and BFD cuts promise a longer glide and sharper turns requiring less energy. The difference between the two is in the shape of the “fangs”— FBV has straighter fangs, whereas BFD is rounder, like a traditional hollow.",
+            "sub_fs": "lg"
+          }
+        }
+      },
+      "block_order": [
+        "heading_t9B4wN",
+        "sub_heading_BD3VaD"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/7th.jpg",
+        "style_image": "1",
+        "image_effect": "lunc",
+        "color_scheme": "",
+        "image_last": true,
+        "content_position": "center",
+        "alignment": "center",
+        "content_pl": 0,
+        "image_last_mb": false,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "image_with_text_FLTTHk": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_qNJrMD": {
+          "type": "heading",
+          "settings": {
+            "heading": "Z-Channel",
+            "heading_fs": "h3"
+          }
+        },
+        "sub_heading_J9NQkx": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Developed originally to keep the benefits of FBV while adding some extra durability to the edges, the Z-Channel is rapidly turning into a favourite of players wanting a bit more from their FBV sharpenings. And durability isn’t the only benefit to the Z-Channel—due to it technically having four edges rather than the standard two, it can provide the best of both worlds reliably in terms of bite and glide.<br><br>\n\nThe Z-Channel design is shallower hollows on both sides with a square channel down the middle. The runners will look and feel a bit different, but many who switch greatly enjoy the change. It is simple to try, and if you want to switch back, that’s also pretty straightforward. The Z-Channel transition shaves off less than a traditional hollow, adding to the durability of the steel itself.",
+            "sub_fs": "lg"
+          }
+        }
+      },
+      "block_order": [
+        "heading_qNJrMD",
+        "sub_heading_J9NQkx"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Z-Channel.jpg",
+        "style_image": "1",
+        "image_effect": "lunc",
+        "color_scheme": "",
+        "image_last": false,
+        "content_position": "center",
+        "alignment": "center",
+        "content_pl": 0,
+        "image_last_mb": false,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "image_with_text_KhCzfQ": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_HmrhMU": {
+          "type": "heading",
+          "settings": {
+            "heading": "Test it out!",
+            "heading_fs": "h3"
+          }
+        },
+        "sub_heading_yWRrY3": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Due to the shallower hollow and feel on the Z-Channel, you may want to go a bit deeper than your normal hollow when getting a Z-Channel done.<br><br>\n\nFor a more in-depth explanation about different sharpening styles, or if you need help figuring out which one is best for you, feel free to come in or contact The Hockey Shop for additional help!",
+            "sub_fs": "lg"
+          }
+        }
+      },
+      "block_order": [
+        "heading_HmrhMU",
+        "sub_heading_yWRrY3"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/DSCF0283_794d79fb-7c70-4832-991b-bb6b38bda6c9.jpg",
+        "style_image": "1",
+        "image_effect": "lunc",
+        "color_scheme": "",
+        "image_last": true,
+        "content_position": "center",
+        "alignment": "center",
+        "content_pl": 0,
+        "image_last_mb": false,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
         "padding_rate": 75
       }
     },
@@ -906,19 +485,15 @@
     }
   },
   "order": [
-    "slideshow_q7pEg9",
-    "marquee_cy3Qc8",
-    "top_heading_4iawTD",
-    "collections_list_QLied3",
-    "image_gallery_LUgwe8",
-    "image_with_tabs_content_FaieMG",
-    "collections_list_simple_D7GcpX",
-    "featured_collection_carousel_iiL9bG",
-    "image_with_text_rUEA8j",
-    "featured_collection_carousel_Dp8fiz",
-    "featured_collection_grid_KzNwxX",
-    "image_with_text_rdAQc9",
-    "featured_collection_carousel_gAEwif",
+    "image_with_text_8Hg4h8",
+    "image_with_text_eYxT7A",
+    "image_with_text_qqXhnt",
+    "image_with_text_aG87DC",
+    "image_with_text_8BYNEy",
+    "image_with_text_PJhJWD",
+    "image_with_text_nj66Nd",
+    "image_with_text_FLTTHk",
+    "image_with_text_KhCzfQ",
     "image_with_text_gcKQCJ",
     "icon_box_Hm4Wye"
   ]
