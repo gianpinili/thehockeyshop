@@ -81,7 +81,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/DSCF0325_b1e5c068-98c2-4161-b230-5e45c77d11b6.jpg",
         "style_image": "1",
-        "image_effect": "lunc",
+        "image_effect": "zoom-in",
         "color_scheme": "",
         "image_last": true,
         "content_position": "center",
