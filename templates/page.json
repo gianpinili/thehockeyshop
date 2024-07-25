@@ -454,6 +454,32 @@
         "padding_rate": 75
       }
     },
+    "hero_image_jpAKKj": {
+      "type": "hero-image",
+      "settings": {
+        "image_height": "adapt_image",
+        "fixed_height": 860,
+        "image_height_mb": "adapt_image",
+        "fixed_height_mb": 300,
+        "image": "shopify:\/\/shop_images\/Rinkside_Rush_Sale_Email_Main_V2_2000_x_800_px_4.jpg",
+        "image_mb": "shopify:\/\/shop_images\/5_b2d337db-c0b2-4d0b-8499-a40e91c7ed51.jpg",
+        "link_img": "",
+        "target": false,
+        "image_behavior": "none",
+        "use_overlay": false,
+        "use_bg_content": false,
+        "content_position": "center",
+        "content_align": "center",
+        "content_position_mb": "center",
+        "content_align_mb": "center",
+        "full_width": true,
+        "boxed_fullwidth": true,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_rate": 75
+      }
+    },
     "featured_collection_carousel_iiL9bG": {
       "type": "featured-collection-carousel",
       "settings": {
@@ -913,6 +939,7 @@
     "image_gallery_LUgwe8",
     "image_with_tabs_content_FaieMG",
     "collections_list_simple_D7GcpX",
+    "hero_image_jpAKKj",
     "featured_collection_carousel_iiL9bG",
     "image_with_text_rUEA8j",
     "featured_collection_carousel_Dp8fiz",
