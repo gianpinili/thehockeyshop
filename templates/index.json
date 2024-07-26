@@ -9,117 +9,6 @@
 */
 {
   "sections": {
-    "custom_line_zFXegM": {
-      "type": "custom-line",
-      "disabled": true,
-      "settings": {
-        "line_style": "solid",
-        "line_width": 100,
-        "line_height": 1,
-        "line_cl": "#ebebeb",
-        "line_pos": "center",
-        "section_fullwidth": true,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "padding_rate": 30
-      }
-    },
-    "categories_section_m9EMCJ": {
-      "type": "categories-section",
-      "blocks": {
-        "collection_item_MFPXRy": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "clothing-womens",
-            "image": "shopify:\/\/shop_images\/WinnipegJets3.webp",
-            "title": "New Arrivals",
-            "collection_link": ""
-          }
-        },
-        "collection_item_icNREq": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "clothing-womens",
-            "image": "shopify:\/\/shop_images\/bauer-hockey-skates-bauer-supreme-shadow-senior-hockey-skates-7-fit-1-31249942642754.jpg",
-            "title": "Best Sellers",
-            "collection_link": ""
-          }
-        },
-        "collection_item_KYAgNh": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "clothing-womens",
-            "image": "shopify:\/\/shop_images\/bauer-gloves-bauer-supreme-mach-intermediate-hockey-gloves-black-red-12-30597296980034.jpg",
-            "title": "Top Rated",
-            "collection_link": ""
-          }
-        },
-        "collection_item_MCgjG9": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "clothing-womens",
-            "image": "shopify:\/\/shop_images\/big_wave.jpg",
-            "title": "Brands We Love",
-            "collection_link": ""
-          }
-        },
-        "collection_item_34amEw": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "clothing-womens",
-            "image": "shopify:\/\/shop_images\/celly-hockey-co-hats-celly-hockey-lake-placid-hockey-snapback-hat-cream-osfm-snapback-31840559562818.jpg",
-            "title": "Trending",
-            "collection_link": ""
-          }
-        },
-        "collection_item_ckebFb": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "clothing-womens",
-            "image": "shopify:\/\/shop_images\/ccm-hockey-sticks-ccm-jetspeed-ft7-pro-senior-hockey-stick-blue-p29-l-70-31825052958786.jpg",
-            "title": "The Re-Imagined",
-            "collection_link": ""
-          }
-        },
-        "collection_item_bG9D7T": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "women-sale",
-            "image": "shopify:\/\/shop_images\/wm_categories_7.jpg",
-            "title": "Sale",
-            "collection_link": ""
-          }
-        },
-        "view_all_MT3baW": {
-          "type": "view_all",
-          "settings": {
-            "title": "Shop all",
-            "item_link": "shopify:\/\/collections"
-          }
-        }
-      },
-      "block_order": [
-        "collection_item_MFPXRy",
-        "collection_item_icNREq",
-        "collection_item_KYAgNh",
-        "collection_item_MCgjG9",
-        "collection_item_34amEw",
-        "collection_item_ckebFb",
-        "collection_item_bG9D7T",
-        "view_all_MT3baW"
-      ],
-      "disabled": true,
-      "custom_css": [
-        ".hdt-rounded-full {border-radius: 0px;}"
-      ],
-      "settings": {
-        "color_scheme": "scheme-1",
-        "style": "normal",
-        "padding_top": 30,
-        "padding_bottom": 30,
-        "padding_rate": 75
-      }
-    },
     "c28ddbdb-d0df-4b86-9b0a-674df42ecc5c": {
       "type": "slideshow",
       "blocks": {
@@ -434,30 +323,64 @@
         "padding_rate": 75
       }
     },
-    "featured_collection_carousel_YDkkkx": {
+    "brand_carousel_xn3MdM": {
+      "type": "brand-carousel",
+      "settings": {
+      }
+    },
+    "hero_image_X9dqnD": {
+      "type": "hero-image",
+      "settings": {
+        "image_height": "adapt_image",
+        "fixed_height": 860,
+        "image_height_mb": "adapt_image",
+        "fixed_height_mb": 300,
+        "image": "shopify:\/\/shop_images\/Untitled_design_9.png",
+        "image_mb": "shopify:\/\/shop_images\/Nexus_Tracer_Main.jpg",
+        "link_img": "shopify:\/\/collections\/nexus-tracer-sticks",
+        "target": false,
+        "image_behavior": "none",
+        "use_overlay": false,
+        "use_bg_content": false,
+        "content_position": "center",
+        "content_align": "center",
+        "content_position_mb": "center",
+        "content_align_mb": "center",
+        "full_width": true,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_rate": 75
+      }
+    },
+    "featured_collection_carousel_aFaMir": {
       "type": "featured-collection-carousel",
+      "custom_css": [
+
+      ],
       "settings": {
         "heading_align": "center",
-        "sec_heading": "Sync Power. 25% Off.",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "",
+        "sec_heading": "Nexus Tracer",
+        "heading_tag": "h2",
+        "heading_size": "h3",
+        "sec_subheading": "<p>Be one step ahead of <strong>every<\/strong> play.<\/p><p>Feel the release <strong>before<\/strong> picking the corner.<\/p>",
         "subheading_size": "lg",
         "heading_reverse": false,
         "btn_heading": false,
         "nav_heading": "disable",
-        "heading_gap": 23,
-        "sec_heading_spacing": 66,
-        "collection": "bauer-sync-sticks",
+        "heading_gap": 18,
+        "sec_heading_spacing": 16,
+        "collection": "nexus-tracer-sticks",
         "product_list": [
 
         ],
         "product_des": "1",
-        "image_ratio": "adapt_image",
-        "image_size": true,
+        "image_ratio": "custom-pr",
+        "image_size": false,
         "show_vendor": false,
         "pr_border": "none",
-        "products_count": 12,
+        "products_count": 15,
         "col_dk": "5",
         "col_tb": "3",
         "col_mb": "2",
@@ -469,14 +392,14 @@
         "pagination_type": "view_all",
         "paginate_pos": "center",
         "dis_pagination": 30,
-        "btn_label": "View all",
+        "btn_label": "View All",
         "btn_style": "link",
         "btn_fw": "normal",
         "section_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 30,
-        "padding_bottom": 40,
-        "padding_rate": 75
+        "color_scheme": "scheme-1",
+        "padding_top": 40,
+        "padding_bottom": 35,
+        "padding_rate": 40
       }
     },
     "hero_image_3VNqLJ": {
@@ -501,51 +424,6 @@
         "color_scheme": "",
         "padding_top": 36,
         "padding_bottom": 36,
-        "padding_rate": 75
-      }
-    },
-    "featured_collection_carousel_tparE8": {
-      "type": "featured-collection-carousel",
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Bauer Hockey Skate Collection",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "<p>#1 skate in hockey. 25% off.<\/p>",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "btn_heading": false,
-        "nav_heading": "disable",
-        "heading_gap": 26,
-        "sec_heading_spacing": 57,
-        "collection": "clearance-bauer-player-skates",
-        "product_list": [
-
-        ],
-        "product_des": "1",
-        "image_ratio": "adapt_image",
-        "image_size": true,
-        "show_vendor": false,
-        "pr_border": "none",
-        "products_count": 15,
-        "col_dk": "5",
-        "col_tb": "3",
-        "col_mb": "2",
-        "half_item": false,
-        "navUI": true,
-        "nav_des": "outline",
-        "nav_pos": "middle_out",
-        "dotUI": false,
-        "pagination_type": "view_all",
-        "paginate_pos": "center",
-        "dis_pagination": 29,
-        "btn_label": "View all",
-        "btn_style": "link",
-        "btn_fw": "normal",
-        "section_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 52,
         "padding_rate": 75
       }
     },
@@ -580,6 +458,51 @@
       "type": "brand-carousel",
       "disabled": true,
       "settings": {
+      }
+    },
+    "featured_collection_carousel_tparE8": {
+      "type": "featured-collection-carousel",
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Bauer Sale",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "btn_heading": false,
+        "nav_heading": "disable",
+        "heading_gap": 26,
+        "sec_heading_spacing": 57,
+        "collection": "bauer-player-sale",
+        "product_list": [
+
+        ],
+        "product_des": "1",
+        "image_ratio": "adapt_image",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 15,
+        "col_dk": "5",
+        "col_tb": "3",
+        "col_mb": "2",
+        "half_item": false,
+        "navUI": true,
+        "nav_des": "outline",
+        "nav_pos": "middle_out",
+        "dotUI": false,
+        "pagination_type": "view_all",
+        "paginate_pos": "center",
+        "dis_pagination": 29,
+        "btn_label": "View all",
+        "btn_style": "link",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 52,
+        "padding_rate": 75
       }
     },
     "banner_qfQbew": {
@@ -666,30 +589,27 @@
         "padding_rate": 30
       }
     },
-    "featured_collection_carousel_aFaMir": {
+    "featured_collection_carousel_YDkkkx": {
       "type": "featured-collection-carousel",
-      "custom_css": [
-
-      ],
       "settings": {
         "heading_align": "center",
-        "sec_heading": "Bauer Hyperlite 2",
-        "heading_tag": "h2",
-        "heading_size": "h3",
-        "sec_subheading": "<p>Beautifully Functional. Purposefully Designed. Consciously Crafted.<\/p>",
+        "sec_heading": "Sync Power. 25% Off.",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "",
         "subheading_size": "lg",
         "heading_reverse": false,
         "btn_heading": false,
         "nav_heading": "disable",
-        "heading_gap": 18,
-        "sec_heading_spacing": 16,
-        "collection": "bauer",
+        "heading_gap": 23,
+        "sec_heading_spacing": 66,
+        "collection": "bauer-sync-sticks",
         "product_list": [
 
         ],
         "product_des": "1",
-        "image_ratio": "custom-pr",
-        "image_size": false,
+        "image_ratio": "adapt_image",
+        "image_size": true,
         "show_vendor": false,
         "pr_border": "none",
         "products_count": 12,
@@ -708,10 +628,10 @@
         "btn_style": "link",
         "btn_fw": "normal",
         "section_fullwidth": false,
-        "color_scheme": "scheme-1",
-        "padding_top": 40,
-        "padding_bottom": 0,
-        "padding_rate": 40
+        "color_scheme": "",
+        "padding_top": 30,
+        "padding_bottom": 40,
+        "padding_rate": 75
       }
     },
     "hero_image_BqjREc": {
@@ -740,21 +660,24 @@
         "padding_rate": 75
       }
     },
-    "featured_collection_carousel_yDAzrB": {
+    "featured_collection_carousel_GEc7W8": {
       "type": "featured-collection-carousel",
+      "custom_css": [
+        ".hdt-btn.hdt-text-sm {display: none;}"
+      ],
       "settings": {
         "heading_align": "center",
-        "sec_heading": "FT6 Sticks. 20% Off.",
+        "sec_heading": "CCM Sale",
         "heading_tag": "h3",
-        "heading_size": "h3",
+        "heading_size": "h4",
         "sec_subheading": "",
         "subheading_size": "lg",
         "heading_reverse": false,
-        "btn_heading": false,
+        "btn_heading": true,
         "nav_heading": "disable",
-        "heading_gap": 34,
-        "sec_heading_spacing": 16,
-        "collection": "jetspeed-ft6-pro-sticks",
+        "heading_gap": 22,
+        "sec_heading_spacing": 37,
+        "collection": "ccm-hockey-sale",
         "product_list": [
 
         ],
@@ -765,12 +688,12 @@
         "pr_border": "none",
         "products_count": 15,
         "col_dk": "5",
-        "col_tb": "3",
+        "col_tb": "4",
         "col_mb": "2",
         "half_item": false,
         "navUI": true,
         "nav_des": "outline",
-        "nav_pos": "middle_out",
+        "nav_pos": "middle_in",
         "dotUI": false,
         "pagination_type": "view_all",
         "paginate_pos": "center",
@@ -865,24 +788,21 @@
         "padding_rate": 0
       }
     },
-    "featured_collection_carousel_GEc7W8": {
+    "featured_collection_carousel_yDAzrB": {
       "type": "featured-collection-carousel",
-      "custom_css": [
-        ".hdt-btn.hdt-text-sm {display: none;}"
-      ],
       "settings": {
         "heading_align": "center",
-        "sec_heading": "CCM Sale",
+        "sec_heading": "FT6 Sticks. 20% Off.",
         "heading_tag": "h3",
-        "heading_size": "h4",
+        "heading_size": "h3",
         "sec_subheading": "",
         "subheading_size": "lg",
         "heading_reverse": false,
-        "btn_heading": true,
+        "btn_heading": false,
         "nav_heading": "disable",
-        "heading_gap": 22,
-        "sec_heading_spacing": 37,
-        "collection": "ccm-hockey-sale",
+        "heading_gap": 34,
+        "sec_heading_spacing": 16,
+        "collection": "jetspeed-ft6-pro-sticks",
         "product_list": [
 
         ],
@@ -893,12 +813,12 @@
         "pr_border": "none",
         "products_count": 15,
         "col_dk": "5",
-        "col_tb": "4",
+        "col_tb": "3",
         "col_mb": "2",
         "half_item": false,
         "navUI": true,
         "nav_des": "outline",
-        "nav_pos": "middle_in",
+        "nav_pos": "middle_out",
         "dotUI": false,
         "pagination_type": "view_all",
         "paginate_pos": "center",
@@ -1371,24 +1291,24 @@
     }
   },
   "order": [
-    "custom_line_zFXegM",
-    "categories_section_m9EMCJ",
     "c28ddbdb-d0df-4b86-9b0a-674df42ecc5c",
     "marquee_JjnJ7y",
     "top_heading_eLfALw",
     "282a0160-505d-43ff-b601-043a5a327bc2",
     "hero_image_krPDV6",
-    "featured_collection_carousel_YDkkkx",
+    "brand_carousel_xn3MdM",
+    "hero_image_X9dqnD",
+    "featured_collection_carousel_aFaMir",
     "hero_image_3VNqLJ",
-    "featured_collection_carousel_tparE8",
     "hero_image_E4PYVD",
     "brand_carousel_j6Bm7L",
+    "featured_collection_carousel_tparE8",
     "banner_qfQbew",
-    "featured_collection_carousel_aFaMir",
+    "featured_collection_carousel_YDkkkx",
     "hero_image_BqjREc",
-    "featured_collection_carousel_yDAzrB",
-    "image_with_tabs_content_prrDBt",
     "featured_collection_carousel_GEc7W8",
+    "image_with_tabs_content_prrDBt",
+    "featured_collection_carousel_yDAzrB",
     "collections_list_manual_eKEcEi",
     "image_gallery_kiUHL3",
     "image_with_text_rhLwb7",
