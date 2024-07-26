@@ -48,7 +48,7 @@
           "type": "menu",
           "settings": {
             "border-column": false,
-            "heading_menu": "Our Store",
+            "heading_menu": "",
             "menu": "simple-footer",
             "padding_inner": "",
             "custom_w_dk": "23"
@@ -58,7 +58,7 @@
           "type": "menu",
           "settings": {
             "border-column": false,
-            "heading_menu": "Our Services",
+            "heading_menu": "",
             "menu": "footer-services",
             "padding_inner": "",
             "custom_w_dk": "20"
