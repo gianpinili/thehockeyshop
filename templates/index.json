@@ -707,7 +707,7 @@
         "half_item": false,
         "navUI": true,
         "nav_des": "outline",
-        "nav_pos": "middle_in",
+        "nav_pos": "middle_out",
         "dotUI": false,
         "pagination_type": "view_all",
         "paginate_pos": "center",
