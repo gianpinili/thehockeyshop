@@ -785,94 +785,6 @@
         "padding_rate": 75
       }
     },
-    "image_gallery_kiUHL3": {
-      "type": "image-gallery",
-      "blocks": {
-        "gallery_item_nmBqpD": {
-          "type": "gallery_item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/ccm-shoulder-pads-ccm-jetspeed-ftw-senior-hockey-shoulder-pads-2024-31494713507906.jpg",
-            "item_link": "",
-            "product_item": "ccm-jetspeed-ftw-senior-hockey-shoulder-pads"
-          }
-        },
-        "gallery_item_UpMy9w": {
-          "type": "gallery_item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/ccm-gloves-ccm-jetspeed-ftw-senior-hockey-gloves-31494600163394.jpg",
-            "item_link": "",
-            "product_item": "ccm-jetspeed-ftw-senior-hockey-gloves"
-          }
-        },
-        "gallery_item_y9BEB9": {
-          "type": "gallery_item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/ccm-hockey-sticks-ccm-jetspeed-ftw-intermediate-hockey-stick-31443562561602.jpg",
-            "item_link": "",
-            "product_item": "ccm-jetspeed-ftw-senior-hockey-stick"
-          }
-        },
-        "gallery_item_NfyzQ8": {
-          "type": "gallery_item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/ccm-shin-guards-ccm-jetspeed-ftw-senior-hockey-shin-guards-senior-12-31494677758018.jpg",
-            "item_link": "",
-            "product_item": "ccm-jetspeed-ftw-senior-hockey-shin-guards"
-          }
-        },
-        "gallery_item_aAye8A": {
-          "type": "gallery_item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/sport-maska-inc-player-elbow-pads-senior-ccm-jetspeed-ftw-senior-hockey-elbow-pads-31138880553026.png",
-            "item_link": "",
-            "product_item": "ccm-jetspeed-ftw-senior-hockey-elbow-pads"
-          }
-        },
-        "gallery_item_QNDVPP": {
-          "type": "gallery_item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/sport-maska-inc-player-pants-junior-ccm-jetspeed-ftw-junior-hockey-pants-black-s-31138883829826.png",
-            "item_link": "",
-            "product_item": "ccm-jetspeed-ftw-senior-hockey-pants"
-          }
-        }
-      },
-      "block_order": [
-        "gallery_item_nmBqpD",
-        "gallery_item_UpMy9w",
-        "gallery_item_y9BEB9",
-        "gallery_item_NfyzQ8",
-        "gallery_item_aAye8A",
-        "gallery_item_QNDVPP"
-      ],
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "Jetspeed FTW",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "<p>Discover the CCM Jetspeed FTW Women's Collection: engineered for performance, comfort, and style. <\/p><p>Explore top tier-hockey gear designed specifically for women, offering unmatched fit and dynamic speed on the ice.<\/p><p>Elevate your game today!<\/p>",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "image_ratio": "adapt_image",
-        "image_size": true,
-        "col_dk": "6",
-        "col_tb": "3",
-        "col_mb": "2",
-        "spacing_items": 10,
-        "navUI": false,
-        "nav_des": "default",
-        "dotUI": false,
-        "dots_pos": "outline",
-        "section_fullwidth": false,
-        "boxed_fullwidth": true,
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 52,
-        "padding_rate": 75
-      }
-    },
     "image_with_tabs_content_prrDBt": {
       "type": "image-with-tabs-content",
       "blocks": {
@@ -1001,6 +913,236 @@
         "padding_rate": 75
       }
     },
+    "collections_list_manual_eKEcEi": {
+      "type": "collections-list-manual",
+      "blocks": {
+        "collection_item_f84ybD": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/4_868b8196-097f-4ecc-ae85-ebaff8a99f1b.jpg",
+            "title": "",
+            "collection_link": "https:\/\/www.thehockeyshop.com\/collections\/clearance-player-hockey-skates",
+            "column_width": "6",
+            "row_count": 1,
+            "tb_column_width": "6",
+            "tb_row_count": 1,
+            "mb_column_width": "2",
+            "mb_row_count": 1
+          }
+        },
+        "collection_item_qq6yGk": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/3_067cfba8-9386-4039-b9ab-18ad6ad67a23.jpg",
+            "title": "",
+            "collection_link": "https:\/\/www.thehockeyshop.com\/collections\/clearance-player-hockey-sticks",
+            "column_width": "6",
+            "row_count": 1,
+            "tb_column_width": "6",
+            "tb_row_count": 1,
+            "mb_column_width": "2",
+            "mb_row_count": 1
+          }
+        }
+      },
+      "block_order": [
+        "collection_item_f84ybD",
+        "collection_item_qq6yGk"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "btn_heading_collection": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection_des": "1",
+        "content_size": "xl",
+        "content_weight": "medium",
+        "text_transform": false,
+        "content_position": "center",
+        "content_padding": 30,
+        "row_height": 430,
+        "row_height_tb": 390,
+        "row_height_mb": 250,
+        "space_items": "15",
+        "space_items_tb": "15",
+        "space_items_mb": "15",
+        "section_fullwidth": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "image_gallery_kiUHL3": {
+      "type": "image-gallery",
+      "blocks": {
+        "gallery_item_nmBqpD": {
+          "type": "gallery_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ccm-shoulder-pads-ccm-jetspeed-ftw-senior-hockey-shoulder-pads-2024-31494713507906.jpg",
+            "item_link": "",
+            "product_item": "ccm-jetspeed-ftw-senior-hockey-shoulder-pads"
+          }
+        },
+        "gallery_item_UpMy9w": {
+          "type": "gallery_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ccm-gloves-ccm-jetspeed-ftw-senior-hockey-gloves-31494600163394.jpg",
+            "item_link": "",
+            "product_item": "ccm-jetspeed-ftw-senior-hockey-gloves"
+          }
+        },
+        "gallery_item_y9BEB9": {
+          "type": "gallery_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ccm-hockey-sticks-ccm-jetspeed-ftw-intermediate-hockey-stick-31443562561602.jpg",
+            "item_link": "",
+            "product_item": "ccm-jetspeed-ftw-senior-hockey-stick"
+          }
+        },
+        "gallery_item_NfyzQ8": {
+          "type": "gallery_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ccm-shin-guards-ccm-jetspeed-ftw-senior-hockey-shin-guards-senior-12-31494677758018.jpg",
+            "item_link": "",
+            "product_item": "ccm-jetspeed-ftw-senior-hockey-shin-guards"
+          }
+        },
+        "gallery_item_aAye8A": {
+          "type": "gallery_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sport-maska-inc-player-elbow-pads-senior-ccm-jetspeed-ftw-senior-hockey-elbow-pads-31138880553026.png",
+            "item_link": "",
+            "product_item": "ccm-jetspeed-ftw-senior-hockey-elbow-pads"
+          }
+        },
+        "gallery_item_QNDVPP": {
+          "type": "gallery_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sport-maska-inc-player-pants-junior-ccm-jetspeed-ftw-junior-hockey-pants-black-s-31138883829826.png",
+            "item_link": "",
+            "product_item": "ccm-jetspeed-ftw-senior-hockey-pants"
+          }
+        }
+      },
+      "block_order": [
+        "gallery_item_nmBqpD",
+        "gallery_item_UpMy9w",
+        "gallery_item_y9BEB9",
+        "gallery_item_NfyzQ8",
+        "gallery_item_aAye8A",
+        "gallery_item_QNDVPP"
+      ],
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Jetspeed FTW",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "<p>Discover the CCM Jetspeed FTW Women's Collection: engineered for performance, comfort, and style. <\/p><p>Explore top tier-hockey gear designed specifically for women, offering unmatched fit and dynamic speed on the ice.<\/p><p>Elevate your game today!<\/p>",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "image_ratio": "adapt_image",
+        "image_size": true,
+        "col_dk": "6",
+        "col_tb": "3",
+        "col_mb": "2",
+        "spacing_items": 10,
+        "navUI": false,
+        "nav_des": "default",
+        "dotUI": false,
+        "dots_pos": "outline",
+        "section_fullwidth": false,
+        "boxed_fullwidth": true,
+        "color_scheme": "",
+        "padding_top": 50,
+        "padding_bottom": 52,
+        "padding_rate": 75
+      }
+    },
+    "image_with_text_rhLwb7": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_96TGtn": {
+          "type": "heading",
+          "settings": {
+            "heading": "TENDYFEST MERCH",
+            "heading_fs": "h3"
+          }
+        },
+        "sub_heading_ewxeRG": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "All proceeds from the sale of TendyFest merchandise are donated to the Canucks Autism Network, supporting programs and services for individuals and families living with autism.",
+            "sub_fs": "lg"
+          }
+        },
+        "button_EiykUm": {
+          "type": "button",
+          "settings": {
+            "btn_label": "Buy Now",
+            "btn_link": "shopify:\/\/collections\/the-hockey-shop-merch",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "medium",
+            "btn_icon": "1"
+          }
+        },
+        "button_LD6iC8": {
+          "type": "button",
+          "settings": {
+            "btn_label": "Donate to CAN",
+            "btn_link": "https:\/\/support.canucksautism.ca\/site\/TR\/CANPro-Am\/Pro-Am?team_id=3280&pg=team&fr_id=1280&ltclid=829cb569-24bb-4ca8-96ba-9bda7cf32a8f",
+            "target": true,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "medium",
+            "btn_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "heading_96TGtn",
+        "sub_heading_ewxeRG",
+        "button_EiykUm",
+        "button_LD6iC8"
+      ],
+      "custom_css": [
+        "a:last-child {background-color: #003f7e; border: none;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/tendyfest-shirts_hats.jpg",
+        "first_image": "shopify:\/\/shop_images\/the-hockey-shop-source-for-sports-hats-tendyfest-hat-curved-brim-snapback-osfm-31815289897026.jpg",
+        "second_image": "shopify:\/\/shop_images\/thehockeyshop-com-team-shirts-tendyfest-gildan-t-shirt-black-youth-l-31802129776706.jpg",
+        "style_image": "1",
+        "image_effect": "zoom-in",
+        "color_scheme": "scheme-1",
+        "image_last": true,
+        "content_position": "center-start",
+        "alignment": "left",
+        "content_pl": 29,
+        "image_last_mb": true,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 14,
+        "padding_bottom": 15,
+        "padding_rate": 40
+      }
+    },
     "image_gallery_L6CNUr": {
       "type": "image-gallery",
       "blocks": {
@@ -1078,76 +1220,6 @@
         "padding_top": 0,
         "padding_bottom": 52,
         "padding_rate": 75
-      }
-    },
-    "image_with_text_rhLwb7": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_96TGtn": {
-          "type": "heading",
-          "settings": {
-            "heading": "TENDYFEST MERCH",
-            "heading_fs": "h3"
-          }
-        },
-        "sub_heading_ewxeRG": {
-          "type": "sub_heading",
-          "settings": {
-            "sub_heading": "All proceeds from the sale of TendyFest merchandise are donated to the Canucks Autism Network, supporting programs and services for individuals and families living with autism.",
-            "sub_fs": "lg"
-          }
-        },
-        "button_EiykUm": {
-          "type": "button",
-          "settings": {
-            "btn_label": "Buy Now",
-            "btn_link": "shopify:\/\/collections\/the-hockey-shop-merch",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "medium",
-            "btn_icon": "1"
-          }
-        },
-        "button_LD6iC8": {
-          "type": "button",
-          "settings": {
-            "btn_label": "Donate to CAN",
-            "btn_link": "https:\/\/support.canucksautism.ca\/site\/TR\/CANPro-Am\/Pro-Am?team_id=3280&pg=team&fr_id=1280&ltclid=829cb569-24bb-4ca8-96ba-9bda7cf32a8f",
-            "target": true,
-            "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "medium",
-            "btn_icon": "none"
-          }
-        }
-      },
-      "block_order": [
-        "heading_96TGtn",
-        "sub_heading_ewxeRG",
-        "button_EiykUm",
-        "button_LD6iC8"
-      ],
-      "custom_css": [
-        "a:last-child {background-color: #003f7e; border: none;}"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/tendyfest-shirts_hats.jpg",
-        "first_image": "shopify:\/\/shop_images\/the-hockey-shop-source-for-sports-hats-tendyfest-hat-curved-brim-snapback-osfm-31815289897026.jpg",
-        "second_image": "shopify:\/\/shop_images\/thehockeyshop-com-team-shirts-tendyfest-gildan-t-shirt-black-youth-l-31802129776706.jpg",
-        "style_image": "1",
-        "image_effect": "zoom-in",
-        "color_scheme": "scheme-1",
-        "image_last": true,
-        "content_position": "center-start",
-        "alignment": "left",
-        "content_pl": 29,
-        "image_last_mb": true,
-        "content_position_mb": "center",
-        "alignment_mb": "center",
-        "padding_top": 14,
-        "padding_bottom": 15,
-        "padding_rate": 40
       }
     },
     "image_with_text_VXFxkV": {
@@ -1315,11 +1387,12 @@
     "featured_collection_carousel_aFaMir",
     "hero_image_BqjREc",
     "featured_collection_carousel_yDAzrB",
-    "image_gallery_kiUHL3",
     "image_with_tabs_content_prrDBt",
     "featured_collection_carousel_GEc7W8",
-    "image_gallery_L6CNUr",
+    "collections_list_manual_eKEcEi",
+    "image_gallery_kiUHL3",
     "image_with_text_rhLwb7",
+    "image_gallery_L6CNUr",
     "image_with_text_VXFxkV",
     "icon_box_JfJQBV"
   ]
