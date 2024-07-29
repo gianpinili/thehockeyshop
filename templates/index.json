@@ -905,7 +905,7 @@
         "text_transform": false,
         "content_position": "center",
         "content_padding": 30,
-        "row_height": 430,
+        "row_height": 440,
         "row_height_tb": 390,
         "row_height_mb": 250,
         "space_items": "15",
