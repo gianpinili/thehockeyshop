@@ -15,7 +15,6 @@
         "9fdaefad-b4dc-4a80-a95e-92efb9e74116": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Vector_35e75aba-3f04-40fa-893f-0722f824f729.svg"
           }
         },
         "c5eb8048-9277-41d6-b6e9-83db962699af": {
@@ -34,11 +33,11 @@
           "type": "button",
           "settings": {
             "btn_label": "Homepage",
-            "btn_link": "",
+            "btn_link": "https:\/\/www.thehockeyshop.com\/",
             "target": false,
             "btn_size": "base",
-            "btn_style": "solid",
-            "btn_fw": "normal",
+            "btn_style": "link",
+            "btn_fw": "semibold",
             "btn_icon": "none"
           }
         }
