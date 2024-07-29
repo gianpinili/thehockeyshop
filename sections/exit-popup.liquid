@@ -1,4 +1,4 @@
-<!-- section/exit-popup.liquid -->
+{% comment %} <!-- section/exit-popup.liquid -->
 {%liquid
   assign product_collection = section.settings.product_list | default: section.settings.collections.products
   assign page_type   = request.page_type
@@ -523,4 +523,4 @@
     }
   ]
 }
-{% endschema %}
+{% endschema %} {% endcomment %}
