@@ -283,22 +283,17 @@
 </hdt-drawer>
 
                   <script>
-document.addEventListener('DOMContentLoaded', function () {
-  // Select the "In Stock" checkbox based on its id or value
-  var inStockCheckbox = document.querySelector('input[type="checkbox"][value="In stock"]');
+                    document.addEventListener('DOMContentLoaded', function () {
+  // Adjust the selector to match the specific id or class of the "In Stock" checkbox
+  var inStockCheckbox = document.querySelector('input[id^="Filter-filter.v.availability-"]');
 
   if (inStockCheckbox && !inStockCheckbox.checked) {
     inStockCheckbox.checked = true;
 
-    // Trigger the change event
+    // Trigger the change event if necessary to apply the filter
     var event = new Event('change');
     inStockCheckbox.dispatchEvent(event);
-
-    // Submit the form to apply the filter
-    var filterForm = document.querySelector('#hdt-facet-filters-form');
-    if (filterForm) {
-      filterForm.submit();
-    }
   }
 });
+
                   </script>
