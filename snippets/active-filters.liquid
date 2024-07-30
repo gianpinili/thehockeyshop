@@ -24,7 +24,7 @@
       {%- if filter.min_value.value != nil or filter.max_value.value != nil -%}
         {%- assign total_active_values = total_active_values | plus: 1 -%}
         <a is="hdt-facet-url" class="hdt-active-filters__remove hdt-relative hdt-s-text" href="{{ filter.url_to_remove }}">
-          {%- assign min_value = filter.min_value.value | default: 0 -%}
+          {%- assign min_value = filter.min_value.value | default: 1 -%}
           {%- assign max_value = filter.max_value.value | default: filter.range_max -%}
           {{ min_value | money }} - {{ max_value | money }}
         </a>
