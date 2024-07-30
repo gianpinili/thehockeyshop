@@ -214,7 +214,7 @@
                 <ul class="hdt-filter-group__list">
                   {%- for filter_value in filter.values -%}
                     <li class="hdt-filter-group__list-item">
-                      <input class="sr-only" type="checkbox" name="{{ filter_value.param_name }}" value="{{ filter_value.value }}" id="Filter-{{ filter.param_name }}-{{ forloop.index }}"{% if filter_value.active or filter_value.param_name == 'Availability' %} checked{% endif %}{% if filter_value.count == 0 and filter_value.active == false %} disabled{% endif %}>
+                      <input class="sr-only" type="checkbox" name="{{ filter_value.param_name }}" value="{{ filter_value.value }}" id="Filter-{{ filter.param_name }}-{{ forloop.index }}"{% if filter_value.active or filter_value.param_name == 'In Stock' %} checked{% endif %}{% if filter_value.count == 0 and filter_value.active == false %} disabled{% endif %}>
                       <label for="Filter-{{ filter.param_name }}-{{ forloop.index }}">
                         <span class="hdt-facets-checkbox" >
                           <svg focusable="false" width="24" height="24" viewBox="0 0 24 24" role="presentation"><path fill="currentColor" d="M9 20l-7-7 3-3 4 4L19 4l3 3z"></path></svg>
