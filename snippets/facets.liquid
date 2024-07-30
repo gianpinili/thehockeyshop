@@ -283,7 +283,7 @@
 </hdt-drawer>
 
                   <script>
-                    document.addEventListener('DOMContentLoaded', function () {
+document.addEventListener('DOMContentLoaded', function () {
   // Adjust the selector to match the specific id or class of the "In Stock" checkbox
   var inStockCheckbox = document.querySelector('input[id^="Filter-filter.v.availability-"]');
 
@@ -293,6 +293,11 @@
     // Trigger the change event if necessary to apply the filter
     var event = new Event('change');
     inStockCheckbox.dispatchEvent(event);
+
+    // Call the filter function if the theme has a specific function to apply filters
+    if (typeof applyFilters === 'function') {
+      applyFilters();
+    }
   }
 });
 
