@@ -84,6 +84,170 @@
         "padding_rate": 0
       }
     },
+    "custom_section_bVjqk6": {
+      "type": "custom-section",
+      "blocks": {
+        "parent_i6ERbH": {
+          "type": "parent",
+          "settings": {
+            "column_lg": "hdt-col-lg-6",
+            "column_md": "hdt-col-md-6",
+            "column": "hdt-col-12",
+            "color_scheme": "scheme-1",
+            "padding_top": 0,
+            "padding_right": 0,
+            "padding_bottom": 0,
+            "padding_left": 0,
+            "padding_rate": 75,
+            "class": ""
+          }
+        },
+        "image_6tDPTg": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/store-history.jpg",
+            "link": "shopify:\/\/pages\/store-history",
+            "image_width": "full-width",
+            "width": 500,
+            "width_mb": 360,
+            "alignment": "start"
+          }
+        },
+        "heading_JmmLcn": {
+          "type": "heading",
+          "settings": {
+            "heading": "Store History",
+            "tag": "h4",
+            "heading_size": "h2",
+            "alignment": "center"
+          }
+        },
+        "text_KjkEqj": {
+          "type": "text",
+          "settings": {
+            "text": "<p>It's been an eventful 30+ years. Friendly shop dogs warmed our hearts and made us smile. Hall of  fame hockey players inspired our community and a building fire brought the very best out of our team.<\/p>",
+            "text_size": "base",
+            "alignment": "center",
+            "alignment_mb": "center"
+          }
+        },
+        "spacer_bhiMPL": {
+          "type": "spacer",
+          "settings": {
+            "space_lg": 10,
+            "space_md": 10,
+            "space": 10
+          }
+        },
+        "button_NcRwzd": {
+          "type": "button",
+          "settings": {
+            "btn_label": "Store History",
+            "btn_link": "shopify:\/\/pages\/store-history",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "link",
+            "btn_fw": "normal",
+            "btn_icon": "1",
+            "alignment": "center"
+          }
+        },
+        "parent_8mGNCC": {
+          "type": "parent",
+          "settings": {
+            "column_lg": "hdt-col-lg-6",
+            "column_md": "hdt-col-md-6",
+            "column": "hdt-col-12",
+            "color_scheme": "scheme-1",
+            "padding_top": 0,
+            "padding_right": 0,
+            "padding_bottom": 0,
+            "padding_left": 0,
+            "padding_rate": 75,
+            "class": ""
+          }
+        },
+        "image_mD7Mb3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/S_Bauer-Lifestyle--sfs.jpg",
+            "link": "shopify:\/\/pages\/sourceforsports",
+            "image_width": "full-width",
+            "width": 500,
+            "width_mb": 360,
+            "alignment": "start"
+          }
+        },
+        "heading_GNbkMx": {
+          "type": "heading",
+          "settings": {
+            "heading": "Source Exclusive Products",
+            "tag": "h4",
+            "heading_size": "h2",
+            "alignment": "center"
+          }
+        },
+        "text_gzXFFb": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We take some of the best products, and we make them better. All for the same price. They're best sellers for a good reason and offer can't miss value.<\/p>",
+            "text_size": "base",
+            "alignment": "center",
+            "alignment_mb": "center"
+          }
+        },
+        "spacer_mRUhiD": {
+          "type": "spacer",
+          "settings": {
+            "space_lg": 10,
+            "space_md": 10,
+            "space": 10
+          }
+        },
+        "button_MGXUNE": {
+          "type": "button",
+          "settings": {
+            "btn_label": "Source Exclusive Products",
+            "btn_link": "shopify:\/\/pages\/sourceforsports",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "link",
+            "btn_fw": "normal",
+            "btn_icon": "1",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "parent_i6ERbH",
+        "image_6tDPTg",
+        "heading_JmmLcn",
+        "text_KjkEqj",
+        "spacer_bhiMPL",
+        "button_NcRwzd",
+        "parent_8mGNCC",
+        "image_mD7Mb3",
+        "heading_GNbkMx",
+        "text_gzXFFb",
+        "spacer_mRUhiD",
+        "button_MGXUNE"
+      ],
+      "custom_css": [
+        "img {border-radius: 10px; padding-bottom: 10px;}",
+        "p {padding: 6px 0;}"
+      ],
+      "settings": {
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "direction": "",
+        "justify": "",
+        "gap": false,
+        "space": 0,
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
     "banner_dWNWMB": {
       "type": "banner",
       "blocks": {
@@ -558,6 +722,7 @@
     "main",
     "image_with_text_qpdgnn",
     "video_2_cb8CAT",
+    "custom_section_bVjqk6",
     "banner_dWNWMB",
     "map_pin_info_mhyYji",
     "image_with_text_QaWRzE"
