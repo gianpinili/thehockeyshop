@@ -212,23 +212,20 @@
                 </ul>
               {%- else -%}
                 <ul class="hdt-filter-group__list">
-  {%- for filter_value in filter.values -%}
-    <li class="hdt-filter-group__list-item">
-      <input class="sr-only" type="checkbox" name="{{ filter_value.param_name }}" value="{{ filter_value.value }}" id="Filter-{{ filter.param_name }}-{{ forloop.index }}"
-        {% if filter_value.active or filter_value.label == 'In Stock' %} checked{% endif %}
-        {% if filter_value.count == 0 and filter_value.active == false %} disabled{% endif %}>
-      <label for="Filter-{{ filter.param_name }}-{{ forloop.index }}">
-        <span class="hdt-facets-checkbox">
-          <svg focusable="false" width="24" height="24" viewBox="0 0 24 24" role="presentation"><path fill="currentColor" d="M9 20l-7-7 3-3 4 4L19 4l3 3z"></path></svg>
-        </span>
-        <span class="hdt-facets-label hdt-base hdt-normal">
-          <span>{{ filter_value.label }}</span> <span> ({{ filter_value.count }})</span>
-        </span>
-      </label>
-    </li>
-  {%- endfor -%}
-</ul>
-
+                  {%- for filter_value in filter.values -%}
+                    <li class="hdt-filter-group__list-item">
+                      <input class="sr-only" type="checkbox" name="{{ filter_value.param_name }}" value="{{ filter_value.value }}" id="Filter-{{ filter.param_name }}-{{ forloop.index }}"{% if filter_value.active or filter_value.label contains 'In Stock' %} checked{% endif %}{% if filter_value.count == 0 and filter_value.active == false %} disabled{% endif %}>
+                      <label for="Filter-{{ filter.param_name }}-{{ forloop.index }}">
+                        <span class="hdt-facets-checkbox" >
+                          <svg focusable="false" width="24" height="24" viewBox="0 0 24 24" role="presentation"><path fill="currentColor" d="M9 20l-7-7 3-3 4 4L19 4l3 3z"></path></svg>
+                        </span>
+                        <span class="hdt-facets-label hdt-base hdt-normal">
+                          <span>{{ filter_value.label }}</span> <span> ({{ filter_value.count }})</span>
+                        </span>
+                      </label>
+                    </li>
+                  {%- endfor -%}
+                </ul>
               {%- endif -%}
               {%- comment %}<div class="hdt-filter-group__submit"><input type="submit" value="{{ 'products.facets.apply' | t }}"></div>{% endcomment -%}
 
