@@ -405,6 +405,7 @@ header [data-header-bottom-height] {
 	column-gap: var(--spacing-menu-item, 3rem);
   row-gap: min(calc(var(--spacing-menu-item, 3rem) / 3), 1rem);
   flex-wrap: wrap;
+  justify-content: center;
 }
 #hdt-nav-ul > li:first-child {
 	margin-inline-start: 0;
