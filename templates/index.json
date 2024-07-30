@@ -681,7 +681,6 @@
         "product_list": [
           "ccm-tacks-710-hockey-helmet",
           "ccm-pro-stock-senior-hockey-stick-brock-boeser",
-          "ccm-jetspeed-ft4-senior-hockey-gloves",
           "ccm-jetspeed-ft5-pro-senior-hockey-stick",
           "ccm-tacks-vector-plus-senior-hockey-skates-s22",
           "ccm-tacks-as-v-pro-senior-hockey-shoulder-pads",
@@ -693,7 +692,8 @@
           "ccm-tacks-vector-senior-hockey-shin-guards",
           "ccm-jetspeed-ft6-pro-senior-hockey-stick",
           "ccm-tacks-as580-junior-hockey-elbow-pads",
-          "ccm-tacks-as550-youth-hockey-gloves"
+          "ccm-tacks-as550-youth-hockey-gloves",
+          "ccm-jetspeed-ft7-pro-senior-hockey-stick-blue"
         ],
         "product_des": "1",
         "image_ratio": "adapt_image",
