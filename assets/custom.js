@@ -2712,16 +2712,3 @@ if (Shopify.designMode) {
   }
 }
 // end check purchase code
-
-$(document).ready(function () {
-  // Set "In stock" as the default option in the availability filter
-  if (
-    $(
-      ".collection-filter__form select[name='availability'] option:first-child"
-    ).text() == "In stock"
-  ) {
-    $(
-      ".collection-filter__form select[name='availability'] option:first-child"
-    ).prop("selected", true);
-  }
-});
