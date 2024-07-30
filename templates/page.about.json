@@ -240,6 +240,170 @@
         "section_fullwidth": false,
         "color_scheme": "",
         "direction": "",
+        "justify": "hdt-justify-center",
+        "gap": false,
+        "space": 0,
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "custom_section_qV3zPf": {
+      "type": "custom-section",
+      "blocks": {
+        "parent_Vyxbdn": {
+          "type": "parent",
+          "settings": {
+            "column_lg": "hdt-col-lg-6",
+            "column_md": "hdt-col-md-6",
+            "column": "hdt-col-12",
+            "color_scheme": "scheme-1",
+            "padding_top": 0,
+            "padding_right": 0,
+            "padding_bottom": 0,
+            "padding_left": 0,
+            "padding_rate": 75,
+            "class": ""
+          }
+        },
+        "image_WrUmJQ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/square_goalie.jpg",
+            "link": "shopify:\/\/pages\/goalie-department",
+            "image_width": "full-width",
+            "width": 500,
+            "width_mb": 360,
+            "alignment": "center"
+          }
+        },
+        "heading_bE4f3E": {
+          "type": "heading",
+          "settings": {
+            "heading": "Goalie Department",
+            "tag": "h4",
+            "heading_size": "h2",
+            "alignment": "center"
+          }
+        },
+        "text_cn63AQ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Some call it goalie paradise. We have an entire section dedicated to our favourite puck stoppers. Our goalie experts are goalies too - so they get it.,<\/p>",
+            "text_size": "base",
+            "alignment": "center",
+            "alignment_mb": "center"
+          }
+        },
+        "spacer_AfWFfE": {
+          "type": "spacer",
+          "settings": {
+            "space_lg": 10,
+            "space_md": 10,
+            "space": 10
+          }
+        },
+        "button_PenxHG": {
+          "type": "button",
+          "settings": {
+            "btn_label": "Goalies",
+            "btn_link": "shopify:\/\/pages\/goalie-department",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "link",
+            "btn_fw": "normal",
+            "btn_icon": "1",
+            "alignment": "center"
+          }
+        },
+        "parent_Jm833h": {
+          "type": "parent",
+          "settings": {
+            "column_lg": "hdt-col-lg-6",
+            "column_md": "hdt-col-md-6",
+            "column": "hdt-col-12",
+            "color_scheme": "scheme-1",
+            "padding_top": 0,
+            "padding_right": 0,
+            "padding_bottom": 0,
+            "padding_left": 0,
+            "padding_rate": 75,
+            "class": ""
+          }
+        },
+        "image_9pbVJU": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/nhl-numbering.jpg",
+            "link": "shopify:\/\/pages\/nhl-jersey-customization",
+            "image_width": "full-width",
+            "width": 500,
+            "width_mb": 360,
+            "alignment": "center"
+          }
+        },
+        "heading_BfyWj9": {
+          "type": "heading",
+          "settings": {
+            "heading": "Jersey Customization",
+            "tag": "h4",
+            "heading_size": "h2",
+            "alignment": "center"
+          }
+        },
+        "text_t8TDmT": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A fully stitched hockey jersey is iconic. Hard to beat watching the game with a hockey hero on your back. From vintage jerseys to the latest and greatest. We focus on every last detail to get it right.<\/p>",
+            "text_size": "base",
+            "alignment": "center",
+            "alignment_mb": "center"
+          }
+        },
+        "spacer_8MXfgT": {
+          "type": "spacer",
+          "settings": {
+            "space_lg": 10,
+            "space_md": 10,
+            "space": 10
+          }
+        },
+        "button_iVUPUX": {
+          "type": "button",
+          "settings": {
+            "btn_label": "Custom Jerseys",
+            "btn_link": "shopify:\/\/pages\/nhl-jersey-customization",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "link",
+            "btn_fw": "normal",
+            "btn_icon": "1",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "parent_Vyxbdn",
+        "image_WrUmJQ",
+        "heading_bE4f3E",
+        "text_cn63AQ",
+        "spacer_AfWFfE",
+        "button_PenxHG",
+        "parent_Jm833h",
+        "image_9pbVJU",
+        "heading_BfyWj9",
+        "text_t8TDmT",
+        "spacer_8MXfgT",
+        "button_iVUPUX"
+      ],
+      "custom_css": [
+        "img {border-radius: 10px; padding-bottom: 10px;}",
+        "p {padding: 6px 0;}"
+      ],
+      "settings": {
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "direction": "",
         "justify": "",
         "gap": false,
         "space": 0,
@@ -248,406 +412,678 @@
         "padding_rate": 75
       }
     },
-    "banner_dWNWMB": {
-      "type": "banner",
+    "custom_section_cxjkWr": {
+      "type": "custom-section",
       "blocks": {
-        "banner_3_egTznK": {
-          "type": "banner_3",
+        "parent_LcBPaa": {
+          "type": "parent",
           "settings": {
-            "image": "shopify:\/\/shop_images\/store-history.jpg",
-            "color_scheme": "scheme-3",
-            "banner_url": "",
-            "banner_target": false,
-            "sub_heading": "",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "extrabold",
-            "sub_heading_space": 7,
-            "heading": "STORE HISTORY",
-            "heading_fs": "h3",
-            "heading_fw": "black",
-            "heading_space": 16,
-            "desc": "It's been an eventful 30+ years. Friendly shop dogs warmed our hearts and made us smile. Hall of fame hockey players inspired our community. And a building fire brought the very best out of our team.",
-            "des_space": 9,
-            "btn_label": "Store History",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "link",
-            "btn_fw": "normal",
-            "btn_icon": "1",
-            "content_position": "end-center",
-            "alignment": "center",
-            "content_position_mb": "center",
-            "alignment_mb": "center"
+            "column_lg": "hdt-col-lg-6",
+            "column_md": "hdt-col-md-6",
+            "column": "hdt-col-12",
+            "color_scheme": "scheme-1",
+            "padding_top": 0,
+            "padding_right": 0,
+            "padding_bottom": 0,
+            "padding_left": 0,
+            "padding_rate": 75,
+            "class": ""
           }
         },
-        "banner_3_XDnzCb": {
-          "type": "banner_3",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/S_Bauer-Lifestyle--sfs.jpg",
-            "color_scheme": "scheme-3",
-            "banner_url": "",
-            "banner_target": false,
-            "sub_heading": "",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "extrabold",
-            "sub_heading_space": 0,
-            "heading": "SOURCE EXCLUSIVE PRODUCTS",
-            "heading_fs": "h3",
-            "heading_fw": "black",
-            "heading_space": 12,
-            "desc": "We take some of the best products, and we make them better.  All for the same price. They're best sellers for good reason and offer can't miss value.",
-            "des_space": 25,
-            "btn_label": "Source Exclusive Products",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "link",
-            "btn_fw": "medium",
-            "btn_icon": "1",
-            "content_position": "end-start",
-            "alignment": "center",
-            "content_position_mb": "center",
-            "alignment_mb": "center"
-          }
-        },
-        "banner_3_EqCJWL": {
-          "type": "banner_3",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/square_goalie.jpg",
-            "color_scheme": "scheme-3",
-            "banner_url": "",
-            "banner_target": false,
-            "sub_heading": "",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "extrabold",
-            "sub_heading_space": 12,
-            "heading": "GOALIE DEPARTMENT",
-            "heading_fs": "h3",
-            "heading_fw": "black",
-            "heading_space": 16,
-            "desc": "Some call it goalie paradise. We have an entire section dedicated to  our favourite puck stoppers. Our goalie experts are goalies too - so they get it.",
-            "des_space": 58,
-            "btn_label": "Goalie Department",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "link",
-            "btn_fw": "medium",
-            "btn_icon": "1",
-            "content_position": "end-start",
-            "alignment": "center",
-            "content_position_mb": "center",
-            "alignment_mb": "center"
-          }
-        },
-        "banner_3_HkEKXD": {
-          "type": "banner_3",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/nhl-numbering.jpg",
-            "color_scheme": "scheme-3",
-            "banner_url": "",
-            "banner_target": false,
-            "sub_heading": "",
-            "sub_heading_fs": "h5",
-            "sub_heading_fw": "extrabold",
-            "sub_heading_space": 12,
-            "heading": "JERSEY CUSTOMIZATION",
-            "heading_fs": "h3",
-            "heading_fw": "black",
-            "heading_space": 16,
-            "desc": "A fully stitched hockey jersey is iconic. Hard to beat watching the game with a hockey hero on your back. From vintage jerseys to the latest and greatest. We focus on every last detail to get it right.",
-            "des_space": 58,
-            "btn_label": "Jersey Customization",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "link",
-            "btn_fw": "medium",
-            "btn_icon": "1",
-            "content_position": "end-start",
-            "alignment": "center",
-            "content_position_mb": "center",
-            "alignment_mb": "center"
-          }
-        },
-        "banner_3_gamg4A": {
-          "type": "banner_3",
+        "image_6TerCh": {
+          "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/DSCF2935.jpg",
-            "color_scheme": "scheme-3",
-            "banner_url": "",
-            "banner_target": false,
-            "sub_heading": "",
-            "sub_heading_fs": "h5",
-            "sub_heading_fw": "extrabold",
-            "sub_heading_space": 12,
-            "heading": "TEAM & CORPORATE SALES",
-            "heading_fs": "h3",
-            "heading_fw": "black",
-            "heading_space": 16,
-            "desc": "Being part of a team is special. We know how important it is to share that bond with teammates. From idea, to design, to delivery. Nothing beats pulling on that jersey for the first time.",
-            "des_space": 68,
-            "btn_label": "Team & Corporate Sales",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "link",
-            "btn_fw": "medium",
-            "btn_icon": "1",
-            "content_position": "end-start",
+            "link": "",
+            "image_width": "full-width",
+            "width": 500,
+            "width_mb": 360,
+            "alignment": "start"
+          }
+        },
+        "heading_t3RUDY": {
+          "type": "heading",
+          "settings": {
+            "heading": "Team & Corporate Sales",
+            "tag": "h4",
+            "heading_size": "h2",
+            "alignment": "center"
+          }
+        },
+        "text_qFQqY8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Being part of a team is special. We know how important it is to share that bond with teammates. From idea, to design, to delivery. Nothing beats pulling on that jersey for the first time.<\/p>",
+            "text_size": "base",
             "alignment": "center",
-            "content_position_mb": "center",
             "alignment_mb": "center"
           }
         },
-        "banner_3_CjiFhH": {
-          "type": "banner_3",
+        "spacer_HMkd7z": {
+          "type": "spacer",
+          "settings": {
+            "space_lg": 10,
+            "space_md": 10,
+            "space": 10
+          }
+        },
+        "button_Wfy8ge": {
+          "type": "button",
+          "settings": {
+            "btn_label": "Team Sales",
+            "btn_link": "shopify:\/\/pages\/team-corporate-sales",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "link",
+            "btn_fw": "normal",
+            "btn_icon": "1",
+            "alignment": "center"
+          }
+        },
+        "parent_RNgxgH": {
+          "type": "parent",
+          "settings": {
+            "column_lg": "hdt-col-lg-6",
+            "column_md": "hdt-col-md-6",
+            "column": "hdt-col-12",
+            "color_scheme": "scheme-1",
+            "padding_top": 0,
+            "padding_right": 0,
+            "padding_bottom": 0,
+            "padding_left": 0,
+            "padding_rate": 75,
+            "class": ""
+          }
+        },
+        "image_iKUbXK": {
+          "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/team-stores.jpg",
-            "color_scheme": "scheme-3",
-            "banner_url": "",
-            "banner_target": false,
-            "sub_heading": "",
-            "sub_heading_fs": "h5",
-            "sub_heading_fw": "extrabold",
-            "sub_heading_space": 12,
-            "heading": "DEDICATED TEAM STORES",
-            "heading_fs": "h3",
-            "heading_fw": "black",
-            "heading_space": 16,
-            "desc": "Create a custom team store for your entire hockey program. Shop custom apparel, jerseys, and gear with personalized logos and embroidery all in one spot. The easiest way to gear up players, parents, and coaches.",
-            "des_space": 58,
-            "btn_label": "Dedicated Team Stores",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "link",
-            "btn_fw": "medium",
-            "btn_icon": "1",
-            "content_position": "end-start",
+            "link": "",
+            "image_width": "full-width",
+            "width": 500,
+            "width_mb": 360,
+            "alignment": "start"
+          }
+        },
+        "heading_nXmDxL": {
+          "type": "heading",
+          "settings": {
+            "heading": "Dedicated Team Stores",
+            "tag": "h4",
+            "heading_size": "h2",
+            "alignment": "center"
+          }
+        },
+        "text_QcrWHd": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Create a custom team store for your entire hockey program. Shop custom apparel, jerseys, and gear with personalized logos and embroidery all in one spot. The easiest way to gear up players, parents, and coaches.<\/p>",
+            "text_size": "base",
             "alignment": "center",
-            "content_position_mb": "center",
             "alignment_mb": "center"
           }
         },
-        "banner_3_pxmgax": {
-          "type": "banner_3",
+        "spacer_6BhFbP": {
+          "type": "spacer",
           "settings": {
-            "image": "shopify:\/\/shop_images\/square_demo.jpg",
-            "color_scheme": "scheme-3",
-            "banner_url": "",
-            "banner_target": false,
-            "sub_heading": "",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "extrabold",
-            "sub_heading_space": 12,
-            "heading": "STICK DEMO ZONE",
-            "heading_fs": "h3",
-            "heading_fw": "black",
-            "heading_space": 16,
-            "desc": "Falling in love with a stick starts right here in our shooting room. We call it love at first snipe! Building confidence in a new stick is key. We'll help you find the one that feels just right so you can focus on the game.",
-            "des_space": 58,
-            "btn_label": "Stick Demo Zone",
-            "btn_link": "",
+            "space_lg": 10,
+            "space_md": 10,
+            "space": 10
+          }
+        },
+        "button_YqbGfD": {
+          "type": "button",
+          "settings": {
+            "btn_label": "Team Stores",
+            "btn_link": "https:\/\/team.thehockeyshop.com\/pages\/team-stores",
             "target": false,
             "btn_size": "base",
             "btn_style": "link",
             "btn_fw": "normal",
             "btn_icon": "1",
-            "content_position": "end-start",
-            "alignment": "center",
-            "content_position_mb": "center",
-            "alignment_mb": "center"
-          }
-        },
-        "banner_3_6XQpLn": {
-          "type": "banner_3",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Untitled_design_e209a7ae-5776-451b-9d23-d3fca659e1a1.jpg",
-            "color_scheme": "scheme-3",
-            "banner_url": "",
-            "banner_target": false,
-            "sub_heading": "",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "extrabold",
-            "sub_heading_space": 12,
-            "heading": "SKATE FITTING",
-            "heading_fs": "h3",
-            "heading_fw": "black",
-            "heading_space": 16,
-            "desc": "You want your skates to fit like a glass slipper. Every foot is unique and getting that perfect fit is a mix of science and art. Our team of skate fitting experts will take the time to achieve that snug, secure feeling.",
-            "des_space": 28,
-            "btn_label": "Skate Fitting",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "link",
-            "btn_fw": "normal",
-            "btn_icon": "1",
-            "content_position": "end-start",
-            "alignment": "center",
-            "content_position_mb": "center",
-            "alignment_mb": "center"
-          }
-        },
-        "banner_3_VrNXHz": {
-          "type": "banner_3",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/custom_square.jpg",
-            "color_scheme": "scheme-3",
-            "banner_url": "",
-            "banner_target": false,
-            "sub_heading": "",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "extrabold",
-            "sub_heading_space": 12,
-            "heading": "CUSTOM SKATE FITTING",
-            "heading_fs": "h3",
-            "heading_fw": "black",
-            "heading_space": 16,
-            "desc": "This is next level stuff. Custom colours. Custom components. 3D Scanning Technology. You can even add your name and number for that final touch. Over 300+ options available and we'll walk you through every last one.",
-            "des_space": 46,
-            "btn_label": "Custom Skates",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "link",
-            "btn_fw": "medium",
-            "btn_icon": "1",
-            "content_position": "end-start",
-            "alignment": "center",
-            "content_position_mb": "center",
-            "alignment_mb": "center"
-          }
-        },
-        "banner_3_rKmjx6": {
-          "type": "banner_3",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/square_sharpening.jpg",
-            "color_scheme": "scheme-3",
-            "banner_url": "",
-            "banner_target": false,
-            "sub_heading": "",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "extrabold",
-            "sub_heading_space": 12,
-            "heading": "SKATE SHARPENING",
-            "heading_fs": "h3",
-            "heading_fw": "black",
-            "heading_space": 16,
-            "desc": "Two words - grip and glide. Finding the perfect balance between the two is essential. You need to be able to reach top speed - and you need to trust your edges. Sharpening is our bread and butter. We'll take the guesswork out of it.",
-            "des_space": 28,
-            "btn_label": "Skate Sharpening",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "link",
-            "btn_fw": "medium",
-            "btn_icon": "1",
-            "content_position": "end-start",
-            "alignment": "center",
-            "content_position_mb": "center",
-            "alignment_mb": "center"
-          }
-        },
-        "banner_3_9YrqMN": {
-          "type": "banner_3",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/8th.jpg",
-            "color_scheme": "scheme-3",
-            "banner_url": "",
-            "banner_target": false,
-            "sub_heading": "",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "extrabold",
-            "sub_heading_space": 12,
-            "heading": "CUSTOM PROFILING",
-            "heading_fs": "h3",
-            "heading_fw": "black",
-            "heading_space": 16,
-            "desc": "Rocker? Radius? Profile? The shape of your blades will dictate how you move on the ice. We look at three elements of a profile. Power, speed, agility. Arguably the most important element of any skate and the most overlooked. We'll help each skater navigate this new world of skating. Goalies too!",
-            "des_space": 28,
-            "btn_label": "Custom Profiling",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "link",
-            "btn_fw": "medium",
-            "btn_icon": "1",
-            "content_position": "end-start",
-            "alignment": "center",
-            "content_position_mb": "center",
-            "alignment_mb": "center"
-          }
-        },
-        "banner_3_hiNBFR": {
-          "type": "banner_3",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/DSCF0325.jpg",
-            "color_scheme": "scheme-3",
-            "banner_url": "",
-            "banner_target": false,
-            "sub_heading": "",
-            "sub_heading_fs": "base",
-            "sub_heading_fw": "extrabold",
-            "sub_heading_space": 12,
-            "heading": "EQUIPMENT REPAIRS",
-            "heading_fs": "h3",
-            "heading_fw": "black",
-            "heading_space": 16,
-            "desc": "Most people don't realize you can upgrade\/modify almost every piece of equipment. Elbow pad straps a bit too long? Let's shorten it. Lost a rivet? We'll pop in a new one. Let's make sure every piece of equipment fits perfectly and stands the test of time.",
-            "des_space": 28,
-            "btn_label": "Equipment Repairs",
-            "btn_link": "",
-            "target": false,
-            "btn_size": "base",
-            "btn_style": "link",
-            "btn_fw": "medium",
-            "btn_icon": "1",
-            "content_position": "end-start",
-            "alignment": "center",
-            "content_position_mb": "center",
-            "alignment_mb": "center"
+            "alignment": "center"
           }
         }
       },
       "block_order": [
-        "banner_3_egTznK",
-        "banner_3_XDnzCb",
-        "banner_3_EqCJWL",
-        "banner_3_HkEKXD",
-        "banner_3_gamg4A",
-        "banner_3_CjiFhH",
-        "banner_3_pxmgax",
-        "banner_3_6XQpLn",
-        "banner_3_VrNXHz",
-        "banner_3_rKmjx6",
-        "banner_3_9YrqMN",
-        "banner_3_hiNBFR"
+        "parent_LcBPaa",
+        "image_6TerCh",
+        "heading_t3RUDY",
+        "text_qFQqY8",
+        "spacer_HMkd7z",
+        "button_Wfy8ge",
+        "parent_RNgxgH",
+        "image_iKUbXK",
+        "heading_nXmDxL",
+        "text_QcrWHd",
+        "spacer_6BhFbP",
+        "button_YqbGfD"
       ],
       "custom_css": [
-        "img {opacity: 0.5;}",
-        "div:hover img {opacity: 0.7;}",
-        "p {background-color: rgba(255, 255, 255, 0.85); border-radius: 8px; padding: 2px 30px; margin: 0 60px;}",
-        "@media (max-width: 1500px) {p {display: none; }}"
+        "img {border-radius: 10px; padding-bottom: 10px;}",
+        "p {padding: 6px 0;}"
       ],
       "settings": {
-        "full_width": true,
-        "boxed_fullwidth": true,
-        "col_dk": "3",
-        "row_height": 600,
-        "content_pd_y": 17,
-        "content_pd_x": 29,
-        "space_item": 30,
-        "col_tb": "2",
-        "row_height_tb": 500,
-        "space_item_tb": 20,
-        "row_height_mb": 300,
-        "space_item_mb": 15,
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "direction": "",
+        "justify": "",
+        "gap": false,
+        "space": 0,
         "padding_top": 40,
         "padding_bottom": 40,
-        "padding_rate": 68
+        "padding_rate": 75
+      }
+    },
+    "custom_section_fUfmzW": {
+      "type": "custom-section",
+      "blocks": {
+        "parent_EwR6VX": {
+          "type": "parent",
+          "settings": {
+            "column_lg": "hdt-col-lg-6",
+            "column_md": "hdt-col-md-6",
+            "column": "hdt-col-12",
+            "color_scheme": "scheme-1",
+            "padding_top": 0,
+            "padding_right": 0,
+            "padding_bottom": 0,
+            "padding_left": 0,
+            "padding_rate": 75,
+            "class": ""
+          }
+        },
+        "image_N8meBp": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/square_demo.jpg",
+            "link": "shopify:\/\/pages\/stick-demo-zone",
+            "image_width": "full-width",
+            "width": 500,
+            "width_mb": 360,
+            "alignment": "center"
+          }
+        },
+        "heading_FzK6W9": {
+          "type": "heading",
+          "settings": {
+            "heading": "Stick Demo Zone",
+            "tag": "h4",
+            "heading_size": "h2",
+            "alignment": "center"
+          }
+        },
+        "text_LxLzgV": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Falling in love with a stick starts right here in our shooting room. We call it love at first snipe! Building confidence in a new stick is key. We'll help you find the one that feels just right so you can focus on the game. <\/p>",
+            "text_size": "base",
+            "alignment": "center",
+            "alignment_mb": "center"
+          }
+        },
+        "spacer_UwHERE": {
+          "type": "spacer",
+          "settings": {
+            "space_lg": 10,
+            "space_md": 10,
+            "space": 10
+          }
+        },
+        "button_zkmLzf": {
+          "type": "button",
+          "settings": {
+            "btn_label": "Stick Demo Zone",
+            "btn_link": "shopify:\/\/pages\/stick-demo-zone",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "link",
+            "btn_fw": "normal",
+            "btn_icon": "1",
+            "alignment": "center"
+          }
+        },
+        "parent_FQqNzH": {
+          "type": "parent",
+          "settings": {
+            "column_lg": "hdt-col-lg-6",
+            "column_md": "hdt-col-md-6",
+            "column": "hdt-col-12",
+            "color_scheme": "scheme-1",
+            "padding_top": 0,
+            "padding_right": 0,
+            "padding_bottom": 0,
+            "padding_left": 0,
+            "padding_rate": 75,
+            "class": ""
+          }
+        },
+        "image_gnmKJC": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_e209a7ae-5776-451b-9d23-d3fca659e1a1.jpg",
+            "link": "shopify:\/\/pages\/skate-fitting",
+            "image_width": "full-width",
+            "width": 500,
+            "width_mb": 360,
+            "alignment": "center"
+          }
+        },
+        "heading_gzK4Tj": {
+          "type": "heading",
+          "settings": {
+            "heading": "Skate Fitting",
+            "tag": "h4",
+            "heading_size": "h2",
+            "alignment": "center"
+          }
+        },
+        "text_eTCtxh": {
+          "type": "text",
+          "settings": {
+            "text": "<p>You want your skates to fit like a glass slipper. Every foot is unique and getting that perfect fit is a mix of science and art. Our team of skate fitting experts will take the time to achieve that snug and secure feeling.<\/p>",
+            "text_size": "base",
+            "alignment": "center",
+            "alignment_mb": "center"
+          }
+        },
+        "spacer_VWFiAA": {
+          "type": "spacer",
+          "settings": {
+            "space_lg": 10,
+            "space_md": 10,
+            "space": 10
+          }
+        },
+        "button_TqfXbc": {
+          "type": "button",
+          "settings": {
+            "btn_label": "Skate Fitting",
+            "btn_link": "shopify:\/\/pages\/skate-fitting",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "link",
+            "btn_fw": "normal",
+            "btn_icon": "1",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "parent_EwR6VX",
+        "image_N8meBp",
+        "heading_FzK6W9",
+        "text_LxLzgV",
+        "spacer_UwHERE",
+        "button_zkmLzf",
+        "parent_FQqNzH",
+        "image_gnmKJC",
+        "heading_gzK4Tj",
+        "text_eTCtxh",
+        "spacer_VWFiAA",
+        "button_TqfXbc"
+      ],
+      "custom_css": [
+        "img {border-radius: 10px; padding-bottom: 10px;}",
+        "p {padding: 6px 0;}"
+      ],
+      "settings": {
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "direction": "",
+        "justify": "",
+        "gap": false,
+        "space": 0,
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "custom_section_WFYkWt": {
+      "type": "custom-section",
+      "blocks": {
+        "parent_GY4KNn": {
+          "type": "parent",
+          "settings": {
+            "column_lg": "hdt-col-lg-6",
+            "column_md": "hdt-col-md-6",
+            "column": "hdt-col-12",
+            "color_scheme": "scheme-1",
+            "padding_top": 0,
+            "padding_right": 0,
+            "padding_bottom": 0,
+            "padding_left": 0,
+            "padding_rate": 75,
+            "class": ""
+          }
+        },
+        "image_R8PLUf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/custom_square.jpg",
+            "link": "shopify:\/\/pages\/custom-skates",
+            "image_width": "full-width",
+            "width": 500,
+            "width_mb": 360,
+            "alignment": "center"
+          }
+        },
+        "heading_DAc848": {
+          "type": "heading",
+          "settings": {
+            "heading": "Custom Skate Fitting",
+            "tag": "h4",
+            "heading_size": "h2",
+            "alignment": "center"
+          }
+        },
+        "text_Dtw7Ja": {
+          "type": "text",
+          "settings": {
+            "text": "<p>This is next level stuff. Custom colours. Custom components. 3D scanning technology. you can even add your name and number for that final touch. Over 300+ options available and we'll walk you through every last one.<\/p>",
+            "text_size": "base",
+            "alignment": "center",
+            "alignment_mb": "center"
+          }
+        },
+        "spacer_4KR3XA": {
+          "type": "spacer",
+          "settings": {
+            "space_lg": 10,
+            "space_md": 10,
+            "space": 10
+          }
+        },
+        "button_KnLkjn": {
+          "type": "button",
+          "settings": {
+            "btn_label": "Custom Skates",
+            "btn_link": "shopify:\/\/pages\/custom-skates",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "link",
+            "btn_fw": "normal",
+            "btn_icon": "1",
+            "alignment": "center"
+          }
+        },
+        "parent_BabBcj": {
+          "type": "parent",
+          "settings": {
+            "column_lg": "hdt-col-lg-6",
+            "column_md": "hdt-col-md-6",
+            "column": "hdt-col-12",
+            "color_scheme": "scheme-1",
+            "padding_top": 0,
+            "padding_right": 0,
+            "padding_bottom": 0,
+            "padding_left": 0,
+            "padding_rate": 75,
+            "class": ""
+          }
+        },
+        "image_CCU8JF": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/square_sharpening.jpg",
+            "link": "shopify:\/\/pages\/skate-sharpening",
+            "image_width": "full-width",
+            "width": 500,
+            "width_mb": 360,
+            "alignment": "center"
+          }
+        },
+        "spacer_QfTtiW": {
+          "type": "spacer",
+          "settings": {
+            "space_lg": 10,
+            "space_md": 10,
+            "space": 10
+          }
+        },
+        "heading_iD93Hm": {
+          "type": "heading",
+          "settings": {
+            "heading": "Skate Sharpening",
+            "tag": "h4",
+            "heading_size": "h2",
+            "alignment": "center"
+          }
+        },
+        "spacer_rN9x7V": {
+          "type": "spacer",
+          "settings": {
+            "space_lg": 10,
+            "space_md": 10,
+            "space": 10
+          }
+        },
+        "text_36Hqhk": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Two words - grip and glide. Finding the perfect balance between the two is essential. You need to be able to reach top speed - and you need to trust your edges. Sharpening is our bread and butter. We'll take the guesswork out of it.<\/p>",
+            "text_size": "base",
+            "alignment": "center",
+            "alignment_mb": "center"
+          }
+        },
+        "spacer_ALHqBq": {
+          "type": "spacer",
+          "settings": {
+            "space_lg": 10,
+            "space_md": 10,
+            "space": 10
+          }
+        },
+        "button_MR6rQh": {
+          "type": "button",
+          "settings": {
+            "btn_label": "Skate Sharpening",
+            "btn_link": "shopify:\/\/pages\/skate-sharpening",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "link",
+            "btn_fw": "normal",
+            "btn_icon": "1",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "parent_GY4KNn",
+        "image_R8PLUf",
+        "heading_DAc848",
+        "text_Dtw7Ja",
+        "spacer_4KR3XA",
+        "button_KnLkjn",
+        "parent_BabBcj",
+        "image_CCU8JF",
+        "spacer_QfTtiW",
+        "heading_iD93Hm",
+        "spacer_rN9x7V",
+        "text_36Hqhk",
+        "spacer_ALHqBq",
+        "button_MR6rQh"
+      ],
+      "custom_css": [
+        "img {border-radius: 10px; padding-bottom: 10px;}",
+        "p {padding: 6px 0;}"
+      ],
+      "settings": {
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "direction": "",
+        "justify": "",
+        "gap": false,
+        "space": 0,
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "custom_section_dKzEih": {
+      "type": "custom-section",
+      "blocks": {
+        "parent_GjwqnC": {
+          "type": "parent",
+          "settings": {
+            "column_lg": "hdt-col-lg-6",
+            "column_md": "hdt-col-md-6",
+            "column": "hdt-col-12",
+            "color_scheme": "scheme-1",
+            "padding_top": 0,
+            "padding_right": 0,
+            "padding_bottom": 0,
+            "padding_left": 0,
+            "padding_rate": 75,
+            "class": ""
+          }
+        },
+        "image_HawV8q": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/8th.jpg",
+            "link": "shopify:\/\/pages\/custom-profiling",
+            "image_width": "full-width",
+            "width": 500,
+            "width_mb": 360,
+            "alignment": "start"
+          }
+        },
+        "heading_rLDm3a": {
+          "type": "heading",
+          "settings": {
+            "heading": "Custom Profiling",
+            "tag": "h4",
+            "heading_size": "h2",
+            "alignment": "center"
+          }
+        },
+        "text_FbDXez": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Rocker? Radius? Profile? The shape of your blades will dictate how you move on the ice. We look at three elements of a profile. Power, speed, agility. Arguable the most important element of any skate and the most overlooked. We'll help each skater navigate this new world of skating. Goalies too!<\/p>",
+            "text_size": "base",
+            "alignment": "center",
+            "alignment_mb": "center"
+          }
+        },
+        "spacer_Lyj3Y3": {
+          "type": "spacer",
+          "settings": {
+            "space_lg": 10,
+            "space_md": 10,
+            "space": 10
+          }
+        },
+        "button_xgEyx3": {
+          "type": "button",
+          "settings": {
+            "btn_label": "Custom Profiling",
+            "btn_link": "shopify:\/\/pages\/custom-profiling",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "link",
+            "btn_fw": "normal",
+            "btn_icon": "1",
+            "alignment": "center"
+          }
+        },
+        "parent_QwYUFx": {
+          "type": "parent",
+          "settings": {
+            "column_lg": "hdt-col-lg-6",
+            "column_md": "hdt-col-md-6",
+            "column": "hdt-col-12",
+            "color_scheme": "scheme-1",
+            "padding_top": 0,
+            "padding_right": 0,
+            "padding_bottom": 0,
+            "padding_left": 0,
+            "padding_rate": 75,
+            "class": ""
+          }
+        },
+        "image_gP9UNx": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSCF0325.jpg",
+            "link": "shopify:\/\/pages\/equipment-repairs",
+            "image_width": "full-width",
+            "width": 500,
+            "width_mb": 360,
+            "alignment": "center"
+          }
+        },
+        "heading_ACaJXz": {
+          "type": "heading",
+          "settings": {
+            "heading": "Equipment Repairs",
+            "tag": "h4",
+            "heading_size": "h2",
+            "alignment": "center"
+          }
+        },
+        "text_EaqNWd": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Most people don't realize you can upgrade\/modify almost every piece of equipment. Elbow pad straps a bit too long? Let's shorten it. Lost a rivet? We'll pop in a new one. Let's make sure every piece of equipment fits perfectly and stands the test of time.<\/p>",
+            "text_size": "base",
+            "alignment": "center",
+            "alignment_mb": "center"
+          }
+        },
+        "spacer_P3N7WN": {
+          "type": "spacer",
+          "settings": {
+            "space_lg": 10,
+            "space_md": 10,
+            "space": 10
+          }
+        },
+        "button_PziYJA": {
+          "type": "button",
+          "settings": {
+            "btn_label": "Repairs",
+            "btn_link": "shopify:\/\/pages\/equipment-repairs",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "link",
+            "btn_fw": "normal",
+            "btn_icon": "1",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "parent_GjwqnC",
+        "image_HawV8q",
+        "heading_rLDm3a",
+        "text_FbDXez",
+        "spacer_Lyj3Y3",
+        "button_xgEyx3",
+        "parent_QwYUFx",
+        "image_gP9UNx",
+        "heading_ACaJXz",
+        "text_EaqNWd",
+        "spacer_P3N7WN",
+        "button_PziYJA"
+      ],
+      "custom_css": [
+        "img {border-radius: 10px; padding-bottom: 10px;}",
+        "p {padding: 6px 0;}"
+      ],
+      "settings": {
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "direction": "",
+        "justify": "",
+        "gap": false,
+        "space": 0,
+        "padding_top": 40,
+        "padding_bottom": 64,
+        "padding_rate": 75
       }
     },
     "map_pin_info_mhyYji": {
@@ -723,7 +1159,11 @@
     "image_with_text_qpdgnn",
     "video_2_cb8CAT",
     "custom_section_bVjqk6",
-    "banner_dWNWMB",
+    "custom_section_qV3zPf",
+    "custom_section_cxjkWr",
+    "custom_section_fUfmzW",
+    "custom_section_WFYkWt",
+    "custom_section_dKzEih",
     "map_pin_info_mhyYji",
     "image_with_text_QaWRzE"
   ]
