@@ -282,7 +282,8 @@
   </form>
 </hdt-drawer>
 
-                  <script>
+<!-- Script to have the In Stock filter be checked by default to not show the out of stock items -->
+<script>
 document.addEventListener('DOMContentLoaded', function () {
   // Adjust the selector to match the specific id or class of the "In Stock" checkbox
   var inStockCheckbox = document.querySelector('input[id^="Filter-filter.v.availability-"]');
@@ -310,6 +311,4 @@ document.addEventListener('DOMContentLoaded', function () {
     }
   }
 });
-
-
-                  </script>
+</script>
