@@ -434,7 +434,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/DSCF2935.jpg",
-            "link": "",
+            "link": "https:\/\/team.thehockeyshop.com\/",
             "image_width": "full-width",
             "width": 500,
             "width_mb": 360,
@@ -471,7 +471,7 @@
           "type": "button",
           "settings": {
             "btn_label": "Team Sales",
-            "btn_link": "shopify:\/\/pages\/team-corporate-sales",
+            "btn_link": "https:\/\/team.thehockeyshop.com\/",
             "target": false,
             "btn_size": "base",
             "btn_style": "link",
@@ -499,7 +499,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/team-stores.jpg",
-            "link": "",
+            "link": "https:\/\/team.thehockeyshop.com\/",
             "image_width": "full-width",
             "width": 500,
             "width_mb": 360,
