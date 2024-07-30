@@ -281,3 +281,19 @@
     {%- endfor -%}
   </form>
 </hdt-drawer>
+
+                  <script>
+                    document.addEventListener('DOMContentLoaded', function () {
+  // Adjust the selector to match the specific id or class of the "In Stock" checkbox
+  var inStockCheckbox = document.querySelector('input[id^="Filter-filter.v.availability-"]');
+
+  if (inStockCheckbox && !inStockCheckbox.checked) {
+    inStockCheckbox.checked = true;
+
+    // Trigger the change event if necessary to apply the filter
+    var event = new Event('change');
+    inStockCheckbox.dispatchEvent(event);
+  }
+});
+
+                  </script>
