@@ -410,7 +410,7 @@
         "image_height_mb": "adapt_image",
         "fixed_height_mb": 300,
         "image": "shopify:\/\/shop_images\/Rinkside_Rush_Sale_Web_Banner_2000_x_800_px_1.jpg",
-        "link_img": "shopify:\/\/collections\/spring-sale-bauer",
+        "link_img": "shopify:\/\/collections\/bauer-player-sale",
         "target": false,
         "image_behavior": "none",
         "use_overlay": false,
