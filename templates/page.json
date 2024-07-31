@@ -308,7 +308,7 @@
         "fixed_height_mb": 300,
         "image": "shopify:\/\/shop_images\/Rinkside_Rush_Sale_Email_Main_V2_2000_x_800_px_4.jpg",
         "image_mb": "shopify:\/\/shop_images\/Rinkside_Rush_Sale_Email_Main_V2_1.jpg",
-        "link_img": "",
+        "link_img": "shopify:\/\/collections\/goal-clearance",
         "target": false,
         "image_behavior": "none",
         "use_overlay": false,
