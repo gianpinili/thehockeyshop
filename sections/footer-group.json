@@ -68,9 +68,9 @@
           "type": "newsletter",
           "settings": {
             "border-column": false,
-            "heading_newsletter": "Sign Up for Email",
-            "text_newsletter": "<p>Sign up to get first dibs on new arrivals, sales, exclusive content, events and more!<\/p>",
-            "button_lb": "Subscribe",
+            "heading_newsletter": "Enter to win a $250 gift card:",
+            "text_newsletter": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.<\/p>",
+            "button_lb": "Enter",
             "show_icon": true,
             "btn_fw": "semibold",
             "agree_form": false,
