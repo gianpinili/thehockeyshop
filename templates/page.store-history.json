@@ -288,6 +288,17 @@
             "content_position": "start"
           }
         },
+        "timeline_item_A6xCKH": {
+          "type": "timeline_item",
+          "settings": {
+            "time": "2021",
+            "label": "Coming Soon",
+            "title": "Lots of planning!",
+            "content": "We were extremely busy in 2021 drafting blueprints of our new headquarters. We acquired a new building nearly double the size and worked on floorplans and layout. We got the keys and began building!",
+            "image": "shopify:\/\/shop_images\/thumbnail_IMG_8454.jpg",
+            "content_position": "end"
+          }
+        },
         "timeline_item_69yyPH": {
           "type": "timeline_item",
           "settings": {
@@ -296,7 +307,7 @@
             "title": "Langley Store Opening",
             "content": "We are excited to announce that The Hockey Shop is relocating to Langley after 33 years in Surrey. Our new store will offer a larger selection of products and improved facilities, including specialized sections for teams and goalies, shooting lanes, and a skate sharpening station. This move allows us to better serve the hockey community with enhanced services and a wider range of equipment!",
             "image": "shopify:\/\/shop_images\/Grand_1.png",
-            "content_position": "end"
+            "content_position": "start"
           }
         },
         "timeline_item_ykkx9C": {
@@ -307,7 +318,7 @@
             "title": "35th Year Anniversary Sale",
             "content": "We celebrate our 35th anniversary by hosting a major sale, offering significant discounts on top-brand hockey gear. This event was our way of thanking the hockey community for their continued support over the years, providing exclusive deals and special promotions to our loyal customers.",
             "image": "shopify:\/\/shop_images\/Untitled_design_5.png",
-            "content_position": "start"
+            "content_position": "end"
           }
         },
         "timeline_item_dW3qr9": {
@@ -318,7 +329,7 @@
             "title": "Tendyfest 6",
             "content": "We proudly hosted Tendyfest 6, a celebration for hockey goalies featuring exclusive equipment deals, pro demonstrations, and hands-on training sessions. This event brought the goalie community together, showcasing our dedication to supporting and equipping goalies with the best gear and knowledge in the sport.",
             "image": "shopify:\/\/shop_images\/tendyfest6_86fc3ce4-7a4c-48ef-948a-2aad04a618c9.jpg",
-            "content_position": "end"
+            "content_position": "start"
           }
         }
       },
@@ -345,6 +356,7 @@
         "timeline_item_VgMKTK",
         "timeline_item_axKmx8",
         "timeline_item_66KK7U",
+        "timeline_item_A6xCKH",
         "timeline_item_69yyPH",
         "timeline_item_ykkx9C",
         "timeline_item_dW3qr9"
