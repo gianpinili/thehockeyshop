@@ -1,0 +1,1245 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "slideshow_q7pEg9": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_label_grG7Ta": {
+          "type": "slide_label",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hero_1_1.jpg",
+            "url": "",
+            "banner_target": false,
+            "color_scheme": "",
+            "sub_heading": "",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "normal",
+            "sub_heading_bg": false,
+            "heading": "",
+            "heading_fs": "base",
+            "heading_fw": "normal",
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "none",
+            "btn2_label": "",
+            "btn2_link": "",
+            "target2": false,
+            "btn2_size": "base",
+            "btn2_style": "solid",
+            "btn2_fw": "normal",
+            "btn2_icon": "none",
+            "content_bg": false,
+            "content_position": "center",
+            "alignment": "center",
+            "hide_subtext_mb": false,
+            "content_position_mb": "center",
+            "alignment_mb": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_label_grG7Ta"
+      ],
+      "settings": {
+        "full_width": true,
+        "item_round": "rounded",
+        "image_height": "fixed",
+        "fixed_height": 860,
+        "image_height_mb": "adapt_image",
+        "fixed_height_mb": 300,
+        "color_scheme": "",
+        "loop": true,
+        "auto_play": 0,
+        "pause_hover": false,
+        "navUI": false,
+        "dotUI": false,
+        "dot_style": "default",
+        "dot_direction": "horizontal",
+        "dot_align": "center",
+        "dot_space": 40,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "marquee_cy3Qc8": {
+      "type": "marquee",
+      "blocks": {
+        "item_MWbCUH": {
+          "type": "item",
+          "settings": {
+            "text": "<p>Summer Super Sale up to 40% off.<\/p>",
+            "icon_svg": "dividing_icon",
+            "custom_svg": "",
+            "icon_width": 12,
+            "icon_width_mb": 20
+          }
+        },
+        "item_VNznpL": {
+          "type": "item",
+          "settings": {
+            "text": "<p>Free shipping on orders over $100.<\/p>",
+            "icon_svg": "none",
+            "custom_svg": "",
+            "icon_width": 20,
+            "icon_width_mb": 20
+          }
+        },
+        "item_q76aYq": {
+          "type": "item",
+          "settings": {
+            "text": "<p>Buy now, pay later with Sezzle.<\/p>",
+            "icon_svg": "none",
+            "custom_svg": "",
+            "icon_width": 20,
+            "icon_width_mb": 20
+          }
+        }
+      },
+      "block_order": [
+        "item_MWbCUH",
+        "item_VNznpL",
+        "item_q76aYq"
+      ],
+      "settings": {
+        "space_item": 30,
+        "speed": 0.3,
+        "direction": "rtl",
+        "marquee_pause_when_hover": false,
+        "text_fs": "base",
+        "text_fw": "semibold",
+        "text_uppercase": false,
+        "adding_border": false,
+        "icon_position_between": true,
+        "color_scheme": "scheme-67a7ca9f-3333-4245-b79f-2e9849d7e615",
+        "padding_top": 12,
+        "padding_bottom": 12,
+        "padding_rate": 75
+      }
+    },
+    "top_heading_4iawTD": {
+      "type": "top-heading",
+      "blocks": {
+        "heading_qUaTde": {
+          "type": "heading",
+          "settings": {
+            "heading": "Rinkside Rush Sale!",
+            "heading_fs": "h3"
+          }
+        },
+        "sub_heading_nkDnhG": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Beat the rush and hit the ice early.<br>Score up to 40% off. Countdown to hockey starts now.",
+            "sub_heading_fs": "base"
+          }
+        },
+        "button_GtddfV": {
+          "type": "button",
+          "settings": {
+            "button_text": "Shop Now",
+            "button_link": "shopify:\/\/collections\/all-clearance",
+            "button-color": "#1a98ff"
+          }
+        }
+      },
+      "block_order": [
+        "heading_qUaTde",
+        "sub_heading_nkDnhG",
+        "button_GtddfV"
+      ],
+      "settings": {
+        "spacing_item": 16,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75,
+        "button_bg_color": "#000000"
+      }
+    },
+    "collections_list_QLied3": {
+      "type": "collections-list",
+      "blocks": {
+        "collection_item_wVfBGT": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "goalie-skates",
+            "image": "shopify:\/\/shop_images\/bauer-goalie-skates-bauer-pro-intermediate-goalie-skates-31250001756226.jpg",
+            "title": "Skates",
+            "collection_link": ""
+          }
+        },
+        "collection_item_FfCWQ6": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "goalie-sticks",
+            "image": "shopify:\/\/shop_images\/ccm-goalie-sticks-ccm-axis-xf-pro-intermediate-goalie-stick-31285902573634.jpg",
+            "title": "Sticks",
+            "collection_link": ""
+          }
+        },
+        "collection_item_p6abbX": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "leg-pads",
+            "image": "shopify:\/\/shop_images\/warrior-rtl-g7-pro-leg-pads-sr-tan-bk-detail-10461.jpg",
+            "title": "Leg Pads",
+            "collection_link": ""
+          }
+        },
+        "collection_item_aJhRNQ": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "goalie-masks",
+            "image": "shopify:\/\/shop_images\/warrior-goalie-masks-senior-warrior-ritual-f2-e-senior-goalie-mask-30797508935746.jpg",
+            "title": "Masks",
+            "collection_link": ""
+          }
+        },
+        "collection_item_7CdKzE": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "catchers",
+            "image": "shopify:\/\/shop_images\/bauer-catchers-bauer-learn-to-save-goalie-catcher-black-full-right-31840048447554.jpg",
+            "title": "Catchers",
+            "collection_link": ""
+          }
+        },
+        "collection_item_paaADt": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "goalie-blockers",
+            "image": "shopify:\/\/shop_images\/vaughn-blockers-vaughn-velocity-v10-pro-carbon-senior-goalie-blocker-swirl-graphic-31748135256130.jpg",
+            "title": "Blockers",
+            "collection_link": ""
+          }
+        },
+        "collection_item_r3x7M7": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "goalie-chest-protectors",
+            "image": "shopify:\/\/shop_images\/ccm-chest-protectors-ccm-pro-spec-senior-chest-arm-protector-31229408542786.jpg",
+            "title": "Chest Protectors",
+            "collection_link": ""
+          }
+        },
+        "collection_item_Jn43Pp": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "goalie-pants",
+            "image": "shopify:\/\/shop_images\/ccm-goalie-pants-ccm-axis-f5-junior-goalie-pants-31229451731010.jpg",
+            "title": "Pants",
+            "collection_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_item_wVfBGT",
+        "collection_item_FfCWQ6",
+        "collection_item_p6abbX",
+        "collection_item_aJhRNQ",
+        "collection_item_7CdKzE",
+        "collection_item_paaADt",
+        "collection_item_r3x7M7",
+        "collection_item_Jn43Pp"
+      ],
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "btn_heading_collection": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection_list": [
+
+        ],
+        "collection_des": "1",
+        "content_size": "xl",
+        "content_weight": "medium",
+        "text_transform": false,
+        "content_position": "end-center",
+        "content_padding": 30,
+        "image_ratio": "adapt_image",
+        "image_size": true,
+        "col_dk": "4",
+        "col_tb": "3",
+        "col_mb": "2",
+        "space_items": "x",
+        "half_item": false,
+        "navUI": true,
+        "nav_des": "outline",
+        "nav_pos": "middle_out",
+        "dotUI": true,
+        "dots_pos": "default",
+        "section_fullwidth": true,
+        "boxed_fullwidth": true,
+        "boxed_content": false,
+        "color_scheme": "",
+        "padding_top": 30,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "hero_image_jpAKKj": {
+      "type": "hero-image",
+      "settings": {
+        "image_height": "adapt_image",
+        "fixed_height": 860,
+        "image_height_mb": "adapt_image",
+        "fixed_height_mb": 300,
+        "image": "shopify:\/\/shop_images\/Rinkside_Rush_Sale_Email_Main_V2_2000_x_800_px_4.jpg",
+        "image_mb": "shopify:\/\/shop_images\/Rinkside_Rush_Sale_Email_Main_V2_1.jpg",
+        "link_img": "shopify:\/\/collections\/goal-clearance",
+        "target": false,
+        "image_behavior": "none",
+        "use_overlay": false,
+        "use_bg_content": false,
+        "content_position": "center",
+        "content_align": "center",
+        "content_position_mb": "center",
+        "content_align_mb": "center",
+        "full_width": true,
+        "boxed_fullwidth": true,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_rate": 75
+      }
+    },
+    "brand_carousel_PEpMV7": {
+      "type": "brand-carousel",
+      "settings": {
+      }
+    },
+    "banner_QTT7Cc": {
+      "type": "banner",
+      "blocks": {
+        "banner_3_EDBMJh": {
+          "type": "banner_3",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_c3b9d053-ee49-4ccf-8048-318e4ae34d6a.jpg",
+            "color_scheme": "",
+            "banner_url": "shopify:\/\/collections\/clearance-goalie-leg-pads",
+            "banner_target": false,
+            "sub_heading": "",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "bold",
+            "sub_heading_space": 12,
+            "heading": "",
+            "heading_fs": "h4",
+            "heading_fw": "normal",
+            "heading_space": 18,
+            "desc": "",
+            "des_space": 28,
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1",
+            "content_position": "end-start",
+            "alignment": "center",
+            "content_position_mb": "center",
+            "alignment_mb": "center"
+          }
+        },
+        "banner_3_VfnHfa": {
+          "type": "banner_3",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_c6ad79b8-f8c8-4ff7-a915-b328db3ec2bf.jpg",
+            "color_scheme": "",
+            "banner_url": "shopify:\/\/collections\/sale-goalie-sticks",
+            "banner_target": false,
+            "sub_heading": "",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "bold",
+            "sub_heading_space": 12,
+            "heading": "",
+            "heading_fs": "h4",
+            "heading_fw": "normal",
+            "heading_space": 18,
+            "desc": "",
+            "des_space": 28,
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1",
+            "content_position": "end-start",
+            "alignment": "center",
+            "content_position_mb": "center",
+            "alignment_mb": "center"
+          }
+        }
+      },
+      "block_order": [
+        "banner_3_EDBMJh",
+        "banner_3_VfnHfa"
+      ],
+      "settings": {
+        "full_width": false,
+        "boxed_fullwidth": false,
+        "col_dk": "2",
+        "row_height": 500,
+        "content_pd_y": 15,
+        "content_pd_x": 15,
+        "space_item": 30,
+        "col_tb": "2",
+        "row_height_tb": 410,
+        "space_item_tb": 15,
+        "row_height_mb": 210,
+        "space_item_mb": 15,
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "featured_collection_carousel_iiL9bG": {
+      "type": "featured-collection-carousel",
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Bauer Sale",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "btn_heading": false,
+        "nav_heading": "disable",
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection": "bauer-goalie-sale",
+        "product_list": [
+
+        ],
+        "product_des": "1",
+        "image_ratio": "adapt_image",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 10,
+        "col_dk": "5",
+        "col_tb": "4",
+        "col_mb": "2",
+        "half_item": false,
+        "navUI": true,
+        "nav_des": "outline",
+        "nav_pos": "middle_out",
+        "dotUI": false,
+        "pagination_type": "view_all",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "View all",
+        "btn_style": "link",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 24,
+        "padding_bottom": 21,
+        "padding_rate": 75
+      }
+    },
+    "banner_GEzKfg": {
+      "type": "banner",
+      "blocks": {
+        "banner_3_LXVHWJ": {
+          "type": "banner_3",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5_b2d337db-c0b2-4d0b-8499-a40e91c7ed51.jpg",
+            "color_scheme": "",
+            "banner_url": "shopify:\/\/collections\/bauer-goalie-sale",
+            "banner_target": false,
+            "sub_heading": "",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "bold",
+            "sub_heading_space": 12,
+            "heading": "",
+            "heading_fs": "h4",
+            "heading_fw": "normal",
+            "heading_space": 18,
+            "desc": "",
+            "des_space": 28,
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1",
+            "content_position": "end-start",
+            "alignment": "center",
+            "content_position_mb": "center",
+            "alignment_mb": "center"
+          }
+        },
+        "banner_3_Nx4JJr": {
+          "type": "banner_3",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6_ab12a6f0-1dad-4964-9be1-c7447836f884.jpg",
+            "color_scheme": "",
+            "banner_url": "shopify:\/\/collections\/ccm-goalie-sale",
+            "banner_target": false,
+            "sub_heading": "",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "bold",
+            "sub_heading_space": 12,
+            "heading": "",
+            "heading_fs": "h4",
+            "heading_fw": "normal",
+            "heading_space": 18,
+            "desc": "",
+            "des_space": 28,
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1",
+            "content_position": "end-start",
+            "alignment": "center",
+            "content_position_mb": "center",
+            "alignment_mb": "center"
+          }
+        }
+      },
+      "block_order": [
+        "banner_3_LXVHWJ",
+        "banner_3_Nx4JJr"
+      ],
+      "settings": {
+        "full_width": false,
+        "boxed_fullwidth": false,
+        "col_dk": "2",
+        "row_height": 430,
+        "content_pd_y": 15,
+        "content_pd_x": 15,
+        "space_item": 30,
+        "col_tb": "2",
+        "row_height_tb": 330,
+        "space_item_tb": 15,
+        "row_height_mb": 170,
+        "space_item_mb": 15,
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "featured_collection_carousel_CJJYix": {
+      "type": "featured-collection-carousel",
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "CCM Sale",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "btn_heading": false,
+        "nav_heading": "disable",
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection": "ccm-goalie-sale",
+        "product_list": [
+
+        ],
+        "product_des": "1",
+        "image_ratio": "adapt_image",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 15,
+        "col_dk": "5",
+        "col_tb": "3",
+        "col_mb": "2",
+        "half_item": false,
+        "navUI": true,
+        "nav_des": "outline",
+        "nav_pos": "middle_out",
+        "dotUI": false,
+        "pagination_type": "view_all",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "View all",
+        "btn_style": "link",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 52,
+        "padding_rate": 75
+      }
+    },
+    "banner_7Vkqh8": {
+      "type": "banner",
+      "blocks": {
+        "banner_3_iaQJEb": {
+          "type": "banner_3",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/7_aba0a608-2226-492e-b86f-5939c9febfc9.jpg",
+            "color_scheme": "",
+            "banner_url": "shopify:\/\/collections\/warrior-goalie-sale",
+            "banner_target": false,
+            "sub_heading": "",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "bold",
+            "sub_heading_space": 12,
+            "heading": "",
+            "heading_fs": "h4",
+            "heading_fw": "normal",
+            "heading_space": 18,
+            "desc": "",
+            "des_space": 28,
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1",
+            "content_position": "end-start",
+            "alignment": "center",
+            "content_position_mb": "center",
+            "alignment_mb": "center"
+          }
+        },
+        "banner_3_gxjfwk": {
+          "type": "banner_3",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/8_bfcbeb7b-841c-42a3-8e97-a93dc406f5c8.jpg",
+            "color_scheme": "",
+            "banner_url": "shopify:\/\/collections\/true-goalie-sale",
+            "banner_target": false,
+            "sub_heading": "",
+            "sub_heading_fs": "base",
+            "sub_heading_fw": "bold",
+            "sub_heading_space": 12,
+            "heading": "",
+            "heading_fs": "h4",
+            "heading_fw": "normal",
+            "heading_space": 18,
+            "desc": "",
+            "des_space": 28,
+            "btn_label": "",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1",
+            "content_position": "end-start",
+            "alignment": "center",
+            "content_position_mb": "center",
+            "alignment_mb": "center"
+          }
+        }
+      },
+      "block_order": [
+        "banner_3_iaQJEb",
+        "banner_3_gxjfwk"
+      ],
+      "settings": {
+        "full_width": false,
+        "boxed_fullwidth": false,
+        "col_dk": "2",
+        "row_height": 430,
+        "content_pd_y": 15,
+        "content_pd_x": 15,
+        "space_item": 30,
+        "col_tb": "2",
+        "row_height_tb": 330,
+        "space_item_tb": 15,
+        "row_height_mb": 170,
+        "space_item_mb": 15,
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "featured_collection_carousel_eGaHBE": {
+      "type": "featured-collection-carousel",
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Warrior Sale",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "btn_heading": false,
+        "nav_heading": "disable",
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection": "warrior-goalie-sale",
+        "product_list": [
+
+        ],
+        "product_des": "1",
+        "image_ratio": "adapt_image",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 15,
+        "col_dk": "5",
+        "col_tb": "3",
+        "col_mb": "2",
+        "half_item": false,
+        "navUI": true,
+        "nav_des": "outline",
+        "nav_pos": "middle_out",
+        "dotUI": false,
+        "pagination_type": "view_all",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "View all",
+        "btn_style": "link",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 52,
+        "padding_rate": 75
+      }
+    },
+    "hero_image_cMLECQ": {
+      "type": "hero-image",
+      "settings": {
+        "image_height": "adapt_image",
+        "fixed_height": 860,
+        "image_height_mb": "adapt_image",
+        "fixed_height_mb": 300,
+        "image": "shopify:\/\/shop_images\/Rinkside_Rush_Sale_Web_Banner_2000_x_800_px_1_1.jpg",
+        "image_mb": "shopify:\/\/shop_images\/Rinkside_Rush_Sale_Email_-_brand_blocks.png",
+        "link_img": "shopify:\/\/collections\/vaughn-goalie",
+        "target": false,
+        "image_behavior": "none",
+        "use_overlay": false,
+        "use_bg_content": false,
+        "content_position": "center",
+        "content_align": "center",
+        "content_position_mb": "center",
+        "content_align_mb": "center",
+        "full_width": true,
+        "boxed_fullwidth": true,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_rate": 75
+      }
+    },
+    "featured_collection_carousel_dVHGWW": {
+      "type": "featured-collection-carousel",
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "True Sale",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "btn_heading": false,
+        "nav_heading": "disable",
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection": "true-goalie-sale",
+        "product_list": [
+
+        ],
+        "product_des": "1",
+        "image_ratio": "adapt_image",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 15,
+        "col_dk": "5",
+        "col_tb": "3",
+        "col_mb": "2",
+        "half_item": false,
+        "navUI": true,
+        "nav_des": "outline",
+        "nav_pos": "middle_out",
+        "dotUI": false,
+        "pagination_type": "view_all",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "View all",
+        "btn_style": "link",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 52,
+        "padding_rate": 75
+      }
+    },
+    "image_gallery_LUgwe8": {
+      "type": "image-gallery",
+      "blocks": {
+        "gallery_item_hMLNMg": {
+          "type": "gallery_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/shadow-leg-pad-square.jpg",
+            "item_link": "",
+            "product_item": "bauer-supreme-shadow-senior-goalie-leg-pads"
+          }
+        },
+        "gallery_item_mgEn9X": {
+          "type": "gallery_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/shadow-blocker-square.jpg",
+            "item_link": "",
+            "product_item": "bauer-supreme-shadow-senior-goalie-blocker"
+          }
+        },
+        "gallery_item_iLmjxD": {
+          "type": "gallery_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/shadow-full-square.jpg",
+            "item_link": "",
+            "product_item": "bauer-supreme-shadow-senior-goalie-leg-pads"
+          }
+        },
+        "gallery_item_GcQWgF": {
+          "type": "gallery_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/shadow-catcher-square.jpg",
+            "item_link": "",
+            "product_item": "bauer-supreme-shadow-senior-goalie-catcher"
+          }
+        },
+        "gallery_item_VdkyKT": {
+          "type": "gallery_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/shadow-stick-square.jpg",
+            "item_link": "",
+            "product_item": "bauer-supreme-shadow-senior-goalie-stick"
+          }
+        }
+      },
+      "block_order": [
+        "gallery_item_hMLNMg",
+        "gallery_item_mgEn9X",
+        "gallery_item_iLmjxD",
+        "gallery_item_GcQWgF",
+        "gallery_item_VdkyKT"
+      ],
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "Bauer Supreme Shadow",
+        "heading_tag": "h2",
+        "heading_size": "h3",
+        "sec_subheading": "<p>Experience control like you've never seen before.<\/p>",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 11,
+        "sec_heading_spacing": 46,
+        "image_ratio": "asos",
+        "image_size": true,
+        "col_dk": "5",
+        "col_tb": "3",
+        "col_mb": "2",
+        "spacing_items": 10,
+        "navUI": false,
+        "nav_des": "default",
+        "dotUI": false,
+        "dots_pos": "outline",
+        "section_fullwidth": true,
+        "boxed_fullwidth": true,
+        "color_scheme": "",
+        "padding_top": 32,
+        "padding_bottom": 52,
+        "padding_rate": 75
+      }
+    },
+    "image_with_tabs_content_FaieMG": {
+      "type": "image-with-tabs-content",
+      "blocks": {
+        "tab_item_qDdYqe": {
+          "type": "tab_item",
+          "settings": {
+            "title": "Konekt 2",
+            "heading": "Revolutionized tech for elite goalies.",
+            "content_text": "The KONEKT 2 is here. Lighter than it's predecessor, this skate features state-of-the-art technology for the games most elite goalies. Its innovative design ensures superior comfort and durability.",
+            "btn_label": "Shop Konekt 2",
+            "btn_link": "https:\/\/www.thehockeyshop.com\/search?page=&sort_by=relevance&q=konekt2&type=product&options%5Bprefix%5D=last&options%5Bunavailable_products%5D=last&filter.v.availability=1&filter.v.price.gte=&filter.v.price.lte=",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1"
+          }
+        }
+      },
+      "block_order": [
+        "tab_item_qDdYqe"
+      ],
+      "custom_css": [
+        ".hdt-tab {display: flex; justify-content: center;}"
+      ],
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "main_img": "shopify:\/\/shop_images\/bauer-goalie-skates-bauer-konekt2-intermediate-goalie-skates-31287323951170.jpg",
+        "image_pos": "right",
+        "image_ratio": "adapt_image",
+        "custom_height": 860,
+        "custom_height_tb": 300,
+        "custom_height_mb": 300,
+        "section_fullwidth": false,
+        "color_scheme": "scheme-1",
+        "padding_top": 10,
+        "padding_bottom": 52,
+        "padding_rate": 75
+      }
+    },
+    "image_with_text_rUEA8j": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_jgrzRr": {
+          "type": "heading",
+          "settings": {
+            "heading": "Your next Bauer set starts here.",
+            "heading_fs": "h3"
+          }
+        },
+        "text_b39mgX": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Oour expert team handpicked each piece to meet goalies' needs at all skill levels, so you can focus on stopping pucks.<\/p>"
+          }
+        },
+        "button_zLYfMm": {
+          "type": "button",
+          "settings": {
+            "btn_label": "Shop Bauer Goalie",
+            "btn_link": "shopify:\/\/collections\/bauer-goalie",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "medium",
+            "btn_icon": "1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_jgrzRr",
+        "text_b39mgX",
+        "button_zLYfMm"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/hyperlite2-goalie-mobile-hero-banner_0009_DSCF4006.jpg",
+        "style_image": "1",
+        "image_effect": "zoom-in",
+        "color_scheme": "scheme-1",
+        "image_last": false,
+        "content_position": "center",
+        "alignment": "center",
+        "content_pl": 0,
+        "image_last_mb": false,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "image_with_text_rdAQc9": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_Xqp3hL": {
+          "type": "heading",
+          "settings": {
+            "heading": "TENDYFEST MERCH",
+            "heading_fs": "h3"
+          }
+        },
+        "sub_heading_WmLEym": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "All proceeds from the sale of TendyFest merchandise are donated to the Canucks Autism Network, supporting programs and services for individuals and families living with autism.",
+            "sub_fs": "lg"
+          }
+        },
+        "button_BYKQtC": {
+          "type": "button",
+          "settings": {
+            "btn_label": "Buy Now",
+            "btn_link": "shopify:\/\/collections\/the-hockey-shop-merch",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1"
+          }
+        },
+        "button_CqUzR3": {
+          "type": "button",
+          "settings": {
+            "btn_label": "Donate to CAN",
+            "btn_link": "https:\/\/support.canucksautism.ca\/site\/TR\/CANPro-Am\/Pro-Am?team_id=3280&pg=team&fr_id=1280&ltclid=829cb569-24bb-4ca8-96ba-9bda7cf32a8f",
+            "target": true,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "medium",
+            "btn_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Xqp3hL",
+        "sub_heading_WmLEym",
+        "button_BYKQtC",
+        "button_CqUzR3"
+      ],
+      "custom_css": [
+        "a:last-child {background-color: #003f7e; border: none;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/tendyfest-shirts_hats.jpg",
+        "style_image": "1",
+        "image_effect": "zoom-in",
+        "color_scheme": "",
+        "image_last": true,
+        "content_position": "center",
+        "alignment": "center",
+        "content_pl": 0,
+        "image_last_mb": false,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "collections_list_simple_D7GcpX": {
+      "type": "collections-list-simple",
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "btn_heading_collection": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection_list": [
+          "goalie-accessories",
+          "clearance-goalie",
+          "custom-gear",
+          "goalie-baselayer",
+          "goalie-bags",
+          "goalie-jocks"
+        ],
+        "text_transform": false,
+        "other_link_label": "View all categories",
+        "other_link": "",
+        "section_fullwidth": false,
+        "color_scheme": "scheme-3",
+        "padding_top": 16,
+        "padding_bottom": 20,
+        "padding_rate": 75
+      }
+    },
+    "image_with_text_gcKQCJ": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_RqaUeb": {
+          "type": "heading",
+          "settings": {
+            "heading": "It's a great day for hockey",
+            "heading_fs": "h4"
+          }
+        },
+        "text_KezTrH": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Over 30 years of pure hockey passion.<\/p><p>Fast shipping. Easy returns. Expert advice.<\/p><p>Hockey's best. Delivered to your door.<\/p>"
+          }
+        },
+        "button_jNFUqd": {
+          "type": "button",
+          "settings": {
+            "btn_label": "About Us",
+            "btn_link": "shopify:\/\/pages\/about-the-hockey-shop-source-for-sports",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_RqaUeb",
+        "text_KezTrH",
+        "button_jNFUqd"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/SFS_Logo_Horizontal_The_Hockey_Shop_Black_2_9769cd48-6b92-4e9c-972f-1a9871e25397.png",
+        "style_image": "1",
+        "image_effect": "zoom-in",
+        "color_scheme": "",
+        "image_last": false,
+        "content_position": "center",
+        "alignment": "center",
+        "content_pl": 0,
+        "image_last_mb": false,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "icon_box_Hm4Wye": {
+      "type": "icon-box",
+      "blocks": {
+        "item_HaiMiV": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "box",
+            "custom_svg": "",
+            "icon_width": 30,
+            "icon_width_mb": 30,
+            "link": "",
+            "open_link": false,
+            "title": "Free Shipping",
+            "content": "<p>You will love at great low prices<\/p>",
+            "adding_border": false
+          }
+        },
+        "item_KxRc4F": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "payment",
+            "custom_svg": "",
+            "icon_width": 30,
+            "icon_width_mb": 30,
+            "link": "",
+            "open_link": false,
+            "title": "Flexible Payment",
+            "content": "<p>Pay with Multiple Credit Cards<\/p>",
+            "adding_border": false
+          }
+        },
+        "item_GDwhBU": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "return",
+            "custom_svg": "",
+            "icon_width": 30,
+            "icon_width_mb": 30,
+            "link": "",
+            "open_link": false,
+            "title": "14 Day Returns",
+            "content": "<p>Within 30 days for an exchange<\/p>",
+            "adding_border": false
+          }
+        },
+        "item_MMnFhd": {
+          "type": "item",
+          "settings": {
+            "icon_svg": "support",
+            "custom_svg": "",
+            "icon_width": 30,
+            "icon_width_mb": 30,
+            "link": "",
+            "open_link": false,
+            "title": "Premium Suport",
+            "content": "<p>Outstanding premium support<\/p>",
+            "adding_border": false
+          }
+        }
+      },
+      "block_order": [
+        "item_HaiMiV",
+        "item_KxRc4F",
+        "item_GDwhBU",
+        "item_MMnFhd"
+      ],
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 29,
+        "sec_heading_spacing": 30,
+        "icon_pos_center": false,
+        "icon_pos_center_mb": true,
+        "icon_circle": false,
+        "space_icon_heading": "medium",
+        "size_heading": "medium",
+        "heading_uppercase": false,
+        "space_heading_content": "small",
+        "col_dk": "4",
+        "col_tb": "2",
+        "col_mb": "1",
+        "carousel_mobile": true,
+        "border_style": "1",
+        "fullwidth": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_rate": 75
+      }
+    }
+  },
+  "order": [
+    "slideshow_q7pEg9",
+    "marquee_cy3Qc8",
+    "top_heading_4iawTD",
+    "collections_list_QLied3",
+    "hero_image_jpAKKj",
+    "brand_carousel_PEpMV7",
+    "banner_QTT7Cc",
+    "featured_collection_carousel_iiL9bG",
+    "banner_GEzKfg",
+    "featured_collection_carousel_CJJYix",
+    "banner_7Vkqh8",
+    "featured_collection_carousel_eGaHBE",
+    "hero_image_cMLECQ",
+    "featured_collection_carousel_dVHGWW",
+    "image_gallery_LUgwe8",
+    "image_with_tabs_content_FaieMG",
+    "image_with_text_rUEA8j",
+    "image_with_text_rdAQc9",
+    "collections_list_simple_D7GcpX",
+    "image_with_text_gcKQCJ",
+    "icon_box_Hm4Wye"
+  ]
+}
