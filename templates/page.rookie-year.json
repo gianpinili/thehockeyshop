@@ -286,6 +286,102 @@
         "padding_rate": 75
       }
     },
+    "main_heading_WEdnpY": {
+      "type": "main-heading",
+      "blocks": {
+        "1_mPEFAk": {
+          "type": "1",
+          "settings": {
+            "heading": "Minor Hockey Associations Partners",
+            "heading_size": "h3"
+          }
+        }
+      },
+      "block_order": [
+        "1_mPEFAk"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "spacing_hd": 5,
+        "padding_top": 30,
+        "padding_bottom": 30,
+        "padding_rate": 75
+      }
+    },
+    "image_gallery_gVkLTy": {
+      "type": "image-gallery",
+      "blocks": {
+        "gallery_item_pKhbwa": {
+          "type": "gallery_item",
+          "settings": {
+            "item_link": "",
+            "product_item": ""
+          }
+        },
+        "gallery_item_nXre8Y": {
+          "type": "gallery_item",
+          "settings": {
+            "item_link": "",
+            "product_item": ""
+          }
+        },
+        "gallery_item_tWrU6D": {
+          "type": "gallery_item",
+          "settings": {
+            "item_link": "",
+            "product_item": ""
+          }
+        },
+        "gallery_item_zfWbXJ": {
+          "type": "gallery_item",
+          "settings": {
+            "item_link": "",
+            "product_item": ""
+          }
+        },
+        "gallery_item_tcgXxF": {
+          "type": "gallery_item",
+          "settings": {
+            "item_link": "",
+            "product_item": ""
+          }
+        }
+      },
+      "block_order": [
+        "gallery_item_pKhbwa",
+        "gallery_item_nXre8Y",
+        "gallery_item_tWrU6D",
+        "gallery_item_zfWbXJ",
+        "gallery_item_tcgXxF"
+      ],
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "image_ratio": "square",
+        "image_size": true,
+        "col_dk": "5",
+        "col_tb": "2",
+        "col_mb": "1",
+        "spacing_items": 10,
+        "navUI": false,
+        "nav_des": "default",
+        "dotUI": false,
+        "dots_pos": "outline",
+        "section_fullwidth": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 52,
+        "padding_rate": 75
+      }
+    },
     "image_with_text_gcKQCJ": {
       "type": "image-with-text",
       "blocks": {
@@ -442,6 +538,8 @@
     "image_with_text_bpgnJp",
     "custom_liquid_chtq9L",
     "tabs_image_with_text_HWqFCc",
+    "main_heading_WEdnpY",
+    "image_gallery_gVkLTy",
     "image_with_text_gcKQCJ",
     "icon_box_Hm4Wye"
   ]
