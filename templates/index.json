@@ -146,7 +146,7 @@
           "settings": {
             "button_text": "Shop Now",
             "button_link": "shopify:\/\/collections\/all-clearance",
-            "button-color": "#EB001B"
+            "button-color": "#eb001b"
           }
         }
       },
@@ -452,12 +452,6 @@
         "padding_top": 16,
         "padding_bottom": 21,
         "padding_rate": 75
-      }
-    },
-    "brand_carousel_j6Bm7L": {
-      "type": "brand-carousel",
-      "disabled": true,
-      "settings": {
       }
     },
     "featured_collection_carousel_tparE8": {
@@ -1316,7 +1310,6 @@
     "featured_collection_carousel_aFaMir",
     "hero_image_3VNqLJ",
     "hero_image_E4PYVD",
-    "brand_carousel_j6Bm7L",
     "featured_collection_carousel_tparE8",
     "banner_qfQbew",
     "featured_collection_carousel_YDkkkx",
