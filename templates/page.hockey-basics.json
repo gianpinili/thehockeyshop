@@ -25,10 +25,81 @@
       ],
       "settings": {
         "color_scheme": "",
-        "spacing_hd": 5,
+        "spacing_hd": 17,
         "padding_top": 30,
         "padding_bottom": 30,
         "padding_rate": 75
+      }
+    },
+    "top_heading_gKxbRA": {
+      "type": "top-heading",
+      "blocks": {
+        "sub_heading_N7r4EV": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Choosing a stick for 2024!",
+            "sub_heading_fs": "xl"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_N7r4EV"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 69,
+        "padding_bottom": 0,
+        "padding_rate": 75,
+        "button_bg_color": "#000000"
+      }
+    },
+    "video_2_cGFfdH": {
+      "type": "video-2",
+      "custom_css": [
+        "iframe {border-radius: 10px;}",
+        "@media (max-width: 450px) {iframe {height: 20rem; }}",
+        "@media (min-width: 450px) and (max-width: 550px) {iframe {height: 28rem; }}",
+        "@media (min-width: 550px) and (max-width: 675px) {iframe {height: 34rem; }}",
+        "@media (min-width: 675px) and (max-width: 800px) {iframe {height: 45rem; }}"
+      ],
+      "settings": {
+        "external_video_url": "<iframe width=\"1221\" height=\"687\" src=\"https:\/\/www.youtube.com\/embed\/wIH3WMDbgvY\" title=\"Is THIS the BEST stick of 2024?\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>",
+        "video_ratio": "adapt_video",
+        "color_scheme": "",
+        "full_width": false,
+        "padding_top": 36,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "top_heading_hFqXhG": {
+      "type": "top-heading",
+      "blocks": {
+        "sub_heading_jqEHHm": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "How to Tape Your Hockey Stick:",
+            "sub_heading_fs": "xl"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_jqEHHm"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 69,
+        "padding_bottom": 0,
+        "padding_rate": 75,
+        "button_bg_color": "#000000"
       }
     },
     "video_2_xdBXnz": {
@@ -45,7 +116,142 @@
         "video_ratio": "adapt_video",
         "color_scheme": "",
         "full_width": false,
-        "padding_top": 15,
+        "padding_top": 36,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "top_heading_cT3yq3": {
+      "type": "top-heading",
+      "blocks": {
+        "sub_heading_CPMP9F": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Multiple Helmet Options:",
+            "sub_heading_fs": "xl"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_CPMP9F"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 69,
+        "padding_bottom": 0,
+        "padding_rate": 75,
+        "button_bg_color": "#000000"
+      }
+    },
+    "video_2_NC4DT4": {
+      "type": "video-2",
+      "custom_css": [
+        "iframe {border-radius: 10px;}",
+        "@media (max-width: 450px) {iframe {height: 20rem; }}",
+        "@media (min-width: 450px) and (max-width: 550px) {iframe {height: 28rem; }}",
+        "@media (min-width: 550px) and (max-width: 675px) {iframe {height: 34rem; }}",
+        "@media (min-width: 675px) and (max-width: 800px) {iframe {height: 45rem; }}"
+      ],
+      "settings": {
+        "external_video_url": "<iframe width=\"1221\" height=\"687\" src=\"https:\/\/www.youtube.com\/embed\/7qFfX2HTaC4\" title=\"We tried on EVERY Hockey Helmet\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>",
+        "video_ratio": "adapt_video",
+        "color_scheme": "",
+        "full_width": false,
+        "padding_top": 36,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "top_heading_W8K8PU": {
+      "type": "top-heading",
+      "blocks": {
+        "sub_heading_KCUjXR": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Multiple Skate Options:",
+            "sub_heading_fs": "xl"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_KCUjXR"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 69,
+        "padding_bottom": 0,
+        "padding_rate": 75,
+        "button_bg_color": "#000000"
+      }
+    },
+    "video_2_AXricg": {
+      "type": "video-2",
+      "custom_css": [
+        "iframe {border-radius: 10px;}",
+        "@media (max-width: 450px) {iframe {height: 20rem; }}",
+        "@media (min-width: 450px) and (max-width: 550px) {iframe {height: 28rem; }}",
+        "@media (min-width: 550px) and (max-width: 675px) {iframe {height: 34rem; }}",
+        "@media (min-width: 675px) and (max-width: 800px) {iframe {height: 45rem; }}"
+      ],
+      "settings": {
+        "external_video_url": "<iframe width=\"1221\" height=\"687\" src=\"https:\/\/www.youtube.com\/embed\/YrN31OujkP4\" title=\"Trying $18K Worth of Skates!\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>",
+        "video_ratio": "adapt_video",
+        "color_scheme": "",
+        "full_width": false,
+        "padding_top": 36,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "top_heading_KePUFA": {
+      "type": "top-heading",
+      "blocks": {
+        "sub_heading_wnT4yd": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "No ice available near you ? Try roller hockey!",
+            "sub_heading_fs": "xl"
+          }
+        }
+      },
+      "block_order": [
+        "sub_heading_wnT4yd"
+      ],
+      "settings": {
+        "spacing_item": 30,
+        "alignment": "center",
+        "alignment_mb": "center",
+        "fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 69,
+        "padding_bottom": 0,
+        "padding_rate": 75,
+        "button_bg_color": "#000000"
+      }
+    },
+    "video_2_Jd3gdy": {
+      "type": "video-2",
+      "custom_css": [
+        "iframe {border-radius: 10px;}",
+        "@media (max-width: 450px) {iframe {height: 20rem; }}",
+        "@media (min-width: 450px) and (max-width: 550px) {iframe {height: 28rem; }}",
+        "@media (min-width: 550px) and (max-width: 675px) {iframe {height: 34rem; }}",
+        "@media (min-width: 675px) and (max-width: 800px) {iframe {height: 45rem; }}"
+      ],
+      "settings": {
+        "external_video_url": "<iframe width=\"1221\" height=\"687\" src=\"https:\/\/www.youtube.com\/embed\/ECPcl_yS5Dk\" title=\"Ice Hockey Player Tries Roller Hockey for the First Time!\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>",
+        "video_ratio": "adapt_video",
+        "color_scheme": "",
+        "full_width": false,
+        "padding_top": 36,
         "padding_bottom": 0,
         "padding_rate": 75
       }
@@ -200,7 +406,16 @@
   },
   "order": [
     "main_heading_jEwfwN",
+    "top_heading_gKxbRA",
+    "video_2_cGFfdH",
+    "top_heading_hFqXhG",
     "video_2_xdBXnz",
+    "top_heading_cT3yq3",
+    "video_2_NC4DT4",
+    "top_heading_W8K8PU",
+    "video_2_AXricg",
+    "top_heading_KePUFA",
+    "video_2_Jd3gdy",
     "image_with_text_gcKQCJ",
     "icon_box_Hm4Wye"
   ]
