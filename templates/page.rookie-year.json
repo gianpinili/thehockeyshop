@@ -314,6 +314,7 @@
         "gallery_item_pKhbwa": {
           "type": "gallery_item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/coquitlam_logo.webp",
             "item_link": "",
             "product_item": ""
           }
@@ -321,6 +322,7 @@
         "gallery_item_nXre8Y": {
           "type": "gallery_item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/sd_logo.jpg",
             "item_link": "",
             "product_item": ""
           }
@@ -328,6 +330,7 @@
         "gallery_item_tWrU6D": {
           "type": "gallery_item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/falcon_logo.webp",
             "item_link": "",
             "product_item": ""
           }
@@ -335,6 +338,7 @@
         "gallery_item_zfWbXJ": {
           "type": "gallery_item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/tri_city_logo.webp",
             "item_link": "",
             "product_item": ""
           }
@@ -356,7 +360,7 @@
         "gallery_item_tcgXxF"
       ],
       "custom_css": [
-        "@media (min-width: 1024px) {.hdt-slider__container {display:flex; justify-content: center; }}"
+        "@media (min-width: 1024px) {.hdt-slider__container {display: flex; justify-content: center; }}"
       ],
       "settings": {
         "heading_align": "center",
@@ -383,6 +387,28 @@
         "color_scheme": "",
         "padding_top": 0,
         "padding_bottom": 52,
+        "padding_rate": 75
+      }
+    },
+    "custom_liquid_CxKzBY": {
+      "type": "custom-liquid",
+      "settings": {
+        "section_fullwidth": false,
+        "custom_liquid": "<p style=\"text-align:center; font-size:20px\">The Coquitlam Minor Hockey Mini C program was a raving success, in no small part due to you and your staff. We currently have 54 kids enrolled which is double the enrolment we had the year before in H1. We would love to be able to plan for the same thing for the 2021-2022 season.\"\n<br><br><strong>- Debra Harper, CMHA Administrative Director<\/strong><\/p>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "padding_rate": 75
+      }
+    },
+    "custom_liquid_tJBGB6": {
+      "type": "custom-liquid",
+      "settings": {
+        "section_fullwidth": false,
+        "custom_liquid": "<br>\n<h3 style=\"text-align:center; padding-bottom: 10px;\">Want to find out more?<\/h3>\n<p style=\"font-size:20px;text-align:center\">\nIs your association looking to learn more about the Rookie Year Equipment Package? <br><br>Contact us here: <b><a href=\"teamsales@thehockeyshop.com\">teamsales@thehockeyshop.com<\/a><\/b><\/p>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40,
         "padding_rate": 75
       }
     },
@@ -544,6 +570,8 @@
     "tabs_image_with_text_HWqFCc",
     "main_heading_WEdnpY",
     "image_gallery_gVkLTy",
+    "custom_liquid_CxKzBY",
+    "custom_liquid_tJBGB6",
     "image_with_text_gcKQCJ",
     "icon_box_Hm4Wye"
   ]
