@@ -341,6 +341,7 @@
         },
         "gallery_item_tcgXxF": {
           "type": "gallery_item",
+          "disabled": true,
           "settings": {
             "item_link": "",
             "product_item": ""
@@ -353,6 +354,9 @@
         "gallery_item_tWrU6D",
         "gallery_item_zfWbXJ",
         "gallery_item_tcgXxF"
+      ],
+      "custom_css": [
+
       ],
       "settings": {
         "heading_align": "center",
