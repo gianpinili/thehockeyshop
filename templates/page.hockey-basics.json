@@ -36,7 +36,7 @@
       "custom_css": [
         "iframe {border-radius: 10px;}",
         "@media (max-width: 450px) {iframe {height: 20rem; }}",
-        "@media (max-width: 800px) {iframe {height: 25rem; }}"
+        "@media (min-width: 450px and max-width: 800px) {iframe {height: 25rem; }}"
       ],
       "settings": {
         "external_video_url": "<iframe width=\"1221\" height=\"687\" src=\"https:\/\/www.youtube.com\/embed\/b_5pmwy7fJE\" title=\"How To Tape A Hockey Stick\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>",
