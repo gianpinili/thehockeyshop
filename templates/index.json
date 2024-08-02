@@ -337,7 +337,7 @@
         "fixed_height_mb": 300,
         "image": "shopify:\/\/shop_images\/Untitled_design_9.png",
         "image_mb": "shopify:\/\/shop_images\/Nexus_Tracer_Main.jpg",
-        "link_img": "shopify:\/\/collections\/nexus-tracer-sticks",
+        "link_img": "shopify:\/\/collections\/bauer-tracer-sticks",
         "target": false,
         "image_behavior": "none",
         "use_overlay": false,
@@ -371,7 +371,7 @@
         "nav_heading": "disable",
         "heading_gap": 18,
         "sec_heading_spacing": 16,
-        "collection": "nexus-tracer-sticks",
+        "collection": "bauer-tracer-sticks",
         "product_list": [
 
         ],
