@@ -182,7 +182,7 @@
         "template--20958100226352__282a0160-505d-43ff-b601-043a5a327bc1-collection_item-2": {
           "type": "collection_item",
           "settings": {
-            "collection": "clothing-womens",
+            "collection": "hockey-sticks",
             "image": "shopify:\/\/shop_images\/ccm-hockey-sticks-ccm-jetspeed-ft7-pro-junior-hockey-stick-custom-color-31564175147074.jpg",
             "title": "Sticks",
             "collection_link": ""
@@ -191,7 +191,7 @@
         "4fb04760-f15f-40fb-9566-65e01d74325b": {
           "type": "collection_item",
           "settings": {
-            "collection": "clothing-womens",
+            "collection": "hockey-gloves",
             "image": "shopify:\/\/shop_images\/bauer-gloves-bauer-vapor-hyperlite-intermediate-hockey-gloves-29084675080258.jpg",
             "title": "Gloves",
             "collection_link": ""
@@ -218,7 +218,7 @@
         "64391ffc-c043-4f35-a51e-da90b7143a42": {
           "type": "collection_item",
           "settings": {
-            "collection": "clothing-womens",
+            "collection": "hockey-shin-guards",
             "image": "shopify:\/\/shop_images\/ccm-shin-guards-ccm-tacks-xf-pro-junior-hockey-shin-guards-31639302176834.jpg",
             "title": "Shin Pads",
             "collection_link": ""
@@ -227,7 +227,7 @@
         "collection_item_nGjjRB": {
           "type": "collection_item",
           "settings": {
-            "collection": "clothing-womens",
+            "collection": "hockey-elbow-pads",
             "image": "shopify:\/\/shop_images\/warrior-elbow-pads-warrior-rise-youth-hockey-elbow-pads-31736193351746.jpg",
             "title": "Elbow Pads",
             "collection_link": ""
