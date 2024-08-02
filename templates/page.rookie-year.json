@@ -356,7 +356,7 @@
         "gallery_item_tcgXxF"
       ],
       "custom_css": [
-
+        "@media (min-width: 1024px) {.hdt-slider__container {display:flex; justify-content: center; }}"
       ],
       "settings": {
         "heading_align": "center",
