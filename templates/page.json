@@ -402,7 +402,7 @@
         "full_width": false,
         "boxed_fullwidth": false,
         "col_dk": "2",
-        "row_height": 500,
+        "row_height": 450,
         "content_pd_y": 15,
         "content_pd_x": 15,
         "space_item": 30,
@@ -533,7 +533,7 @@
         "full_width": false,
         "boxed_fullwidth": false,
         "col_dk": "2",
-        "row_height": 430,
+        "row_height": 450,
         "content_pd_y": 15,
         "content_pd_x": 15,
         "space_item": 30,
@@ -660,11 +660,14 @@
         "banner_3_iaQJEb",
         "banner_3_gxjfwk"
       ],
+      "custom_css": [
+
+      ],
       "settings": {
         "full_width": false,
         "boxed_fullwidth": false,
         "col_dk": "2",
-        "row_height": 430,
+        "row_height": 450,
         "content_pd_y": 15,
         "content_pd_x": 15,
         "space_item": 30,
