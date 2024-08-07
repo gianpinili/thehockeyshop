@@ -234,19 +234,19 @@
         "2df28d7b-099f-47ed-86f4-85cd62c91eff": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Address<\/strong><\/p><p>The Hockey Shop<br\/>20202 66 Ave F1<br\/>Langley B.C.<br\/>V2Y 1P3<\/p>"
+            "text": "<p><strong>Address<\/strong><\/p><p><a href=\"https:\/\/www.google.com\/maps?ll=49.12198,-122.664999&z=16&t=m&hl=en&gl=CA&mapclient=embed&cid=3806003821076447044\" title=\"https:\/\/www.google.com\/maps?ll=49.12198,-122.664999&z=16&t=m&hl=en&gl=CA&mapclient=embed&cid=3806003821076447044\">The Hockey Shop<br\/>20202 66 Ave F1<br\/>Langley B.C.<br\/>V2Y 1P3<\/a><\/p>"
           }
         },
         "568490b0-65b7-47fa-a348-41c08177abff": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Phone<\/strong><\/p><p>604-589-8299<\/p>"
+            "text": "<p><strong>Phone<\/strong><\/p><p><a href=\"tel:6045898299\" title=\"tel:6045898299\">604-589-8299<\/a><\/p>"
           }
         },
         "8e05fb1c-5303-4879-a0cc-0ca953b314b6": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Email<\/strong><\/p><p>sales@thehockeyshop.com<\/p>"
+            "text": "<p><strong>Email<\/strong><\/p><p><a href=\"mailto:sales@thehockeyshop.com\" title=\"mailto:sales@thehockeyshop.com\">sales@thehockeyshop.com<\/a><\/p>"
           }
         },
         "d6a7c3b7-0737-4c13-a011-7aab813cf9c3": {
