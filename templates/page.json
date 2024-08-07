@@ -151,7 +151,7 @@
           "settings": {
             "button_text": "Shop Now",
             "button_link": "shopify:\/\/collections\/all-clearance",
-            "button-color": "#EB001B"
+            "button-color": "#eb001b"
           }
         }
       },
@@ -175,12 +175,21 @@
     "collections_list_QLied3": {
       "type": "collections-list",
       "blocks": {
-        "collection_item_wVfBGT": {
+        "collection_item_7CdKzE": {
           "type": "collection_item",
           "settings": {
-            "collection": "goalie-skates",
-            "image": "shopify:\/\/shop_images\/bauer-goalie-skates-bauer-pro-intermediate-goalie-skates-31250001756226.jpg",
-            "title": "Skates",
+            "collection": "catchers",
+            "image": "shopify:\/\/shop_images\/bauer-catchers-bauer-learn-to-save-goalie-catcher-black-full-right-31840048447554.jpg",
+            "title": "Catchers",
+            "collection_link": ""
+          }
+        },
+        "collection_item_paaADt": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "goalie-blockers",
+            "image": "shopify:\/\/shop_images\/vaughn-blockers-vaughn-velocity-v10-pro-carbon-senior-goalie-blocker-swirl-graphic-31748135256130.jpg",
+            "title": "Blockers",
             "collection_link": ""
           }
         },
@@ -202,30 +211,12 @@
             "collection_link": ""
           }
         },
-        "collection_item_aJhRNQ": {
+        "collection_item_wVfBGT": {
           "type": "collection_item",
           "settings": {
-            "collection": "goalie-masks",
-            "image": "shopify:\/\/shop_images\/warrior-goalie-masks-senior-warrior-ritual-f2-e-senior-goalie-mask-30797508935746.jpg",
-            "title": "Masks",
-            "collection_link": ""
-          }
-        },
-        "collection_item_7CdKzE": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "catchers",
-            "image": "shopify:\/\/shop_images\/bauer-catchers-bauer-learn-to-save-goalie-catcher-black-full-right-31840048447554.jpg",
-            "title": "Catchers",
-            "collection_link": ""
-          }
-        },
-        "collection_item_paaADt": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "goalie-blockers",
-            "image": "shopify:\/\/shop_images\/vaughn-blockers-vaughn-velocity-v10-pro-carbon-senior-goalie-blocker-swirl-graphic-31748135256130.jpg",
-            "title": "Blockers",
+            "collection": "goalie-skates",
+            "image": "shopify:\/\/shop_images\/bauer-goalie-skates-bauer-pro-intermediate-goalie-skates-31250001756226.jpg",
+            "title": "Skates",
             "collection_link": ""
           }
         },
@@ -235,6 +226,15 @@
             "collection": "goalie-chest-protectors",
             "image": "shopify:\/\/shop_images\/ccm-chest-protectors-ccm-pro-spec-senior-chest-arm-protector-31229408542786.jpg",
             "title": "Chest Protectors",
+            "collection_link": ""
+          }
+        },
+        "collection_item_aJhRNQ": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "goalie-masks",
+            "image": "shopify:\/\/shop_images\/warrior-goalie-masks-senior-warrior-ritual-f2-e-senior-goalie-mask-30797508935746.jpg",
+            "title": "Masks",
             "collection_link": ""
           }
         },
@@ -249,13 +249,13 @@
         }
       },
       "block_order": [
-        "collection_item_wVfBGT",
-        "collection_item_FfCWQ6",
-        "collection_item_p6abbX",
-        "collection_item_aJhRNQ",
         "collection_item_7CdKzE",
         "collection_item_paaADt",
+        "collection_item_FfCWQ6",
+        "collection_item_p6abbX",
+        "collection_item_wVfBGT",
         "collection_item_r3x7M7",
+        "collection_item_aJhRNQ",
         "collection_item_Jn43Pp"
       ],
       "settings": {
@@ -318,7 +318,7 @@
         "content_position_mb": "center",
         "content_align_mb": "center",
         "full_width": true,
-        "boxed_fullwidth": true,
+        "boxed_fullwidth": false,
         "color_scheme": "",
         "padding_top": 36,
         "padding_bottom": 36,
@@ -742,7 +742,7 @@
         "content_position_mb": "center",
         "content_align_mb": "center",
         "full_width": true,
-        "boxed_fullwidth": true,
+        "boxed_fullwidth": false,
         "color_scheme": "",
         "padding_top": 36,
         "padding_bottom": 36,
