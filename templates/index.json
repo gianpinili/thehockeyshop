@@ -130,21 +130,21 @@
         "heading_cX8Fpq": {
           "type": "heading",
           "settings": {
-            "heading": "Rinkside Rush Sale!",
+            "heading": "The BIG back to hockey sale.",
             "heading_fs": "h3"
           }
         },
         "sub_heading_V9aBD8": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "Beat the rush and hit the ice early.<br> Score up to 40% off. Countdown to hockey starts now.",
+            "sub_heading": "Score up to 40% off. Countdown to hockey starts now.<br>\nNew markdowns added.",
             "sub_heading_fs": "lg"
           }
         },
         "button_KE7XmX": {
           "type": "button",
           "settings": {
-            "button_text": "Shop Now",
+            "button_text": "Shop All Sales",
             "button_link": "shopify:\/\/collections\/all-clearance",
             "button-color": "#eb001b"
           }
@@ -304,8 +304,8 @@
         "fixed_height": 860,
         "image_height_mb": "adapt_image",
         "fixed_height_mb": 300,
-        "image": "shopify:\/\/shop_images\/Rinkside_Rush_Sale_Web_Banner_2000_x_800_px.jpg",
-        "image_mb": "shopify:\/\/shop_images\/Rinkside_Rush_Sale_Email_Main_V2_2.jpg",
+        "image": "shopify:\/\/shop_images\/The_Big_Back_To_Hockey_Sale_Desktop_Banner.png",
+        "image_mb": "shopify:\/\/shop_images\/The_Big_Back_To_Hockey_Sale_Mobile_Banner.png",
         "link_img": "https:\/\/www.thehockeyshop.com\/collections\/player-clearance#\/filter:vendor:Bauer",
         "target": false,
         "image_behavior": "none",
