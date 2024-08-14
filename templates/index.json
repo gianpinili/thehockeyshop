@@ -14,6 +14,7 @@
       "blocks": {
         "742a3693-7d5d-4e92-914c-270e1d777d11": {
           "type": "slide_base",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/bauer-hockey-skates-bauer-supreme-shadow-senior-hockey-skates-31249942708290_510ee200-75cf-45be-9ce0-8715cc0948db.jpg",
             "image_mb": "shopify:\/\/shop_images\/bauer-hockey-skates-bauer-supreme-shadow-senior-hockey-skates-31249942708290_510ee200-75cf-45be-9ce0-8715cc0948db.jpg",
@@ -39,10 +40,33 @@
             "content_position_mb": "center-start",
             "alignment_mb": "left"
           }
+        },
+        "slide_product_FKn89g": {
+          "type": "slide_product",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/The_Big_Back_To_Hockey_Sale_Desktop_Banner.png",
+            "image_mb": "shopify:\/\/shop_images\/The_Big_Back_To_Hockey_Sale_Mobile_Banner.png",
+            "url": "shopify:\/\/collections\/all-clearance",
+            "banner_target": false,
+            "color_scheme": "",
+            "product": "",
+            "btn_label": "Shop now",
+            "btn_link": "",
+            "target": false,
+            "btn_size": "base",
+            "btn_style": "solid",
+            "btn_fw": "normal",
+            "btn_icon": "1",
+            "content_position": "center",
+            "alignment": "center",
+            "content_position_mb": "center",
+            "alignment_mb": "center"
+          }
         }
       },
       "block_order": [
-        "742a3693-7d5d-4e92-914c-270e1d777d11"
+        "742a3693-7d5d-4e92-914c-270e1d777d11",
+        "slide_product_FKn89g"
       ],
       "custom_css": [
         ".hdt-slideshow .slide-item_base .hdt-slide_subheading {color: rgb(var(--color-foreground));}"
@@ -50,7 +74,7 @@
       "settings": {
         "full_width": true,
         "item_round": "rounded",
-        "image_height": "full",
+        "image_height": "adapt_image",
         "fixed_height": 770,
         "image_height_mb": "adapt_image",
         "fixed_height_mb": 400,
@@ -162,9 +186,142 @@
         "fullwidth": false,
         "color_scheme": "",
         "padding_top": 50,
-        "padding_bottom": 43,
+        "padding_bottom": 3,
         "padding_rate": 75,
         "button_bg_color": "#ffffff"
+      }
+    },
+    "collections_list_manual_rKFX7h": {
+      "type": "collections-list-manual",
+      "blocks": {
+        "collection_item_eB3bVE": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "hockey-player-equipment",
+            "image": "shopify:\/\/shop_images\/optimized-kick-point.jpg",
+            "title": "Players",
+            "collection_link": "",
+            "column_width": "4",
+            "row_count": 2,
+            "tb_column_width": "6",
+            "tb_row_count": 1,
+            "mb_column_width": "2",
+            "mb_row_count": 1
+          }
+        },
+        "collection_item_Nnmnzt": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "hockey-apparel",
+            "image": "shopify:\/\/shop_images\/howies-hockey-apparel-hoody-lifestyle-senior-howies-hockey-shot-block-performance-mens-hoody-gray-xxl-31769988137026.webp",
+            "title": "Men",
+            "collection_link": "",
+            "column_width": "4",
+            "row_count": 1,
+            "tb_column_width": "6",
+            "tb_row_count": 1,
+            "mb_column_width": "1",
+            "mb_row_count": 1
+          }
+        },
+        "collection_item_FtaYki": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "goalie-hockey-equipment",
+            "image": "shopify:\/\/shop_images\/shadow-full-square.jpg",
+            "title": "Goalies",
+            "collection_link": "",
+            "column_width": "4",
+            "row_count": 2,
+            "tb_column_width": "6",
+            "tb_row_count": 1,
+            "mb_column_width": "2",
+            "mb_row_count": 1
+          }
+        },
+        "collection_item_eKyFBJ": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "womens",
+            "image": "shopify:\/\/shop_images\/howies-hockey-apparel-hoody-lifestyle-senior-howies-hockey-shot-block-performance-mens-hoody-gray-xxl-31769988038722.webp",
+            "title": "Womens",
+            "collection_link": "",
+            "column_width": "4",
+            "row_count": 1,
+            "tb_column_width": "4",
+            "tb_row_count": 1,
+            "mb_column_width": "1",
+            "mb_row_count": 1
+          }
+        }
+      },
+      "block_order": [
+        "collection_item_eB3bVE",
+        "collection_item_Nnmnzt",
+        "collection_item_FtaYki",
+        "collection_item_eKyFBJ"
+      ],
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "btn_heading_collection": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection_des": "1",
+        "content_size": "base",
+        "content_weight": "medium",
+        "text_transform": false,
+        "content_position": "center",
+        "content_padding": 30,
+        "row_height": 390,
+        "row_height_tb": 390,
+        "row_height_mb": 250,
+        "space_items": "5",
+        "space_items_tb": "15",
+        "space_items_mb": "10",
+        "section_fullwidth": true,
+        "boxed_fullwidth": true,
+        "color_scheme": "scheme-3",
+        "padding_top": 60,
+        "padding_bottom": 50,
+        "padding_rate": 75
+      }
+    },
+    "hero_image_krPDV6": {
+      "type": "hero-image",
+      "disabled": true,
+      "settings": {
+        "image_height": "adapt_image",
+        "fixed_height": 860,
+        "image_height_mb": "adapt_image",
+        "fixed_height_mb": 300,
+        "image": "shopify:\/\/shop_images\/The_Big_Back_To_Hockey_Sale_Desktop_Banner.png",
+        "image_mb": "shopify:\/\/shop_images\/The_Big_Back_To_Hockey_Sale_Mobile_Banner.png",
+        "link_img": "https:\/\/www.thehockeyshop.com\/collections\/player-clearance#\/filter:vendor:Bauer",
+        "target": false,
+        "image_behavior": "none",
+        "use_overlay": false,
+        "use_bg_content": false,
+        "content_position": "center",
+        "content_align": "center",
+        "content_position_mb": "center",
+        "content_align_mb": "center",
+        "full_width": true,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 16,
+        "padding_bottom": 16,
+        "padding_rate": 75
+      }
+    },
+    "brand_carousel_xn3MdM": {
+      "type": "brand-carousel",
+      "settings": {
       }
     },
     "282a0160-505d-43ff-b601-043a5a327bc2": {
@@ -295,38 +452,6 @@
         "padding_top": 24,
         "padding_bottom": 18,
         "padding_rate": 40
-      }
-    },
-    "hero_image_krPDV6": {
-      "type": "hero-image",
-      "disabled": true,
-      "settings": {
-        "image_height": "adapt_image",
-        "fixed_height": 860,
-        "image_height_mb": "adapt_image",
-        "fixed_height_mb": 300,
-        "image": "shopify:\/\/shop_images\/The_Big_Back_To_Hockey_Sale_Desktop_Banner.png",
-        "image_mb": "shopify:\/\/shop_images\/The_Big_Back_To_Hockey_Sale_Mobile_Banner.png",
-        "link_img": "https:\/\/www.thehockeyshop.com\/collections\/player-clearance#\/filter:vendor:Bauer",
-        "target": false,
-        "image_behavior": "none",
-        "use_overlay": false,
-        "use_bg_content": false,
-        "content_position": "center",
-        "content_align": "center",
-        "content_position_mb": "center",
-        "content_align_mb": "center",
-        "full_width": true,
-        "boxed_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 16,
-        "padding_bottom": 16,
-        "padding_rate": 75
-      }
-    },
-    "brand_carousel_xn3MdM": {
-      "type": "brand-carousel",
-      "settings": {
       }
     },
     "hero_image_X9dqnD": {
@@ -1165,103 +1290,6 @@
         "padding_rate": 75
       }
     },
-    "collections_list_manual_rKFX7h": {
-      "type": "collections-list-manual",
-      "blocks": {
-        "collection_item_eB3bVE": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "",
-            "title": "Collection name",
-            "collection_link": "",
-            "column_width": "4",
-            "row_count": 2,
-            "tb_column_width": "6",
-            "tb_row_count": 1,
-            "mb_column_width": "2",
-            "mb_row_count": 1
-          }
-        },
-        "collection_item_Nnmnzt": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "",
-            "title": "Collection name",
-            "collection_link": "",
-            "column_width": "4",
-            "row_count": 1,
-            "tb_column_width": "6",
-            "tb_row_count": 1,
-            "mb_column_width": "1",
-            "mb_row_count": 1
-          }
-        },
-        "collection_item_eKyFBJ": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "",
-            "title": "Collection name",
-            "collection_link": "",
-            "column_width": "4",
-            "row_count": 2,
-            "tb_column_width": "6",
-            "tb_row_count": 1,
-            "mb_column_width": "1",
-            "mb_row_count": 1
-          }
-        },
-        "collection_item_FtaYki": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "",
-            "title": "Collection name",
-            "collection_link": "",
-            "column_width": "4",
-            "row_count": 1,
-            "tb_column_width": "6",
-            "tb_row_count": 1,
-            "mb_column_width": "1",
-            "mb_row_count": 1
-          }
-        }
-      },
-      "block_order": [
-        "collection_item_eB3bVE",
-        "collection_item_Nnmnzt",
-        "collection_item_eKyFBJ",
-        "collection_item_FtaYki"
-      ],
-      "settings": {
-        "heading_align": "center",
-        "sec_heading": "",
-        "heading_tag": "h3",
-        "heading_size": "h4",
-        "sec_subheading": "",
-        "subheading_size": "lg",
-        "heading_reverse": false,
-        "btn_heading_collection": false,
-        "heading_gap": 18,
-        "sec_heading_spacing": 30,
-        "collection_des": "1",
-        "content_size": "xl",
-        "content_weight": "medium",
-        "text_transform": false,
-        "content_position": "center",
-        "content_padding": 30,
-        "row_height": 390,
-        "row_height_tb": 390,
-        "row_height_mb": 250,
-        "space_items": "30",
-        "space_items_tb": "15",
-        "space_items_mb": "15",
-        "section_fullwidth": false,
-        "boxed_fullwidth": false,
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "padding_rate": 75
-      }
-    },
     "image_with_text_VXFxkV": {
       "type": "image-with-text",
       "blocks": {
@@ -1414,9 +1442,10 @@
     "c28ddbdb-d0df-4b86-9b0a-674df42ecc5c",
     "marquee_JjnJ7y",
     "top_heading_eLfALw",
-    "282a0160-505d-43ff-b601-043a5a327bc2",
+    "collections_list_manual_rKFX7h",
     "hero_image_krPDV6",
     "brand_carousel_xn3MdM",
+    "282a0160-505d-43ff-b601-043a5a327bc2",
     "hero_image_X9dqnD",
     "featured_collection_carousel_aFaMir",
     "hero_image_3VNqLJ",
@@ -1432,7 +1461,6 @@
     "image_gallery_kiUHL3",
     "image_with_text_rhLwb7",
     "image_gallery_L6CNUr",
-    "collections_list_manual_rKFX7h",
     "image_with_text_VXFxkV",
     "icon_box_JfJQBV"
   ]
