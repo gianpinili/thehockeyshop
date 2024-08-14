@@ -299,6 +299,7 @@
     },
     "hero_image_krPDV6": {
       "type": "hero-image",
+      "disabled": true,
       "settings": {
         "image_height": "adapt_image",
         "fixed_height": 860,
@@ -330,6 +331,7 @@
     },
     "hero_image_X9dqnD": {
       "type": "hero-image",
+      "disabled": true,
       "settings": {
         "image_height": "adapt_image",
         "fixed_height": 860,
@@ -356,6 +358,7 @@
     },
     "featured_collection_carousel_aFaMir": {
       "type": "featured-collection-carousel",
+      "disabled": true,
       "custom_css": [
 
       ],
@@ -404,6 +407,7 @@
     },
     "hero_image_3VNqLJ": {
       "type": "hero-image",
+      "disabled": true,
       "settings": {
         "image_height": "adapt_image",
         "fixed_height": 860,
@@ -456,6 +460,7 @@
     },
     "featured_collection_carousel_tparE8": {
       "type": "featured-collection-carousel",
+      "disabled": true,
       "settings": {
         "heading_align": "center",
         "sec_heading": "Bauer Sale",
@@ -565,6 +570,7 @@
         "banner_1_JRJaRj",
         "banner_1_bddA4X"
       ],
+      "disabled": true,
       "settings": {
         "full_width": false,
         "boxed_fullwidth": false,
@@ -585,6 +591,7 @@
     },
     "featured_collection_carousel_YDkkkx": {
       "type": "featured-collection-carousel",
+      "disabled": true,
       "settings": {
         "heading_align": "center",
         "sec_heading": "Sync Power. 25% Off.",
@@ -630,6 +637,7 @@
     },
     "hero_image_BqjREc": {
       "type": "hero-image",
+      "disabled": true,
       "settings": {
         "image_height": "adapt_image",
         "fixed_height": 860,
@@ -656,6 +664,7 @@
     },
     "featured_collection_carousel_GEc7W8": {
       "type": "featured-collection-carousel",
+      "disabled": true,
       "custom_css": [
         ".hdt-btn.hdt-text-sm {display: none;}"
       ],
@@ -770,6 +779,7 @@
         "tab_item_dQkkp6",
         "tab_item_bR6WGj"
       ],
+      "disabled": true,
       "custom_css": [
         ".hdt-tab {display: flex; justify-content: center;}"
       ],
@@ -798,6 +808,7 @@
     },
     "featured_collection_carousel_yDAzrB": {
       "type": "featured-collection-carousel",
+      "disabled": true,
       "settings": {
         "heading_align": "center",
         "sec_heading": "FT6 Sticks. 20% Off.",
@@ -879,6 +890,7 @@
         "collection_item_f84ybD",
         "collection_item_qq6yGk"
       ],
+      "disabled": true,
       "custom_css": [
 
       ],
@@ -973,6 +985,7 @@
         "gallery_item_aAye8A",
         "gallery_item_QNDVPP"
       ],
+      "disabled": true,
       "settings": {
         "heading_align": "center",
         "sec_heading": "Jetspeed FTW",
@@ -1123,6 +1136,7 @@
         "gallery_item_cbJt3E",
         "gallery_item_UfiG3Y"
       ],
+      "disabled": true,
       "settings": {
         "heading_align": "center",
         "sec_heading": "Shop Our Icons",
@@ -1148,6 +1162,103 @@
         "color_scheme": "",
         "padding_top": 0,
         "padding_bottom": 52,
+        "padding_rate": 75
+      }
+    },
+    "collections_list_manual_rKFX7h": {
+      "type": "collections-list-manual",
+      "blocks": {
+        "collection_item_eB3bVE": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "title": "Collection name",
+            "collection_link": "",
+            "column_width": "4",
+            "row_count": 2,
+            "tb_column_width": "6",
+            "tb_row_count": 1,
+            "mb_column_width": "2",
+            "mb_row_count": 1
+          }
+        },
+        "collection_item_Nnmnzt": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "title": "Collection name",
+            "collection_link": "",
+            "column_width": "4",
+            "row_count": 1,
+            "tb_column_width": "6",
+            "tb_row_count": 1,
+            "mb_column_width": "1",
+            "mb_row_count": 1
+          }
+        },
+        "collection_item_eKyFBJ": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "title": "Collection name",
+            "collection_link": "",
+            "column_width": "4",
+            "row_count": 2,
+            "tb_column_width": "6",
+            "tb_row_count": 1,
+            "mb_column_width": "1",
+            "mb_row_count": 1
+          }
+        },
+        "collection_item_FtaYki": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "",
+            "title": "Collection name",
+            "collection_link": "",
+            "column_width": "4",
+            "row_count": 1,
+            "tb_column_width": "6",
+            "tb_row_count": 1,
+            "mb_column_width": "1",
+            "mb_row_count": 1
+          }
+        }
+      },
+      "block_order": [
+        "collection_item_eB3bVE",
+        "collection_item_Nnmnzt",
+        "collection_item_eKyFBJ",
+        "collection_item_FtaYki"
+      ],
+      "settings": {
+        "heading_align": "center",
+        "sec_heading": "",
+        "heading_tag": "h3",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "subheading_size": "lg",
+        "heading_reverse": false,
+        "btn_heading_collection": false,
+        "heading_gap": 18,
+        "sec_heading_spacing": 30,
+        "collection_des": "1",
+        "content_size": "xl",
+        "content_weight": "medium",
+        "text_transform": false,
+        "content_position": "center",
+        "content_padding": 30,
+        "row_height": 390,
+        "row_height_tb": 390,
+        "row_height_mb": 250,
+        "space_items": "30",
+        "space_items_tb": "15",
+        "space_items_mb": "15",
+        "section_fullwidth": false,
+        "boxed_fullwidth": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
         "padding_rate": 75
       }
     },
@@ -1321,6 +1432,7 @@
     "image_gallery_kiUHL3",
     "image_with_text_rhLwb7",
     "image_gallery_L6CNUr",
+    "collections_list_manual_rKFX7h",
     "image_with_text_VXFxkV",
     "icon_box_JfJQBV"
   ]
