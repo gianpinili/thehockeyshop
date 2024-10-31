@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "image_with_text_F399we": {
@@ -43,7 +43,7 @@
         "sub_heading_7aXrEj": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "Of course, players vary in skill and style, and similarly, every player responds differently to different gear. You may have already done some research and know what stick you want, or you got some help from our experts here at the shop, but if the stick doesn't feel right or its stiffness feels unnatural to you, then even the highest-end stick could hinder your game very easily. And unfortunately, it can be difficult to determine if a stick feels right while not out on the ice. <br><br>\nThat's why the Hockey Shop is equipped with a <b>Stick Demo Zone<\/b> - so you can have a place to try out that stick you're looking at before you purchase.",
+            "sub_heading": "Of course, players vary in skill and style, and similarly, every player responds differently to different gear. You may have already done some research and know what stick you want, or you got some help from our experts here at the shop, but if the stick doesn't feel right or its stiffness feels unnatural to you, then even the highest-end stick could hinder your game very easily. And unfortunately, it can be difficult to determine if a stick feels right while not out on the ice. <br><br>\nThat's why the Hockey Shop is equipped with a <b>Stick Demo Zone</b> - so you can have a place to try out that stick you're looking at before you purchase.",
             "sub_fs": "base"
           }
         }
@@ -56,7 +56,7 @@
         "sub_heading_7aXrEj"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/DSCF8333.jpg",
+        "image": "shopify://shop_images/DSCF8333.jpg",
         "style_image": "1",
         "image_effect": "zoom-in",
         "color_scheme": "",
@@ -85,7 +85,7 @@
         "sub_heading_hkTPLc": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "Our Stick Demo Zone is also a great place to try out different curves, flexes, and kick points. Maybe you've been using a Bauer P92 curve but want something that can help improve your backhand? Someone might suggest a P88 or P28, but you can't be absolutely sure of the curve that's right for you unless you try it out first. Similarly, flexes are constant across all brands in terms of number, but some sticks may still feel stiffer than others (for example, a 75 flex mid kick CCM Tacks stick could feel stiffer or more flexible compared to a 75 flex mid kick TRUE Catalyst stick, depending on your preferences.) <br><br>\nThat's why it's good to try out different sticks before deciding what's best for you.<br><br>\nWe at The Hockey Shop are dedicated to getting you fitted with the right gear for <i>you<\/i>. Feel free to stop by if you are looking for a new stick or any other equipment. Our team of experts ranges across all specialties of the game, including sticks, and they will all be willing to aid with whatever inquiries you have or help you need.",
+            "sub_heading": "Our Stick Demo Zone is also a great place to try out different curves, flexes, and kick points. Maybe you've been using a Bauer P92 curve but want something that can help improve your backhand? Someone might suggest a P88 or P28, but you can't be absolutely sure of the curve that's right for you unless you try it out first. Similarly, flexes are constant across all brands in terms of number, but some sticks may still feel stiffer than others (for example, a 75 flex mid kick CCM Tacks stick could feel stiffer or more flexible compared to a 75 flex mid kick TRUE Catalyst stick, depending on your preferences.) <br><br>\nThat's why it's good to try out different sticks before deciding what's best for you.<br><br>\nWe at The Hockey Shop are dedicated to getting you fitted with the right gear for <i>you</i>. Feel free to stop by if you are looking for a new stick or any other equipment. Our team of experts ranges across all specialties of the game, including sticks, and they will all be willing to aid with whatever inquiries you have or help you need.",
             "sub_fs": "base"
           }
         }
@@ -95,7 +95,7 @@
         "sub_heading_hkTPLc"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/DSCF8340.jpg",
+        "image": "shopify://shop_images/DSCF8340.jpg",
         "style_image": "1",
         "image_effect": "zoom-in",
         "color_scheme": "",
@@ -125,7 +125,7 @@
         "nav_heading": "disable",
         "heading_gap": 18,
         "sec_heading_spacing": 30,
-        "collection": "clearance-player-hockey-sticks",
+        "collection": "sale-hockey-sticks",
         "product_list": [
 
         ],
@@ -214,14 +214,14 @@
         "text_KezTrH": {
           "type": "text",
           "settings": {
-            "text": "<p>Over 30 years of pure hockey passion.<\/p><p>Fast shipping. Easy returns. Expert advice.<\/p><p>Hockey's best. Delivered to your door.<\/p>"
+            "text": "<p>Over 30 years of pure hockey passion.</p><p>Fast shipping. Easy returns. Expert advice.</p><p>Hockey's best. Delivered to your door.</p>"
           }
         },
         "button_jNFUqd": {
           "type": "button",
           "settings": {
             "btn_label": "About Us",
-            "btn_link": "shopify:\/\/pages\/about-the-hockey-shop-source-for-sports",
+            "btn_link": "shopify://pages/about-the-hockey-shop-source-for-sports",
             "target": false,
             "btn_size": "base",
             "btn_style": "solid",
@@ -236,7 +236,7 @@
         "button_jNFUqd"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/SFS_Logo_Horizontal_The_Hockey_Shop_Black_2_9769cd48-6b92-4e9c-972f-1a9871e25397.png",
+        "image": "shopify://shop_images/SFS_Logo_Horizontal_The_Hockey_Shop_Black_2_9769cd48-6b92-4e9c-972f-1a9871e25397.png",
         "style_image": "1",
         "image_effect": "zoom-in",
         "color_scheme": "",
@@ -265,7 +265,7 @@
             "link": "",
             "open_link": false,
             "title": "Free Shipping",
-            "content": "<p>You will love at great low prices<\/p>",
+            "content": "<p>You will love at great low prices</p>",
             "adding_border": false
           }
         },
@@ -279,7 +279,7 @@
             "link": "",
             "open_link": false,
             "title": "Flexible Payment",
-            "content": "<p>Pay with Multiple Credit Cards<\/p>",
+            "content": "<p>Pay with Multiple Credit Cards</p>",
             "adding_border": false
           }
         },
@@ -293,7 +293,7 @@
             "link": "",
             "open_link": false,
             "title": "14 Day Returns",
-            "content": "<p>Within 30 days for an exchange<\/p>",
+            "content": "<p>Within 30 days for an exchange</p>",
             "adding_border": false
           }
         },
@@ -307,7 +307,7 @@
             "link": "",
             "open_link": false,
             "title": "Premium Suport",
-            "content": "<p>Outstanding premium support<\/p>",
+            "content": "<p>Outstanding premium support</p>",
             "adding_border": false
           }
         }
