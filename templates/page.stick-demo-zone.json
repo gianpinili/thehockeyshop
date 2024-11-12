@@ -125,10 +125,8 @@
         "nav_heading": "disable",
         "heading_gap": 18,
         "sec_heading_spacing": 30,
-        "collection": "sale-hockey-sticks",
-        "product_list": [
-
-        ],
+        "collection": "hockey-stick-sale",
+        "product_list": [],
         "product_des": "1",
         "image_ratio": "adapt_image",
         "image_size": true,
@@ -171,9 +169,7 @@
         "heading_gap": 18,
         "sec_heading_spacing": 30,
         "collection": "sale-goalie-sticks",
-        "product_list": [
-
-        ],
+        "product_list": [],
         "product_des": "1",
         "image_ratio": "adapt_image",
         "image_size": true,
