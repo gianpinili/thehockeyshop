@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "c28ddbdb-d0df-4b86-9b0a-674df42ecc5c": {
@@ -15,9 +15,9 @@
         "742a3693-7d5d-4e92-914c-270e1d777d11": {
           "type": "slide_base",
           "settings": {
-            "image": "shopify:\/\/shop_images\/bauer-hockey-skates-bauer-supreme-shadow-senior-hockey-skates-31249942708290_510ee200-75cf-45be-9ce0-8715cc0948db.jpg",
-            "image_mb": "shopify:\/\/shop_images\/bauer-hockey-skates-bauer-supreme-shadow-senior-hockey-skates-31249942708290_510ee200-75cf-45be-9ce0-8715cc0948db.jpg",
-            "url": "shopify:\/\/collections\/bauer-shadow-line-skates",
+            "image": "shopify://shop_images/bauer-hockey-skates-bauer-supreme-shadow-senior-hockey-skates-31249942708290_510ee200-75cf-45be-9ce0-8715cc0948db.jpg",
+            "image_mb": "shopify://shop_images/bauer-hockey-skates-bauer-supreme-shadow-senior-hockey-skates-31249942708290_510ee200-75cf-45be-9ce0-8715cc0948db.jpg",
+            "url": "shopify://collections/bauer-shadow-line-skates",
             "banner_target": false,
             "color_scheme": "scheme-1",
             "heading": "Supreme Shadow.",
@@ -27,7 +27,7 @@
             "sub_heading_fs": "h6",
             "sub_heading_fw": "normal",
             "btn_label": "Shop collection",
-            "btn_link": "shopify:\/\/collections\/bauer-shadow-line-skates",
+            "btn_link": "shopify://collections/bauer-shadow-line-skates",
             "target": false,
             "btn_size": "xl",
             "btn_style": "solid",
@@ -75,7 +75,7 @@
         "item_BCTycY": {
           "type": "item",
           "settings": {
-            "text": "<p>Free shipping on orders over $100.<\/p>",
+            "text": "<p>Free shipping on orders over $100.</p>",
             "icon_svg": "dividing_icon",
             "custom_svg": "",
             "icon_width": 11,
@@ -85,7 +85,7 @@
         "item_34d4Tn": {
           "type": "item",
           "settings": {
-            "text": "<p>Buy now, pay later with Sezzle.<\/p>",
+            "text": "<p>Buy now, pay later with Sezzle.</p>",
             "icon_svg": "none",
             "custom_svg": "",
             "icon_width": 20,
@@ -95,7 +95,7 @@
         "item_KKgfzb": {
           "type": "item",
           "settings": {
-            "text": "<p>Summer Super Sale up to 40% off.<\/p>",
+            "text": "<p>Summer Super Sale up to 40% off.</p>",
             "icon_svg": "none",
             "custom_svg": "",
             "icon_width": 20,
@@ -145,7 +145,7 @@
           "type": "button",
           "settings": {
             "button_text": "Shop All Sales",
-            "button_link": "shopify:\/\/collections\/all-clearance",
+            "button_link": "shopify://collections/all-clearance",
             "button-color": "#eb001b"
           }
         }
@@ -174,7 +174,7 @@
           "type": "collection_item",
           "settings": {
             "collection": "hockey-skates",
-            "image": "shopify:\/\/shop_images\/bauer-hockey-skates-bauer-supreme-shadow-intermediate-hockey-skates-31249943986242.jpg",
+            "image": "shopify://shop_images/bauer-hockey-skates-bauer-supreme-shadow-intermediate-hockey-skates-31249943986242.jpg",
             "title": "Skates",
             "collection_link": ""
           }
@@ -182,8 +182,8 @@
         "template--20958100226352__282a0160-505d-43ff-b601-043a5a327bc1-collection_item-2": {
           "type": "collection_item",
           "settings": {
-            "collection": "hockey-sticks",
-            "image": "shopify:\/\/shop_images\/ccm-hockey-sticks-ccm-jetspeed-ft7-pro-junior-hockey-stick-custom-color-31564175147074.jpg",
+            "collection": "player-hockey-sticks",
+            "image": "shopify://shop_images/ccm-hockey-sticks-ccm-jetspeed-ft7-pro-junior-hockey-stick-custom-color-31564175147074.jpg",
             "title": "Sticks",
             "collection_link": ""
           }
@@ -192,7 +192,7 @@
           "type": "collection_item",
           "settings": {
             "collection": "hockey-gloves",
-            "image": "shopify:\/\/shop_images\/bauer-gloves-bauer-vapor-hyperlite-intermediate-hockey-gloves-29084675080258.jpg",
+            "image": "shopify://shop_images/bauer-gloves-bauer-vapor-hyperlite-intermediate-hockey-gloves-29084675080258.jpg",
             "title": "Gloves",
             "collection_link": ""
           }
@@ -201,7 +201,7 @@
           "type": "collection_item",
           "settings": {
             "collection": "hockey-helmets",
-            "image": "shopify:\/\/shop_images\/bauer-helmets-bauer-vapor-hyperlite2-hockey-helmet-30540008620098.jpg",
+            "image": "shopify://shop_images/bauer-helmets-bauer-vapor-hyperlite2-hockey-helmet-30540008620098.jpg",
             "title": "Helmets",
             "collection_link": ""
           }
@@ -210,7 +210,7 @@
           "type": "collection_item",
           "settings": {
             "collection": "hockey-shoulder-pads",
-            "image": "shopify:\/\/shop_images\/ccm-shoulder-pads-ccm-jetspeed-ftw-junior-hockey-shoulder-pads-2024-31494476726338.jpg",
+            "image": "shopify://shop_images/ccm-shoulder-pads-ccm-jetspeed-ftw-junior-hockey-shoulder-pads-2024-31494476726338.jpg",
             "title": "Shoulder Pads",
             "collection_link": ""
           }
@@ -219,7 +219,7 @@
           "type": "collection_item",
           "settings": {
             "collection": "hockey-shin-guards",
-            "image": "shopify:\/\/shop_images\/ccm-shin-guards-ccm-tacks-xf-pro-junior-hockey-shin-guards-31639302176834.jpg",
+            "image": "shopify://shop_images/ccm-shin-guards-ccm-tacks-xf-pro-junior-hockey-shin-guards-31639302176834.jpg",
             "title": "Shin Pads",
             "collection_link": ""
           }
@@ -228,7 +228,7 @@
           "type": "collection_item",
           "settings": {
             "collection": "hockey-elbow-pads",
-            "image": "shopify:\/\/shop_images\/warrior-elbow-pads-warrior-rise-youth-hockey-elbow-pads-31736193351746.jpg",
+            "image": "shopify://shop_images/warrior-elbow-pads-warrior-rise-youth-hockey-elbow-pads-31736193351746.jpg",
             "title": "Elbow Pads",
             "collection_link": ""
           }
@@ -237,7 +237,7 @@
           "type": "collection_item",
           "settings": {
             "collection": "hockey-accessories",
-            "image": "shopify:\/\/shop_images\/rezztek-specialty-tape-rezztek-blade-tape-standard-2-pack-black-senior-30013539319874.jpg",
+            "image": "shopify://shop_images/rezztek-specialty-tape-rezztek-blade-tape-standard-2-pack-black-senior-30013539319874.jpg",
             "title": "Accessories",
             "collection_link": ""
           }
@@ -267,9 +267,7 @@
         "btn_heading_collection": false,
         "heading_gap": 18,
         "sec_heading_spacing": 68,
-        "collection_list": [
-
-        ],
+        "collection_list": [],
         "collection_des": "1",
         "content_size": "xl",
         "content_weight": "medium",
@@ -299,8 +297,7 @@
     },
     "brand_carousel_xn3MdM": {
       "type": "brand-carousel",
-      "settings": {
-      }
+      "settings": {}
     },
     "hero_image_krPDV6": {
       "type": "hero-image",
@@ -309,9 +306,9 @@
         "fixed_height": 860,
         "image_height_mb": "adapt_image",
         "fixed_height_mb": 300,
-        "image": "shopify:\/\/shop_images\/The_Big_Back_To_Hockey_Sale_Desktop_Banner.png",
-        "image_mb": "shopify:\/\/shop_images\/The_Big_Back_To_Hockey_Sale_Mobile_Banner.png",
-        "link_img": "https:\/\/www.thehockeyshop.com\/collections\/player-clearance#\/filter:vendor:Bauer",
+        "image": "shopify://shop_images/The_Big_Back_To_Hockey_Sale_Desktop_Banner.png",
+        "image_mb": "shopify://shop_images/The_Big_Back_To_Hockey_Sale_Mobile_Banner.png",
+        "link_img": "https://www.thehockeyshop.com/collections/player-clearance#/filter:vendor:Bauer",
         "target": false,
         "image_behavior": "none",
         "use_overlay": false,
@@ -335,9 +332,9 @@
         "fixed_height": 860,
         "image_height_mb": "adapt_image",
         "fixed_height_mb": 300,
-        "image": "shopify:\/\/shop_images\/Untitled_design_9.png",
-        "image_mb": "shopify:\/\/shop_images\/Nexus_Tracer_Main.jpg",
-        "link_img": "shopify:\/\/collections\/bauer-tracer-sticks",
+        "image": "shopify://shop_images/Untitled_design_9.png",
+        "image_mb": "shopify://shop_images/Nexus_Tracer_Main.jpg",
+        "link_img": "shopify://collections/bauer-tracer-sticks",
         "target": false,
         "image_behavior": "none",
         "use_overlay": false,
@@ -356,15 +353,13 @@
     },
     "featured_collection_carousel_aFaMir": {
       "type": "featured-collection-carousel",
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "heading_align": "center",
         "sec_heading": "Nexus Tracer",
         "heading_tag": "h2",
         "heading_size": "h3",
-        "sec_subheading": "<p>Be one step ahead of <strong>every<\/strong> play.<\/p><p>Feel the release <strong>before<\/strong> picking the corner.<\/p>",
+        "sec_subheading": "<p>Be one step ahead of <strong>every</strong> play.</p><p>Feel the release <strong>before</strong> picking the corner.</p>",
         "subheading_size": "lg",
         "heading_reverse": false,
         "btn_heading": false,
@@ -372,9 +367,7 @@
         "heading_gap": 18,
         "sec_heading_spacing": 16,
         "collection": "bauer-tracer-sticks",
-        "product_list": [
-
-        ],
+        "product_list": [],
         "product_des": "1",
         "image_ratio": "custom-pr",
         "image_size": false,
@@ -409,8 +402,8 @@
         "fixed_height": 860,
         "image_height_mb": "adapt_image",
         "fixed_height_mb": 300,
-        "image": "shopify:\/\/shop_images\/Rinkside_Rush_Sale_Web_Banner_2000_x_800_px_1.jpg",
-        "link_img": "shopify:\/\/collections\/bauer-player-sale",
+        "image": "shopify://shop_images/Rinkside_Rush_Sale_Web_Banner_2000_x_800_px_1.jpg",
+        "link_img": "shopify://collections/bauer-player-sale",
         "target": false,
         "image_behavior": "none",
         "use_overlay": false,
@@ -434,9 +427,9 @@
         "fixed_height": 860,
         "image_height_mb": "adapt_image",
         "fixed_height_mb": 300,
-        "image": "shopify:\/\/shop_images\/Bauer_Shadow_Skate_Banner_Desktop.jpg",
-        "image_mb": "shopify:\/\/shop_images\/Bauer_Shadow_Skate_Banner_mobile.jpg",
-        "link_img": "shopify:\/\/collections\/bauer-shadow-line-skates",
+        "image": "shopify://shop_images/Bauer_Shadow_Skate_Banner_Desktop.jpg",
+        "image_mb": "shopify://shop_images/Bauer_Shadow_Skate_Banner_mobile.jpg",
+        "link_img": "shopify://collections/bauer-shadow-line-skates",
         "target": false,
         "image_behavior": "none",
         "use_overlay": false,
@@ -468,9 +461,7 @@
         "heading_gap": 26,
         "sec_heading_spacing": 57,
         "collection": "bauer-player-sale",
-        "product_list": [
-
-        ],
+        "product_list": [],
         "product_des": "1",
         "image_ratio": "adapt_image",
         "image_size": true,
@@ -504,9 +495,9 @@
         "banner_1_JRJaRj": {
           "type": "banner_1",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Hyperlite_ef7b3c79-19b6-4484-812e-cd56df5c188c.jpg",
+            "image": "shopify://shop_images/Hyperlite_ef7b3c79-19b6-4484-812e-cd56df5c188c.jpg",
             "color_scheme": "scheme-67a7ca9f-3333-4245-b79f-2e9849d7e615",
-            "banner_url": "shopify:\/\/collections\/bauer-sync-sticks",
+            "banner_url": "shopify://collections/bauer-sync-sticks",
             "banner_target": false,
             "sub_heading": "",
             "sub_heading_fs": "base",
@@ -518,7 +509,7 @@
             "heading_fw": "normal",
             "heading_space": 29,
             "btn_label": "",
-            "btn_link": "shopify:\/\/collections\/clothing-womens",
+            "btn_link": "shopify://collections/clothing-womens",
             "target": false,
             "btn_size": "base",
             "btn_style": "solid",
@@ -533,9 +524,9 @@
         "banner_1_bddA4X": {
           "type": "banner_1",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Hyperlite_2_99f8e970-51b3-438e-8944-4e6fc455e418.jpg",
+            "image": "shopify://shop_images/Hyperlite_2_99f8e970-51b3-438e-8944-4e6fc455e418.jpg",
             "color_scheme": "scheme-67a7ca9f-3333-4245-b79f-2e9849d7e615",
-            "banner_url": "shopify:\/\/collections\/bauer-shadow-line-skates",
+            "banner_url": "shopify://collections/bauer-shadow-line-skates",
             "banner_target": false,
             "sub_heading": "",
             "sub_heading_fs": "base",
@@ -547,7 +538,7 @@
             "heading_fw": "normal",
             "heading_space": 29,
             "btn_label": "",
-            "btn_link": "shopify:\/\/collections\/clothing-womens",
+            "btn_link": "shopify://collections/clothing-womens",
             "target": false,
             "btn_size": "base",
             "btn_style": "solid",
@@ -597,9 +588,7 @@
         "heading_gap": 23,
         "sec_heading_spacing": 66,
         "collection": "bauer-sync-sticks",
-        "product_list": [
-
-        ],
+        "product_list": [],
         "product_des": "1",
         "image_ratio": "adapt_image",
         "image_size": true,
@@ -634,9 +623,9 @@
         "fixed_height": 860,
         "image_height_mb": "adapt_image",
         "fixed_height_mb": 300,
-        "image": "shopify:\/\/shop_images\/Rinkside_Rush_Sale_Web_Banner_2000_x_800_px_2.jpg",
-        "image_mb": "shopify:\/\/shop_images\/CCM_Sale_2.jpg",
-        "link_img": "shopify:\/\/collections\/ccm-hockey-sale",
+        "image": "shopify://shop_images/Rinkside_Rush_Sale_Web_Banner_2000_x_800_px_2.jpg",
+        "image_mb": "shopify://shop_images/CCM_Sale_2.jpg",
+        "link_img": "shopify://collections/ccm-hockey-sale",
         "target": false,
         "image_behavior": "none",
         "use_overlay": false,
@@ -725,7 +714,7 @@
             "heading": "Feel powerful.",
             "content_text": "Get more explosiveness and a better extension in every stride with superior energy transfer. The latest CCM Tacks skates are designed to convert your effort into powerful forward momentum, enhancing both speed and agility on the ice.",
             "btn_label": "Shop now",
-            "btn_link": "https:\/\/www.thehockeyshop.com\/search?page=&sort_by=relevance&q=ccm+xf+skate&type=product&options%5Bprefix%5D=last&options%5Bunavailable_products%5D=last&filter.v.availability=1&filter.v.price.gte=&filter.v.price.lte=",
+            "btn_link": "https://www.thehockeyshop.com/search?page=&sort_by=relevance&q=ccm+xf+skate&type=product&options%5Bprefix%5D=last&options%5Bunavailable_products%5D=last&filter.v.availability=1&filter.v.price.gte=&filter.v.price.lte=",
             "target": false,
             "btn_size": "base",
             "btn_style": "outline",
@@ -740,7 +729,7 @@
             "heading": "Feel Comfortable.",
             "content_text": "Built for comfort and feel, thanks to newly integrated AER-TEC and ADPTFIT technologies. These innovations ensure a customized fit and enhanced breathability, keeping your feet comfortable throughout the game.",
             "btn_label": "Shop now",
-            "btn_link": "shopify:\/\/collections\/ccm-tacks-xf-protective",
+            "btn_link": "shopify://collections/ccm-tacks-xf-protective",
             "target": false,
             "btn_size": "base",
             "btn_style": "outline",
@@ -755,7 +744,7 @@
             "heading": "Feel more.",
             "content_text": "Discover everything the newest additions to the Tacks family have to offer. Experience the perfect blend of innovation and performance with cutting-edge technology designed to elevate your game.",
             "btn_label": "Shop Now",
-            "btn_link": "shopify:\/\/collections\/ccm-super-tacks",
+            "btn_link": "shopify://collections/ccm-super-tacks",
             "target": false,
             "btn_size": "base",
             "btn_style": "solid",
@@ -777,12 +766,12 @@
         "sec_heading": "CCM Tacks Line",
         "heading_tag": "h3",
         "heading_size": "h3",
-        "sec_subheading": "<p>Engineered to be lighter, more responsive, and more durable.<\/p>",
+        "sec_subheading": "<p>Engineered to be lighter, more responsive, and more durable.</p>",
         "subheading_size": "lg",
         "heading_reverse": false,
         "heading_gap": 14,
         "sec_heading_spacing": 47,
-        "main_img": "shopify:\/\/shop_images\/IMG_5074.png",
+        "main_img": "shopify://shop_images/IMG_5074.png",
         "image_pos": "left",
         "image_ratio": "adapt_image",
         "custom_height": 700,
@@ -810,9 +799,7 @@
         "heading_gap": 34,
         "sec_heading_spacing": 16,
         "collection": "jetspeed-ft6-pro-sticks",
-        "product_list": [
-
-        ],
+        "product_list": [],
         "product_des": "1",
         "image_ratio": "adapt_image",
         "image_size": true,
@@ -847,9 +834,9 @@
           "type": "collection_item",
           "settings": {
             "collection": "",
-            "image": "shopify:\/\/shop_images\/4_868b8196-097f-4ecc-ae85-ebaff8a99f1b.jpg",
+            "image": "shopify://shop_images/4_868b8196-097f-4ecc-ae85-ebaff8a99f1b.jpg",
             "title": "",
-            "collection_link": "shopify:\/\/collections\/true",
+            "collection_link": "shopify://collections/true",
             "column_width": "6",
             "row_count": 1,
             "tb_column_width": "6",
@@ -862,9 +849,9 @@
           "type": "collection_item",
           "settings": {
             "collection": "",
-            "image": "shopify:\/\/shop_images\/3_067cfba8-9386-4039-b9ab-18ad6ad67a23.jpg",
+            "image": "shopify://shop_images/3_067cfba8-9386-4039-b9ab-18ad6ad67a23.jpg",
             "title": "",
-            "collection_link": "shopify:\/\/collections\/warrior",
+            "collection_link": "shopify://collections/warrior",
             "column_width": "6",
             "row_count": 1,
             "tb_column_width": "6",
@@ -878,9 +865,7 @@
         "collection_item_f84ybD",
         "collection_item_qq6yGk"
       ],
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "heading_align": "center",
         "sec_heading": "",
@@ -918,7 +903,7 @@
         "gallery_item_nmBqpD": {
           "type": "gallery_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ccm-shoulder-pads-ccm-jetspeed-ftw-senior-hockey-shoulder-pads-2024-31494713507906.jpg",
+            "image": "shopify://shop_images/ccm-shoulder-pads-ccm-jetspeed-ftw-senior-hockey-shoulder-pads-2024-31494713507906.jpg",
             "item_link": "",
             "product_item": "ccm-jetspeed-ftw-senior-hockey-shoulder-pads"
           }
@@ -926,7 +911,7 @@
         "gallery_item_UpMy9w": {
           "type": "gallery_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ccm-gloves-ccm-jetspeed-ftw-senior-hockey-gloves-31494600163394.jpg",
+            "image": "shopify://shop_images/ccm-gloves-ccm-jetspeed-ftw-senior-hockey-gloves-31494600163394.jpg",
             "item_link": "",
             "product_item": "ccm-jetspeed-ftw-senior-hockey-gloves"
           }
@@ -934,7 +919,7 @@
         "gallery_item_y9BEB9": {
           "type": "gallery_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ccm-hockey-sticks-ccm-jetspeed-ftw-intermediate-hockey-stick-31443562561602.jpg",
+            "image": "shopify://shop_images/ccm-hockey-sticks-ccm-jetspeed-ftw-intermediate-hockey-stick-31443562561602.jpg",
             "item_link": "",
             "product_item": "ccm-jetspeed-ftw-senior-hockey-stick"
           }
@@ -942,7 +927,7 @@
         "gallery_item_NfyzQ8": {
           "type": "gallery_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ccm-shin-guards-ccm-jetspeed-ftw-senior-hockey-shin-guards-senior-12-31494677758018.jpg",
+            "image": "shopify://shop_images/ccm-shin-guards-ccm-jetspeed-ftw-senior-hockey-shin-guards-senior-12-31494677758018.jpg",
             "item_link": "",
             "product_item": "ccm-jetspeed-ftw-senior-hockey-shin-guards"
           }
@@ -950,7 +935,7 @@
         "gallery_item_aAye8A": {
           "type": "gallery_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/sport-maska-inc-player-elbow-pads-senior-ccm-jetspeed-ftw-senior-hockey-elbow-pads-31138880553026.png",
+            "image": "shopify://shop_images/sport-maska-inc-player-elbow-pads-senior-ccm-jetspeed-ftw-senior-hockey-elbow-pads-31138880553026.png",
             "item_link": "",
             "product_item": "ccm-jetspeed-ftw-senior-hockey-elbow-pads"
           }
@@ -958,7 +943,7 @@
         "gallery_item_QNDVPP": {
           "type": "gallery_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/sport-maska-inc-player-pants-junior-ccm-jetspeed-ftw-junior-hockey-pants-black-s-31138883829826.png",
+            "image": "shopify://shop_images/sport-maska-inc-player-pants-junior-ccm-jetspeed-ftw-junior-hockey-pants-black-s-31138883829826.png",
             "item_link": "",
             "product_item": "ccm-jetspeed-ftw-senior-hockey-pants"
           }
@@ -978,7 +963,7 @@
         "sec_heading": "Jetspeed FTW",
         "heading_tag": "h3",
         "heading_size": "h4",
-        "sec_subheading": "<p>Discover the CCM Jetspeed FTW Women's Collection: engineered for performance, comfort, and style. <\/p><p>Explore top tier-hockey gear designed specifically for women, offering unmatched fit and dynamic speed on the ice.<\/p><p>Elevate your game today!<\/p>",
+        "sec_subheading": "<p>Discover the CCM Jetspeed FTW Women's Collection: engineered for performance, comfort, and style. </p><p>Explore top tier-hockey gear designed specifically for women, offering unmatched fit and dynamic speed on the ice.</p><p>Elevate your game today!</p>",
         "subheading_size": "lg",
         "heading_reverse": false,
         "heading_gap": 18,
@@ -1022,7 +1007,7 @@
           "type": "button",
           "settings": {
             "btn_label": "Buy Now",
-            "btn_link": "shopify:\/\/collections\/the-hockey-shop-merch",
+            "btn_link": "shopify://collections/the-hockey-shop-merch",
             "target": false,
             "btn_size": "base",
             "btn_style": "solid",
@@ -1034,7 +1019,7 @@
           "type": "button",
           "settings": {
             "btn_label": "Donate to CAN",
-            "btn_link": "https:\/\/support.canucksautism.ca\/site\/TR\/CANPro-Am\/Pro-Am?team_id=3280&pg=team&fr_id=1280&ltclid=829cb569-24bb-4ca8-96ba-9bda7cf32a8f",
+            "btn_link": "https://support.canucksautism.ca/site/TR/CANPro-Am/Pro-Am?team_id=3280&pg=team&fr_id=1280&ltclid=829cb569-24bb-4ca8-96ba-9bda7cf32a8f",
             "target": true,
             "btn_size": "base",
             "btn_style": "solid",
@@ -1054,9 +1039,9 @@
         "a:last-child {background-color: #003f7e; border: none;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/tendyfest-shirts_hats.jpg",
-        "first_image": "shopify:\/\/shop_images\/the-hockey-shop-source-for-sports-hats-tendyfest-hat-curved-brim-snapback-osfm-31815289897026.jpg",
-        "second_image": "shopify:\/\/shop_images\/thehockeyshop-com-team-shirts-tendyfest-gildan-t-shirt-black-youth-l-31802129776706.jpg",
+        "image": "shopify://shop_images/tendyfest-shirts_hats.jpg",
+        "first_image": "shopify://shop_images/the-hockey-shop-source-for-sports-hats-tendyfest-hat-curved-brim-snapback-osfm-31815289897026.jpg",
+        "second_image": "shopify://shop_images/thehockeyshop-com-team-shirts-tendyfest-gildan-t-shirt-black-youth-l-31802129776706.jpg",
         "style_image": "1",
         "image_effect": "zoom-in",
         "color_scheme": "scheme-1",
@@ -1078,40 +1063,40 @@
         "gallery_item_V8hUgR": {
           "type": "gallery_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/PROTOR.jpg",
-            "item_link": "https:\/\/www.thehockeyshop.com\/collections\/bauer-proto-r",
+            "image": "shopify://shop_images/PROTOR.jpg",
+            "item_link": "https://www.thehockeyshop.com/collections/bauer-proto-r",
             "product_item": ""
           }
         },
         "gallery_item_7AdBm9": {
           "type": "gallery_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/BEDSY.jpg",
-            "item_link": "https:\/\/www.thehockeyshop.com\/collections\/sherwood",
+            "image": "shopify://shop_images/BEDSY.jpg",
+            "item_link": "https://www.thehockeyshop.com/collections/sherwood",
             "product_item": ""
           }
         },
         "gallery_item_hPLacT": {
           "type": "gallery_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/FT7_-website_7bc959a9-a178-4af4-a533-a64414777e35.png",
-            "item_link": "shopify:\/\/collections\/ccm-jetspeed-ft7-pro-sticks-feel-the-speed-control-the-game",
+            "image": "shopify://shop_images/FT7_-website_7bc959a9-a178-4af4-a533-a64414777e35.png",
+            "item_link": "shopify://collections/ccm-jetspeed-ft7-pro-sticks-feel-the-speed-control-the-game",
             "product_item": ""
           }
         },
         "gallery_item_cbJt3E": {
           "type": "gallery_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/NOVIUM.jpg",
-            "item_link": "https:\/\/www.thehockeyshop.com\/collections\/warrior-super-novium",
+            "image": "shopify://shop_images/NOVIUM.jpg",
+            "item_link": "https://www.thehockeyshop.com/collections/warrior-super-novium",
             "product_item": ""
           }
         },
         "gallery_item_UfiG3Y": {
           "type": "gallery_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/SYNC.jpg",
-            "item_link": "https:\/\/www.thehockeyshop.com\/collections\/bauer-sync-sticks",
+            "image": "shopify://shop_images/SYNC.jpg",
+            "item_link": "https://www.thehockeyshop.com/collections/bauer-sync-sticks",
             "product_item": ""
           }
         }
@@ -1164,14 +1149,14 @@
         "text_BhpGTy": {
           "type": "text",
           "settings": {
-            "text": "<p>Over 30 years of pure hockey passion.<\/p><p>Fast shipping. Easy returns. Expert advice.<\/p><p>Hockey's best. Delivered to your door.<\/p>"
+            "text": "<p>Over 30 years of pure hockey passion.</p><p>Fast shipping. Easy returns. Expert advice.</p><p>Hockey's best. Delivered to your door.</p>"
           }
         },
         "button_6UwNkc": {
           "type": "button",
           "settings": {
             "btn_label": "About Us",
-            "btn_link": "shopify:\/\/pages\/about-the-hockey-shop-source-for-sports",
+            "btn_link": "shopify://pages/about-the-hockey-shop-source-for-sports",
             "target": false,
             "btn_size": "base",
             "btn_style": "solid",
@@ -1186,7 +1171,7 @@
         "button_6UwNkc"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/SFS_Logo_Horizontal_The_Hockey_Shop_Black_2_9769cd48-6b92-4e9c-972f-1a9871e25397.png",
+        "image": "shopify://shop_images/SFS_Logo_Horizontal_The_Hockey_Shop_Black_2_9769cd48-6b92-4e9c-972f-1a9871e25397.png",
         "style_image": "1",
         "image_effect": "zoom-in",
         "color_scheme": "",
@@ -1215,7 +1200,7 @@
             "link": "",
             "open_link": false,
             "title": "Free Shipping",
-            "content": "<p>You will love at great low prices<\/p>",
+            "content": "<p>You will love at great low prices</p>",
             "adding_border": false
           }
         },
@@ -1229,7 +1214,7 @@
             "link": "",
             "open_link": false,
             "title": "Flexible Payment",
-            "content": "<p>Pay with Multiple Credit Cards<\/p>",
+            "content": "<p>Pay with Multiple Credit Cards</p>",
             "adding_border": false
           }
         },
@@ -1243,7 +1228,7 @@
             "link": "",
             "open_link": false,
             "title": "90 Day Returns",
-            "content": "<p>Within 30 days for an exchange<\/p>",
+            "content": "<p>Within 30 days for an exchange</p>",
             "adding_border": false
           }
         },
@@ -1257,7 +1242,7 @@
             "link": "",
             "open_link": false,
             "title": "Premium Support",
-            "content": "<p>Outstanding premium support<\/p>",
+            "content": "<p>Outstanding premium support</p>",
             "adding_border": false
           }
         }
