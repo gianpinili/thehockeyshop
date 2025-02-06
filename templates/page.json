@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "slideshow_q7pEg9": {
@@ -15,7 +15,7 @@
         "slide_label_grG7Ta": {
           "type": "slide_label",
           "settings": {
-            "image": "shopify:\/\/shop_images\/hero_1_1.jpg",
+            "image": "shopify://shop_images/hero_1_1.jpg",
             "url": "",
             "banner_target": false,
             "color_scheme": "",
@@ -80,7 +80,7 @@
         "item_MWbCUH": {
           "type": "item",
           "settings": {
-            "text": "<p>Summer Super Sale up to 40% off.<\/p>",
+            "text": "<p>Summer Super Sale up to 40% off.</p>",
             "icon_svg": "dividing_icon",
             "custom_svg": "",
             "icon_width": 12,
@@ -90,7 +90,7 @@
         "item_VNznpL": {
           "type": "item",
           "settings": {
-            "text": "<p>Free shipping on orders over $100.<\/p>",
+            "text": "<p>Free shipping on orders over $100.</p>",
             "icon_svg": "none",
             "custom_svg": "",
             "icon_width": 20,
@@ -100,7 +100,7 @@
         "item_q76aYq": {
           "type": "item",
           "settings": {
-            "text": "<p>Buy now, pay later with Sezzle.<\/p>",
+            "text": "<p>Buy now, pay later with Sezzle.</p>",
             "icon_svg": "none",
             "custom_svg": "",
             "icon_width": 20,
@@ -150,7 +150,7 @@
           "type": "button",
           "settings": {
             "button_text": "Shop Now",
-            "button_link": "shopify:\/\/collections\/all-clearance",
+            "button_link": "shopify://collections/hockey-deals-clearance",
             "button-color": "#eb001b"
           }
         }
@@ -179,7 +179,7 @@
           "type": "collection_item",
           "settings": {
             "collection": "catchers",
-            "image": "shopify:\/\/shop_images\/bauer-catchers-bauer-learn-to-save-goalie-catcher-black-full-right-31840048447554.jpg",
+            "image": "shopify://shop_images/bauer-catchers-bauer-learn-to-save-goalie-catcher-black-full-right-31840048447554.jpg",
             "title": "Catchers",
             "collection_link": ""
           }
@@ -188,7 +188,7 @@
           "type": "collection_item",
           "settings": {
             "collection": "goalie-blockers",
-            "image": "shopify:\/\/shop_images\/vaughn-blockers-vaughn-velocity-v10-pro-carbon-senior-goalie-blocker-swirl-graphic-31748135256130.jpg",
+            "image": "shopify://shop_images/vaughn-blockers-vaughn-velocity-v10-pro-carbon-senior-goalie-blocker-swirl-graphic-31748135256130.jpg",
             "title": "Blockers",
             "collection_link": ""
           }
@@ -197,7 +197,7 @@
           "type": "collection_item",
           "settings": {
             "collection": "goalie-sticks",
-            "image": "shopify:\/\/shop_images\/ccm-goalie-sticks-ccm-axis-xf-pro-intermediate-goalie-stick-31285902573634.jpg",
+            "image": "shopify://shop_images/ccm-goalie-sticks-ccm-axis-xf-pro-intermediate-goalie-stick-31285902573634.jpg",
             "title": "Sticks",
             "collection_link": ""
           }
@@ -206,7 +206,7 @@
           "type": "collection_item",
           "settings": {
             "collection": "leg-pads",
-            "image": "shopify:\/\/shop_images\/warrior-rtl-g7-pro-leg-pads-sr-tan-bk-detail-10461.jpg",
+            "image": "shopify://shop_images/warrior-rtl-g7-pro-leg-pads-sr-tan-bk-detail-10461.jpg",
             "title": "Leg Pads",
             "collection_link": ""
           }
@@ -215,7 +215,7 @@
           "type": "collection_item",
           "settings": {
             "collection": "goalie-skates",
-            "image": "shopify:\/\/shop_images\/bauer-goalie-skates-bauer-pro-intermediate-goalie-skates-31250001756226.jpg",
+            "image": "shopify://shop_images/bauer-goalie-skates-bauer-pro-intermediate-goalie-skates-31250001756226.jpg",
             "title": "Skates",
             "collection_link": ""
           }
@@ -224,7 +224,7 @@
           "type": "collection_item",
           "settings": {
             "collection": "goalie-chest-protectors",
-            "image": "shopify:\/\/shop_images\/ccm-chest-protectors-ccm-pro-spec-senior-chest-arm-protector-31229408542786.jpg",
+            "image": "shopify://shop_images/ccm-chest-protectors-ccm-pro-spec-senior-chest-arm-protector-31229408542786.jpg",
             "title": "Chest Protectors",
             "collection_link": ""
           }
@@ -233,7 +233,7 @@
           "type": "collection_item",
           "settings": {
             "collection": "goalie-masks",
-            "image": "shopify:\/\/shop_images\/warrior-goalie-masks-senior-warrior-ritual-f2-e-senior-goalie-mask-30797508935746.jpg",
+            "image": "shopify://shop_images/warrior-goalie-masks-senior-warrior-ritual-f2-e-senior-goalie-mask-30797508935746.jpg",
             "title": "Masks",
             "collection_link": ""
           }
@@ -242,7 +242,7 @@
           "type": "collection_item",
           "settings": {
             "collection": "goalie-pants",
-            "image": "shopify:\/\/shop_images\/ccm-goalie-pants-ccm-axis-f5-junior-goalie-pants-31229451731010.jpg",
+            "image": "shopify://shop_images/ccm-goalie-pants-ccm-axis-f5-junior-goalie-pants-31229451731010.jpg",
             "title": "Pants",
             "collection_link": ""
           }
@@ -269,9 +269,7 @@
         "btn_heading_collection": false,
         "heading_gap": 18,
         "sec_heading_spacing": 30,
-        "collection_list": [
-
-        ],
+        "collection_list": [],
         "collection_des": "1",
         "content_size": "xl",
         "content_weight": "medium",
@@ -306,9 +304,9 @@
         "fixed_height": 860,
         "image_height_mb": "adapt_image",
         "fixed_height_mb": 300,
-        "image": "shopify:\/\/shop_images\/The_Big_Back_To_Hockey_Sale_Desktop_Banner.png",
-        "image_mb": "shopify:\/\/shop_images\/The_Big_Back_To_Hockey_Sale_Mobile_Banner.png",
-        "link_img": "shopify:\/\/collections\/goal-clearance",
+        "image": "shopify://shop_images/The_Big_Back_To_Hockey_Sale_Desktop_Banner.png",
+        "image_mb": "shopify://shop_images/The_Big_Back_To_Hockey_Sale_Mobile_Banner.png",
+        "link_img": "shopify://collections/goal-clearance",
         "target": false,
         "image_behavior": "none",
         "use_overlay": false,
@@ -327,8 +325,7 @@
     },
     "brand_carousel_PEpMV7": {
       "type": "brand-carousel",
-      "settings": {
-      }
+      "settings": {}
     },
     "banner_QTT7Cc": {
       "type": "banner",
@@ -336,9 +333,9 @@
         "banner_3_EDBMJh": {
           "type": "banner_3",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Bauer_Goal_Sale_Gear.png",
+            "image": "shopify://shop_images/Bauer_Goal_Sale_Gear.png",
             "color_scheme": "",
-            "banner_url": "shopify:\/\/collections\/clearance-goalie-leg-pads",
+            "banner_url": "shopify://collections/clearance-goalie-leg-pads",
             "banner_target": false,
             "sub_heading": "",
             "sub_heading_fs": "base",
@@ -366,9 +363,9 @@
         "banner_3_VfnHfa": {
           "type": "banner_3",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Warrior_Goal_Sale_Gear.png",
+            "image": "shopify://shop_images/Warrior_Goal_Sale_Gear.png",
             "color_scheme": "",
-            "banner_url": "shopify:\/\/collections\/sale-goalie-sticks",
+            "banner_url": "shopify://collections/sale-goalie-sticks",
             "banner_target": false,
             "sub_heading": "",
             "sub_heading_fs": "base",
@@ -431,9 +428,7 @@
         "heading_gap": 18,
         "sec_heading_spacing": 30,
         "collection": "bauer-goalie-sale",
-        "product_list": [
-
-        ],
+        "product_list": [],
         "product_des": "1",
         "image_ratio": "adapt_image",
         "image_size": true,
@@ -467,9 +462,9 @@
         "banner_3_LXVHWJ": {
           "type": "banner_3",
           "settings": {
-            "image": "shopify:\/\/shop_images\/CCM_Goal_Sale_Gear.png",
+            "image": "shopify://shop_images/CCM_Goal_Sale_Gear.png",
             "color_scheme": "",
-            "banner_url": "shopify:\/\/collections\/bauer-goalie-sale",
+            "banner_url": "shopify://collections/bauer-goalie-sale",
             "banner_target": false,
             "sub_heading": "",
             "sub_heading_fs": "base",
@@ -497,9 +492,9 @@
         "banner_3_Nx4JJr": {
           "type": "banner_3",
           "settings": {
-            "image": "shopify:\/\/shop_images\/True_Goal_Sale_Gear.png",
+            "image": "shopify://shop_images/True_Goal_Sale_Gear.png",
             "color_scheme": "",
-            "banner_url": "shopify:\/\/collections\/ccm-goalie-sale",
+            "banner_url": "shopify://collections/ccm-goalie-sale",
             "banner_target": false,
             "sub_heading": "",
             "sub_heading_fs": "base",
@@ -562,9 +557,7 @@
         "heading_gap": 18,
         "sec_heading_spacing": 30,
         "collection": "ccm-goalie-sale",
-        "product_list": [
-
-        ],
+        "product_list": [],
         "product_des": "1",
         "image_ratio": "adapt_image",
         "image_size": true,
@@ -599,8 +592,8 @@
         "fixed_height": 860,
         "image_height_mb": "adapt_image",
         "fixed_height_mb": 300,
-        "image": "shopify:\/\/shop_images\/Supreme_Goalie_Stick_Sale_Desktop_Banner.png",
-        "image_mb": "shopify:\/\/shop_images\/Supreme_Goalie_Stick_Sale.png",
+        "image": "shopify://shop_images/Supreme_Goalie_Stick_Sale_Desktop_Banner.png",
+        "image_mb": "shopify://shop_images/Supreme_Goalie_Stick_Sale.png",
         "link_img": "",
         "target": false,
         "image_behavior": "none",
@@ -633,9 +626,7 @@
         "heading_gap": 18,
         "sec_heading_spacing": 30,
         "collection": "warrior-goalie-sale",
-        "product_list": [
-
-        ],
+        "product_list": [],
         "product_des": "1",
         "image_ratio": "adapt_image",
         "image_size": true,
@@ -670,9 +661,9 @@
         "fixed_height": 860,
         "image_height_mb": "adapt_image",
         "fixed_height_mb": 300,
-        "image": "shopify:\/\/shop_images\/Rinkside_Rush_Sale_Web_Banner_2000_x_800_px_1_1.jpg",
-        "image_mb": "shopify:\/\/shop_images\/Rinkside_Rush_Sale_Email_-_brand_blocks.png",
-        "link_img": "shopify:\/\/collections\/vaughn-goalie",
+        "image": "shopify://shop_images/Rinkside_Rush_Sale_Web_Banner_2000_x_800_px_1_1.jpg",
+        "image_mb": "shopify://shop_images/Rinkside_Rush_Sale_Email_-_brand_blocks.png",
+        "link_img": "shopify://collections/vaughn-goalie",
         "target": false,
         "image_behavior": "none",
         "use_overlay": false,
@@ -704,9 +695,7 @@
         "heading_gap": 18,
         "sec_heading_spacing": 30,
         "collection": "true-goalie-sale",
-        "product_list": [
-
-        ],
+        "product_list": [],
         "product_des": "1",
         "image_ratio": "adapt_image",
         "image_size": true,
@@ -740,7 +729,7 @@
         "gallery_item_hMLNMg": {
           "type": "gallery_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/shadow-leg-pad-square.jpg",
+            "image": "shopify://shop_images/shadow-leg-pad-square.jpg",
             "item_link": "",
             "product_item": "bauer-supreme-shadow-senior-goalie-leg-pads"
           }
@@ -748,7 +737,7 @@
         "gallery_item_mgEn9X": {
           "type": "gallery_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/shadow-blocker-square.jpg",
+            "image": "shopify://shop_images/shadow-blocker-square.jpg",
             "item_link": "",
             "product_item": "bauer-supreme-shadow-senior-goalie-blocker"
           }
@@ -756,7 +745,7 @@
         "gallery_item_iLmjxD": {
           "type": "gallery_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/shadow-full-square.jpg",
+            "image": "shopify://shop_images/shadow-full-square.jpg",
             "item_link": "",
             "product_item": "bauer-supreme-shadow-senior-goalie-leg-pads"
           }
@@ -764,7 +753,7 @@
         "gallery_item_GcQWgF": {
           "type": "gallery_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/shadow-catcher-square.jpg",
+            "image": "shopify://shop_images/shadow-catcher-square.jpg",
             "item_link": "",
             "product_item": "bauer-supreme-shadow-senior-goalie-catcher"
           }
@@ -772,7 +761,7 @@
         "gallery_item_VdkyKT": {
           "type": "gallery_item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/shadow-stick-square.jpg",
+            "image": "shopify://shop_images/shadow-stick-square.jpg",
             "item_link": "",
             "product_item": "bauer-supreme-shadow-senior-goalie-stick"
           }
@@ -790,7 +779,7 @@
         "sec_heading": "Bauer Supreme Shadow",
         "heading_tag": "h2",
         "heading_size": "h3",
-        "sec_subheading": "<p>Experience control like you've never seen before.<\/p>",
+        "sec_subheading": "<p>Experience control like you've never seen before.</p>",
         "subheading_size": "lg",
         "heading_reverse": false,
         "heading_gap": 11,
@@ -823,7 +812,7 @@
             "heading": "Revolutionized tech for elite goalies.",
             "content_text": "The KONEKT 2 is here. Lighter than it's predecessor, this skate features state-of-the-art technology for the games most elite goalies. Its innovative design ensures superior comfort and durability.",
             "btn_label": "Shop Konekt 2",
-            "btn_link": "https:\/\/www.thehockeyshop.com\/search?page=&sort_by=relevance&q=konekt2&type=product&options%5Bprefix%5D=last&options%5Bunavailable_products%5D=last&filter.v.availability=1&filter.v.price.gte=&filter.v.price.lte=",
+            "btn_link": "https://www.thehockeyshop.com/search?page=&sort_by=relevance&q=konekt2&type=product&options%5Bprefix%5D=last&options%5Bunavailable_products%5D=last&filter.v.availability=1&filter.v.price.gte=&filter.v.price.lte=",
             "target": false,
             "btn_size": "base",
             "btn_style": "solid",
@@ -848,7 +837,7 @@
         "heading_reverse": false,
         "heading_gap": 18,
         "sec_heading_spacing": 30,
-        "main_img": "shopify:\/\/shop_images\/bauer-goalie-skates-bauer-konekt2-intermediate-goalie-skates-31287323951170.jpg",
+        "main_img": "shopify://shop_images/bauer-goalie-skates-bauer-konekt2-intermediate-goalie-skates-31287323951170.jpg",
         "image_pos": "right",
         "image_ratio": "adapt_image",
         "custom_height": 860,
@@ -874,14 +863,14 @@
         "text_b39mgX": {
           "type": "text",
           "settings": {
-            "text": "<p>Oour expert team handpicked each piece to meet goalies' needs at all skill levels, so you can focus on stopping pucks.<\/p>"
+            "text": "<p>Oour expert team handpicked each piece to meet goalies' needs at all skill levels, so you can focus on stopping pucks.</p>"
           }
         },
         "button_zLYfMm": {
           "type": "button",
           "settings": {
             "btn_label": "Shop Bauer Goalie",
-            "btn_link": "shopify:\/\/collections\/bauer-goalie",
+            "btn_link": "shopify://collections/bauer-goalie",
             "target": false,
             "btn_size": "base",
             "btn_style": "solid",
@@ -896,7 +885,7 @@
         "button_zLYfMm"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/hyperlite2-goalie-mobile-hero-banner_0009_DSCF4006.jpg",
+        "image": "shopify://shop_images/hyperlite2-goalie-mobile-hero-banner_0009_DSCF4006.jpg",
         "style_image": "1",
         "image_effect": "zoom-in",
         "color_scheme": "scheme-1",
@@ -933,7 +922,7 @@
           "type": "button",
           "settings": {
             "btn_label": "Buy Now",
-            "btn_link": "shopify:\/\/collections\/the-hockey-shop-merch",
+            "btn_link": "shopify://collections/the-hockey-shop-merch",
             "target": false,
             "btn_size": "base",
             "btn_style": "solid",
@@ -945,7 +934,7 @@
           "type": "button",
           "settings": {
             "btn_label": "Donate to CAN",
-            "btn_link": "https:\/\/support.canucksautism.ca\/site\/TR\/CANPro-Am\/Pro-Am?team_id=3280&pg=team&fr_id=1280&ltclid=829cb569-24bb-4ca8-96ba-9bda7cf32a8f",
+            "btn_link": "https://support.canucksautism.ca/site/TR/CANPro-Am/Pro-Am?team_id=3280&pg=team&fr_id=1280&ltclid=829cb569-24bb-4ca8-96ba-9bda7cf32a8f",
             "target": true,
             "btn_size": "base",
             "btn_style": "solid",
@@ -964,7 +953,7 @@
         "a:last-child {background-color: #003f7e; border: none;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/tendyfest-shirts_hats.jpg",
+        "image": "shopify://shop_images/tendyfest-shirts_hats.jpg",
         "style_image": "1",
         "image_effect": "zoom-in",
         "color_scheme": "",
@@ -1024,14 +1013,14 @@
         "text_KezTrH": {
           "type": "text",
           "settings": {
-            "text": "<p>Over 30 years of pure hockey passion.<\/p><p>Fast shipping. Easy returns. Expert advice.<\/p><p>Hockey's best. Delivered to your door.<\/p>"
+            "text": "<p>Over 30 years of pure hockey passion.</p><p>Fast shipping. Easy returns. Expert advice.</p><p>Hockey's best. Delivered to your door.</p>"
           }
         },
         "button_jNFUqd": {
           "type": "button",
           "settings": {
             "btn_label": "About Us",
-            "btn_link": "shopify:\/\/pages\/about-the-hockey-shop-source-for-sports",
+            "btn_link": "shopify://pages/about-the-hockey-shop-source-for-sports",
             "target": false,
             "btn_size": "base",
             "btn_style": "solid",
@@ -1046,7 +1035,7 @@
         "button_jNFUqd"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/SFS_Logo_Horizontal_The_Hockey_Shop_Black_2_9769cd48-6b92-4e9c-972f-1a9871e25397.png",
+        "image": "shopify://shop_images/SFS_Logo_Horizontal_The_Hockey_Shop_Black_2_9769cd48-6b92-4e9c-972f-1a9871e25397.png",
         "style_image": "1",
         "image_effect": "zoom-in",
         "color_scheme": "",
@@ -1075,7 +1064,7 @@
             "link": "",
             "open_link": false,
             "title": "Free Shipping",
-            "content": "<p>You will love at great low prices<\/p>",
+            "content": "<p>You will love at great low prices</p>",
             "adding_border": false
           }
         },
@@ -1089,7 +1078,7 @@
             "link": "",
             "open_link": false,
             "title": "Flexible Payment",
-            "content": "<p>Pay with Multiple Credit Cards<\/p>",
+            "content": "<p>Pay with Multiple Credit Cards</p>",
             "adding_border": false
           }
         },
@@ -1103,7 +1092,7 @@
             "link": "",
             "open_link": false,
             "title": "14 Day Returns",
-            "content": "<p>Within 30 days for an exchange<\/p>",
+            "content": "<p>Within 30 days for an exchange</p>",
             "adding_border": false
           }
         },
@@ -1117,7 +1106,7 @@
             "link": "",
             "open_link": false,
             "title": "Premium Suport",
-            "content": "<p>Outstanding premium support<\/p>",
+            "content": "<p>Outstanding premium support</p>",
             "adding_border": false
           }
         }

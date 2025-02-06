@@ -145,7 +145,7 @@
           "type": "button",
           "settings": {
             "button_text": "Shop All Sales",
-            "button_link": "shopify://collections/all-clearance",
+            "button_link": "shopify://collections/hockey-deals-clearance",
             "button-color": "#eb001b"
           }
         }
